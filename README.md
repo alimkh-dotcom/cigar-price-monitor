@@ -28,11 +28,33 @@ snapshot. Hence: diff, twice a day.
 | signal | trigger |
 |---|---|
 | **DROP** | price fell ≥20% (≥35% flagged **BIG**) |
+| **NEW PRODUCT** | a product that was not in the last pull — reported unconditionally |
+| **NEW VARIANT** | a new variant on a product already tracked — reported unconditionally |
 | **RESTOCK** | an out-of-stock variant returned at ≤70% of its product's next tier |
-| **NEW** | a newly listed variant already at ≤70% of its product's next tier |
+| **CROSS** | a new or just-dropped listing ≥25% per stick under the same cigar elsewhere |
 | **BREAK** | a variant jumped ≥20% and is now ≥15% above its own cheapest sibling |
 
 Thresholds are constants at the top of `monitor.py`.
+
+New listings are reported whatever they cost. The earlier version only surfaced one that
+undercut its own product's next tier, which silently dropped every single-variant product
+and every new line priced normally — that is, most genuinely new arrivals. Items that *do*
+undercut their own line still carry the `% of its next tier` note, and accessories are
+filtered out.
+
+### Cross-retailer matching
+
+Only runs on listings that just changed, and refuses to guess:
+
+- both sides in stock, both with a stated cigar count, compared per stick
+- titles must share ≥80% of their distinctive words (Jaccard), with ≥3 such words —
+  stopwords, sizes and ring gauges stripped first
+- samplers, collections, gift packs, accessories and small formats (Papas Fritas,
+  Coronets, Petit/Petite, cigarillos) are excluded from matching entirely; a Coronet tin
+  read against a Belicoso box produced a run of bogus 60% "discounts" in manual analysis
+
+Findings are labelled **unverified** — the matcher cannot see vitola differences the
+titles don't state, so check the actual cigar before buying.
 
 ## Files
 

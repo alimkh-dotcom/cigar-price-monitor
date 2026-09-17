@@ -12,7 +12,38 @@ SITES = json.load(open(os.path.join(HERE, "sites.json")))
 STATE = os.path.join(HERE, "snapshots", "state.json.gz")
 
 DROP_PCT, BIG_DROP, CHEAP_RATIO, TRAP_RATIO = 0.20, 0.35, 0.70, 1.15
+XR_GAP    = 0.25    # cross-retailer per-stick gap worth reporting
+XR_MATCH  = 0.80    # Jaccard on distinctive tokens; below this we do not claim a match
+XR_MINTOK = 3       # fewer distinctive words than this and the match means nothing
+NEW_CAP   = 30      # new arrivals listed per section
 SEP = "␟"
+
+# Small formats sold inside a premium line are NOT the parent cigar. Matching a
+# Coronet tin against a Belicoso box produced a string of bogus 60%+ "discounts"
+# during manual analysis; never cross-match anything here.
+SMALL = re.compile(r'papas fritas|coronet|ponies|cigarrito|cigarillo|petit |petite|'
+                   r'puritos|senoritas|half corona|short story|\bminis?\b|breve|'
+                   r'aperitif|prelude|prontos|amores|romeos|miniature|purito|chico|shorty',
+                   re.I)
+NONCIGAR = re.compile(r'ashtray|lighter|cutter|humidor|boveda|hygrometer|magazine|'
+                      r'\bcase\b|wallet|keychain|mug|glass|solution|torch|\bpen\b|'
+                      r'\bhat\b|shirt|book|\bbag\b|match|gift card', re.I)
+BUNDLE = re.compile(r'sampler|assort|collection|gift|taster|taste of| \+ |combo|variety', re.I)
+STOP = {"the","of","by","cigar","cigars","and","le","natural","maduro","edicion",
+        "serie","series","discontinued","original","release","box","pack"}
+SYN = {"af":"arturo","opus":"opusx","ffox":"opusx","x":"","no":"","number":""}
+
+def keytokens(title):
+    """Distinctive words only: no stopwords, no sizes, no ring gauges."""
+    t = re.sub(r'\(.*?\)', ' ', title.lower())
+    t = re.sub(r'[^a-z0-9 ]', ' ', t)
+    out = set()
+    for w in t.split():
+        if w[0].isdigit(): continue
+        w = SYN.get(w, w)
+        if w and w not in STOP and len(w) > 1:
+            out.add(w)
+    return frozenset(out)
 
 # ---------------------------------------------------------------- scraping
 def fetch(domain, page, tries=6):
@@ -69,16 +100,66 @@ def scrape():
         if failed: bad.append(site)
     return cur, names, bad
 
+# ---------------------------------------------------------------- cross-retailer
+def build_xindex(cur, names):
+    """Cheapest in-stock per-stick price per (site, distinctive-token-set).
+
+    Deliberately narrow: known cigar counts only, no samplers, no accessories,
+    no small formats. Everything it cannot be sure about is left out.
+    """
+    best, tok2rows = {}, defaultdict(set)
+    for k, (price, avail, q) in cur.items():
+        if not avail or not q: continue
+        title = names[k].split(SEP)[0]
+        if NONCIGAR.search(title) or BUNDLE.search(title) or SMALL.search(title):
+            continue
+        toks = keytokens(title)
+        if len(toks) < XR_MINTOK: continue
+        site = k.split(":")[0]
+        ident = (site, toks)
+        ps = price / q
+        if ident not in best or ps < best[ident][0]:
+            best[ident] = (ps, k)
+    rows = [(site, toks, ps, k) for (site, toks), (ps, k) in best.items()]
+    for i, (site, toks, _, _) in enumerate(rows):
+        for t in toks:
+            tok2rows[t].add(i)
+    return rows, tok2rows
+
+def xr_check(k, cur, names, rows, tok2rows):
+    """Best same-cigar price at another retailer, or None. Conservative by design."""
+    price, avail, q = cur[k]
+    if not avail or not q: return None
+    site, title = k.split(":")[0], names[k].split(SEP)[0]
+    if NONCIGAR.search(title) or BUNDLE.search(title) or SMALL.search(title): return None
+    toks = keytokens(title)
+    if len(toks) < XR_MINTOK: return None
+    mine = price / q
+    cand = defaultdict(int)
+    for t in toks:
+        for i in tok2rows.get(t, ()): cand[i] += 1
+    out = None
+    for i, shared in cand.items():
+        osite, otoks, ops, ok_ = rows[i]
+        if osite == site or shared < XR_MINTOK: continue
+        if shared / len(toks | otoks) < XR_MATCH: continue
+        if out is None or ops < out[0]: out = (ops, osite, ok_)
+    if out is None: return None
+    return out if mine <= out[0] * (1 - XR_GAP) else None
+
 # ---------------------------------------------------------------- diffing
 def report(cur, names, prev, prev_ts, ts):
-    per = lambda r: (r[0] / r[2]) if r[2] else None
+    per  = lambda r: (r[0] / r[2]) if r[2] else None
     prod = lambda k: names[k].split(SEP)[0]
 
     peers = defaultdict(list)
+    groups = defaultdict(list)
     for k, r in cur.items():
+        site = k.split(":")[0]
+        groups[(site, prod(k))].append(k)
         p = per(r)
         if p is not None and r[1]:
-            peers[(k.split(":")[0], prod(k))].append(p)
+            peers[(site, prod(k))].append(p)
 
     def cheapness(k):
         p = per(cur[k])
@@ -86,15 +167,22 @@ def report(cur, names, prev, prev_ts, ts):
         o = [x for x in peers[(k.split(":")[0], prod(k))] if abs(x - p) > 1e-9]
         return (p / min(o)) if o else None
 
-    drops, restocks, news, breaks = [], [], [], []
+    # --- A: every new listing, split by whether the product itself is new
+    new_prod, new_var = [], []
+    for (site, title), keys in groups.items():
+        fresh = [k for k in keys if k not in prev]
+        if not fresh: continue
+        if NONCIGAR.search(title): continue
+        bucket = new_prod if all(k not in prev for k in keys) else new_var
+        for k in fresh:
+            price, avail, q = cur[k]
+            bucket.append((price, k, q, avail, cheapness(k)))
+
+    drops, restocks, breaks = [], [], []
     for k, r in cur.items():
         price, avail, q = r
         old = prev.get(k)
-        if old is None:
-            c = cheapness(k)
-            if avail and c is not None and c <= CHEAP_RATIO:
-                news.append((c, k, price, q))
-            continue
+        if old is None: continue
         op, oa, _ = old
         if op > 0 and price < op * (1 - DROP_PCT):
             drops.append((price / op - 1, k, op, price, q, avail))
@@ -107,16 +195,35 @@ def report(cur, names, prev, prev_ts, ts):
             if o and price / q >= min(o) * TRAP_RATIO:
                 breaks.append((price / op - 1, k, op, price, q, price / q, min(o)))
 
-    drops.sort(key=lambda x: x[0]); restocks.sort(key=lambda x: x[0])
-    news.sort(key=lambda x: x[0]);  breaks.sort(key=lambda x: -x[0])
+    # --- B: cross-retailer, only for things that just changed
+    rows, tok2rows = build_xindex(cur, names)
+    seen, xr = set(), []
+    for k in ([x[1] for x in new_prod] + [x[1] for x in new_var] +
+              [x[1] for x in drops]    + [x[1] for x in restocks]):
+        if k in seen: continue
+        seen.add(k)
+        hit = xr_check(k, cur, names, rows, tok2rows)
+        if hit:
+            ops, osite, ok_ = hit
+            mine = cur[k][0] / cur[k][2]
+            xr.append((mine / ops - 1, k, mine, osite, ops, ok_))
+
+    drops.sort(key=lambda x: x[0]);     restocks.sort(key=lambda x: x[0])
+    breaks.sort(key=lambda x: -x[0]);   xr.sort(key=lambda x: x[0])
+    new_prod.sort(key=lambda x: -x[0]); new_var.sort(key=lambda x: -x[0])
 
     def fmt(k, q, price):
         p, v = (names[k].split(SEP) + [""])[:2]
         return f"{p} [{v}]" + (f" = ${price/q:,.2f}/stick" if q else "")
 
+    def tail(c, avail):
+        s = "" if avail else " _(out of stock)_"
+        return s + (f" · **{c*100:.0f}% of its next tier**" if c is not None and c <= CHEAP_RATIO else "")
+
     L = [f"# Cigar price monitor — {ts}",
          f"previous run {prev_ts} · {len(cur):,} variants tracked"]
-    if not (drops or restocks or news or breaks):
+    total = len(drops) + len(restocks) + len(breaks) + len(new_prod) + len(new_var) + len(xr)
+    if not total:
         L.append("\n**No actionable changes.**")
         return "\n".join(L), 0
 
@@ -126,20 +233,32 @@ def report(cur, names, prev, prev_ts, ts):
             L.append(f"- **{-d*100:.0f}%**{' **BIG**' if -d >= BIG_DROP else ''} "
                      f"`{k.split(':')[0]}` {fmt(k,q,p)} — ${o:,.2f} → **${p:,.2f}**"
                      f"{'' if av else ' _(out of stock)_'}")
+    if new_prod:
+        L.append(f"\n## New products  ({len(new_prod)})")
+        for p, k, q, av, c in new_prod[:NEW_CAP]:
+            L.append(f"- `{k.split(':')[0]}` {fmt(k,q,p)} — ${p:,.2f}{tail(c, av)}")
+        if len(new_prod) > NEW_CAP: L.append(f"- _…{len(new_prod)-NEW_CAP} more_")
+    if new_var:
+        L.append(f"\n## New variants on existing products  ({len(new_var)})")
+        for p, k, q, av, c in new_var[:NEW_CAP]:
+            L.append(f"- `{k.split(':')[0]}` {fmt(k,q,p)} — ${p:,.2f}{tail(c, av)}")
+        if len(new_var) > NEW_CAP: L.append(f"- _…{len(new_var)-NEW_CAP} more_")
     if restocks:
         L.append(f"\n## Cheap restocks  ({len(restocks)})")
         for c, k, p, q in restocks[:20]:
             L.append(f"- `{k.split(':')[0]}` {fmt(k,q,p)} — back at ${p:,.2f} ({c*100:.0f}% of its next tier)")
-    if news:
-        L.append(f"\n## New listings below their own line  ({len(news)})")
-        for c, k, p, q in news[:20]:
-            L.append(f"- `{k.split(':')[0]}` {fmt(k,q,p)} — ${p:,.2f} ({c*100:.0f}% of its next tier)")
+    if xr:
+        L.append(f"\n## Cheaper than the same cigar elsewhere  ({len(xr)}) — _unverified, check the vitola_")
+        for d, k, mine, osite, ops, ok_ in xr[:20]:
+            oname = names[ok_].split(SEP)[0]
+            L.append(f"- **{-d*100:.0f}% under** `{k.split(':')[0]}` {fmt(k, cur[k][2], cur[k][0])} "
+                     f"vs ${ops:,.2f}/stick at `{osite}` ({oname})")
     if breaks:
         L.append(f"\n## Newly inflated variants  ({len(breaks)})")
         for d, k, o, p, q, ps, best in breaks[:20]:
             L.append(f"- `{k.split(':')[0]}` {fmt(k,q,p)} — ${o:,.2f} → ${p:,.2f}; "
                      f"now ${ps:,.2f}/stick vs ${best:,.2f} for its sibling")
-    return "\n".join(L), len(drops) + len(restocks) + len(news) + len(breaks)
+    return "\n".join(L), total
 
 # ---------------------------------------------------------------- main
 def main():
