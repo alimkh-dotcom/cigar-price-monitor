@@ -13,7 +13,7 @@ STATE = os.path.join(HERE, "snapshots", "state.json.gz")
 
 DROP_PCT, BIG_DROP, CHEAP_RATIO, TRAP_RATIO = 0.20, 0.35, 0.70, 1.15
 XR_GAP    = 0.25    # cross-retailer per-stick gap worth reporting
-XR_MATCH  = 0.80    # Jaccard on distinctive tokens; below this we do not claim a match
+XR_MATCH  = 0.90    # Jaccard on distinctive tokens; below this we do not claim a match
 XR_MINTOK = 3       # fewer distinctive words than this and the match means nothing
 NEW_CAP   = 30      # new arrivals listed per section
 SEP = "␟"
@@ -23,27 +23,45 @@ SEP = "␟"
 # during manual analysis; never cross-match anything here.
 SMALL = re.compile(r'papas fritas|coronet|ponies|cigarrito|cigarillo|petit |petite|'
                    r'puritos|senoritas|half corona|short story|\bminis?\b|breve|'
-                   r'aperitif|prelude|prontos|amores|romeos|miniature|purito|chico|shorty',
-                   re.I)
+                   r'aperitif|prelude|prontos|amores|romeos|miniature|purito|chico|shorty|'
+                   r'cubanito|junior|demi|\btins? of\b|x.press', re.I)
 NONCIGAR = re.compile(r'ashtray|lighter|cutter|humidor|boveda|hygrometer|magazine|'
                       r'\bcase\b|wallet|keychain|mug|glass|solution|torch|\bpen\b|'
                       r'\bhat\b|shirt|book|\bbag\b|match|gift card', re.I)
 BUNDLE = re.compile(r'sampler|assort|collection|gift|taster|taste of| \+ |combo|variety', re.I)
 STOP = {"the","of","by","cigar","cigars","and","le","natural","maduro","edicion",
-        "serie","series","discontinued","original","release","box","pack"}
+        "serie","series","discontinued","original","release","box","pack","packs",
+        "single","singles","tin","tins","boxes","bundle","count","each","boat",
+        "cabinet","chest","case","sampler","pk"}
 SYN = {"af":"arturo","opus":"opusx","ffox":"opusx","x":"","no":"","number":""}
 
-def keytokens(title):
-    """Distinctive words only: no stopwords, no sizes, no ring gauges."""
+def keytokens(title, keep_nums=True):
+    """Distinctive words only. Parenthesised sizes and ring gauges are dropped.
+
+    Numbers are KEPT in product titles: 858, No.5 and Fifty Five are what separate
+    one cigar from another, and stripping them matched Perfecxion No.5 to No.4.
+    They are dropped from variant titles, where every number is a pack count.
+    """
     t = re.sub(r'\(.*?\)', ' ', title.lower())
     t = re.sub(r'[^a-z0-9 ]', ' ', t)
     out = set()
     for w in t.split():
-        if w[0].isdigit(): continue
+        if w[0].isdigit():
+            if not keep_nums or len(w) > 4: continue   # 4-digit+ = a year or a size
+            out.add(w); continue
         w = SYN.get(w, w)
         if w and w not in STOP and len(w) > 1:
             out.add(w)
     return frozenset(out)
+
+def matchtokens(full):
+    """Tokens for cross-retailer matching: product title PLUS the variant label.
+
+    GT and tccigar put the vitola in the variant, not the product title, so matching
+    on the product alone read Winston Churchill Petit Panetela as plain Churchill.
+    """
+    p, _, v = full.partition(SEP)
+    return keytokens(p) | keytokens(v, keep_nums=False)
 
 # ---------------------------------------------------------------- scraping
 def fetch(domain, page, tries=6):
@@ -101,47 +119,62 @@ def scrape():
     return cur, names, bad
 
 # ---------------------------------------------------------------- cross-retailer
+def unitclass(q):
+    """Singles and multipacks are different markets; never compare across them.
+
+    A box is meant to cost less per stick than a single, so a box-vs-single gap is
+    the normal shape of the market, not a mispricing. 2-4 counts are too ambiguous
+    to place, so they are left out of matching entirely.
+    """
+    if q == 1: return "1"
+    if q >= 5: return "m"
+    return None
+
+def xr_eligible(k, cur, names):
+    """(tokens, unitclass, per-stick) for a listing safe to cross-match, else None."""
+    price, avail, q = cur[k]
+    if not avail or not q: return None
+    cls = unitclass(q)
+    if cls is None: return None
+    full = names[k]
+    if NONCIGAR.search(full) or BUNDLE.search(full) or SMALL.search(full): return None
+    toks = matchtokens(full)
+    if len(toks) < XR_MINTOK: return None
+    return toks, cls, price / q
+
 def build_xindex(cur, names):
-    """Cheapest in-stock per-stick price per (site, distinctive-token-set).
+    """Cheapest in-stock per-stick price per (site, tokens, unit class).
 
     Deliberately narrow: known cigar counts only, no samplers, no accessories,
     no small formats. Everything it cannot be sure about is left out.
     """
     best, tok2rows = {}, defaultdict(set)
-    for k, (price, avail, q) in cur.items():
-        if not avail or not q: continue
-        title = names[k].split(SEP)[0]
-        if NONCIGAR.search(title) or BUNDLE.search(title) or SMALL.search(title):
-            continue
-        toks = keytokens(title)
-        if len(toks) < XR_MINTOK: continue
-        site = k.split(":")[0]
-        ident = (site, toks)
-        ps = price / q
+    for k in cur:
+        e = xr_eligible(k, cur, names)
+        if not e: continue
+        toks, cls, ps = e
+        ident = (k.split(":")[0], toks, cls)
         if ident not in best or ps < best[ident][0]:
             best[ident] = (ps, k)
-    rows = [(site, toks, ps, k) for (site, toks), (ps, k) in best.items()]
-    for i, (site, toks, _, _) in enumerate(rows):
+    rows = [(site, toks, cls, ps, k) for (site, toks, cls), (ps, k) in best.items()]
+    for i, (_, toks, _, _, _) in enumerate(rows):
         for t in toks:
             tok2rows[t].add(i)
     return rows, tok2rows
 
 def xr_check(k, cur, names, rows, tok2rows):
     """Best same-cigar price at another retailer, or None. Conservative by design."""
-    price, avail, q = cur[k]
-    if not avail or not q: return None
-    site, title = k.split(":")[0], names[k].split(SEP)[0]
-    if NONCIGAR.search(title) or BUNDLE.search(title) or SMALL.search(title): return None
-    toks = keytokens(title)
-    if len(toks) < XR_MINTOK: return None
-    mine = price / q
+    e = xr_eligible(k, cur, names)
+    if not e: return None
+    toks, cls, mine = e
+    site = k.split(":")[0]
     cand = defaultdict(int)
     for t in toks:
         for i in tok2rows.get(t, ()): cand[i] += 1
     out = None
     for i, shared in cand.items():
-        osite, otoks, ops, ok_ = rows[i]
-        if osite == site or shared < XR_MINTOK: continue
+        osite, otoks, ocls, ops, ok_ = rows[i]
+        if osite == site or ocls != cls or shared < XR_MINTOK: continue
         if shared / len(toks | otoks) < XR_MATCH: continue
         if out is None or ops < out[0]: out = (ops, osite, ok_)
     if out is None: return None
