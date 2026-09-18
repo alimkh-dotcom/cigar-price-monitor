@@ -57,3 +57,11 @@ previous run 2026-09-17T12:01:59+00:00 · 25,810 variants tracked
 
 ## Cheap restocks  (1)
 - `cigarsdirect` Boveda Humidity Packs 72 Percent [6 Pack of 320 Gram] = $0.08/stick — back at $150.00 (1% of its next tier)
+
+
+---
+
+# Cigar price monitor — 2026-09-18T12:35:37+00:00
+previous run 2026-09-18T00:02:02+00:00 · 25,810 variants tracked
+
+**No actionable changes.**
