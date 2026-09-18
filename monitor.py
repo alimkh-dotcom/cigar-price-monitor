@@ -12,6 +12,7 @@ SITES = json.load(open(os.path.join(HERE, "sites.json")))
 STATE = os.path.join(HERE, "snapshots", "state.json.gz")
 
 DROP_PCT, BIG_DROP, CHEAP_RATIO, TRAP_RATIO = 0.20, 0.35, 0.70, 1.15
+MAXQTY    = 200     # larger than any real box; beyond this the label is not a count
 XR_GAP    = 0.25    # cross-retailer per-stick gap worth reporting
 XR_MATCH  = 0.90    # Jaccard on distinctive tokens; below this we do not claim a match
 XR_MINTOK = 3       # fewer distinctive words than this and the match means nothing
@@ -85,8 +86,13 @@ def qty(title):
         return 1
     if t == "default title":
         return None                                  # unknown - never guess
+    # "6 Pack of 320 Gram" is a Boveda humidity pack, not 1,920 cigars
+    if re.search(r'\d+\s*(?:grams?|\bg\b|oz|ounces?|ml|percent|%)', t):
+        return None
     m = re.search(r'(\d+)\s*(?:tins?|packs?)\s*of\s*(\d+)', t)
-    if m: return int(m.group(1)) * int(m.group(2))
+    if m:
+        n = int(m.group(1)) * int(m.group(2))
+        return n if n <= MAXQTY else None
     m = re.search(r'(?:box|bundle|tin|pack|boat|chest|cabinet|packs|case)\s*(?:of\s*)?(\d+)', t)
     if m: return int(m.group(1))
     m = re.search(r'^(\d+)\s*(?:cigars?|tubos?|pack)', t)
@@ -216,6 +222,7 @@ def report(cur, names, prev, prev_ts, ts):
         price, avail, q = r
         old = prev.get(k)
         if old is None: continue
+        if NONCIGAR.search(names[k]): continue   # ashtrays, lighters, Boveda, gift cards
         op, oa, _ = old
         if op > 0 and price < op * (1 - DROP_PCT):
             drops.append((price / op - 1, k, op, price, q, avail))
