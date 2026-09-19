@@ -65,3 +65,49 @@ previous run 2026-09-17T12:01:59+00:00 · 25,810 variants tracked
 previous run 2026-09-18T00:02:02+00:00 · 25,810 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-09-19T00:01:22+00:00
+previous run 2026-09-18T12:35:37+00:00 · 25,876 variants tracked
+
+## New products  (56)
+- `jackschwartz` Rocky Patel White Label Toro [Box of 20] = $20.00/stick — $400.00 _(out of stock)_
+- `iheart` Eiroa The First 20 Years Colorado Toro Prensado [Box of 10] = $15.80/stick — $158.00
+- `iheart` Eiroa Classic Toro Gordo [Box of 10] = $15.50/stick — $155.00
+- `iheart` Eiroa CBT Maduro Toro Gordo [Box of 10] = $15.50/stick — $155.00
+- `iheart` The Oscar Maduro Robusto [Box of 11] = $13.91/stick — $153.01
+- `iheart` Eiroa The First 20 Years Toro Prensado [Box of 10] = $14.80/stick — $148.00
+- `iheart` Eiroa The First 20 Years Corona Prensado [Box of 10] = $14.80/stick — $148.00
+- `iheart` Eiroa The First 20 Years Colorado Robusto Prensado [Box of 10] = $14.80/stick — $148.00
+- `iheart` Eiroa The First 20 Years Colorado Corona Prensado [Box of 10] = $14.80/stick — $148.00
+- `iheart` Eiroa Classic Toro [Box of 10] = $14.50/stick — $145.00
+- `iheart` Eiroa CBT Maduro Toro [Box of 10] = $14.50/stick — $145.00
+- `iheart` Eiroa CBT Maduro Lancero [Box of 10] = $14.50/stick — $145.00
+- `iheart` Eiroa The First 20 Years Robusto Prensado [Box of 10] = $13.80/stick — $138.00
+- `iheart` Eiroa Classic Lancero [Box of 10] = $13.50/stick — $135.00
+- `iheart` Eiroa CBT Maduro Robusto [Box of 10] = $13.50/stick — $135.00
+- `iheart` Eiroa Classic Corona Presando BP [Box of 10] = $13.40/stick — $134.00
+- `iheart` Eiroa CBT Maduro Corona Presando BP [Box of 10] = $12.50/stick — $125.00
+- `jackschwartz` Rocky Patel Vintage 1999 Connecticut Toro [Box of 10] = $11.70/stick — $117.00 _(out of stock)_
+- `iheart` Eiroa The First 20 Years Colorado Toro Prensado [5 Pack] = $17.76/stick — $88.80
+- `iheart` Eiroa Classic Toro Gordo [5 Pack] = $17.56/stick — $87.80
+- `iheart` Eiroa CBT Maduro Toro Gordo [5 Pack] = $17.56/stick — $87.80
+- `iheart` Eiroa The First 20 Years Corona Prensado [5 Pack] = $16.56/stick — $82.80
+- `iheart` Eiroa The First 20 Years Colorado Robusto Prensado [5 Pack] = $16.56/stick — $82.80
+- `iheart` Eiroa The First 20 Years Colorado Corona Prensado [5 Pack] = $16.56/stick — $82.80
+- `iheart` Eiroa Classic Toro [5 Pack] = $16.56/stick — $82.80
+- `iheart` Eiroa CBT Maduro Toro [5 Pack] = $16.56/stick — $82.80
+- `iheart` Eiroa Classic Corona Presando BP [5 Pack] = $16.36/stick — $81.80
+- `iheart` Eiroa CBT Maduro Lancero [5 Pack] = $16.36/stick — $81.80
+- `iheart` Eiroa The First 20 Years Toro Prensado [5 Pack] = $15.65/stick — $78.25
+- `iheart` Eiroa Classic Lancero [5 Pack] = $15.46/stick — $77.30
+- _…26 more_
+
+## New variants on existing products  (5)
+- `gtcigars` Drew Estate Liga Privada H99 [Toro Petaca 6 X 4 Count] — $429.99 _(out of stock)_
+- `gtcigars` Drew Estate Liga Privada No. 9 [Toro Petaca 6 X 4 Count] — $429.99 _(out of stock)_
+- `gtcigars` Drew Estate Liga Privada No. 9 [Robusto Petaca 6 X 4 Count] — $406.99 _(out of stock)_
+- `mrbundles` God of Fire Serie B Double Robusto [Box of 8 (Tubo)] = $29.95/stick — $239.60 _(out of stock)_
+- `gtcigars` Drew Estate Liga Privada H99 [Phineas Gage Lancero (7" X 40)] — $170.99 _(out of stock)_
