@@ -111,3 +111,11 @@ previous run 2026-09-18T12:35:37+00:00 · 25,876 variants tracked
 - `gtcigars` Drew Estate Liga Privada No. 9 [Robusto Petaca 6 X 4 Count] — $406.99 _(out of stock)_
 - `mrbundles` God of Fire Serie B Double Robusto [Box of 8 (Tubo)] = $29.95/stick — $239.60 _(out of stock)_
 - `gtcigars` Drew Estate Liga Privada H99 [Phineas Gage Lancero (7" X 40)] — $170.99 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-09-19T12:01:42+00:00
+previous run 2026-09-19T00:01:22+00:00 · 25,876 variants tracked
+
+**No actionable changes.**
