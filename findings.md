@@ -217,3 +217,12 @@ previous run 2026-09-21T12:02:27+00:00 · 25,879 variants tracked
 - **33% under** `iheart` AJ Fernandez New World Dorado Gordito [Box of 10] = $7.92/stick vs $11.88/stick at `cigarsdirect` (AJ Fernandez New World Dorado Gordito)
 - **28% under** `iheart` Caldwell Long Live The King Maduro Super Toro [Box of 10] = $10.24/stick vs $14.18/stick at `cigarsdirect` (Caldwell Long Live The King Maduro Super Toro)
 - **27% under** `iheart` Oliva Serie V Churchill Extra [Box of 24] = $9.67/stick vs $13.18/stick at `cigarsdirect` (Oliva Serie V Churchill Extra)
+
+
+---
+
+# Cigar price monitor — 2026-09-22T12:22:49+00:00
+previous run 2026-09-22T00:01:45+00:00 · 25,880 variants tracked
+
+## New products  (1)
+- `jackschwartz` VIaje zombie Alt Art Collection [Default Title] — $64.00
