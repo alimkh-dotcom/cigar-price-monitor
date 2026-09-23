@@ -226,3 +226,22 @@ previous run 2026-09-22T00:01:45+00:00 · 25,880 variants tracked
 
 ## New products  (1)
 - `jackschwartz` VIaje zombie Alt Art Collection [Default Title] — $64.00
+
+
+---
+
+# Cigar price monitor — 2026-09-23T00:14:46+00:00
+previous run 2026-09-22T12:22:49+00:00 · 25,887 variants tracked
+
+## New products  (7)
+- `cigarsdirect` Arturo Fuente Summer of Love Sampler [Default Title] — $1,000.00 _(out of stock)_
+- `jackschwartz` Diamond Crown Maximus Toro No. 4 (New Blend) [Box of 20] = $16.88/stick — $337.50 _(out of stock)_
+- `jackschwartz` Diamond Crown Maximus Double Robusto No. 6 (New Blend) [Box of 20] = $15.53/stick — $310.50 _(out of stock)_
+- `jackschwartz` Diamond Crown Maximus Robusto No. 5 (New Blend) [Box of 20] = $14.25/stick — $285.00 _(out of stock)_
+- `jackschwartz` Diamond Crown Maximus Toro No. 4 (New Blend) [Single] = $19.00/stick — $19.00 _(out of stock)_
+- `jackschwartz` Diamond Crown Maximus Double Robusto No. 6 (New Blend) [Single] = $17.50/stick — $17.50 _(out of stock)_
+- `jackschwartz` Diamond Crown Maximus Robusto No. 5 (New Blend) [Single] = $16.00/stick — $16.00 _(out of stock)_
+
+## Newly inflated variants  (2)
+- `iheart` Winston Churchill Robusto [Box of 4] = $114.50/stick — $96.40 → $458.00; now $114.50/stick vs $24.10 for its sibling
+- `iheart` Winston Churchill Spitfire - Discontinued [5 Pack] = $36.00/stick — $120.60 → $180.00; now $36.00/stick vs $25.00 for its sibling
