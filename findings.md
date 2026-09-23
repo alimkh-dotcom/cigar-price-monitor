@@ -245,3 +245,11 @@ previous run 2026-09-22T12:22:49+00:00 · 25,887 variants tracked
 ## Newly inflated variants  (2)
 - `iheart` Winston Churchill Robusto [Box of 4] = $114.50/stick — $96.40 → $458.00; now $114.50/stick vs $24.10 for its sibling
 - `iheart` Winston Churchill Spitfire - Discontinued [5 Pack] = $36.00/stick — $120.60 → $180.00; now $36.00/stick vs $25.00 for its sibling
+
+
+---
+
+# Cigar price monitor — 2026-09-23T12:15:28+00:00
+previous run 2026-09-23T00:14:46+00:00 · 25,887 variants tracked
+
+**No actionable changes.**
