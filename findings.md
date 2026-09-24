@@ -275,3 +275,11 @@ previous run 2026-09-23T12:15:28+00:00 · 25,901 variants tracked
 - `gtcigars` Dunbarton Stillwell Star [Aromatic Dulce Claro Petit Robusto (5" X 48)] — $174.99
 - `gtcigars` Dunbarton Stillwell Star [Aromatic Dulce Dark Petit Robusto (5" X 48)] — $174.99
 - `gtcigars` Dunbarton Stillwell Star [English Dulce Petit Robusto (5" X 48)] — $174.99
+
+
+---
+
+# Cigar price monitor — 2026-09-24T12:15:40+00:00
+previous run 2026-09-24T00:14:43+00:00 · 25,901 variants tracked
+
+**No actionable changes.**
