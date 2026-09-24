@@ -253,3 +253,25 @@ previous run 2026-09-22T12:22:49+00:00 · 25,887 variants tracked
 previous run 2026-09-23T00:14:46+00:00 · 25,887 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-09-24T00:14:43+00:00
+previous run 2026-09-23T12:15:28+00:00 · 25,901 variants tracked
+
+## New products  (14)
+- `gtcigars` Foundation David & Goliath [Goliath Perfecto (5.0"x58)] — $355.99
+- `gtcigars` Foundation David & Goliath [David Perfecto (5.0"x54)] — $309.99
+- `gtcigars` Dunbarton Stillwell Star [Aromatic Dulce Claro Toro (6" X 50)] — $204.99
+- `gtcigars` Dunbarton Stillwell Star [Aromatic Dulce Dark Toro (6" X 50)] — $204.99
+- `gtcigars` Dunbarton Stillwell Star [English Dulce Toro (6" X 50)] — $204.99
+- `gtcigars` Dunbarton Stillwell Star [Aromatic No. 1 (6.00 x 52)] — $175.99 _(out of stock)_
+- `gtcigars` Dunbarton Stillwell Star [Aromatic No. 22 (6.00 x 52)] — $175.99 _(out of stock)_
+- `gtcigars` Dunbarton Stillwell Star [English No. 27 (6.00 x 52)] — $175.99 _(out of stock)_
+- `gtcigars` Dunbarton Stillwell Star [Bayou No. 32 (6.00 x 52)] — $175.99 _(out of stock)_
+- `gtcigars` Dunbarton Stillwell Star [Navy No. 1056 (6.00 x 52)] — $175.99 _(out of stock)_
+- `gtcigars` Dunbarton Stillwell Star [Holiday Y2025 (5.00 x 48)] — $175.99 _(out of stock)_
+- `gtcigars` Dunbarton Stillwell Star [Aromatic Dulce Claro Petit Robusto (5" X 48)] — $174.99
+- `gtcigars` Dunbarton Stillwell Star [Aromatic Dulce Dark Petit Robusto (5" X 48)] — $174.99
+- `gtcigars` Dunbarton Stillwell Star [English Dulce Petit Robusto (5" X 48)] — $174.99
