@@ -92,3 +92,43 @@ Only `state.json.gz` persists between runs; product names come from the live pul
 
 Everything here is derived from public `/products.json` endpoints. No credentials, no
 account data.
+
+## Promo analysis — `promos.py`
+
+    ./promos.py burn        # Friday: Weekly Burn, 10% at 5 sticks / 20% at 10 sticks
+    ./promos.py madness     # Monday: on-site markdowns that revert within ~24h
+
+Both produce a **best 5** and a **best 10** with a stated reason per pick, drawn from
+three comparisons: the other seven retailers (per stick, in stock), iheart's own other
+formats for the same cigar, and every previous run of that promo in `archive/`.
+
+### What the two promos actually are
+
+Measured over 20 twice-daily snapshots, they behave completely differently:
+
+| | Weekly Burn | Monday Madness |
+|---|---|---|
+| mechanism | checkout tier, list price unchanged | real on-site markdown |
+| duration | the week's collection | **~24h, then reverts** |
+| price stability | 0 of 99 singles moved in 9 days | 76 of 172 variants moved |
+
+Across three burns, 21 of 22 repeat cigars carried an identical list price. iheart does
+not mark up before a burn — the discount is the entire edge. Monday Madness is the
+opposite: the price genuinely drops and genuinely goes back up the next day.
+
+### Matching rule
+
+A rival only counts when one title's distinctive words are a **superset** of the other's,
+with at least 3 shared. An overlap score, however tuned, kept pairing Rojo with Morado,
+Corona Edwardian with Edwardian Robusto and Skinny Monsters Frank with Drac. Requiring a
+superset means neither side may contradict the other.
+
+Singles only match singles and multipacks only multipacks; samplers, accessories and small
+formats are excluded. Out-of-stock listings never drive a pick — they appear only as
+context ("sole in-stock source; nearest listing $50.40 at tccigar, out of stock"), because
+a price you cannot act on is not a price.
+
+`archive/<promo>/<date>.json` accumulates every run, which is what powers the
+"same list price in N previous runs" and "list was $X on <date>" reasoning. The
+2026-09-11 burn was reconstructed from truncated names, so a few of its entries will not
+match later runs exactly.
