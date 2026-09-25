@@ -295,3 +295,11 @@ previous run 2026-09-24T12:15:40+00:00 · 25,905 variants tracked
 - `iheart` Liga Privada T52 Belicoso [Box of 24] = $19.25/stick — $462.00 _(out of stock)_
 - `iheart` Liga Privada T52 Belicoso [5 Pack] = $19.25/stick — $96.25
 - `iheart` Liga Privada T52 Belicoso [Single] = $19.25/stick — $19.25
+
+
+---
+
+# Cigar price monitor — 2026-09-25T12:15:58+00:00
+previous run 2026-09-25T00:15:04+00:00 · 25,905 variants tracked
+
+**No actionable changes.**
