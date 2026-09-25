@@ -95,8 +95,13 @@ account data.
 
 ## Promo analysis — `promos.py`
 
-    ./promos.py burn        # Friday: Weekly Burn, 10% at 5 sticks / 20% at 10 sticks
-    ./promos.py madness     # Monday: on-site markdowns that revert within ~24h
+    ./promos.py burn        # Weekly Burn, 10% at 5 sticks / 20% at 10 sticks
+    ./promos.py madness     # Monday Madness, on-site markdowns that revert
+
+Neither is scheduled against a guessed drop time — both detect their own promo.
+`madness` finds an empty collection except during the sale. `burn` compares the
+roster against the last archived one and stays quiet until it changes by more
+than 20%. Run them as often as you like; they report once per new promo.
 
 Both produce a **best 5** and a **best 10** with a stated reason per pick, drawn from
 three comparisons: the other seven retailers (per stick, in stock), iheart's own other
@@ -111,6 +116,17 @@ Measured over 20 twice-daily snapshots, they behave completely differently:
 | mechanism | checkout tier, list price unchanged | real on-site markdown |
 | duration | the week's collection | **~24h, then reverts** |
 | price stability | 0 of 99 singles moved in 9 days | 76 of 172 variants moved |
+| when it is live | roster changes weekly, no price signal | one observed window, below |
+
+Across 19 consecutive twice-daily snapshots (2026-09-17 to 09-25) exactly one
+carried a markdown: **2026-09-22T00:01 UTC, 62 price cuts**, still in place at
+12:22 UTC the same day, all 67 restored by 09-23T00:14 UTC. In US Eastern that
+is live Monday evening through Tuesday, gone by Tuesday evening — so two
+consecutive runs see it. No Friday snapshot showed any price change at all,
+which is exactly what a checkout-tier promo looks like from the outside.
+
+That is a single observed Monday. The window above is measured, not assumed,
+but one week is one week.
 
 Across three burns, 21 of 22 repeat cigars carried an identical list price. iheart does
 not mark up before a burn — the discount is the entire edge. Monday Madness is the

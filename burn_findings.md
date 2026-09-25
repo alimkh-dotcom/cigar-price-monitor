@@ -151,3 +151,40 @@ compared against 7 retailers, iheart's own formats, and 2 previous Weekly Burns
 - Davidoff Winston Churchill LE 2025 - The Artis — $42.40 vs $29.20 at jackschwartz
 - AJ Fernandez Dias de Gloria Brazil Gordo — $12.80 vs $11.60 at tccigar
 - Lampert 1675 Edicion Azul Robusto — $10.40 vs $10.15 at jackschwartz
+
+
+---
+
+# Weekly Burn — 2026-09-25
+99 in-stock singles · tiers: 5 sticks = 10% off, 10 sticks = 20% off
+compared against 7 retailers, iheart's own formats, and 2 previous Weekly Burn runs
+
+## Best 10 — the 20% tier · $341.21 (list $426.51)
+
+| # | cigar | list | @20% | why |
+|---|---|---|---|---|
+| 1 | Arturo Fuente Hemingway Untold Story Maduro | $23.96 | **$19.17** | -45% vs $35.00 at cigarsdirect (in stock); list was $23.24 on 2026-09-11 (+3%) |
+| 2 | Plasencia Year Of The Rabbit (LE 2023) | $57.00 | **$45.60** | sole in-stock source; nearest listing $65.00 at cigarsdirect (out of stock); first appearance |
+| 3 | Davidoff Year of the Snake (LE 2025) | $70.00 | **$56.00** | sole in-stock source; nearest listing $75.86 at cigarsdirect (out of stock); same list price in 1 previous run |
+| 4 | OpusX 20th Anniversary Father and Son | $67.00 | **$53.60** | sole in-stock source; nearest listing $50.40 at tccigar (out of stock); first appearance |
+| 5 | Don Carlos Presidente | $16.05 | **$12.84** | -22% vs $16.55 at jackschwartz (in stock); same list price in 1 previous run |
+| 6 | OpusX Perfecxion 888 | $50.00 | **$40.00** | no listing at all at the other seven; first appearance |
+| 7 | Liga Privada T52 Flying Pig | $20.00 | **$16.00** | -17% vs $19.30 at cigarsdirect (in stock); first appearance |
+| 8 | OpusX OXO Oro Oscuro Fuente Fuente | $43.25 | **$34.60** | no listing at all at the other seven; first appearance |
+| 9 | Meerapfel Ernest Corona Gorda | $43.00 | **$34.40** | no listing at all at the other seven; first appearance |
+| 10 | Liga Privada Unico Serie Year of the Rabbit LE | $36.25 | **$29.00** | no listing at all at the other seven; first appearance |
+
+## Best 5 — the 10% tier · $210.61 (list $234.01)
+
+| # | cigar | list | @10% | why |
+|---|---|---|---|---|
+| 1 | Arturo Fuente Hemingway Untold Story Maduro | $23.96 | **$21.56** | -45% vs $35.00 at cigarsdirect (in stock); list was $23.24 on 2026-09-11 (+3%) |
+| 2 | Plasencia Year Of The Rabbit (LE 2023) | $57.00 | **$51.30** | sole in-stock source; nearest listing $65.00 at cigarsdirect (out of stock); first appearance |
+| 3 | Davidoff Year of the Snake (LE 2025) | $70.00 | **$63.00** | sole in-stock source; nearest listing $75.86 at cigarsdirect (out of stock); same list price in 1 previous run |
+| 4 | OpusX 20th Anniversary Father and Son | $67.00 | **$60.30** | sole in-stock source; nearest listing $50.40 at tccigar (out of stock); first appearance |
+| 5 | Don Carlos Presidente | $16.05 | **$14.45** | -22% vs $16.55 at jackschwartz (in stock); same list price in 1 previous run |
+
+## Priced at or above the market even after 20% (3) — skip
+- Davidoff Winston Churchill LE 2025 - The Artis — $42.40 vs $29.20 at jackschwartz
+- AJ Fernandez Dias de Gloria Brazil Gordo — $12.80 vs $11.60 at tccigar
+- Lampert 1675 Edicion Azul Robusto — $10.40 vs $10.15 at jackschwartz

@@ -330,7 +330,20 @@ def main():
     hist = archive_load(promo, exclude=date)
 
     if promo == "burn":
-        text, snap = render_burn(date, singles_and_alts(prods), rows, idx, hist, cfg["label"])
+        items = singles_and_alts(prods)
+        # The burn is a checkout tier, so the list price never moves and there is no
+        # price signal for "a new collection dropped". The only signal is the roster
+        # itself. Rather than guess the drop time, report when the roster changes.
+        prior = archive_load(promo)                      # includes today, if re-run
+        if prior:
+            pd, pitems = prior[-1]
+            a, b = {norm(k) for k in items}, {norm(k) for k in pitems}
+            same = len(a & b) / max(1, len(a | b))
+            if same >= 0.80:
+                print(f"# {cfg['label']} — {date}\n\nSame collection as {pd} "
+                      f"({same:.0%} identical). No new burn to report.")
+                return 0
+        text, snap = render_burn(date, items, rows, idx, hist, cfg["label"])
     else:
         prev = {}
         if os.path.exists(M.STATE):
