@@ -283,3 +283,15 @@ previous run 2026-09-23T12:15:28+00:00 · 25,901 variants tracked
 previous run 2026-09-24T00:14:43+00:00 · 25,901 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-09-25T00:15:04+00:00
+previous run 2026-09-24T12:15:40+00:00 · 25,905 variants tracked
+
+## New products  (4)
+- `cigarsdirect` Arturo Fuente Father and Son 2026 Xtremely Rare Collection [Default Title] — $800.00 _(out of stock)_
+- `iheart` Liga Privada T52 Belicoso [Box of 24] = $19.25/stick — $462.00 _(out of stock)_
+- `iheart` Liga Privada T52 Belicoso [5 Pack] = $19.25/stick — $96.25
+- `iheart` Liga Privada T52 Belicoso [Single] = $19.25/stick — $19.25
