@@ -78,14 +78,24 @@ def lux_products():
         out += ps
     return out
 
+def fresh_cache(max_age_h=6):
+    """monitor.py's pull from minutes ago, if it is recent enough to trust."""
+    try:
+        age = (datetime.datetime.now().timestamp() - os.path.getmtime(M.RIVALS)) / 3600
+        return M.RIVALS if age <= max_age_h else None
+    except OSError:
+        return None
+
 def rivals(cached=None):
     """[(tokens, per_stick, site, label, unitclass, in_stock)] for countable rivals.
 
     Out-of-stock listings are kept, but only ever used as context: a cigar nobody
     has in stock still tells you whether iheart's price is sane. Out-of-stock
     prices never drive a recommendation - they cannot be acted on."""
+    cached = cached or fresh_cache()
     if cached:
         live = json.load(gzip.open(cached, "rt")); cur, names = live["cur"], live["names"]
+        print(f"  rivals: reusing {os.path.basename(cached)}", file=sys.stderr)
     else:
         cur, names, bad = M.scrape()
         if bad: raise SystemExit(f"ABORT: incomplete catalogs {bad}")

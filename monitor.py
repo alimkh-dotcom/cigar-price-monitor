@@ -10,6 +10,7 @@ from collections import defaultdict
 HERE  = os.path.dirname(os.path.abspath(__file__))
 SITES = json.load(open(os.path.join(HERE, "sites.json")))
 STATE = os.path.join(HERE, "snapshots", "state.json.gz")
+RIVALS = os.path.join(HERE, "snapshots", "rivals.json.gz")   # cache, gitignored
 
 DROP_PCT, BIG_DROP, CHEAP_RATIO, TRAP_RATIO = 0.20, 0.35, 0.70, 1.15
 MAXQTY    = 200     # larger than any real box; beyond this the label is not a count
@@ -325,6 +326,10 @@ def main():
     os.makedirs(os.path.dirname(STATE), exist_ok=True)
     with gzip.open(STATE, "wt") as f:
         json.dump({"ts": ts, "v": cur}, f, separators=(",", ":"))
+    # full pull WITH names, for promos.py to reuse instead of re-scraping six
+    # catalogs minutes later. Not committed - it is a cache, not a baseline.
+    with gzip.open(RIVALS, "wt") as f:
+        json.dump({"ts": ts, "cur": cur, "names": names}, f, separators=(",", ":"))
     with open(os.path.join(HERE, "findings.md"), "a") as f:
         f.write("\n\n---\n\n" + text + "\n")
     return 0
