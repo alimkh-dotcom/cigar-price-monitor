@@ -303,3 +303,21 @@ previous run 2026-09-24T12:15:40+00:00 · 25,905 variants tracked
 previous run 2026-09-25T00:15:04+00:00 · 25,905 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-09-26T00:15:42+00:00
+previous run 2026-09-25T12:15:58+00:00 · 25,906 variants tracked
+
+## Price drops ≥20%  (4)
+- **22%** `jackschwartz` Viaje Demolition Co. C4 [Single] = $10.00/stick — $12.75 → **$10.00**
+- **22%** `jackschwartz` Viaje Demolition Co. TNT [Single] = $10.00/stick — $12.75 → **$10.00**
+- **21%** `jackschwartz` United Gold Star Gordo [Single] = $11.50/stick — $14.50 → **$11.50**
+- **20%** `jackschwartz` The Yellow Rose [Single] = $10.75/stick — $13.45 → **$10.75**
+
+## New products  (1)
+- `mrbundles` LA FLOR DOMINICANA CHISEL SELECTION SAMPLER [Default Title] — $56.70
+
+## New variants on existing products  (1)
+- `iheart` Padron Black PB-97 Natural [Single] = $41.80/stick — $41.80 _(out of stock)_
