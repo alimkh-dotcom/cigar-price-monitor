@@ -321,3 +321,11 @@ previous run 2026-09-25T12:15:58+00:00 · 25,906 variants tracked
 
 ## New variants on existing products  (1)
 - `iheart` Padron Black PB-97 Natural [Single] = $41.80/stick — $41.80 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-09-26T12:15:10+00:00
+previous run 2026-09-26T00:15:42+00:00 · 25,906 variants tracked
+
+**No actionable changes.**
