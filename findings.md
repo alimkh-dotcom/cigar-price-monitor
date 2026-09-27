@@ -329,3 +329,13 @@ previous run 2026-09-25T12:15:58+00:00 · 25,906 variants tracked
 previous run 2026-09-26T00:15:42+00:00 · 25,906 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-09-27T00:14:53+00:00
+previous run 2026-09-26T12:15:10+00:00 · 25,908 variants tracked
+
+## New products  (2)
+- `mrbundles` Byron Epique Poemas [Box of 25] = $47.50/stick — $1,187.50 _(out of stock)_
+- `mrbundles` Byron Epique Poemas [3 Pack] = $48.50/stick — $145.50
