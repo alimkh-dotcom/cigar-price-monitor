@@ -225,8 +225,16 @@ def assess(name, price, own_alt, rows, idx, hist, tier):
             reasons[-1] = reasons[-1]    # sole source on a collectible is the point
     return score, reasons, rival
 
-def pick(cands, n):
-    return sorted(cands, key=lambda c: -c["score"])[:n]
+def pick(cands, n, dedupe=None):
+    """Top n by score. With dedupe, at most one entry per cigar - the Sixto I box
+    and the same box in tubos are not two picks, they are one cigar twice."""
+    out, seen = [], set()
+    for c in sorted(cands, key=lambda c: -c["score"]):
+        k = norm(c[dedupe]) if dedupe else id(c)
+        if k in seen: continue
+        seen.add(k); out.append(c)
+        if len(out) == n: break
+    return out
 
 def money(x): return f"${x:,.2f}"
 
@@ -241,7 +249,7 @@ def render_burn(date, items, rows, idx, hist, label):
          f"{len(items)} in-stock singles · tiers: 5 sticks = 10% off, 10 sticks = 20% off",
          f"compared against 7 retailers, iheart's own formats, and {len(hist)} previous {label} runs"]
     for n, tier, key in ((10, "20%", "t20"), (5, "10%", "t10")):
-        chosen = pick(cands, n)
+        chosen = pick(cands, n, dedupe="name")
         total = sum(c[key] for c in chosen)
         gross = sum(c["list"] for c in chosen)
         L.append(f"\n## Best {n} — the {tier} tier · {money(total)} (list {money(gross)})\n")
@@ -302,7 +310,7 @@ def render_madness(date, prods, rows, idx, hist, label, prev_state):
         L.append("\n**No markdowns detected this week.**")
         return "\n".join(L), {}
     for n in (10, 5):
-        chosen = pick(cands, n)
+        chosen = pick(cands, n, dedupe="name")
         total = sum(c["now"] for c in chosen)
         # these are boxes and 5-packs, not a 5/10-stick tier - the total is only
         # what all of them together would cost, not a basket you have to buy
@@ -350,9 +358,13 @@ def main():
             prev = json.load(gzip.open(M.STATE, "rt"))["v"]
         text, snap = render_madness(date, prods, rows, idx, hist, cfg["label"], prev)
     print(text)
-    archive_save(promo, date, snap)
-    with open(os.path.join(HERE, f"{promo}_findings.md"), "a") as f:
-        f.write("\n\n---\n\n" + text + "\n")
+    # A quiet run is not a run. Archiving an empty roster inflated the "N previous
+    # runs" count that the reasoning leans on, and appending "no markdowns" to the
+    # log buried the real reports.
+    if snap:
+        archive_save(promo, date, snap)
+        with open(os.path.join(HERE, f"{promo}_findings.md"), "a") as f:
+            f.write("\n\n---\n\n" + text + "\n")
     return 0
 
 if __name__ == "__main__":
