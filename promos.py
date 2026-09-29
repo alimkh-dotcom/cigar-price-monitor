@@ -266,26 +266,52 @@ def render_burn(date, items, rows, idx, hist, label):
                      f"at {c['rival'][2]}")
     return "\n".join(L), {c["name"]: c["list"] for c in cands}
 
-def render_madness(date, prods, rows, idx, hist, label, prev_state):
-    moved = []
+MAX_CUT = 0.60      # deeper than this and compare_at_price is a data-entry slip,
+                    # not a sale: the Late Hour "Box of 4" carries the Box of 20's
+                    # compare_at, which reads as -79% off
+
+def markdowns(prods, prev_state):
+    """Discounted variants, preferring Shopify's own compare_at_price.
+
+    Diffing against snapshots/state.json.gz alone was wrong: monitor.py runs first
+    and rewrites that baseline WITH the sale prices in it, so by the time this ran
+    there was nothing left to see. It reported "no markdowns" through a live sale.
+    compare_at_price is the shop's own before-price and needs no baseline, so it
+    holds whatever order things run in.
+    """
+    out = []
     for p in prods:
         for v in p["variants"]:
-            k = f"iheart:{v['id']}"
-            if k not in prev_state: continue
+            if not v["available"]: continue
             try: now = float(v["price"])
-            except Exception: continue
-            was = prev_state[k][0]
-            if was <= 0 or now >= was * 0.98 or not v["available"]: continue
+            except (TypeError, ValueError): continue
+            was, src = None, None
+            cap = v.get("compare_at_price")
+            if cap:
+                try: cap = float(cap)
+                except (TypeError, ValueError): cap = None
+            if cap and cap > now and (now / cap - 1) >= -MAX_CUT:
+                was, src = cap, "compare_at"
+            else:
+                prior = prev_state.get(f"iheart:{v['id']}")
+                if prior and prior[0] > now * 1.02:
+                    was, src = prior[0], "vs last run"
+            if not was: continue
             q = M.qty(v["title"])
-            moved.append(dict(name=p["title"], variant=v["title"], was=was, now=now,
-                              q=q, ps=(now / q) if q else None, cut=now / was - 1))
+            out.append(dict(name=p["title"], variant=v["title"], was=was, now=now, src=src,
+                            q=q, ps=(now / q) if q else None, cut=now / was - 1))
+    return out
+
+def render_madness(date, prods, rows, idx, hist, label, prev_state):
+    moved = markdowns(prods, prev_state)
     cands = []
     for m in moved:
         if m["ps"] is None: continue
         t = toks(f"{m['name']}{M.SEP}{m['variant']}")
         cls = M.unitclass(m["q"])
         rival = best_rival(t, cls, rows, idx) if cls and len(t) >= XR_SHARED else None
-        why, score = [f"{m['cut']:+.0%} on-site ({money(m['was'])} → {money(m['now'])})"], -m["cut"] * 60
+        why = [f"{m['cut']:+.0%} on-site ({money(m['was'])} → {money(m['now'])}, {m['src']})"]
+        score = -m["cut"] * 60
         if rival:
             gap = m["ps"] / rival[1] - 1
             score += -gap * 100
