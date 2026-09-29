@@ -441,3 +441,11 @@ previous run 2026-09-28T00:15:21+00:00 · 25,935 variants tracked
 - **26% under** `iheart` Plasencia Alma del Campo Madrono Gordo [Box of 10] = $15.59/stick vs $21.19/stick at `cigarsdirect` (Plasencia Alma Del Campo Madrono Gordo)
 - **26% under** `iheart` Liga Privada T52 Corona Doble [Box of 24] = $14.17/stick vs $19.25/stick at `tccigar` (Liga Privada T52 Corona Doble)
 - **26% under** `iheart` Liga Privada Unico Serie Feral Flying Pig [Box of 10] = $15.96/stick vs $21.59/stick at `tccigar` (Liga Privada Unico Serie Feral Flying Pig)
+
+
+---
+
+# Cigar price monitor — 2026-09-29T12:15:25+00:00
+previous run 2026-09-29T00:15:57+00:00 · 25,935 variants tracked
+
+**No actionable changes.**
