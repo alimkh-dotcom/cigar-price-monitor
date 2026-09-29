@@ -355,3 +355,89 @@ previous run 2026-09-27T00:14:53+00:00 · 25,908 variants tracked
 previous run 2026-09-27T12:15:11+00:00 · 25,908 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-09-29T00:15:57+00:00
+previous run 2026-09-28T00:15:21+00:00 · 25,935 variants tracked
+
+## Price drops ≥20%  (47)
+- **40%** **BIG** `iheart` Robusto Collection - Discontinued (Approx. 2006 Release) [Box of 5] = $34.80/stick — $290.00 → **$174.00** _(out of stock)_
+- **40%** **BIG** `iheart` Lost and Found 22 Minutes to Midnight Criollo Classico Corona Extra [Box 20] = $9.60/stick — $320.00 → **$192.00**
+- **37%** **BIG** `iheart` Avo XO Preludio [Box of 20] = $7.69/stick — $244.00 → **$153.72**
+- **35%** **BIG** `iheart` Allegiance Chaperone [5 Pack] = $10.20/stick — $78.50 → **$51.02**
+- **35%** **BIG** `iheart` The Oscar Habano Sixty [Box of 11] = $10.71/stick — $181.28 → **$117.83**
+- **35%** **BIG** `iheart` illusione ECCJ 25th Robusto Extra [Box of 15] = $9.32/stick — $215.00 → **$139.75**
+- **35%** **BIG** `iheart` Crowned Heads CHC Serie E Sublime - Discontinued [Box of 20] = $7.96/stick — $245.00 → **$159.25**
+- **35%** **BIG** `iheart` El Septimo Culinary Art Collection Rioja [5 Pack] = $9.10/stick — $70.00 → **$45.50**
+- **35%** **BIG** `iheart` Winston Churchill Spitfire - Discontinued [5 Pack] = $23.40/stick — $180.00 → **$117.00**
+- **35%** **BIG** `iheart` Undercrown ShadyXX - Discontinued [Box of 10] = $9.75/stick — $150.00 → **$97.50**
+- **35%** `iheart` Liga Privada Unico Serie Ratzilla [Box of 10] = $12.84/stick — $197.50 → **$128.38**
+- **32%** `iheart` Colorado Claro Short Perfecto [5 Pack] = $17.75/stick — $130.50 → **$88.74**
+- **30%** `iheart` Crowned Heads Tennessee Waltz Toro [5 Pack] = $9.06/stick — $64.75 → **$45.32**
+- **30%** `iheart` 4/2g (Old Packaging) [5 Pack] = $9.80/stick — $70.00 → **$49.00**
+- **30%** `iheart` Camacho Powerband Robusto - Discontinued [Box of 20] = $8.40/stick — $240.00 → **$168.00**
+- **30%** `iheart` Puro D'Oro Sublimes - Discontinued [5 Pack] = $38.50/stick — $275.00 → **$192.50**
+- **30%** `iheart` Millennium Blend Robusto [Box of 25] = $21.48/stick — $767.00 → **$536.90**
+- **30%** `iheart` Grand Cru No.2 [5 Pack] = $15.82/stick — $113.00 → **$79.10**
+- **30%** `iheart` Fuente Fuente OpusX Love Affair [Box of 18] = $21.39/stick — $550.00 → **$385.00**
+- **30%** `iheart` Bits of Havana Seleccion De Capital [5 Pack] = $8.75/stick — $62.50 → **$43.75**
+- **30%** `iheart` Liga Privada T52 Corona Doble [Box of 24] = $14.17/stick — $486.00 → **$340.20**
+- **30%** `iheart` Caldwell Long Live The King Maduro Belicoso [Box of 10] = $9.12/stick — $130.00 → **$91.20**
+- **28%** `iheart` Alma Fuerte Sixto I Colorado Claro [Box of 10 (Tubos)] = $17.06/stick — $236.25 → **$170.62**
+- **28%** `iheart` Alma Fuerte Sixto I Colorado Claro [Box 10] = $15.93/stick — $220.50 → **$159.25**
+- **28%** `iheart` Alma Fuerte Nestor IV Toro [Box of 10] = $15.28/stick — $211.50 → **$152.75**
+- **28%** `iheart` Plasencia Alma del Campo Madrono Gordo [Box of 10] = $15.59/stick — $215.91 → **$155.94**
+- **26%** `iheart` Oneoff+53 Gordos [Box of 10] = $25.83/stick — $350.55 → **$258.30**
+- **25%** `iheart` Umbagog Toro Toro [5 Pack] = $8.66/stick — $57.75 → **$43.31**
+- **25%** `iheart` Caldwell Long Live the Queen Maduro Queen's Charge [Box of 10] = $10.80/stick — $144.00 → **$108.00**
+- **25%** `iheart` Plasencia Triunfal [5 Pack] = $45.00/stick — $300.00 → **$225.00**
+- **25%** `iheart` Warped Maestro Del Tiempo 5712 - Discontinued [5 Pack] = $9.75/stick — $65.00 → **$48.75**
+- **25%** `iheart` Freud Agape Limited Edition Robusto [5 Pack] = $22.50/stick — $150.00 → **$112.50**
+- **25%** `iheart` El Gueguense Churchill - Discontinued [Box of 25] = $8.79/stick — $293.00 → **$219.75**
+- **25%** `iheart` Davidoff Art Edition 2014 Forms of Freedom 1 [5 Pack] = $67.50/stick — $450.00 → **$337.50**
+- **25%** `iheart` OpusX 20th Anniversary Father and Son [5 Pack] = $50.25/stick — $335.00 → **$251.25**
+- **25%** `iheart` The Chef's Edition (LE 2025) [Box of 10] = $41.25/stick — $550.00 → **$412.50**
+- **25%** `iheart` Highclere Castle Corona Edwardian [5 Pack] = $10.39/stick — $69.25 → **$51.94**
+- **25%** `iheart` Highclere Castle Victorian Robusto [5 Pack] = $12.14/stick — $80.90 → **$60.68**
+- **25%** `iheart` Arturo Fuente Rosado Selection - Sampler (5 Cigars) [5 Pack] = $9.11/stick — $60.70 → **$45.53**
+- **24%** `iheart` OpusX Robusto Tin [Box of 3] = $36.67/stick — $145.00 → **$110.00**
+
+## New products  (29)
+- `mrbundles` MEERAPFEL ERNEST LANCERO [Box of 25] = $73.00/stick — $1,825.00
+- `iheart` Davidoff Year of the Dragon + Cuvee Selection 2012 [10 Cigars] = $67.50/stick — $675.00
+- `iheart` Cuvee Selection 2012 Year of the Dragon [5 Pack] = $100.00/stick — $500.00
+- `cigarsdirect` Tatuaje Old Man and The C Monster [Box of 6] = $58.33/stick — $350.00
+- `cigarsdirect` Tatuaje El Triunfador Broadleaf Cazadores [Box of 25] = $10.80/stick — $270.00
+- `cigarsdirect` Tatuaje Havana VI 20th Anniversary Series E [Box of 24] = $9.90/stick — $237.60
+- `cigarsdirect` Tatuaje Havana VI 20th Anniversary Series B [Box of 24] = $9.90/stick — $237.60
+- `cigarsdirect` Tatuaje Black Private Reserve 20th Anniversary Torpedo [Box of 20] = $11.70/stick — $234.00
+- `cigarsdirect` Tatuaje Black Private Reserve 20th Anniversary Robusto [Box of 20] = $10.80/stick — $216.00
+- `cigarsdirect` Dunbarton Sobremesa Tapa Negra Toro [Box of 13] = $15.25/stick — $198.27
+- `cigarsdirect` Dunbarton Sobremesa Tapa Negra Corona Gorda [Box of 13] = $14.63/stick — $190.17
+- `cigarsdirect` Dunbarton Red Meat Lovers Spicy Beef Stick Toro [Box of 10] = $15.26/stick — $152.55
+- `mrbundles` MEERAPFEL ERNEST LANCERO [2 Pack] = $73.00/stick — $146.00
+- `cigarsdirect` Drew Estate Undercrown 10 Gordo [Box of 10] = $13.99/stick — $139.95
+- `cigarsdirect` Espinosa Laranja Hybrid Toro [Box of 10] = $10.80/stick — $108.00
+- `cigarsdirect` Espinosa Laranja Hybrid Short Churchill [Box of 10] = $10.35/stick — $103.50
+- `iheart` Cuvee Selection 2012 Year of the Dragon [Single] = $100.00/stick — $100.00
+- `cigarsdirect` Tatuaje Old Man and The C Monster [1 Coffin] — $54.00
+- `cigarsdirect` Dunbarton Sobremesa Tapa Negra Toro [1 Cigar] = $16.99/stick — $16.99
+- `cigarsdirect` Dunbarton Red Meat Lovers Spicy Beef Stick Toro [1 Cigar] = $16.99/stick — $16.99
+- `cigarsdirect` Drew Estate Undercrown 10 Gordo [1 Cigar] = $16.80/stick — $16.80
+- `cigarsdirect` Dunbarton Sobremesa Tapa Negra Corona Gorda [1 Cigar] = $16.25/stick — $16.25
+- `cigarsdirect` Tatuaje Black Private Reserve 20th Anniversary Torpedo [1 Cigar] = $13.00/stick — $13.00
+- `cigarsdirect` Tatuaje El Triunfador Broadleaf Cazadores [1 Cigar] = $12.00/stick — $12.00
+- `cigarsdirect` Tatuaje Black Private Reserve 20th Anniversary Robusto [1 Cigar] = $12.00/stick — $12.00
+- `cigarsdirect` Espinosa Laranja Hybrid Toro [1 Cigar] = $12.00/stick — $12.00
+- `cigarsdirect` Espinosa Laranja Hybrid Short Churchill [1 Cigar] = $11.50/stick — $11.50
+- `cigarsdirect` Tatuaje Havana VI 20th Anniversary Series E [1 Cigar] = $11.00/stick — $11.00
+- `cigarsdirect` Tatuaje Havana VI 20th Anniversary Series B [1 Cigar] = $11.00/stick — $11.00
+
+## Cheaper than the same cigar elsewhere  (5) — _unverified, check the vitola_
+- **36% under** `iheart` Caldwell Long Live The King Maduro Belicoso [Box of 10] = $9.12/stick vs $14.18/stick at `cigarsdirect` (Caldwell Long Live The King Maduro Belicoso)
+- **32% under** `iheart` Liga Privada Unico Serie Ratzilla [Box of 10] = $12.84/stick vs $18.79/stick at `tccigar` (Liga Privada Unico Serie Ratzilla)
+- **26% under** `iheart` Plasencia Alma del Campo Madrono Gordo [Box of 10] = $15.59/stick vs $21.19/stick at `cigarsdirect` (Plasencia Alma Del Campo Madrono Gordo)
+- **26% under** `iheart` Liga Privada T52 Corona Doble [Box of 24] = $14.17/stick vs $19.25/stick at `tccigar` (Liga Privada T52 Corona Doble)
+- **26% under** `iheart` Liga Privada Unico Serie Feral Flying Pig [Box of 10] = $15.96/stick vs $21.59/stick at `tccigar` (Liga Privada Unico Serie Feral Flying Pig)
