@@ -481,3 +481,11 @@ previous run 2026-09-29T12:15:25+00:00 · 25,954 variants tracked
 ## Newly inflated variants  (2)
 - `iheart` Winston Churchill The Late Hour Churchill [Box of 4] = $156.00/stick — $130.00 → $624.00; now $156.00/stick vs $31.20 for its sibling
 - `iheart` Winston Churchill Spitfire - Discontinued [5 Pack] = $36.00/stick — $117.00 → $180.00; now $36.00/stick vs $25.00 for its sibling
+
+
+---
+
+# Cigar price monitor — 2026-09-30T12:15:43+00:00
+previous run 2026-09-30T00:15:34+00:00 · 25,954 variants tracked
+
+**No actionable changes.**
