@@ -449,3 +449,35 @@ previous run 2026-09-28T00:15:21+00:00 · 25,935 variants tracked
 previous run 2026-09-29T00:15:57+00:00 · 25,935 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-09-30T00:15:34+00:00
+previous run 2026-09-29T12:15:25+00:00 · 25,954 variants tracked
+
+## New products  (4)
+- `mrbundles` Alfonso Gran Seleccion Exclusivo [Box of 25] = $50.00/stick — $1,250.00
+- `mrbundles` Alfonso Gran Seleccion Exclusivo [2 Pack] = $49.99/stick — $99.99
+- `gtcigars` Romeo y Julietta Reserve Amores Tin 30 (33 x 4) [Default Title] — $55.95
+- `jackschwartz` Rattray Black Mallory [3.53 OZ Tin] — $31.00 _(out of stock)_
+
+## New variants on existing products  (14)
+- `cigarsdirect` Davidoff Nicaragua Robusto [Box of 12] = $20.80/stick — $249.60 _(out of stock)_
+- `cigarsdirect` Davidoff Escurio Robusto Tubo [Box of 12] = $20.30/stick — $243.60 _(out of stock)_
+- `cigarsdirect` AVO Classic Robusto [Box of 20 Tubes] = $10.98/stick — $219.60 _(out of stock)_
+- `cigarsdirect` Davidoff Puro Dominicano Perfecto [Pack of 5] = $25.20/stick — $126.00 _(out of stock)_
+- `cigarsdirect` Davidoff Winston Churchill The Late Hour Churchill [Pack of 4] = $31.20/stick — $124.80 _(out of stock)_
+- `cigarsdirect` Davidoff Signature Series No.2 [Pack of 5] = $24.80/stick — $124.00 _(out of stock)_
+- `cigarsdirect` Davidoff Winston Churchill The Late Hour Toro [Pack of 4] = $29.60/stick — $118.40 _(out of stock)_
+- `cigarsdirect` Davidoff Winston Churchill The Late Hour Robusto [Pack of 4] = $27.20/stick — $108.80 _(out of stock)_
+- `cigarsdirect` Davidoff Signature Series 6000 [Pack of 4] = $24.80/stick — $99.20 _(out of stock)_
+- `cigarsdirect` Davidoff Nicaragua Robusto [Pack of 4] = $20.80/stick — $83.20 _(out of stock)_
+- `cigarsdirect` Davidoff Signature Series 1000 [Pack of 5] = $15.40/stick — $77.00 _(out of stock)_
+- `cigarsdirect` Davidoff Nicaragua Robusto [1 Cigar] = $20.80/stick — $20.80
+- `cigarsdirect` Davidoff Escurio Robusto Tubo [1 Cigar] = $20.30/stick — $20.30
+- `cigarsdirect` AVO Classic Robusto [1 Tube] — $12.20
+
+## Newly inflated variants  (2)
+- `iheart` Winston Churchill The Late Hour Churchill [Box of 4] = $156.00/stick — $130.00 → $624.00; now $156.00/stick vs $31.20 for its sibling
+- `iheart` Winston Churchill Spitfire - Discontinued [5 Pack] = $36.00/stick — $117.00 → $180.00; now $36.00/stick vs $25.00 for its sibling
