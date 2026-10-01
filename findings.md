@@ -489,3 +489,76 @@ previous run 2026-09-29T12:15:25+00:00 · 25,954 variants tracked
 previous run 2026-09-30T00:15:34+00:00 · 25,954 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-01T00:14:50+00:00
+previous run 2026-09-30T12:15:43+00:00 · 25,965 variants tracked
+
+## Price drops ≥20%  (166)
+- **84%** **BIG** `iheart` Millennium Blend Robusto [Box of 4] = $30.00/stick — $767.00 → **$120.00**
+- **66%** **BIG** `gtcigars` Macanudo 1968 [Robusto (5.0"x50)] — $178.99 → **$59.99**
+- **61%** **BIG** `gtcigars` Punch Knuckle Buster [Toro (6.0"x50)] — $155.27 → **$59.99**
+- **59%** **BIG** `gtcigars` La Gloria Cubana Intencion [Gigante (6.0" x 60)] — $144.75 → **$59.99**
+- **58%** **BIG** `gtcigars` Punch Knuckle Buster Maduro [Robusto (5.0"x52)] — $143.23 → **$59.99**
+- **58%** **BIG** `gtcigars` Punch Knuckle Buster [Robusto (4.5"x52)] — $143.23 → **$59.99**
+- **56%** **BIG** `gtcigars` Punch Knuckle Buster Maduro [Gordo (6.0"x60)] — $137.17 → **$59.99**
+- **55%** **BIG** `gtcigars` Bolivar Cofradia [Robusto (5.0"x54)] — $133.59 → **$59.99**
+- **55%** **BIG** `gtcigars` Partagas y Nada Mas [Robusto (5" X 50)] — $133.58 → **$59.99**
+- **55%** **BIG** `gtcigars` La Gloria Cubana Intencion [Toro (6.0" x 52)] — $132.34 → **$59.99**
+- **54%** **BIG** `gtcigars` Punch Knuckle Buster Maduro [Toro (6.0"x50)] — $130.28 → **$59.99**
+- **54%** **BIG** `gtcigars` Do Not Disturb [Gordo (6.0"x60)] — $129.19 → **$59.99**
+- **53%** **BIG** `gtcigars` El Rey Del Mundo [Robusto Larga Oscuro (Toro) (6.0"x54)] — $128.97 → **$59.99**
+- **53%** **BIG** `gtcigars` El Rey Del Mundo Naturals [Reserva Salado (6 X 54)] — $128.75 → **$59.99**
+- **53%** **BIG** `gtcigars` El Rey Del Mundo Naturals [Robusto en Vidrio (Crystal Tube)] — $128.75 → **$59.99**
+- **53%** **BIG** `gtcigars` Punch Clasico [London Club (Corona) (5.0"x40)] — $127.28 → **$59.99**
+- **53%** **BIG** `gtcigars` Macanudo Inspirado White [Corona (5.2"x42)] — $127.13 → **$59.99**
+- **52%** **BIG** `gtcigars` Do Not Disturb [Toro (6.0"x52)] — $124.78 → **$59.99**
+- **51%** **BIG** `gtcigars` Punch Knuckle Buster [Gordo (6.3"x60)] — $122.36 → **$59.99**
+- **51%** **BIG** `gtcigars` El Rey Del Mundo [Robusto Oscuro (5.0"x54)] — $121.48 → **$59.99**
+- **51%** **BIG** `gtcigars` La Gloria Cubana Esteli [Toro (5.5"x54)] — $161.94 → **$79.99**
+- **50%** **BIG** `gtcigars` Punch Knuckle Buster Shade [Robusto (5.5"x50)] — $120.37 → **$59.99**
+- **50%** **BIG** `gtcigars` El Rey Del Mundo Appointment Brazil [Gordo (5.0" x 60)] — $160.08 → **$79.99**
+- **50%** **BIG** `gtcigars` La Gloria Cubana Intencion [Gran Robusto (5.0" x 54)] — $119.94 → **$59.99**
+- **50%** **BIG** `gtcigars` Do Not Disturb [Robusto (5.0"x50)] — $119.49 → **$59.99**
+- **49%** **BIG** `gtcigars` Punch Knuckle Buster Shade [Gordo (6.0"x60)] — $118.62 → **$59.99**
+- **49%** **BIG** `gtcigars` El Rey Del Mundo Appointment Brazil [Toro (6.0" x 54)] — $156.47 → **$79.99**
+- **49%** **BIG** `gtcigars` Bolivar Cofradia Oscuro [Toro (6" X 54)] — $155.79 → **$79.99**
+- **49%** **BIG** `gtcigars` Bolivar Cofradia Oscuro [Gigante (6" X 60)] — $155.39 → **$79.99**
+- **48%** **BIG** `gtcigars` La Gloria Serie R Esteli Maduro [No. Fifty Two (6" X 52)] — $153.17 → **$79.99**
+- **48%** **BIG** `gtcigars` CAO Fasa Sombra, Sol & Noche [Noche Gigante (6.0"x60)] — $152.72 → **$79.99**
+- **48%** **BIG** `gtcigars` Alec Bradley Texas Lancero [Texas Lancero (Gordo) (7.0"x70)] — $114.51 → **$59.99**
+- **47%** **BIG** `gtcigars` Black Market [Toro Tubes (6.5" X 52) 10 Count] — $114.14 → **$59.99**
+- **47%** **BIG** `gtcigars` El Rey Del Mundo Appointment Brazil [Robusto (5.0" x 50)] — $151.64 → **$79.99**
+- **47%** **BIG** `gtcigars` Diesel Vintage Series Natural [Toro (6" X 52)] — $113.08 → **$59.99**
+- **47%** **BIG** `gtcigars` El Rey Del Mundo Appointment [Gordo (6.5" X 60)] — $150.33 → **$79.99**
+- **47%** **BIG** `gtcigars` Punch Clasico [Bolos (Cigarillos) (4.2"x36)] — $112.63 → **$59.99**
+- **47%** **BIG** `gtcigars` Macanudo Inspirado Orange [Robusto (5.0"x50)] — $150.08 → **$79.99**
+- **46%** **BIG** `gtcigars` Chunk Shade [XL (4" X 60)] — $111.57 → **$59.99**
+- **46%** **BIG** `gtcigars` Chunk Maduro [XL (4" X 60)] — $111.57 → **$59.99**
+
+## New products  (16)
+- `cigarsdirect` Davidoff 12 Cigar Sampler [Box of 12] = $26.00/stick — $312.00 _(out of stock)_
+- `cigarsdirect` Davidoff 9 Cigar Sampler [Box of 9] = $23.48/stick — $211.30 _(out of stock)_
+- `cigarsdirect` Davidoff Winston Churchill Late Hour Belicoso [5 Tins of 4] = $10.30/stick — $206.00 _(out of stock)_
+- `cigarsdirect` Davidoff Escurio Primeros [Pack of 30] = $6.60/stick — $198.00 _(out of stock)_
+- `jackschwartz` Tatuaje Monster Jason Redux 6 [Box of 13 (Coffin)] = $13.46/stick — $175.00 _(out of stock)_
+- `cigarsdirect` Davidoff Figurado 6 Cigar Sampler [Box of 6] = $28.48/stick — $170.90 _(out of stock)_
+- `cigarsdirect` Davidoff Dominican Primeros [Box of 20] = $6.60/stick — $132.00 _(out of stock)_
+- `cigarsdirect` Davidoff Dominican Maduro Primeros [Box of 20] = $6.60/stick — $132.00 _(out of stock)_
+- `cigarsdirect` Davidoff Robusto 5 Cigar Sampler [Box of 5] = $23.08/stick — $115.40 _(out of stock)_
+- `cigarsdirect` Davidoff 3 Cigar Tubo Sampler [Box of 3 Tubes] = $23.87/stick — $71.60 _(out of stock)_
+- `tccigar` Casa Carrillo Pledge of Allegiance 250 Rockets Pennsylvania Broadleaf [Default Title] — $50.00
+- `tccigar` Casa Carrillo Pledge of Allegiance 250 Rockets Connecticut Broadleaf [Default Title] — $50.00
+- `cigarsdirect` Davidoff Winston Churchill Late Hour Belicoso [Tin of 4] = $10.30/stick — $41.20 _(out of stock)_
+- `cigarsdirect` Davidoff Escurio Primeros [Tin of 6] = $6.60/stick — $39.60 _(out of stock)_
+- `cigarsdirect` Davidoff Dominican Primeros [Tin of 6] = $6.60/stick — $39.60 _(out of stock)_
+- `cigarsdirect` Davidoff Dominican Maduro Primeros [Tin of 6] = $6.60/stick — $39.60 _(out of stock)_
+
+## Cheaper than the same cigar elsewhere  (5) — _unverified, check the vitola_
+- **40% under** `iheart` Arturo Fuente Hemingway Untold Story Maduro [5 Pack] = $16.10/stick vs $27.00/stick at `cigarsdirect` (Arturo Fuente Hemingway Untold Story Maduro)
+- **35% under** `iheart` EGM Media Coronas [Box of 20] = $10.72/stick vs $16.60/stick at `mrbundles` (EGM Media Coronas)
+- **32% under** `iheart` Liga Privada T52 Corona Doble [Box of 24] = $13.16/stick vs $19.25/stick at `tccigar` (Liga Privada T52 Corona Doble)
+- **31% under** `iheart` Liga Privada Unico Serie Dirty Rat [5 Pack] = $11.92/stick vs $17.33/stick at `tccigar` (Liga Privada Unico Serie Dirty Rat)
+- **27% under** `iheart` Oliva Serie V Churchill Extra [Box of 24] = $9.67/stick vs $13.18/stick at `cigarsdirect` (Oliva Serie V Churchill Extra)
