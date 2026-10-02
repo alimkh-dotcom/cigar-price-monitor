@@ -562,3 +562,32 @@ previous run 2026-09-30T12:15:43+00:00 · 25,965 variants tracked
 - **32% under** `iheart` Liga Privada T52 Corona Doble [Box of 24] = $13.16/stick vs $19.25/stick at `tccigar` (Liga Privada T52 Corona Doble)
 - **31% under** `iheart` Liga Privada Unico Serie Dirty Rat [5 Pack] = $11.92/stick vs $17.33/stick at `tccigar` (Liga Privada Unico Serie Dirty Rat)
 - **27% under** `iheart` Oliva Serie V Churchill Extra [Box of 24] = $9.67/stick vs $13.18/stick at `cigarsdirect` (Oliva Serie V Churchill Extra)
+
+
+---
+
+# Cigar price monitor — 2026-10-02T00:14:56+00:00
+previous run 2026-10-01T00:14:50+00:00 · 25,971 variants tracked
+
+## Price drops ≥20%  (4)
+- **47%** **BIG** `gtcigars` Bolivar Cofradia [Toro (6.0"x54)] — $150.11 → **$79.99**
+- **45%** **BIG** `gtcigars` Diesel Vintage Series Natural [Gigante (6" X 60)] — $144.60 → **$79.99**
+- **40%** **BIG** `gtcigars` Chillin' Moose Too [Toro (6.0"x52)] — $100.56 → **$59.99**
+- **38%** **BIG** `gtcigars` Chillin' Moose [Toro (6.0"x52)] — $97.50 → **$59.99**
+
+## New products  (15)
+- `jackschwartz` The Sonnet 18 Fuente Collection [Default Title] — $560.00
+- `jackschwartz` Fuente 7 Sticks in Heaven Sampler [Default Title] — $175.00
+- `iheart` Sampler of the Month [SOTM] — $125.00
+- `cigarsdirect` Montecristo 1935 Winners Club Sampler [Box of 6] = $20.25/stick — $121.50
+- `gtcigars` Partagas y Nada Mas Cibao [Gordo] — $79.99
+- `gtcigars` Partagas y Nada Mas Cibao [Robusto] — $79.99
+- `gtcigars` Partagas y Nada Mas Cibao [Toro] — $79.99
+- `gtcigars` Macanudo Sumatra [Gigante Box-Pressed (6 x 60)] — $79.99
+- `gtcigars` Macanudo Sumatra [Robusto Box-Pressed (5 x 50)] — $79.99
+- `gtcigars` Macanudo Sumatra [Toro Box-Pressed (6 x 50)] — $79.99
+- `gtcigars` Macanudo Ecuadorian Shade [Gigante Box-Pressed (6 x 60)] — $79.99
+- `gtcigars` Macanudo Ecuadorian Shade [Robusto Box-Pressed (5 x 50)] — $79.99
+- `gtcigars` Macanudo Ecuadorian Shade [Toro Box-Pressed (6 x 50)] — $79.99
+- `cigarsdirect` Drew Estate Liga Privada Cigar Rest Set [1 Set] — $30.00
+- `cigarsdirect` Drew Estate Subculture Playing Cards [1 Deck] — $10.00
