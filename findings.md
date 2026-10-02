@@ -591,3 +591,11 @@ previous run 2026-10-01T00:14:50+00:00 · 25,971 variants tracked
 - `gtcigars` Macanudo Ecuadorian Shade [Toro Box-Pressed (6 x 50)] — $79.99
 - `cigarsdirect` Drew Estate Liga Privada Cigar Rest Set [1 Set] — $30.00
 - `cigarsdirect` Drew Estate Subculture Playing Cards [1 Deck] — $10.00
+
+
+---
+
+# Cigar price monitor — 2026-10-02T12:15:56+00:00
+previous run 2026-10-02T00:14:56+00:00 · 25,971 variants tracked
+
+**No actionable changes.**
