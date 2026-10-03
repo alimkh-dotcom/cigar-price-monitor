@@ -148,3 +148,46 @@ a price you cannot act on is not a price.
 "same list price in N previous runs" and "list was $X on <date>" reasoning. The
 2026-09-11 burn was reconstructed from truncated names, so a few of its entries will not
 match later runs exactly.
+
+## Tampa Sweethearts — `tampa.py`
+
+    ./tampa.py              # crawl now
+    ./tampa.py --if-stale   # crawl only if snapshots/tampa.json.gz is over 6 days old
+
+The Fuente family's own shop, and the only tracked retailer that is not Shopify or
+WooCommerce — no JSON API, no XML sitemap. It matters because it is frequently the
+cheapest source for exactly the lines worth watching: on the first crawl it held the
+cheapest in-stock price in **214 of 7,058** product/format slots, 47 of them Fuente,
+Ashton VSG or Hemingway.
+
+Weekly is deliberate. The Shopify sites moved 2% of variants in nine days and this
+shop is slower still, so a twice-daily crawl would spend hundreds of requests to
+learn nothing. `--if-stale` lets the scheduled run call it every time while only
+crawling about once a week, which avoids needing a second Routine.
+
+### How it crawls
+
+Walks the category tree from `/cigars.aspx` and `/newarrivals.aspx`, honouring the
+robots.txt disallow list and skipping accessories and humidors. Two shortcuts keep it
+cheap:
+
+- listing pages already carry name and price in `product-list-cost-value`, so
+  single-format products need no detail fetch
+- only multi-format products show `From $79.95 to $342.50`, and only those are
+  fetched, where `<option> Box of 25 / $342.50 </option>` gives format and price
+  together
+
+Product URLs are never queued as listing pages. Expanding every link swept product
+pages into the frontier, pushing the queue past 1,300 and tripping the page cap with
+most of the catalogue unseen; excluding them, the crawl converges in 190 pages.
+
+It refuses to overwrite the cache with fewer than 50 products, so a partial crawl
+cannot quietly poison the comparison pool.
+
+### The one thing to be careful about
+
+**The site publishes no stock status.** No "out of stock", "sold out" or "notify me"
+marker appears anywhere in the markup — sold-out items appear to be delisted instead.
+So a listing is treated as available. That is an assumption, not an observation.
+Everywhere else out-of-stock prices are excluded from driving a pick; here the data
+simply does not say, so anything Tampa wins on is worth confirming before buying.

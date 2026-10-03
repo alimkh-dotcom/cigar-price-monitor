@@ -22,6 +22,8 @@ import monitor as M
 HERE    = os.path.dirname(os.path.abspath(__file__))
 ARCHIVE = os.path.join(HERE, "archive")
 LUX     = "luxurycigarclub.com"
+TAMPA   = os.path.join(HERE, "snapshots", "tampa.json.gz")
+TAMPA_STALE_DAYS = 10   # weekly crawl; beyond this the prices are too old to cite
 
 PROMOS = {
     "burn":    dict(handle="weekly-burn",    label="Weekly Burn",
@@ -114,6 +116,22 @@ def rivals(cached=None):
             try: p = float(v["price"])
             except Exception: continue
             add(f"{pr['title']}{M.SEP}{v['title']}", p, M.qty(v["title"]), "luxurycigar", v["available"])
+    # tampasweethearts, from its own weekly crawl. It is the Fuente family's shop,
+    # so it matters most for exactly the lines Ali buys. It publishes no stock
+    # status, so listings are taken as available - see tampa.py.
+    try:
+        age = (datetime.datetime.now().timestamp() - os.path.getmtime(TAMPA)) / 86400
+        if age <= TAMPA_STALE_DAYS:
+            t = json.load(gzip.open(TAMPA, "rt"))
+            n0 = len(rows)
+            for name, fmt, price, q, _url in t["rows"]:
+                add(f"{name}{M.SEP}{fmt or 'Default Title'}", price, q, "tampasweet", True)
+            print(f"  tampasweet: +{len(rows)-n0} listings (crawled {t['ts'][:10]})",
+                  file=sys.stderr)
+        else:
+            print(f"  tampasweet: cache {age:.0f} days old, skipped", file=sys.stderr)
+    except OSError:
+        print("  tampasweet: no cache; run ./tampa.py", file=sys.stderr)
     return rows
 
 def indexed(rows):
