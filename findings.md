@@ -616,3 +616,11 @@ previous run 2026-10-02T12:15:56+00:00 · 25,973 variants tracked
 ## Newly inflated variants  (2)
 - `iheart` Winston Churchill Spitfire - Discontinued [Box of 5] = $36.00/stick — $117.00 → $180.00; now $36.00/stick vs $25.00 for its sibling
 - `iheart` Winston Churchill Spitfire - Discontinued [5 Pack] = $36.00/stick — $117.00 → $180.00; now $36.00/stick vs $25.00 for its sibling
+
+
+---
+
+# Cigar price monitor — 2026-10-03T12:15:08+00:00
+previous run 2026-10-03T00:15:06+00:00 · 25,973 variants tracked
+
+**No actionable changes.**
