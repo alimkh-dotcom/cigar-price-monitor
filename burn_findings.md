@@ -188,3 +188,41 @@ compared against 7 retailers, iheart's own formats, and 2 previous Weekly Burn r
 - Davidoff Winston Churchill LE 2025 - The Artis — $42.40 vs $29.20 at jackschwartz
 - AJ Fernandez Dias de Gloria Brazil Gordo — $12.80 vs $11.60 at tccigar
 - Lampert 1675 Edicion Azul Robusto — $10.40 vs $10.15 at jackschwartz
+
+
+---
+
+# Weekly Burn — 2026-10-03
+111 in-stock singles · tiers: 5 sticks = 10% off, 10 sticks = 20% off
+compared against 7 retailers, iheart's own formats, and 3 previous Weekly Burn runs
+
+## Best 10 — the 20% tier · $225.40 (list $281.75)
+
+| # | cigar | list | @20% | why |
+|---|---|---|---|---|
+| 1 | Arturo Fuente Fuente Fuente Opusx Oro Oscuro S | $47.00 | **$37.60** | sole in-stock source; nearest listing $26.75 at jackschwartz (out of stock); first appearance |
+| 2 | Fuente Fuente Opusx Perfecxion X | $42.00 | **$33.60** | no listing at all at the other seven; first appearance |
+| 3 | Liga Privada 10 Aniversario LE Toro | $20.75 | **$16.60** | -16% vs $19.70 at tccigar (in stock); first appearance |
+| 4 | Winston Churchill Chequers - Discontinued | $32.00 | **$25.60** | no listing at all at the other seven; first appearance |
+| 5 | Winston Churchill Blenheim - Discontinued | $42.00 | **$33.60** | no listing at all at the other seven; same list price in 1 previous run |
+| 6 | Fuente Fuente OpusX Robusto | $42.00 | **$33.60** | no listing at all at the other seven; same list price in 1 previous run |
+| 7 | Hemingway Between the Lines | $22.00 | **$17.60** | sole in-stock source; nearest listing $26.00 at jackschwartz (out of stock); first appearance |
+| 8 | Liga Privada T52 Robusto | $17.00 | **$13.60** | -13% vs $15.55 at tccigar (in stock); same list price in 1 previous run |
+| 9 | Brick House Mighty Mighty Double Connecticut | $8.00 | **$6.40** | -38% vs $10.25 at cigarsdirect (in stock); same list price in 1 previous run |
+| 10 | Black Serie II Robusto | $9.00 | **$7.20** | -35% vs $11.00 at jackschwartz (in stock); first appearance |
+
+## Best 5 — the 10% tier · $165.38 (list $183.75)
+
+| # | cigar | list | @10% | why |
+|---|---|---|---|---|
+| 1 | Arturo Fuente Fuente Fuente Opusx Oro Oscuro S | $47.00 | **$42.30** | sole in-stock source; nearest listing $26.75 at jackschwartz (out of stock); first appearance |
+| 2 | Fuente Fuente Opusx Perfecxion X | $42.00 | **$37.80** | no listing at all at the other seven; first appearance |
+| 3 | Liga Privada 10 Aniversario LE Toro | $20.75 | **$18.68** | -16% vs $19.70 at tccigar (in stock); first appearance |
+| 4 | Winston Churchill Chequers - Discontinued | $32.00 | **$28.80** | no listing at all at the other seven; first appearance |
+| 5 | Winston Churchill Blenheim - Discontinued | $42.00 | **$37.80** | no listing at all at the other seven; same list price in 1 previous run |
+
+## Priced at or above the market even after 20% (4) — skip
+- OpusX OXO Oro Oscuro Double Robusto — $39.20 vs $36.85 at tccigar
+- Lampert 1675 Edicion Azul Robusto — $10.40 vs $10.15 at jackschwartz
+- Rare Pink Vintage 1960's Work of Art — $25.60 vs $25.10 at tccigar
+- Rare Leaf Maduro Robusto — $11.19 vs $10.99 at cigarsdirect

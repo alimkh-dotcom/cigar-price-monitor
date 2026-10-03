@@ -599,3 +599,20 @@ previous run 2026-10-01T00:14:50+00:00 · 25,971 variants tracked
 previous run 2026-10-02T00:14:56+00:00 · 25,971 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-03T00:15:06+00:00
+previous run 2026-10-02T12:15:56+00:00 · 25,973 variants tracked
+
+## New products  (5)
+- `gtcigars` Foundation David & Goliath [Goliath Perfecto (5.0"x58)] — $355.99
+- `mrbundles` Opus October Bundle [Default Title] — $340.00
+- `gtcigars` Foundation David & Goliath [David Perfecto (5.0"x54)] — $309.99
+- `gtcigars` CAO Amazon Basin [Amazon Basin Toro (6 x 52)] — $270.99
+- `gtcigars` Amazon Basin Daggers Pack of 5 [Default Title] — $30.99
+
+## Newly inflated variants  (2)
+- `iheart` Winston Churchill Spitfire - Discontinued [Box of 5] = $36.00/stick — $117.00 → $180.00; now $36.00/stick vs $25.00 for its sibling
+- `iheart` Winston Churchill Spitfire - Discontinued [5 Pack] = $36.00/stick — $117.00 → $180.00; now $36.00/stick vs $25.00 for its sibling
