@@ -640,3 +640,14 @@ previous run 2026-10-03T12:15:08+00:00 · 25,973 variants tracked
 previous run 2026-10-04T00:14:25+00:00 · 25,973 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-05T00:15:07+00:00
+previous run 2026-10-04T12:15:13+00:00 · 25,965 variants tracked
+
+## New products  (3)
+- `mrbundles` ALADINO CAMEROON RESERVA [BOX OF 12] = $24.00/stick — $288.00
+- `mrbundles` Atabey Ritos Tubos Gift Set [Default Title] — $270.00
+- `mrbundles` ALADINO CAMEROON RESERVA [4 PACK] = $24.00/stick — $96.00
