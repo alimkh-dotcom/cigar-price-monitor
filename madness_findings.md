@@ -90,3 +90,35 @@ compared against 7 retailers and 3 previous Monday Madness runs
 | 3 | Alma del Fuego Candente Robusto [5 Pack] | $87.50 → **$52.50** | $10.50 | -40% on-site ($87.50 → $52.50, compare_at); -36% vs $16.53/stick at cigarsdirect (in stock); also discounted on 2026-09-21 at $12.25 |
 | 4 | Liga Privada T52 Corona Doble [Box of 24] | $486.00 → **$315.90** | $13.16 | -35% on-site ($486.00 → $315.90, compare_at); -32% vs $19.25/stick at tccigar (in stock); also discounted on 2026-09-29 at $14.17 |
 | 5 | Rocky Patel Hamlet 2020 Robusto [Box of 20] | $221.00 → **$143.65** | $7.18 | -35% on-site ($221.00 → $143.65, compare_at); -47% vs $13.59/stick at cigarsdirect (in stock); first time discounted |
+
+
+---
+
+# Monday Madness — 2026-10-06
+79 variants marked down on-site · these revert within ~24h
+compared against 7 retailers and 4 previous Monday Madness runs
+
+## Top 10 picks · $1,456.15 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Alma Fuerte Sixto I Colorado Claro [5 Pack] | $123.00 → **$79.95** | $15.99 | -35% on-site ($123.00 → $79.95, compare_at); -40% vs $26.55/stick at luxurycigar (in stock); also discounted on 2026-10-05 at $15.99 |
+| 2 | Rocky Patel Hamlet Liberation Paredes Toro [Box of 10] | $111.00 → **$72.15** | $7.22 | -35% on-site ($111.00 → $72.15, compare_at); -51% vs $14.62/stick at cigarsdirect (in stock); also discounted on 2026-10-05 at $7.22 |
+| 3 | Rocky Patel Hamlet 2020 Robusto [Box of 20] | $221.00 → **$143.65** | $7.18 | -35% on-site ($221.00 → $143.65, compare_at); -47% vs $13.59/stick at cigarsdirect (in stock); also discounted on 2026-10-05 at $7.18 |
+| 4 | Liga Privada T52 Corona Doble [Box of 24] | $486.00 → **$315.90** | $13.16 | -35% on-site ($486.00 → $315.90, compare_at); -32% vs $19.25/stick at tccigar (in stock); also discounted on 2026-10-05 at $13.16 |
+| 5 | Alma del Fuego Candente Robusto [5 Pack] | $87.50 → **$52.50** | $10.50 | -40% on-site ($87.50 → $52.50, compare_at); -36% vs $16.53/stick at cigarsdirect (in stock); also discounted on 2026-10-05 at $10.50 |
+| 6 | Las Calaveras LE 2025 LC56 [Box of 24] | $390.00 → **$234.00** | $9.75 | -40% on-site ($390.00 → $234.00, compare_at); -36% vs $15.26/stick at cigarsdirect (in stock); also discounted on 2026-10-05 at $9.75 |
+| 7 | Encore El Primero [Box of 20] | $285.00 → **$171.00** | $8.55 | -40% on-site ($285.00 → $171.00, compare_at); -36% vs $13.28/stick at cigarsdirect (in stock); also discounted on 2026-10-05 at $8.55 |
+| 8 | Kintsugi Corona Gorda [Box 24] | $199.00 → **$119.40** | $4.98 | -40% on-site ($199.00 → $119.40, compare_at); -34% vs $7.49/stick at cigarsdirect (in stock); also discounted on 2026-10-05 at $4.98 |
+| 9 | New World Cameroon Short Robusto [Box of 20] | $136.00 → **$81.60** | $4.08 | -40% on-site ($136.00 → $81.60, compare_at); -33% vs $6.12/stick at cigarsdirect (in stock); also discounted on 2026-10-05 at $4.08 |
+| 10 | AJ Fernandez Dias de Gloria Brazil Figurad [Box of 20] | $310.00 → **$186.00** | $9.30 | -40% on-site ($310.00 → $186.00, compare_at); -33% vs $13.95/stick at cigarsdirect (in stock); also discounted on 2026-10-05 at $9.30 |
+
+## Top 5 picks · $664.15 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Alma Fuerte Sixto I Colorado Claro [5 Pack] | $123.00 → **$79.95** | $15.99 | -35% on-site ($123.00 → $79.95, compare_at); -40% vs $26.55/stick at luxurycigar (in stock); also discounted on 2026-10-05 at $15.99 |
+| 2 | Rocky Patel Hamlet Liberation Paredes Toro [Box of 10] | $111.00 → **$72.15** | $7.22 | -35% on-site ($111.00 → $72.15, compare_at); -51% vs $14.62/stick at cigarsdirect (in stock); also discounted on 2026-10-05 at $7.22 |
+| 3 | Rocky Patel Hamlet 2020 Robusto [Box of 20] | $221.00 → **$143.65** | $7.18 | -35% on-site ($221.00 → $143.65, compare_at); -47% vs $13.59/stick at cigarsdirect (in stock); also discounted on 2026-10-05 at $7.18 |
+| 4 | Liga Privada T52 Corona Doble [Box of 24] | $486.00 → **$315.90** | $13.16 | -35% on-site ($486.00 → $315.90, compare_at); -32% vs $19.25/stick at tccigar (in stock); also discounted on 2026-10-05 at $13.16 |
+| 5 | Alma del Fuego Candente Robusto [5 Pack] | $87.50 → **$52.50** | $10.50 | -40% on-site ($87.50 → $52.50, compare_at); -36% vs $16.53/stick at cigarsdirect (in stock); also discounted on 2026-10-05 at $10.50 |

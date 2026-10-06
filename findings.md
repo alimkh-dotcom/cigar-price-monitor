@@ -659,3 +659,91 @@ previous run 2026-10-04T12:15:13+00:00 · 25,965 variants tracked
 previous run 2026-10-05T00:15:07+00:00 · 25,965 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-06T00:17:38+00:00
+previous run 2026-10-05T12:15:17+00:00 · 25,999 variants tracked
+
+## Price drops ≥20%  (70)
+- **40%** **BIG** `iheart` AJ Fernandez Dias de Gloria Brazil Figurado [Box of 20] = $9.30/stick — $310.00 → **$186.00**
+- **40%** **BIG** `iheart` Avo XO Notturno [5 Pack] = $7.32/stick — $61.00 → **$36.60**
+- **40%** **BIG** `iheart` Eastern Standard Euro Express [Box of 24] = $7.74/stick — $309.75 → **$185.85**
+- **40%** **BIG** `iheart` Las Calaveras LE 2025 LC56 [Box of 24] = $9.75/stick — $390.00 → **$234.00**
+- **40%** **BIG** `iheart` Alma del Fuego Candente Robusto [5 Pack] = $10.50/stick — $87.50 → **$52.50**
+- **40%** **BIG** `iheart` Allegiance Wingman [Box of 20] = $9.12/stick — $304.00 → **$182.40**
+- **37%** **BIG** `iheart` Kintsugi Corona Gorda [Box 24] = $4.98/stick — $189.05 → **$119.40**
+- **37%** **BIG** `iheart` New World Cameroon Short Robusto [Box of 20] = $4.08/stick — $129.20 → **$81.60**
+- **37%** **BIG** `iheart` Last Call Maduro Chiquitas [Box of 25] = $3.79/stick — $150.10 → **$94.80**
+- **35%** **BIG** `iheart` Liga Privada T52 Corona Doble [Box of 24] = $13.16/stick — $486.00 → **$315.90**
+- **35%** **BIG** `iheart` Nicaragua Robusto Tubos [Box of 4] = $13.97/stick — $86.00 → **$55.90**
+- **35%** **BIG** `iheart` Rocky Patel Hamlet 2020 Robusto [Box of 20] = $7.18/stick — $221.00 → **$143.65**
+- **35%** **BIG** `iheart` Confidenciaal Churchill [Bundle of 25] = $11.44/stick — $440.00 → **$286.00**
+- **35%** **BIG** `iheart` Winston Churchill Spitfire - Discontinued [Box of 5] = $23.40/stick — $180.00 → **$117.00**
+- **35%** **BIG** `iheart` Winston Churchill Spitfire - Discontinued [5 Pack] = $23.40/stick — $180.00 → **$117.00**
+- **35%** **BIG** `iheart` Winston Churchill No. 10 - Discontinued [5 Pack] = $23.40/stick — $180.00 → **$117.00**
+- **35%** **BIG** `iheart` Alma Fuerte Sixto I Colorado Claro [5 Pack] = $15.99/stick — $123.00 → **$79.95**
+- **35%** `iheart` Nicaragua Short Corona [Box of 5] = $10.34/stick — $79.50 → **$51.68**
+- **33%** `iheart` Encore El Primero [Box of 20] = $8.55/stick — $256.50 → **$171.00**
+- **33%** `iheart` Oliva Serie V Torpedo [Box of 24] = $8.36/stick — $299.00 → **$200.75**
+- **30%** `iheart` Rocky Patel Hamlet Liberation Paredes Toro [Box of 10] = $7.22/stick — $103.23 → **$72.15**
+- **30%** `iheart` Tatuaje Surrogates Bone Crusher [Box of 20] = $6.65/stick — $190.00 → **$133.00**
+- **30%** `iheart` illusione Epernay La Vie [Box of 25] = $10.36/stick — $370.00 → **$259.00**
+- **30%** `iheart` Liga Privada Unico Serie Year of the Tiger LE 2022 [Box of 8] = $28.00/stick — $320.00 → **$224.00**
+- **30%** `iheart` Tatuaje Skinny Monsters Wolf [Box of 25] = $6.30/stick — $225.00 → **$157.50**
+- **30%** `iheart` Liga Privada Unico Serie Bauhaus European Exclusive [5 Pack] = $14.00/stick — $100.00 → **$70.00**
+- **30%** `iheart` The Tabernacle Broadleaf Corona [Box of 24] = $8.17/stick — $280.00 → **$196.00**
+- **30%** `iheart` Liga Privada Unico Serie Papas Bravas Toro International Exclusive [5 Pack] = $7.70/stick — $55.00 → **$38.50**
+- **30%** `iheart` Millennium Blend Robusto [Box of 25] = $21.48/stick — $767.00 → **$536.90**
+- **30%** `iheart` Millennium Blend Robusto [Box of 4] = $21.00/stick — $120.00 → **$84.00**
+- **30%** `iheart` Plasencia Triunfal [Box of 10] = $41.93/stick — $599.00 → **$419.30**
+- **30%** `iheart` Liga Privada H99 Flying Pig [5 Pack] = $14.14/stick — $101.00 → **$70.70**
+- **28%** `iheart` Chimolly Pioneer Robusto [Box of 20] = $11.52/stick — $320.00 → **$230.40**
+- **28%** `iheart` Byron Venecianos [Box of 25] = $35.28/stick — $1,225.00 → **$882.00**
+- **28%** `iheart` Nicaragua Short Corona [Box of 14] = $10.33/stick — $200.34 → **$144.69**
+- **26%** `iheart` illusione Fume D'Amour Capistranos [Box of 25] = $8.96/stick — $304.00 → **$224.00**
+- **26%** `iheart` The Tabernacle Havana CT142 Robusto [Box of 24] = $9.77/stick — $318.25 → **$234.50**
+- **25%** `iheart` The Tabernacle Broadleaf Robusto [5 Pack] = $10.47/stick — $69.79 → **$52.34**
+- **25%** `iheart` Linea B No.03 La Dalia [Box of 10] = $11.51/stick — $153.50 → **$115.12**
+- **25%** `iheart` EGM Bravos [Box of 10] = $20.99/stick — $279.90 → **$209.92**
+
+## New products  (36)
+- `iheart` Davidoff Winston Churchill Toro [Box of 20] = $26.30/stick — $526.00
+- `iheart` Signature 2000 Tubos [Box of 20] = $19.40/stick — $388.00
+- `iheart` Zino Platinum Low Rider [Box of 16] = $16.25/stick — $260.00
+- `iheart` Zino Platinum Pudge [Box of 12] = $15.00/stick — $180.00
+- `iheart` The Oscar Maduro Sixty [Box of 11] = $15.00/stick — $165.00
+- `iheart` The Oscar Maduro Toro [Box of 11] = $13.64/stick — $150.00
+- `iheart` Todos Las Dias Double Wide Belicoso [Box of 10] = $14.50/stick — $145.00
+- `iheart` Davidoff Winston Churchill Toro [5 Pack] = $26.30/stick — $131.50
+- `iheart` The Oscar Habano Toro [Box of 11] = $11.82/stick — $130.00
+- `iheart` The Oscar Connecticut Robusto [Box of 11] = $11.82/stick — $130.00
+- `iheart` Caldwell Long Live the Queen Queen's Club [Box of 10] = $11.50/stick — $115.00
+- `iheart` Caldwell Long Live the Queen Queen's Crown [Box of 10] = $11.00/stick — $110.00
+- `iheart` Signature 2000 Tubos [5 Pack] = $19.40/stick — $97.00
+- `iheart` The Oscar Maduro Toro [5 Pack] = $17.53/stick — $87.65
+- `iheart` The Oscar Maduro Sixty [5 Pack] = $17.30/stick — $86.50
+- `iheart` Todos Las Dias Double Wide Belicoso [5 Pack] = $16.95/stick — $84.75
+- `iheart` Zino Platinum Low Rider [5 Pack] = $16.25/stick — $81.25
+- `iheart` Caldwell Long Live the Queen Queen's Club [5 Pack] = $16.00/stick — $80.00
+- `iheart` Signature 2000 Tubos [Box of 4] = $19.40/stick — $77.60
+- `iheart` The Oscar Habano Toro [5 Pack] = $15.18/stick — $75.90
+- `iheart` Zino Platinum Pudge [5 Pack] = $15.00/stick — $75.00
+- `iheart` Caldwell Long Live the Queen Queen's Crown [5 Pack] = $15.00/stick — $75.00
+- `iheart` The Oscar Connecticut Robusto [5 Pack] = $13.91/stick — $69.55
+- `iheart` Davidoff Winston Churchill The Late Hour Belicosos [Box of 4] = $12.40/stick — $49.60
+- `iheart` Davidoff Winston Churchill Toro [Single] = $26.30/stick — $26.30
+- `iheart` Signature 2000 Tubos [Single] = $19.40/stick — $19.40
+- `iheart` The Oscar Maduro Toro [Single] = $17.53/stick — $17.53
+- `iheart` The Oscar Maduro Sixty [Single] = $17.30/stick — $17.30
+- `iheart` Todos Las Dias Double Wide Belicoso [Single] = $16.95/stick — $16.95
+- `iheart` Zino Platinum Low Rider [Single] = $16.25/stick — $16.25
+- _…6 more_
+
+## Cheaper than the same cigar elsewhere  (5) — _unverified, check the vitola_
+- **33% under** `iheart` AJ Fernandez Dias de Gloria Brazil Figurado [Box of 20] = $9.30/stick vs $13.95/stick at `cigarsdirect` (AJ Fernandez Dias de Gloria Brazil Figurado)
+- **32% under** `iheart` Liga Privada T52 Corona Doble [Box of 24] = $13.16/stick vs $19.25/stick at `tccigar` (Liga Privada T52 Corona Doble)
+- **31% under** `iheart` Brick House Churchill Double Connecticut [Box of 25] = $6.21/stick vs $8.96/stick at `cigarsdirect` (Brick House Double Connecticut Churchill)
+- **30% under** `iheart` Brick House Corona Larga Natural [Box of 25] = $5.45/stick vs $7.83/stick at `cigarsdirect` (Brick House Natural Corona Larga)
+- **25% under** `iheart` EGM Media Coronas [Box of 20] = $12.37/stick vs $16.50/stick at `mrbundles` (EGM Media Coronas)
