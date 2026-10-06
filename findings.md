@@ -747,3 +747,11 @@ previous run 2026-10-05T12:15:17+00:00 · 25,999 variants tracked
 - **31% under** `iheart` Brick House Churchill Double Connecticut [Box of 25] = $6.21/stick vs $8.96/stick at `cigarsdirect` (Brick House Double Connecticut Churchill)
 - **30% under** `iheart` Brick House Corona Larga Natural [Box of 25] = $5.45/stick vs $7.83/stick at `cigarsdirect` (Brick House Natural Corona Larga)
 - **25% under** `iheart` EGM Media Coronas [Box of 20] = $12.37/stick vs $16.50/stick at `mrbundles` (EGM Media Coronas)
+
+
+---
+
+# Cigar price monitor — 2026-10-06T12:15:18+00:00
+previous run 2026-10-06T00:17:38+00:00 · 25,999 variants tracked
+
+**No actionable changes.**
