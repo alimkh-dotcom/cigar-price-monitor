@@ -802,3 +802,13 @@ previous run 2026-10-06T12:15:18+00:00 · 26,042 variants tracked
 - `iheart` Winston Churchill Spitfire - Discontinued [Box of 5] = $36.00/stick — $117.00 → $180.00; now $36.00/stick vs $25.00 for its sibling
 - `iheart` Winston Churchill Spitfire - Discontinued [5 Pack] = $36.00/stick — $117.00 → $180.00; now $36.00/stick vs $25.00 for its sibling
 - `iheart` OpusX OXO Oro Oscuro Robusto [Box of 29] = $60.83/stick — $1,323.00 → $1,764.00; now $60.83/stick vs $42.00 for its sibling
+
+
+---
+
+# Cigar price monitor — 2026-10-07T12:15:19+00:00
+previous run 2026-10-07T00:14:55+00:00 · 26,044 variants tracked
+
+## New products  (2)
+- `tccigar` Tatuaje Monster Jason Redux 6 [Box of 13] = $13.00/stick — $169.00
+- `tccigar` Tatuaje Monster Jason Redux 6 [Single Cigar] = $13.00/stick — $13.00
