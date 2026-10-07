@@ -755,3 +755,50 @@ previous run 2026-10-05T12:15:17+00:00 · 25,999 variants tracked
 previous run 2026-10-06T00:17:38+00:00 · 25,999 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-07T00:14:55+00:00
+previous run 2026-10-06T12:15:18+00:00 · 26,042 variants tracked
+
+## Price drops ≥20%  (1)
+- **27%** `cigarsdirect` CAO Amazon Basin Extra Anejo Toro [Box of 18] = $18.33/stick — $450.00 → **$329.99** _(out of stock)_
+
+## New products  (44)
+- `jackschwartz` Andalusian Bull 10th Anniversary Maduro Master Collection [Default Title] — $1,150.00 _(out of stock)_
+- `jackschwartz` God of Fire KKP Never Back Down Diadema 56 [10-Count Black Lacquer Travel Humidor] — $575.00
+- `jackschwartz` LFD Andalusian Bull 10th Anniversary Maduro Bundle [Default Title] — $555.00 _(out of stock)_
+- `gtcigars` Cohiba Rubicon 5CT Sampler [Toro (6 x 54)] — $19.99
+- `gtcigars` Cohiba Rubicon 5CT Sampler [Robusto (5.5 x 55)] — $19.99
+- `gtcigars` Cohiba Rubicon 5CT Sampler [Gigante (6 x 60)] — $19.99
+- `gtcigars` Baccarat The Game 5CT Sampler [Toro (6 x 50)] — $19.99
+- `gtcigars` Baccarat The Game 5CT Sampler [Gordo (6 x 60)] — $19.99
+- `gtcigars` Baccarat The Game 5CT Sampler [Churchill (7 x 50)] — $19.99
+- `gtcigars` Baccarat The Game 5CT Sampler [Belicoso (6.2x54)] — $19.99
+- `gtcigars` Baccarat The Game 5CT Sampler [Rothschild (Robusto) (5.0x50)] — $19.99
+- `gtcigars` Baccarat The Game 5CT Sampler [Maduro Rothschild (Robusto) (5.0x50)] — $19.99
+- `gtcigars` Baccarat The Game 5CT Sampler [Maduro Churchill (7.0x50)] — $19.99
+- `gtcigars` Baccarat The Game 5CT Sampler [Maduro Belicoso (6.2x54)] — $19.99
+- `gtcigars` Baccarat The Game 5CT Sampler [Luchadores (Lonsdale) (6.0x43)] — $19.99
+- `gtcigars` Alec Bradley Chunk 5CT Sampler [Shade XL (4 x 60)] — $19.99
+- `gtcigars` Alec Bradley Chunk 5CT Sampler [Maduro XL (4 x 60)] — $19.99
+- `gtcigars` Alec Bradley Do Not Disturb 5CT Sampler [Toro (6 x 52)] — $19.99
+- `gtcigars` Alec Bradley Do Not Disturb 5CT Sampler [Robusto (5 x 50)] — $19.99
+- `gtcigars` AJ Fernandez San Lotano Bull 5CT Sampler [Toro (6 x 54)] — $19.99
+- `gtcigars` AJ Fernandez San Lotano Bull 5CT Sampler [Robusto (5 x 54)] — $19.99
+- `gtcigars` AJ Fernandez San Lotano Bull 5CT Sampler [Gordo (6 x 60)] — $19.99
+- `gtcigars` AJ Fernandez San Lotano Requiem Connecticut 5CT Sampler [Toro (6 x 54)] — $19.99
+- `gtcigars` AJ Fernandez San Lotano Requiem Connecticut 5CT Sampler [Robusto (5 x 54)] — $19.99
+- `gtcigars` AJ Fernandez San Lotano Requiem Connecticut 5CT Sampler [Gran Toro (6 x 60)] — $19.99
+- `gtcigars` AJ Fernandez San Lotano Requiem Connecticut 5CT Sampler [Churchill (7 x 52)] — $19.99
+- `gtcigars` AJ Fernandez San Lotano Requiem Habano 5CT Sampler [Toro (6 x 54)] — $19.99
+- `gtcigars` AJ Fernandez San Lotano Requiem Habano 5CT Sampler [Robusto (5 x 54)] — $19.99
+- `gtcigars` AJ Fernandez San Lotano Requiem Habano 5CT Sampler [Gran Toro (6 x 60)] — $19.99
+- `gtcigars` AJ Fernandez San Lotano Requiem Maduro 5CT Sampler [Toro (6 x 54)] — $19.99
+- _…14 more_
+
+## Newly inflated variants  (3)
+- `iheart` Winston Churchill Spitfire - Discontinued [Box of 5] = $36.00/stick — $117.00 → $180.00; now $36.00/stick vs $25.00 for its sibling
+- `iheart` Winston Churchill Spitfire - Discontinued [5 Pack] = $36.00/stick — $117.00 → $180.00; now $36.00/stick vs $25.00 for its sibling
+- `iheart` OpusX OXO Oro Oscuro Robusto [Box of 29] = $60.83/stick — $1,323.00 → $1,764.00; now $60.83/stick vs $42.00 for its sibling
