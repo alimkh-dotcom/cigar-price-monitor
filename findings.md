@@ -812,3 +812,88 @@ previous run 2026-10-07T00:14:55+00:00 · 26,044 variants tracked
 ## New products  (2)
 - `tccigar` Tatuaje Monster Jason Redux 6 [Box of 13] = $13.00/stick — $169.00
 - `tccigar` Tatuaje Monster Jason Redux 6 [Single Cigar] = $13.00/stick — $13.00
+
+
+---
+
+# Cigar price monitor — 2026-10-08T00:15:03+00:00
+previous run 2026-10-07T12:15:19+00:00 · 26,127 variants tracked
+
+## Price drops ≥20%  (70)
+- **59%** **BIG** `gtcigars` Trinidad Espiritu Series 2 [Magnum (6" X 60)] — $242.99 → **$99.99**
+- **59%** **BIG** `gtcigars` Trinidad Espiritu [Magnum (6" X 60)] — $242.99 → **$99.99**
+- **58%** **BIG** `gtcigars` Trinidad Espiritu Series 3 [Magnum (6" X 60)] — $237.99 → **$99.99**
+- **58%** **BIG** `gtcigars` Montecristo Espada Oscuro [Magnum Especial (6.0"x60)] — $188.99 → **$79.99**
+- **57%** **BIG** `gtcigars` Trinidad Espiritu Series 2 [Toro (6" X 54)] — $230.99 → **$99.99**
+- **57%** **BIG** `gtcigars` Trinidad Espiritu [Toro (6" X 54)] — $230.99 → **$99.99**
+- **56%** **BIG** `gtcigars` Trinidad Espiritu Series 3 [Toro (6" X 54)] — $226.99 → **$99.99**
+- **55%** **BIG** `gtcigars` AJ Fernandez Enclave Broadleaf [Belicoso (6 x 56)] — $178.99 → **$79.99**
+- **55%** **BIG** `gtcigars` AJ Fernandez New World Puro Especial [Gordo (6 x 60)] — $176.99 → **$79.99**
+- **55%** **BIG** `gtcigars` AJ Fernandez Enclave Broadleaf [Churchill (7 x 52)] — $176.99 → **$79.99**
+- **54%** **BIG** `gtcigars` Montecristo Espada [Magnum Especial (Gordo) (6.0"x60)] — $172.99 → **$79.99**
+- **54%** **BIG** `gtcigars` H Upmann Nica AJF Heritage [Toro (6" x 54)] — $215.99 → **$99.99**
+- **54%** **BIG** `gtcigars` H Upmann by AJ Fernandez [Toro (6"x54)] — $215.99 → **$99.99**
+- **53%** **BIG** `gtcigars` AJ Fernandez New World Puro Especial [Toro (6½ x 52)] — $168.99 → **$79.99**
+- **52%** **BIG** `gtcigars` AJ Fernandez Enclave Broadleaf [Toro (6½ x 54)] — $167.99 → **$79.99**
+- **52%** **BIG** `gtcigars` H Upmann Nica AJF Heritage [Robusto (5" x 52)] — $206.99 → **$99.99**
+- **52%** **BIG** `gtcigars` H Upmann by AJ Fernandez [Robusto (5"x52)] — $206.99 → **$99.99**
+- **51%** **BIG** `gtcigars` H Upmann 1844 Reserve [Robusto (5" x 50)] — $202.99 → **$99.99**
+- **50%** **BIG** `gtcigars` AJ Fernandez New World Oscuro [Double Corona (7½ x 55)] — $160.99 → **$79.99**
+- **50%** **BIG** `gtcigars` AJ Fernandez Bellas Artes Maduro [Gordo (6½ x 58)] — $200.99 → **$99.99**
+- **50%** **BIG** `gtcigars` AJ Fernandez New World Puro Especial [Short Churchill (6 x 48)] — $159.99 → **$79.99**
+- **50%** **BIG** `gtcigars` AJ Fernandez New World Puro Especial [Robusto (5½ x 52)] — $159.99 → **$79.99**
+- **50%** **BIG** `gtcigars` AJ Fernandez New World Oscuro [Gordo (6 x 58)] — $159.99 → **$79.99**
+- **50%** **BIG** `gtcigars` AJ Fernandez Last Call Maduro [Flaquitas (6 x 46)] — $159.99 → **$79.99**
+- **50%** **BIG** `gtcigars` AJ Fernandez Enclave Broadleaf [Robusto (5 x 52)] — $159.99 → **$79.99**
+- **50%** **BIG** `gtcigars` AJ Fernandez New World Oscuro [Toro (6½ x 55)] — $158.99 → **$79.99**
+- **49%** **BIG** `gtcigars` Montecristo Espada Oscuro [Quillion (7.0"x56)] — $157.99 → **$79.99**
+- **49%** **BIG** `gtcigars` H Upmann 1844 Classic [Robusto (5" x 52)] — $194.99 → **$99.99**
+- **48%** **BIG** `gtcigars` AJ Fernandez Enclave Habano [Figurado (6½ x 52)] — $152.99 → **$79.99**
+- **48%** **BIG** `gtcigars` Montecristo Espada [Quillon (Churchill) (7.0"x56)] — $152.99 → **$79.99**
+- **47%** **BIG** `gtcigars` AJ Fernandez Last Call Maduro [Pequeñas (5 x 46)] — $151.99 → **$79.99**
+- **47%** **BIG** `gtcigars` Montecristo Espada Oscuro [Guard (6.0"x50)] — $150.99 → **$79.99**
+- **47%** **BIG** `gtcigars` H Upmann 1844 Reserve [Corona Major (5.5" x 44)] — $187.99 → **$99.99**
+- **47%** **BIG** `gtcigars` H Upmann 1844 Reserve [Demitasse (5.25" X 33)] — $187.99 → **$99.99**
+- **46%** **BIG** `gtcigars` AJ Fernandez New World Oscuro [Belicoso (5½ x 55)] — $148.99 → **$79.99**
+- **46%** **BIG** `gtcigars` AJ Fernandez Last Call Habano [Flaquitas (6 x 46)] — $148.99 → **$79.99**
+- **46%** **BIG** `gtcigars` AJ Fernandez Enclave Habano [Churchill (7 x 52)] — $148.99 → **$79.99**
+- **46%** **BIG** `gtcigars` Montecristo Espada Oscuro [Ricasso (5.0"x54)] — $148.99 → **$79.99**
+- **46%** **BIG** `gtcigars` Montecristo Espada [Ricasso (Robusto) (5.0"x54)] — $148.99 → **$79.99**
+- **46%** **BIG** `gtcigars` AJ Fernandez Bellas Artes Maduro [Toro (6 x 54)] — $185.99 → **$99.99**
+
+## New products  (81)
+- `cigarsdirect` Tatuaje Monster Series The Jason Redux No.6 [Box of 13 Numbered] = $26.85/stick — $349.00
+- `cigarsdirect` Tatuaje Monster Series The Jason Redux No.6 [Box of 13] = $20.69/stick — $269.00
+- `cigarsdirect` Atabey Ritos Toro Gift Set [Ashtray + 5 Cigars] — $243.00
+- `cigarsdirect` Tatuaje Monster Series The Jason Redux No.6 [1 Cigar] = $21.00/stick — $21.00
+- `gtcigars` West Tampa Tobacco Company 5CT Sampler [White Toro (6 X 52)] — $19.99
+- `gtcigars` West Tampa Tobacco Company 5CT Sampler [White Robusto (5 X 50)] — $19.99
+- `gtcigars` West Tampa Tobacco Company 5CT Sampler [White Gigante (6 X 60)] — $19.99
+- `gtcigars` West Tampa Tobacco Company 5CT Sampler [Red Toro (6 X 52)] — $19.99
+- `gtcigars` West Tampa Tobacco Company 5CT Sampler [Red Robusto (5 X 50)] — $19.99
+- `gtcigars` West Tampa Tobacco Company 5CT Sampler [Red Gigante (6 X 60)] — $19.99
+- `gtcigars` West Tampa Tobacco Company 5CT Sampler [Black Toro (6 X 52)] — $19.99
+- `gtcigars` West Tampa Tobacco Company 5CT Sampler [Black Robusto (5 X 50)] — $19.99
+- `gtcigars` West Tampa Tobacco Company 5CT Sampler [Black Gigante (6 X 60)] — $19.99
+- `gtcigars` Saint Luis Rey Maduro 5CT Sampler [Maduro Titan (5.5 X 60)] — $19.99
+- `gtcigars` Saint Luis Rey Maduro 5CT Sampler [Maduro Rothchilde (5 X 54)] — $19.99
+- `gtcigars` Saint Luis Rey Original 5CT Sampler [Toro (6 X 54)] — $19.99
+- `gtcigars` Saint Luis Rey Original 5CT Sampler [Titan (6 X 60)] — $19.99
+- `gtcigars` Saint Luis Rey Original 5CT Sampler [Rothchilde (5 X 54)] — $19.99
+- `gtcigars` Saint Luis Rey Original 5CT Sampler [Churchill (7 X 52)] — $19.99
+- `gtcigars` Saint Luis Rey Tabacales 5CT Sampler [Toro (6 X 54)] — $19.99
+- `gtcigars` Saint Luis Rey Tabacales 5CT Sampler [Titan (6 X 60)] — $19.99
+- `gtcigars` Saint Luis Rey Tabacales 5CT Sampler [Rothchilde (5 X 54)] — $19.99
+- `gtcigars` Rocky Patel The Edge 5CT Sampler [Maduro Robusto (5.5 X 50)] — $19.99
+- `gtcigars` Rocky Patel The Edge 5CT Sampler [Corojo Robusto (5.5 X 50)] — $19.99
+- `gtcigars` Oliva Serie G 5CT Sampler [Torpedo (6.5x52)] — $19.99
+- `gtcigars` Oliva Serie G 5CT Sampler [Toro (6.0x50)] — $19.99
+- `gtcigars` Oliva Serie G 5CT Sampler [Robusto (5.0x50)] — $19.99
+- `gtcigars` Oliva Serie G 5CT Sampler [Maduro Torpedo (6.5x52)] — $19.99
+- `gtcigars` Oliva Serie G 5CT Sampler [Maduro Robusto (5.0x50)] — $19.99
+- `gtcigars` Oliva Serie G 5CT Sampler [Maduro Churchill (7.0x50)] — $19.99
+- _…51 more_
+
+## New variants on existing products  (2)
+- `cigarsdirect` Davidoff Puro Dominicano Corona Larga [Pack of 5] = $23.30/stick — $116.50
+- `jackschwartz` Tatuaje Monster Jason Redux 6 [Single] = $15.25/stick — $15.25 _(out of stock)_
