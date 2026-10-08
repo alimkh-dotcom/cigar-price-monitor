@@ -897,3 +897,11 @@ previous run 2026-10-07T12:15:19+00:00 · 26,127 variants tracked
 ## New variants on existing products  (2)
 - `cigarsdirect` Davidoff Puro Dominicano Corona Larga [Pack of 5] = $23.30/stick — $116.50
 - `jackschwartz` Tatuaje Monster Jason Redux 6 [Single] = $15.25/stick — $15.25 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-10-08T12:15:25+00:00
+previous run 2026-10-08T00:15:03+00:00 · 26,127 variants tracked
+
+**No actionable changes.**
