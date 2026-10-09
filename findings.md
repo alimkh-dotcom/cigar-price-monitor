@@ -935,3 +935,13 @@ previous run 2026-10-08T12:15:25+00:00 · 26,136 variants tracked
 - `jackschwartz` Cavalier Small Batch Lancero [Single] = $13.40/stick — $13.40 _(out of stock)_
 - `jackschwartz` NUB Mexico 464 T [Single] = $11.70/stick — $11.70
 - `jackschwartz` NUB Mexico 460 [Single] = $11.30/stick — $11.30
+
+
+---
+
+# Cigar price monitor — 2026-10-09T12:15:25+00:00
+previous run 2026-10-09T00:15:02+00:00 · 26,137 variants tracked
+
+## New products  (2)
+- `tccigar` New World Dorado Figurado [Box of 10] = $12.00/stick — $119.95
+- `tccigar` New World Dorado Figurado [Single Cigar] = $12.05/stick — $12.05
