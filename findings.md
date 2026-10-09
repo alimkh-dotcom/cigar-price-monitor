@@ -905,3 +905,33 @@ previous run 2026-10-07T12:15:19+00:00 · 26,127 variants tracked
 previous run 2026-10-08T00:15:03+00:00 · 26,127 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-09T00:15:02+00:00
+previous run 2026-10-08T12:15:25+00:00 · 26,136 variants tracked
+
+## New products  (22)
+- `jackschwartz` Toro Del Futuro [Default Title] — $1,230.00 _(out of stock)_
+- `mrbundles` ALADINO LIMITED EDITION TORO [Box of 20] = $18.50/stick — $370.00
+- `jackschwartz` NUB Mexico 464 T [Box of 24] = $10.27/stick — $246.50
+- `jackschwartz` NUB Mexico 460 [Box of 24] = $10.00/stick — $239.95
+- `jackschwartz` Cavalier Small Batch Lancero [Box of 20] = $11.84/stick — $236.75 _(out of stock)_
+- `cigarsdirect` Byron 175 Tribute Set [Box of 4] = $46.12/stick — $184.50 _(out of stock)_
+- `jackschwartz` 2001 Paul Garmirian Reserva Exclusiva Corona [Box of 10] = $17.00/stick — $170.00
+- `jackschwartz` Cavalier Small Batch Salomones [Box of 10] = $15.07/stick — $150.75 _(out of stock)_
+- `jackschwartz` 2007 Paul Garmirian Soiree Belicoso [5-Pack] = $22.00/stick — $110.00
+- `jackschwartz` 2001 Paul Garmirian Gourmet Corona Grandes [5-Pack] = $19.00/stick — $95.00
+- `mrbundles` ALADINO LIMITED EDITION TORO [5 Pack] = $17.00/stick — $85.00
+- `gtcigars` DE30 Box-Pressed Feral Flying Pig Sampler [5⅜ × 60] — $49.99
+- `cigarsdirect` Drew Estate DE30 Feral Flying Pig 3 Pack [3 Cigars] = $16.33/stick — $49.00 _(out of stock)_
+- `gtcigars` DE30 Supremas Sampler [6 × 50/54 Figurado] — $39.99
+- `cigarsdirect` Drew Estate DE30 Suprema 3 Pack [3 Cigars] = $13.00/stick — $39.00 _(out of stock)_
+- `jackschwartz` 2007 Paul Garmirian Soiree Belicoso [Single] = $22.00/stick — $22.00
+- `jackschwartz` 2001 Paul Garmirian Gourmet Corona Grandes [Single] = $19.00/stick — $19.00
+- `jackschwartz` Cavalier Small Batch Salomones [Single] = $17.00/stick — $17.00 _(out of stock)_
+- `jackschwartz` 2001 Paul Garmirian Reserva Exclusiva Corona [Single] = $17.00/stick — $17.00
+- `jackschwartz` Cavalier Small Batch Lancero [Single] = $13.40/stick — $13.40 _(out of stock)_
+- `jackschwartz` NUB Mexico 464 T [Single] = $11.70/stick — $11.70
+- `jackschwartz` NUB Mexico 460 [Single] = $11.30/stick — $11.30
