@@ -1014,3 +1014,11 @@ previous run 2026-10-09T12:15:25+00:00 · 26,079 variants tracked
 - **30% under** `iheart` Meerapfel Ernest Lancero [Box of 25] = $51.10/stick vs $73.00/stick at `mrbundles` (MEERAPFEL ERNEST LANCERO)
 - **28% under** `iheart` AJ Fernandez Dias de Gloria Brazil Figurado [5 Pack] = $10.08/stick vs $13.95/stick at `cigarsdirect` (AJ Fernandez Dias de Gloria Brazil Figurado)
 - **26% under** `iheart` Liga Privada H99 Super Ancho [Box of 10] = $14.85/stick vs $20.20/stick at `tccigar` (Liga Privada H99 Super Ancho)
+
+
+---
+
+# Cigar price monitor — 2026-10-10T12:15:02+00:00
+previous run 2026-10-10T00:14:19+00:00 · 26,079 variants tracked
+
+**No actionable changes.**
