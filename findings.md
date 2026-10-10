@@ -945,3 +945,72 @@ previous run 2026-10-09T00:15:02+00:00 · 26,137 variants tracked
 ## New products  (2)
 - `tccigar` New World Dorado Figurado [Box of 10] = $12.00/stick — $119.95
 - `tccigar` New World Dorado Figurado [Single Cigar] = $12.05/stick — $12.05
+
+
+---
+
+# Cigar price monitor — 2026-10-10T00:14:19+00:00
+previous run 2026-10-09T12:15:25+00:00 · 26,079 variants tracked
+
+## Price drops ≥20%  (97)
+- **40%** **BIG** `iheart` Eastern Standard Euro Express [5 Pack] = $7.43/stick — $61.95 → **$37.17**
+- **40%** **BIG** `iheart` Eastern Standard The Cypress Room [5 Pack] = $10.50/stick — $87.50 → **$52.50**
+- **40%** **BIG** `iheart` Black Serie II Torpedo [5 Pack] = $7.86/stick — $65.50 → **$39.30**
+- **40%** **BIG** `iheart` Black Serie II Robusto [5 Pack] = $5.40/stick — $45.00 → **$27.00**
+- **40%** **BIG** `iheart` Alma Del Cielo Celeste Robusto [Box 10] = $15.00/stick — $250.00 → **$150.00**
+- **40%** **BIG** `iheart` Alma Fuerte Nestor IV Toro [Box of 10] = $14.10/stick — $235.00 → **$141.00**
+- **35%** **BIG** `iheart` Sobremesa Solita Toro [5 Pack] = $10.55/stick — $81.25 → **$52.75**
+- **35%** **BIG** `iheart` CLE Prieto Robusto [5 Pack] = $6.95/stick — $53.50 → **$34.77**
+- **35%** **BIG** `iheart` CLE Corojo Perfecto 11/18 [5 Pack] = $7.97/stick — $61.30 → **$39.84**
+- **35%** **BIG** `iheart` Bits of Havana Seleccion De Capital [5 Pack] = $8.12/stick — $62.50 → **$40.62**
+- **35%** **BIG** `iheart` Alec Bradley Magic Toast Gran Toro Limited Edition [5 Pack] = $8.61/stick — $66.25 → **$43.06**
+- **35%** **BIG** `iheart` Rojas Street Tacos Carnitas Toro Grande [Box of 25] = $6.82/stick — $262.50 → **$170.62**
+- **35%** **BIG** `iheart` Davidoff Winston Churchill Toro [Box of 20] = $17.09/stick — $526.00 → **$341.90**
+- **35%** **BIG** `iheart` Fratello Arlequin Connecticut Toro [Box of 20] = $8.87/stick — $273.00 → **$177.45**
+- **35%** **BIG** `iheart` Liga Privada 10 Aniversario Seleccion Mercado Corona Doble Intl. Exclusive [Box of 10] = $14.17/stick — $218.00 → **$141.70**
+- **35%** **BIG** `iheart` Liga Privada Unico Serie UF-13 [5 Pack] = $12.87/stick — $99.00 → **$64.35**
+- **35%** **BIG** `iheart` Fratello Arlequin Corona [Box of 20] = $7.83/stick — $241.00 → **$156.65**
+- **35%** **BIG** `iheart` Fratello Classico Robusto [Box of 20] = $8.19/stick — $252.00 → **$163.80**
+- **35%** **BIG** `iheart` Warped Isla Del Cocodrilo Croc Bites [Box of 30] = $8.12/stick — $375.00 → **$243.75**
+- **35%** **BIG** `iheart` Warped Isla Del Cocodrilo Blanco Perfecto [Box of 15] = $11.70/stick — $270.00 → **$175.50**
+- **35%** **BIG** `iheart` Rocky Patel Hamlet 2020 Robusto [Box of 20] = $7.18/stick — $221.00 → **$143.65**
+- **35%** **BIG** `iheart` Puro D'oro Deliciosos - Discontinued [5 Pack] = $35.75/stick — $275.00 → **$178.75**
+- **35%** **BIG** `iheart` El Septimo Culinary Art Collection Rioja [Box of 20] = $9.10/stick — $280.00 → **$182.00**
+- **35%** **BIG** `iheart` Liga Privada Unico Serie Bauhaus European Exclusive [Box 12] = $13.00/stick — $240.00 → **$156.00**
+- **35%** **BIG** `iheart` Liga Privada Unico Serie Bauhaus European Exclusive [5 Pack] = $13.00/stick — $100.00 → **$65.00**
+- **35%** **BIG** `iheart` Colorado Claro Aniversario No. 3 [5 Pack] = $24.18/stick — $186.00 → **$120.90**
+- **35%** **BIG** `iheart` Liga Privada Unico Serie L40 [5 Pack] = $13.00/stick — $100.00 → **$65.00**
+- **35%** **BIG** `iheart` Rojas Street Tacos Al Pastor Toro [Box of 25] = $6.50/stick — $250.00 → **$162.50**
+- **35%** **BIG** `iheart` Liga Privada H99 Flying Pig [Box of 12] = $13.13/stick — $242.40 → **$157.56**
+- **35%** **BIG** `iheart` Millennium Blend Robusto [Box of 25] = $19.94/stick — $767.00 → **$498.55**
+- **35%** **BIG** `iheart` Millennium Blend Robusto [5 Pack] = $19.50/stick — $150.00 → **$97.50**
+- **35%** **BIG** `iheart` Millennium Blend Robusto [Box of 4] = $19.50/stick — $120.00 → **$78.00**
+- **35%** **BIG** `iheart` 80th Anniversary LE 2006- Discontinued. [5 Pack] = $29.25/stick — $225.00 → **$146.25**
+- **35%** **BIG** `iheart` Royal Salomones Original 2013 Release - Discontinued [Box of 50] = $110.50/stick — $8,500.00 → **$5,525.00** _(out of stock)_
+- **35%** **BIG** `iheart` Royal Salomones Original 2013 Release - Discontinued [5 Pack] = $110.50/stick — $850.00 → **$552.50**
+- **35%** **BIG** `iheart` Plasencia Year of the Ox (LE 2021) [5 Pack] = $42.25/stick — $325.00 → **$211.25**
+- **35%** **BIG** `iheart` Legacy Shade Grown Epicure [Box of 24] = $8.78/stick — $324.00 → **$210.60**
+- **35%** **BIG** `iheart` El Septimo Culinary Arts Collection Italy Toscana [Box of 20] = $11.70/stick — $360.00 → **$234.00**
+- **35%** **BIG** `iheart` Aged Maduro No.10 [5 Pack] = $8.45/stick — $65.00 → **$42.25**
+- **35%** **BIG** `iheart` Allegria Gordo [5 Pack] = $8.45/stick — $65.00 → **$42.25**
+
+## New products  (4)
+- `jackschwartz` LFD Rarest of the Rare [Default Title] — $1,240.00
+- `jackschwartz` Billy's 10th Anniversary Bully Bundle [Default Title] — $240.00
+- `jackschwartz` The LFD Legacy Collection [Default Title] — $196.00
+- `mrbundles` Opus October Bundle #2 [Default Title] — $150.00
+
+## New variants on existing products  (5)
+- `cigarsdirect` La Flor Dominicana Suave Gobernador [Box of 20] = $11.52/stick — $230.40 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Suave Grand Maduro No.6 [Box of 20] = $11.52/stick — $230.40 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Suave Grand Maduro No.5 [Box of 20] = $10.62/stick — $212.40 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Suave Maximo [Box of 20] = $10.62/stick — $212.40 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Suave Maceo [Box of 20] = $7.56/stick — $151.20 _(out of stock)_
+
+## Cheaper than the same cigar elsewhere  (6) — _unverified, check the vitola_
+- **35% under** `iheart` Davidoff Winston Churchill Toro [Box of 20] = $17.09/stick vs $26.30/stick at `mrbundles` (Davidoff Winston Churchill Toro)
+- **32% under** `iheart` Liga Privada Unico Serie L40 [5 Pack] = $13.00/stick vs $19.00/stick at `tccigar` (Liga Privada Unico Serie L40)
+- **31% under** `iheart` Liga Privada Unico Serie UF-13 [5 Pack] = $12.87/stick vs $18.75/stick at `tccigar` (Liga Privada Unico Serie UF-13)
+- **30% under** `iheart` Meerapfel Ernest Lancero [Box of 25] = $51.10/stick vs $73.00/stick at `mrbundles` (MEERAPFEL ERNEST LANCERO)
+- **28% under** `iheart` AJ Fernandez Dias de Gloria Brazil Figurado [5 Pack] = $10.08/stick vs $13.95/stick at `cigarsdirect` (AJ Fernandez Dias de Gloria Brazil Figurado)
+- **26% under** `iheart` Liga Privada H99 Super Ancho [Box of 10] = $14.85/stick vs $20.20/stick at `tccigar` (Liga Privada H99 Super Ancho)
