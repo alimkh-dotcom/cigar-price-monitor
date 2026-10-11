@@ -1030,3 +1030,13 @@ previous run 2026-10-10T00:14:19+00:00 · 26,079 variants tracked
 previous run 2026-10-10T12:15:02+00:00 · 26,078 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-11T12:15:05+00:00
+previous run 2026-10-11T00:14:26+00:00 · 26,080 variants tracked
+
+## New products  (2)
+- `tccigar` Opus X La Edicion de la Sociedad Toro [Box of 20] = $100.00/stick — $2,000.00 _(out of stock)_
+- `tccigar` Opus X La Edicion de la Sociedad Toro [Single Cigar] = $100.00/stick — $100.00
