@@ -1040,3 +1040,12 @@ previous run 2026-10-11T00:14:26+00:00 · 26,080 variants tracked
 ## New products  (2)
 - `tccigar` Opus X La Edicion de la Sociedad Toro [Box of 20] = $100.00/stick — $2,000.00 _(out of stock)_
 - `tccigar` Opus X La Edicion de la Sociedad Toro [Single Cigar] = $100.00/stick — $100.00
+
+
+---
+
+# Cigar price monitor — 2026-10-12T00:14:40+00:00
+previous run 2026-10-11T12:15:05+00:00 · 26,077 variants tracked
+
+## New products  (1)
+- `jackschwartz` Jack Schwartz X LFD Heritage Collection [Default Title] — $95.00
