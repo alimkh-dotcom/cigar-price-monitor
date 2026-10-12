@@ -1049,3 +1049,11 @@ previous run 2026-10-11T12:15:05+00:00 · 26,077 variants tracked
 
 ## New products  (1)
 - `jackschwartz` Jack Schwartz X LFD Heritage Collection [Default Title] — $95.00
+
+
+---
+
+# Cigar price monitor — 2026-10-12T12:15:44+00:00
+previous run 2026-10-12T00:14:40+00:00 · 26,077 variants tracked
+
+**No actionable changes.**
