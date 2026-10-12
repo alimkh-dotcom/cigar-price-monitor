@@ -154,3 +154,35 @@ compared against 7 retailers and 4 previous Monday Madness runs
 | 3 | Rocky Patel Hamlet 2020 Robusto [Box of 20] | $221.00 → **$143.65** | $7.18 | -35% on-site ($221.00 → $143.65, compare_at); -47% vs $13.59/stick at cigarsdirect (in stock); also discounted on 2026-10-05 at $7.18 |
 | 4 | Liga Privada T52 Corona Doble [Box of 24] | $486.00 → **$315.90** | $13.16 | -35% on-site ($486.00 → $315.90, compare_at); -32% vs $19.25/stick at tccigar (in stock); also discounted on 2026-10-05 at $13.16 |
 | 5 | Alma del Fuego Candente Robusto [5 Pack] | $87.50 → **$52.50** | $10.50 | -40% on-site ($87.50 → $52.50, compare_at); -36% vs $16.53/stick at cigarsdirect (in stock); also discounted on 2026-10-05 at $10.50 |
+
+
+---
+
+# Monday Madness — 2026-10-12
+96 variants marked down on-site · these revert within ~24h
+compared against 7 retailers and 5 previous Monday Madness runs
+
+## Top 10 picks · $1,380.76 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Meerapfel Meir Robusto [5 Pack] | $210.00 → **$147.00** | $29.40 | -30% on-site ($210.00 → $147.00, compare_at); -71% vs $100.00/stick at mrbundles (in stock); first time discounted |
+| 2 | Don Carlos Eye of the Bull [5 Pack] | $114.25 → **$85.69** | $17.14 | -25% on-site ($114.25 → $85.69, compare_at); -52% vs $36.00/stick at cigarsdirect (in stock); first time discounted |
+| 3 | Winston Churchill Robusto [Box of 20] | $482.00 → **$313.30** | $15.67 | -35% on-site ($482.00 → $313.30, compare_at); -36% vs $24.35/stick at jackschwartz (in stock); also discounted on 2026-09-21 at $18.08 |
+| 4 | Alma Fuerte Robustus I [5 Pack] | $107.00 → **$64.20** | $12.84 | -40% on-site ($107.00 → $64.20, compare_at); -37% vs $20.39/stick at tccigar (in stock); first time discounted |
+| 5 | Plasencia Alma del Campo Sendero Toro Gord [Box of 10] | $214.90 → **$128.94** | $12.89 | -40% on-site ($214.90 → $128.94, compare_at); -32% vs $19.01/stick at cigarsdirect (in stock); first time discounted |
+| 6 | Liga Privada H99 Super Ancho [Box of 10] | $228.50 → **$148.53** | $14.85 | -35% on-site ($228.50 → $148.53, compare_at); -26% vs $20.20/stick at tccigar (in stock); also discounted on 2026-09-21 at $16.68 |
+| 7 | Colorado Claro Aniversario No. 3 [5 Pack] | $186.00 → **$120.90** | $24.18 | -35% on-site ($186.00 → $120.90, compare_at); -35% vs $37.45/stick at jackschwartz (in stock); also discounted on 2026-10-06 at $27.90 |
+| 8 | Liga Privada H99 Robusto [Box of 24] | $408.00 → **$265.20** | $11.05 | -35% on-site ($408.00 → $265.20, compare_at); -29% vs $15.50/stick at tccigar (in stock); first time discounted |
+| 9 | AJ Fernandez New World Decenio Gordo [5 Pack] | $75.00 → **$45.00** | $9.00 | -40% on-site ($75.00 → $45.00, compare_at); -33% vs $13.50/stick at cigarsdirect (in stock); first time discounted |
+| 10 | Warped Isla Del Cocodrilo Toro Grande Limi [5 Pack] | $90.00 → **$62.00** | $12.40 | -31% on-site ($90.00 → $62.00, compare_at); -32% vs $18.29/stick at luxurycigar (in stock); also discounted on 2026-10-06 at $13.50 |
+
+## Top 5 picks · $739.13 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Meerapfel Meir Robusto [5 Pack] | $210.00 → **$147.00** | $29.40 | -30% on-site ($210.00 → $147.00, compare_at); -71% vs $100.00/stick at mrbundles (in stock); first time discounted |
+| 2 | Don Carlos Eye of the Bull [5 Pack] | $114.25 → **$85.69** | $17.14 | -25% on-site ($114.25 → $85.69, compare_at); -52% vs $36.00/stick at cigarsdirect (in stock); first time discounted |
+| 3 | Winston Churchill Robusto [Box of 20] | $482.00 → **$313.30** | $15.67 | -35% on-site ($482.00 → $313.30, compare_at); -36% vs $24.35/stick at jackschwartz (in stock); also discounted on 2026-09-21 at $18.08 |
+| 4 | Alma Fuerte Robustus I [5 Pack] | $107.00 → **$64.20** | $12.84 | -40% on-site ($107.00 → $64.20, compare_at); -37% vs $20.39/stick at tccigar (in stock); first time discounted |
+| 5 | Plasencia Alma del Campo Sendero Toro Gord [Box of 10] | $214.90 → **$128.94** | $12.89 | -40% on-site ($214.90 → $128.94, compare_at); -32% vs $19.01/stick at cigarsdirect (in stock); first time discounted |
