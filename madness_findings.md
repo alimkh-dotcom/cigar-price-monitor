@@ -218,3 +218,35 @@ compared against 7 retailers and 6 previous Monday Madness runs
 | 3 | Don Carlos Eye of the Bull [5 Pack] | $114.25 → **$85.69** | $17.14 | -25% on-site ($114.25 → $85.69, compare_at); -52% vs $36.00/stick at cigarsdirect (in stock); also discounted on 2026-10-12 at $17.14 |
 | 4 | Alma Fuerte Robustus I [5 Pack] | $107.00 → **$64.20** | $12.84 | -40% on-site ($107.00 → $64.20, compare_at); -37% vs $20.39/stick at tccigar (in stock); also discounted on 2026-10-12 at $12.84 |
 | 5 | Plasencia Alma del Campo Sendero Toro Gord [Box of 10] | $214.90 → **$128.94** | $12.89 | -40% on-site ($214.90 → $128.94, compare_at); -32% vs $19.01/stick at cigarsdirect (in stock); also discounted on 2026-10-12 at $12.89 |
+
+
+---
+
+# Monday Madness — 2026-10-13
+95 variants marked down on-site · these revert within ~24h
+compared against 7 retailers and 6 previous Monday Madness runs
+
+## Top 10 picks · $1,387.88 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Winston Churchill Robusto [Box of 20] | $482.00 → **$313.30** | $15.67 | -35% on-site ($482.00 → $313.30, compare_at); -36% vs $24.35/stick at jackschwartz (in stock); also discounted on 2026-10-12 at $24.10 |
+| 2 | Meerapfel Meir Robusto [5 Pack] | $210.00 → **$147.00** | $29.40 | -30% on-site ($210.00 → $147.00, compare_at); -71% vs $100.00/stick at mrbundles (in stock); also discounted on 2026-10-12 at $29.40 |
+| 3 | Don Carlos Eye of the Bull [5 Pack] | $114.25 → **$85.69** | $17.14 | -25% on-site ($114.25 → $85.69, compare_at); -52% vs $36.00/stick at cigarsdirect (in stock); also discounted on 2026-10-12 at $17.14 |
+| 4 | Alma Fuerte Robustus I [5 Pack] | $107.00 → **$64.20** | $12.84 | -40% on-site ($107.00 → $64.20, compare_at); -37% vs $20.39/stick at tccigar (in stock); also discounted on 2026-10-12 at $12.84 |
+| 5 | Plasencia Alma del Campo Sendero Toro Gord [Box of 10] | $214.90 → **$128.94** | $12.89 | -40% on-site ($214.90 → $128.94, compare_at); -32% vs $19.01/stick at cigarsdirect (in stock); also discounted on 2026-10-12 at $12.89 |
+| 6 | Liga Privada H99 Robusto [Box of 24] | $408.00 → **$265.20** | $11.05 | -35% on-site ($408.00 → $265.20, compare_at); -29% vs $15.50/stick at tccigar (in stock); also discounted on 2026-10-12 at $11.05 |
+| 7 | Liga Privada H99 Super Ancho [Box of 10] | $228.50 → **$148.53** | $14.85 | -35% on-site ($228.50 → $148.53, compare_at); -26% vs $20.20/stick at tccigar (in stock); also discounted on 2026-10-12 at $14.85 |
+| 8 | AJ Fernandez New World Decenio Gordo [5 Pack] | $75.00 → **$45.00** | $9.00 | -40% on-site ($75.00 → $45.00, compare_at); -33% vs $13.50/stick at cigarsdirect (in stock); also discounted on 2026-10-12 at $9.00 |
+| 9 | Colorado Claro Aniversario No. 3 [5 Pack] | $186.00 → **$120.90** | $24.18 | -35% on-site ($186.00 → $120.90, compare_at); -35% vs $37.45/stick at jackschwartz (in stock); also discounted on 2026-10-12 at $24.18 |
+| 10 | Liga Privada 10 Aniversario Seleccion Merc [5 Pack] | $98.75 → **$69.12** | $13.82 | -30% on-site ($98.75 → $69.12, compare_at); -26% vs $18.70/stick at tccigar (in stock); also discounted on 2026-10-12 at $13.82 |
+
+## Top 5 picks · $739.13 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Winston Churchill Robusto [Box of 20] | $482.00 → **$313.30** | $15.67 | -35% on-site ($482.00 → $313.30, compare_at); -36% vs $24.35/stick at jackschwartz (in stock); also discounted on 2026-10-12 at $24.10 |
+| 2 | Meerapfel Meir Robusto [5 Pack] | $210.00 → **$147.00** | $29.40 | -30% on-site ($210.00 → $147.00, compare_at); -71% vs $100.00/stick at mrbundles (in stock); also discounted on 2026-10-12 at $29.40 |
+| 3 | Don Carlos Eye of the Bull [5 Pack] | $114.25 → **$85.69** | $17.14 | -25% on-site ($114.25 → $85.69, compare_at); -52% vs $36.00/stick at cigarsdirect (in stock); also discounted on 2026-10-12 at $17.14 |
+| 4 | Alma Fuerte Robustus I [5 Pack] | $107.00 → **$64.20** | $12.84 | -40% on-site ($107.00 → $64.20, compare_at); -37% vs $20.39/stick at tccigar (in stock); also discounted on 2026-10-12 at $12.84 |
+| 5 | Plasencia Alma del Campo Sendero Toro Gord [Box of 10] | $214.90 → **$128.94** | $12.89 | -40% on-site ($214.90 → $128.94, compare_at); -32% vs $19.01/stick at cigarsdirect (in stock); also discounted on 2026-10-12 at $12.89 |

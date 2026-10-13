@@ -1149,3 +1149,11 @@ previous run 2026-10-12T12:15:44+00:00 · 26,094 variants tracked
 - `iheart` EGM Maduro Rios [Box of 10] = $29.99/stick — $209.93 → $299.90; now $29.99/stick vs $22.49 for its sibling
 - `iheart` OpusX Belicosos XXX [Box of 42] = $29.76/stick — $937.50 → $1,250.00; now $29.76/stick vs $22.50 for its sibling
 - `iheart` Don Carlos Eye of the Bull [Box of 20] = $22.85/stick — $342.75 → $457.00; now $22.85/stick vs $17.14 for its sibling
+
+
+---
+
+# Cigar price monitor — 2026-10-13T12:15:22+00:00
+previous run 2026-10-13T00:01:50+00:00 · 26,094 variants tracked
+
+**No actionable changes.**
