@@ -1057,3 +1057,95 @@ previous run 2026-10-11T12:15:05+00:00 · 26,077 variants tracked
 previous run 2026-10-12T00:14:40+00:00 · 26,077 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-13T00:01:50+00:00
+previous run 2026-10-12T12:15:44+00:00 · 26,094 variants tracked
+
+## Price drops ≥20%  (75)
+- **79%** **BIG** `iheart` Winston Churchill Robusto [Box of 4] = $24.10/stick — $458.00 → **$96.40**
+- **40%** **BIG** `iheart` AJ Fernandez Dias de Gloria Brazil Robusto [5 Pack] = $8.70/stick — $72.50 → **$43.50**
+- **40%** **BIG** `iheart` AJ Fernandez New World Decenio Gordo [5 Pack] = $9.00/stick — $75.00 → **$45.00**
+- **40%** **BIG** `iheart` Fratello Classico Corona [Box of 20] = $6.71/stick — $223.60 → **$134.16**
+- **40%** **BIG** `iheart` Brick House Corona Larga Natural [Box of 25] = $5.45/stick — $227.00 → **$136.20**
+- **40%** **BIG** `iheart` Joya Silver Toro [5 Pack] = $5.55/stick — $46.25 → **$27.75**
+- **40%** **BIG** `iheart` Cavalier Geneve Prospektor [5 Pack] = $8.10/stick — $67.50 → **$40.50**
+- **40%** **BIG** `iheart` Alma Fuerte Robustus I [5 Pack] = $12.84/stick — $107.00 → **$64.20**
+- **40%** **BIG** `iheart` Alma del Fuego Candente Robusto [5 Pack] = $10.50/stick — $87.50 → **$52.50**
+- **40%** **BIG** `iheart` Fratello Arlequin Toro [Box of 20] = $8.19/stick — $273.00 → **$163.80**
+- **40%** **BIG** `iheart` Black Robusto [5 Pack] = $4.92/stick — $41.00 → **$24.60**
+- **38%** **BIG** `iheart` Joya De Nicaragua Numero Uno L'ambassadeur [5 Pack] = $12.25/stick — $98.75 → **$61.23**
+- **35%** **BIG** `iheart` Cumpay Short [5 Pack] = $5.26/stick — $40.50 → **$26.32**
+- **35%** **BIG** `iheart` Mi Querida Black SakaKhan [5 Pack] = $13.16/stick — $101.25 → **$65.81**
+- **35%** **BIG** `iheart` illusione Epernay Tuonela Le Taureau [Box of 25] = $8.90/stick — $342.50 → **$222.62**
+- **35%** **BIG** `iheart` Timeless Classics Assortment (2014 Release) [Box of 3] = $21.45/stick — $99.00 → **$64.35**
+- **35%** **BIG** `iheart` CLE Corojo Robusto [5 Pack] = $7.51/stick — $57.80 → **$37.57**
+- **35%** **BIG** `iheart` Liga Privada 10-Year Aniversario A Savage Feast [Box of 2] = $61.75/stick — $190.00 → **$123.50**
+- **35%** **BIG** `iheart` Cumpay Volcan [5 Pack] = $10.40/stick — $80.00 → **$52.00**
+- **35%** **BIG** `iheart` Avo Improvisation LE2019 Toro - Discontinued [5 Pack] = $14.30/stick — $110.00 → **$71.50**
+- **35%** **BIG** `iheart` illusione Fume D'Amour Lagunas [Box of 50] = $6.04/stick — $465.00 → **$302.25**
+- **35%** **BIG** `iheart` Rocky Patel Hamlet Liberation Corona Gorda- Discontinued [Box of 20] = $6.50/stick — $200.00 → **$130.00**
+- **35%** **BIG** `iheart` Nicaragua Short Corona [Box of 14] = $10.33/stick — $222.60 → **$144.69**
+- **35%** **BIG** `iheart` Puro D'oro Gorditos - Discontinued [5 Pack] = $39.65/stick — $305.00 → **$198.25**
+- **35%** **BIG** `iheart` Liga Privada H99 Robusto [Box of 24] = $11.05/stick — $408.00 → **$265.20**
+- **35%** **BIG** `iheart` Yamasa Robusto [Box of 4] = $14.37/stick — $88.40 → **$57.46**
+- **35%** **BIG** `iheart` Liga Privada No.9 Flying Pig [Box of 12] = $13.00/stick — $240.00 → **$156.00**
+- **35%** **BIG** `iheart` Winston Churchill Robusto [Box of 20] = $15.67/stick — $482.00 → **$313.30**
+- **35%** `iheart` Olmec Claro Double Corona [Box of 12] = $11.61/stick — $214.32 → **$139.31**
+- **35%** `iheart` Nicaragua Short Corona [Box of 5] = $10.34/stick — $79.50 → **$51.68**
+- **35%** `iheart` illusione Original Documents Habano Churchill [5 Pack] = $9.30/stick — $71.50 → **$46.48**
+- **35%** `iheart` Winston Churchill Petit Panetelas [Box of 5] = $6.05/stick — $46.50 → **$30.23**
+- **33%** `iheart` Plasencia Alma del Campo Sendero Toro Gordo [Box of 10] = $12.89/stick — $193.41 → **$128.94**
+- **33%** `iheart` Cosecha 149 Azacualpa Toro [Box 10] = $10.14/stick — $152.10 → **$101.40**
+- **32%** `iheart` The Tabernacle Havana CT142 Goliath [Box of 25] = $10.72/stick — $391.88 → **$268.12**
+- **32%** `iheart` Winston Churchill Chequers - Discontinued [Box of 25] = $20.80/stick — $760.00 → **$520.00**
+- **32%** `iheart` Charter Oak Habano Petite Corona [Box of 20] = $4.56/stick — $133.38 → **$91.26**
+- **32%** `iheart` Aksum Claro Robusto [Box of 10] = $10.63/stick — $155.42 → **$106.34**
+- **32%** `iheart` The Tabernacle Broadleaf Toro [Box of 24] = $9.80/stick — $343.82 → **$235.25**
+- **31%** `iheart` Warped Isla Del Cocodrilo Toro Grande Limited Edition [5 Pack] = $12.40/stick — $90.00 → **$62.00**
+
+## New products  (14)
+- `jackschwartz` The Sapphire Torero Reserve [Default Title] — $16,500.00
+- `mrbundles` Rocky Patel Year of the Snake [BOX OF 10] = $35.00/stick — $350.00
+- `cigarsdirect` La Flor Dominicana Oro Natural No.8 [Box of 20] = $16.83/stick — $336.60 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Oro Natural No.7 [Box of 20] = $16.65/stick — $333.00 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Oro Natural No.5 [Box of 20] = $15.12/stick — $302.40 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Double Ligero 654 [Box of 20] = $10.44/stick — $208.80 _(out of stock)_
+- `mrbundles` AJ FERNANDEZ SAN LOTANO REQUIEM MADURO TORO [BOX OF 20] = $9.50/stick — $190.00
+- `mrbundles` Rocky Patel Year of the Snake [5 PACK] = $35.00/stick — $175.00
+- `mrbundles` AJ FERNANDEZ SAN LOTANO REQUIEM MADURO TORO [10 PACK] = $9.50/stick — $95.00
+- `cigarsdirect` La Flor Dominicana Fresh Pack Sampler [5 Cigars] = $8.73/stick — $43.65 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Oro Natural No.8 [1 Cigar] = $18.70/stick — $18.70 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Oro Natural No.7 [1 Cigar] = $18.50/stick — $18.50 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Oro Natural No.5 [1 Cigar] = $16.80/stick — $16.80 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Double Ligero 654 [1 Cigar] = $11.60/stick — $11.60 _(out of stock)_
+
+## New variants on existing products  (3)
+- `cigarsdirect` La Flor Dominicana Oro Natural Chisel [Box of 20] = $16.38/stick — $327.60 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Oro Maduro No.6 [Box of 20] = $15.66/stick — $313.20 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Oro Natural No.6 [Box of 20] = $15.66/stick — $313.20 _(out of stock)_
+
+## Cheaper than the same cigar elsewhere  (5) — _unverified, check the vitola_
+- **33% under** `iheart` AJ Fernandez Dias de Gloria Brazil Robusto [5 Pack] = $8.70/stick vs $13.05/stick at `cigarsdirect` (AJ Fernandez Dias de Gloria Brazil Robusto)
+- **32% under** `iheart` Plasencia Alma del Campo Sendero Toro Gordo [Box of 10] = $12.89/stick vs $19.01/stick at `cigarsdirect` (Plasencia Alma Del Campo Sendero Toro Gordo)
+- **30% under** `iheart` Brick House Corona Larga Natural [Box of 25] = $5.45/stick vs $7.83/stick at `cigarsdirect` (Brick House Natural Corona Larga)
+- **29% under** `iheart` Liga Privada H99 Robusto [Box of 24] = $11.05/stick vs $15.50/stick at `tccigar` (Liga Privada H99 Robusto)
+- **26% under** `iheart` Liga Privada Unico Serie Dirty Rat [5 Pack] = $12.83/stick vs $17.33/stick at `tccigar` (Liga Privada Unico Serie Dirty Rat)
+
+## Newly inflated variants  (14)
+- `iheart` Winston Churchill Petit Panetelas [Single] = $9.60/stick — $4.65 → $9.60; now $9.60/stick vs $6.05 for its sibling
+- `iheart` Alma Fuerte Robustus I [Box 10] = $21.40/stick — $128.40 → $214.00; now $21.40/stick vs $12.84 for its sibling
+- `iheart` El Septimo Culinary Art Collection Rioja [Box of 20] = $14.00/stick — $182.00 → $280.00; now $14.00/stick vs $9.80 for its sibling
+- `iheart` Millennium Blend Robusto [5 Pack] = $30.00/stick — $97.50 → $150.00; now $30.00/stick vs $19.50 for its sibling
+- `iheart` El Septimo Culinary Arts Collection Italy Toscana [Box of 20] = $18.00/stick — $234.00 → $360.00; now $18.00/stick vs $12.60 for its sibling
+- `iheart` Fuente Fuente Opusx Perfecxion X [5 Pack] = $42.00/stick — $147.00 → $210.00; now $42.00/stick vs $31.50 for its sibling
+- `iheart` Arturo Fuente Fuente Fuente Opusx Oro Oscuro Super Belicoso [5 Pack] = $47.00/stick — $164.50 → $235.00; now $47.00/stick vs $33.00 for its sibling
+- `iheart` Meerapfel Ernest Corona Gorda [Box of 25] = $43.00/stick — $752.50 → $1,075.00; now $43.00/stick vs $30.10 for its sibling
+- `iheart` Aniversario Special R [Box of 25] = $28.10/stick — $491.75 → $702.50; now $28.10/stick vs $19.63 for its sibling
+- `iheart` Aniversario Special R [Box of 4] = $28.10/stick — $78.68 → $112.40; now $28.10/stick vs $19.63 for its sibling
+- `iheart` Aniversario Special R [Box of 3 (Tubos)] = $29.00/stick — $60.90 → $87.00; now $29.00/stick vs $19.63 for its sibling
+- `iheart` EGM Maduro Rios [Box of 10] = $29.99/stick — $209.93 → $299.90; now $29.99/stick vs $22.49 for its sibling
+- `iheart` OpusX Belicosos XXX [Box of 42] = $29.76/stick — $937.50 → $1,250.00; now $29.76/stick vs $22.50 for its sibling
+- `iheart` Don Carlos Eye of the Bull [Box of 20] = $22.85/stick — $342.75 → $457.00; now $22.85/stick vs $17.14 for its sibling
