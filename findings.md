@@ -1157,3 +1157,31 @@ previous run 2026-10-12T12:15:44+00:00 · 26,094 variants tracked
 previous run 2026-10-13T00:01:50+00:00 · 26,094 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-13T21:14:59+00:00
+previous run 2026-10-13T12:15:22+00:00 · 26,110 variants tracked
+
+## New products  (12)
+- `cigarsdirect` La Flor Dominicana Reserva Especial Gran Robusto [Box of 24] = $10.89/stick — $261.36 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Reserva Especial Toro [Box of 24] = $10.71/stick — $257.04 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Reserva Especial Robusto [Box of 24] = $10.08/stick — $241.92 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Reserva Especial El Jocko Maduro [Box of 24] = $8.82/stick — $211.68 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Reserva Especial El Jocko Natural [Box of 24] = $8.37/stick — $200.88 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Ligero Lancero [Box of 10] = $17.46/stick — $174.60 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Ligero Lancero [1 Cigar] = $19.40/stick — $19.40 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Reserva Especial Gran Robusto [1 Cigar] = $12.10/stick — $12.10 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Reserva Especial Toro [1 Cigar] = $11.90/stick — $11.90 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Reserva Especial Robusto [1 Cigar] = $11.20/stick — $11.20 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Reserva Especial El Jocko Maduro [1 Cigar] = $9.80/stick — $9.80 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Reserva Especial El Jocko Natural [1 Cigar] = $9.30/stick — $9.30 _(out of stock)_
+
+## New variants on existing products  (3)
+- `jackschwartz` Cohiba Connecticut Robusto [Box of 20] = $27.68/stick — $553.50 _(out of stock)_
+- `jackschwartz` Cohiba Connecticut Robusto [Box of 10 (Tubos)] = $28.59/stick — $285.95 _(out of stock)_
+- `jackschwartz` Cohiba Connecticut Robusto [Single (Tubos)] — $32.00 _(out of stock)_
+
+## Newly inflated variants  (1)
+- `iheart` Fratello Arlequin Toro [Box of 20] = $13.65/stick — $163.80 → $273.00; now $13.65/stick vs $10.92 for its sibling
