@@ -1185,3 +1185,11 @@ previous run 2026-10-13T12:15:22+00:00 · 26,110 variants tracked
 
 ## Newly inflated variants  (1)
 - `iheart` Fratello Arlequin Toro [Box of 20] = $13.65/stick — $163.80 → $273.00; now $13.65/stick vs $10.92 for its sibling
+
+
+---
+
+# Cigar price monitor — 2026-10-14T00:15:31+00:00
+previous run 2026-10-13T21:14:59+00:00 · 26,110 variants tracked
+
+**No actionable changes.**
