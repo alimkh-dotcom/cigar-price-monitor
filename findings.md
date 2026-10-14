@@ -1201,3 +1201,31 @@ previous run 2026-10-13T21:14:59+00:00 · 26,110 variants tracked
 previous run 2026-10-14T00:15:31+00:00 · 26,110 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-14T21:15:29+00:00
+previous run 2026-10-14T12:15:11+00:00 · 26,092 variants tracked
+
+## New products  (15)
+- `gtcigars` Alec Bradley Filthy Ghooligan [Toro (6.0"x50)] — $312.99
+- `jackschwartz` Tatuaje Skinny Monster Krueger [Box of 25] = $8.78/stick — $219.40 _(out of stock)_
+- `jackschwartz` Tatuaje Skinny Monster Michael [Box of 25] = $8.78/stick — $219.40 _(out of stock)_
+- `jackschwartz` Tatuaje Fausto FT140 [Box of 25] = $8.32/stick — $208.00 _(out of stock)_
+- `jackschwartz` Tatuaje Fausto FT127 [Box of 25] = $8.32/stick — $208.00 _(out of stock)_
+- `cigarsdirect` E.P. Carrillo Pledge Purple Robusto [Box of 10] = $16.50/stick — $165.00
+- `jackschwartz` Tatuaje Fausto FT187 [Box of 12] = $11.92/stick — $143.00 _(out of stock)_
+- `cigarsdirect` La Flor Dominicana Ligero 707 [Box of 10] = $12.78/stick — $127.80 _(out of stock)_
+- `cigarsdirect` E.P. Carrillo Pledge Purple Robusto [1 Cigar] = $16.50/stick — $16.50
+- `cigarsdirect` La Flor Dominicana Ligero 707 [1 Cigar] = $14.20/stick — $14.20 _(out of stock)_
+- `jackschwartz` Tatuaje Fausto FT187 [Single] = $13.50/stick — $13.50 _(out of stock)_
+- `jackschwartz` Tatuaje Skinny Monster Krueger [Single] = $10.00/stick — $10.00 _(out of stock)_
+- `jackschwartz` Tatuaje Skinny Monster Michael [Single] = $10.00/stick — $10.00 _(out of stock)_
+- `jackschwartz` Tatuaje Fausto FT140 [Single] = $9.50/stick — $9.50 _(out of stock)_
+- `jackschwartz` Tatuaje Fausto FT127 [Single] = $9.50/stick — $9.50 _(out of stock)_
+
+## New variants on existing products  (3)
+- `jackschwartz` Davidoff Signature No. 2 [Box of 10] = $24.10/stick — $241.00 _(out of stock)_
+- `cigarsdirect` Rocky Patel 30th Anniversary Toro [Box of 4] = $15.30/stick — $61.20
+- `cigarsdirect` Rocky Patel Emerald Box Press Toro [Box of 5] = $10.71/stick — $53.55
