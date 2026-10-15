@@ -42,14 +42,41 @@ INTEREST = re.compile(r'opus|fuente|don carlos|hemingway|a[nñ]ejo|rare pink|des
                       r'padr[oó]n|davidoff|liga privada|atabey|alma fuerte|\besg\b|\bvsg\b|'
                       r'winston churchill|meerapfel|plasencia', re.I)
 
-# He has shifted toward formats shorter than a toro, for the time they take. This
-# is a scoring preference only - the SMALL regex in monitor.py still excludes small
-# formats from cross-retailer MATCHING, because a Coronet is not a Belicoso whatever
-# he likes to smoke. These two must not be confused: one is taste, one is identity.
-SHORTFMT = re.compile(r'entreacto|petit|demi|short|coronet|robusto|corona(?! gorda)|'
-                      r'perfecto|chubby|belicoso|half corona|\bminutos?\b', re.I)
-LONGFMT  = re.compile(r'toro|double corona|gran corona|lonsdale|salomon|presidente|'
-                      r'churchill(?!.*petit)|\bgordo\b|\b60\b|double r\b', re.I)
+# He prefers cigars that take less time. Smoke time tracks tobacco VOLUME, which
+# goes as length x ring^2 - so ring gauge dominates and length alone misleads. A
+# Hemingway Work of Art is 4 7/8 x 60: shorter than a robusto, yet 94% of a 6x50
+# toro by volume, and it smokes for over an hour. Scoring on length, or on shape
+# words like "perfecto" and "belicoso", called that one a quick smoke. Shape is
+# not size.
+#
+# This is taste. The SMALL regex in monitor.py separately bars small formats from
+# cross-retailer MATCHING, because a Coronet is not a Belicoso whatever he enjoys.
+SMALLVIT = re.compile(r'entreacto|petit|demi[\s-]?tasse|half corona|coronet|'
+                      r'short story|\bminutos?\b|chico|exquisito|panetela|'
+                      r'\bcorona\b(?!.*(gorda|grande|larga))', re.I)
+BIGVIT   = re.compile(r'toro|double corona|gran corona|lonsdale|salomon|presidente|'
+                      r'churchill(?!.*petit)|\bgordo\b|magnum|double r\b', re.I)
+DIMS     = re.compile(r'(\d+(?:\s+\d/\d|\.\d+)?)\s*[x×]\s*(\d{2})\b', re.I)
+
+def smoke_size(name):
+    """Tobacco volume in cubic inches if the title states dimensions, else None.
+    A 6x50 toro is ~2.9; at or under 1.8 it is genuinely a shorter smoke."""
+    m = DIMS.search(name)
+    if not m:
+        return None
+    raw, rg = m.group(1).strip(), int(m.group(2))
+    try:
+        if "/" in raw:
+            whole, frac = raw.split()
+            num, den = frac.split("/")
+            L = float(whole) + float(num) / float(den)
+        else:
+            L = float(raw)
+    except (ValueError, ZeroDivisionError):
+        return None
+    if not (3 <= L <= 10 and 25 <= rg <= 70):
+        return None
+    return 3.14159 * ((rg / 128.0) ** 2) * L
 
 def toks(s):
     return frozenset(w for w in M.matchtokens(s) if w not in HOUSE)
@@ -247,14 +274,20 @@ def assess(name, price, own_alt, rows, idx, hist, tier):
     if INTEREST.search(name):
         score += 25                      # he collects these; a 20% cut on a line he
         score += min(price / 8.0, 10)    # wants beats a 38% cut on one he does not
-    if SHORTFMT.search(name) and not LONGFMT.search(name):
+        if not rival and price >= 30:
+            score += 10                  # sole source on a collectible is the point
+    vol = smoke_size(name)
+    if vol is not None:                  # stated dimensions beat any guess from words
+        if vol <= 1.8:
+            score += 8
+            reasons.append(f"short smoke, ~{vol:.1f} cu.in against 2.9 for a toro")
+        elif vol >= 2.8:
+            score -= 4
+    elif SMALLVIT.search(name) and not BIGVIT.search(name):
         score += 8
         reasons.append("shorter than a toro")
-    elif LONGFMT.search(name):
+    elif BIGVIT.search(name):
         score -= 4
-        if not rival and price >= 30:
-            score += 10
-            reasons[-1] = reasons[-1]    # sole source on a collectible is the point
     return score, reasons, rival
 
 def pick(cands, n, dedupe=None):
