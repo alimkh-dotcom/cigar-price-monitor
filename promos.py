@@ -42,6 +42,15 @@ INTEREST = re.compile(r'opus|fuente|don carlos|hemingway|a[nñ]ejo|rare pink|des
                       r'padr[oó]n|davidoff|liga privada|atabey|alma fuerte|\besg\b|\bvsg\b|'
                       r'winston churchill|meerapfel|plasencia', re.I)
 
+# He has shifted toward formats shorter than a toro, for the time they take. This
+# is a scoring preference only - the SMALL regex in monitor.py still excludes small
+# formats from cross-retailer MATCHING, because a Coronet is not a Belicoso whatever
+# he likes to smoke. These two must not be confused: one is taste, one is identity.
+SHORTFMT = re.compile(r'entreacto|petit|demi|short|coronet|robusto|corona(?! gorda)|'
+                      r'perfecto|chubby|belicoso|half corona|\bminutos?\b', re.I)
+LONGFMT  = re.compile(r'toro|double corona|gran corona|lonsdale|salomon|presidente|'
+                      r'churchill(?!.*petit)|\bgordo\b|\b60\b|double r\b', re.I)
+
 def toks(s):
     return frozenset(w for w in M.matchtokens(s) if w not in HOUSE)
 
@@ -238,6 +247,11 @@ def assess(name, price, own_alt, rows, idx, hist, tier):
     if INTEREST.search(name):
         score += 25                      # he collects these; a 20% cut on a line he
         score += min(price / 8.0, 10)    # wants beats a 38% cut on one he does not
+    if SHORTFMT.search(name) and not LONGFMT.search(name):
+        score += 8
+        reasons.append("shorter than a toro")
+    elif LONGFMT.search(name):
+        score -= 4
         if not rival and price >= 30:
             score += 10
             reasons[-1] = reasons[-1]    # sole source on a collectible is the point
