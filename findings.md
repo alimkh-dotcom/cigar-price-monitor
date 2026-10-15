@@ -1229,3 +1229,12 @@ previous run 2026-10-14T12:15:11+00:00 · 26,092 variants tracked
 - `jackschwartz` Davidoff Signature No. 2 [Box of 10] = $24.10/stick — $241.00 _(out of stock)_
 - `cigarsdirect` Rocky Patel 30th Anniversary Toro [Box of 4] = $15.30/stick — $61.20
 - `cigarsdirect` Rocky Patel Emerald Box Press Toro [Box of 5] = $10.71/stick — $53.55
+
+
+---
+
+# Cigar price monitor — 2026-10-15T00:14:48+00:00
+previous run 2026-10-14T21:15:29+00:00 · 26,092 variants tracked
+
+## New products  (1)
+- `gtcigars` Espinosa Crema No. 4 (Robusto) 5CT Sampler [No. 4 (Robusto) (5.5"x52)] — $31.19
