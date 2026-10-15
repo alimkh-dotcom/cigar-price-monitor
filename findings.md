@@ -1238,3 +1238,11 @@ previous run 2026-10-14T21:15:29+00:00 · 26,092 variants tracked
 
 ## New products  (1)
 - `gtcigars` Espinosa Crema No. 4 (Robusto) 5CT Sampler [No. 4 (Robusto) (5.5"x52)] — $31.19
+
+
+---
+
+# Cigar price monitor — 2026-10-15T12:15:14+00:00
+previous run 2026-10-15T00:14:48+00:00 · 26,092 variants tracked
+
+**No actionable changes.**
