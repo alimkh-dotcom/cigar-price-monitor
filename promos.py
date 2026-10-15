@@ -60,7 +60,15 @@ DIMS     = re.compile(r'(\d+(?:\s+\d/\d|\.\d+)?)\s*[x×]\s*(\d{2})\b', re.I)
 
 def smoke_size(name):
     """Tobacco volume in cubic inches if the title states dimensions, else None.
-    A 6x50 toro is ~2.9; at or under 1.8 it is genuinely a shorter smoke."""
+
+    Thresholds come from measuring 32,984 catalogue titles rather than guessing:
+    the median toro is 6.00x52 = 3.11 cu.in (not the 6x50 = 2.88 assumed first),
+    robusto 2.52, corona 2.18. So "short" is set below a typical corona.
+
+    This is a plain cylinder and ignores shape - for a figurado it overstates by
+    roughly a fifth. It is a ranking heuristic, not a burn-time model: a 7x48
+    churchill and a 4 7/8x60 perfecto hold the same tobacco and do not take the
+    same time, because a narrow ring burns slower."""
     m = DIMS.search(name)
     if not m:
         return None
@@ -278,10 +286,10 @@ def assess(name, price, own_alt, rows, idx, hist, tier):
             score += 10                  # sole source on a collectible is the point
     vol = smoke_size(name)
     if vol is not None:                  # stated dimensions beat any guess from words
-        if vol <= 1.8:
+        if vol <= 2.0:
             score += 8
-            reasons.append(f"short smoke, ~{vol:.1f} cu.in against 2.9 for a toro")
-        elif vol >= 2.8:
+            reasons.append(f"short smoke, ~{vol:.1f} cu.in against 3.1 for a toro")
+        elif vol >= 2.9:
             score -= 4
     elif SMALLVIT.search(name) and not BIGVIT.search(name):
         score += 8
