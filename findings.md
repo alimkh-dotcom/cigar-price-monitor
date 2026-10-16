@@ -1270,3 +1270,19 @@ previous run 2026-10-15T21:14:45+00:00 · 26,085 variants tracked
 previous run 2026-10-16T00:14:59+00:00 · 26,085 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-16T21:14:56+00:00
+previous run 2026-10-16T12:18:31+00:00 · 26,090 variants tracked
+
+## New products  (4)
+- `jackschwartz` God of Fire KKP Never Back Down Diadema 60 [10-Count Black Lacquer Travel Humidor] — $550.00
+- `jackschwartz` Rojas Street Tacos Mictlán LE [Box of 20] = $11.75/stick — $235.00 _(out of stock)_
+- `jackschwartz` God of Fire KKP Never Back Down Diadema 60 [Single] = $55.00/stick — $55.00
+- `jackschwartz` Rojas Street Tacos Mictlán LE [Single] = $13.00/stick — $13.00 _(out of stock)_
+
+## New variants on existing products  (2)
+- `jackschwartz` Davidoff Millennium Robusto Tubo [Box of 20] = $32.95/stick — $659.00 _(out of stock)_
+- `iheart` EGM Ninfas [Box of 10] = $19.90/stick — $199.00 _(out of stock)_

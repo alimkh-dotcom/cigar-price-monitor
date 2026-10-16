@@ -226,3 +226,39 @@ compared against 7 retailers, iheart's own formats, and 3 previous Weekly Burn r
 - Lampert 1675 Edicion Azul Robusto — $10.40 vs $10.15 at jackschwartz
 - Rare Pink Vintage 1960's Work of Art — $25.60 vs $25.10 at tccigar
 - Rare Leaf Maduro Robusto — $11.19 vs $10.99 at cigarsdirect
+
+
+---
+
+# Weekly Burn — 2026-10-16
+84 in-stock singles · tiers: 5 sticks = 10% off, 10 sticks = 20% off
+compared against 7 retailers, iheart's own formats, and 4 previous Weekly Burn runs
+
+## Best 10 — the 20% tier · $340.24 (list $425.30)
+
+| # | cigar | list | @20% | why |
+|---|---|---|---|---|
+| 1 | OpusX Forbidden X El Beso Prohibido | $66.50 | **$53.20** | -42% vs $91.50 at cigarsdirect (in stock); first appearance |
+| 2 | Plasencia Year of the Dragon (LE 2024) | $45.00 | **$36.00** | sole in-stock source; nearest listing $55.00 at cigarsdirect (out of stock); first appearance |
+| 3 | Don Carlos Eye of the Shark | $33.00 | **$26.40** | sole in-stock source; nearest listing $35.00 at tccigar (out of stock); first appearance |
+| 4 | OpusX 20th Anniversary Power of The Dream | $70.00 | **$56.00** | sole in-stock source; nearest listing $52.65 at tccigar (out of stock); first appearance |
+| 5 | OpusX 20th Anniversary Believe | $64.00 | **$51.20** | sole in-stock source; nearest listing $48.30 at tccigar (out of stock); first appearance |
+| 6 | Davidoff Exclusive - 50 Years in Hong Kong (LE | $45.00 | **$36.00** | no listing at all at the other seven; first appearance |
+| 7 | Winston Churchill The Late Hour Robusto | $27.20 | **$21.76** | -20% vs $27.20 at cigarsdirect (in stock); first appearance |
+| 8 | Liga Privada Unico Serie Velvet Rat | $19.70 | **$15.76** | -16% vs $18.75 at tccigar (in stock); first appearance |
+| 9 | Rare Pink Vintage 1960's Happy Endings | $35.00 | **$28.00** | no listing at all at the other seven; same list price in 1 previous run |
+| 10 | Liga Privada Unico Serie UF-13 | $19.90 | **$15.92** | -15% vs $18.80 at tccigar (in stock); same list price in 1 previous run |
+
+## Best 5 — the 10% tier · $250.65 (list $278.50)
+
+| # | cigar | list | @10% | why |
+|---|---|---|---|---|
+| 1 | OpusX Forbidden X El Beso Prohibido | $66.50 | **$59.85** | -42% vs $91.50 at cigarsdirect (in stock); first appearance |
+| 2 | Plasencia Year of the Dragon (LE 2024) | $45.00 | **$40.50** | sole in-stock source; nearest listing $55.00 at cigarsdirect (out of stock); first appearance |
+| 3 | Don Carlos Eye of the Shark | $33.00 | **$29.70** | sole in-stock source; nearest listing $35.00 at tccigar (out of stock); first appearance |
+| 4 | OpusX 20th Anniversary Power of The Dream | $70.00 | **$63.00** | sole in-stock source; nearest listing $52.65 at tccigar (out of stock); first appearance |
+| 5 | OpusX 20th Anniversary Believe | $64.00 | **$57.60** | sole in-stock source; nearest listing $48.30 at tccigar (out of stock); first appearance |
+
+## Priced at or above the market even after 20% (2) — skip
+- Rocky Patel Fifty Toro - Discontinued — $18.48 vs $13.90 at cigarsdirect
+- Jaime Garcia Reserva Especial Toro Gordo — $8.72 vs $8.20 at tccigar
