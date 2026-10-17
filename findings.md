@@ -1286,3 +1286,16 @@ previous run 2026-10-16T12:18:31+00:00 · 26,090 variants tracked
 ## New variants on existing products  (2)
 - `jackschwartz` Davidoff Millennium Robusto Tubo [Box of 20] = $32.95/stick — $659.00 _(out of stock)_
 - `iheart` EGM Ninfas [Box of 10] = $19.90/stick — $199.00 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-10-17T00:02:33+00:00
+previous run 2026-10-16T21:14:56+00:00 · 26,095 variants tracked
+
+## New products  (5)
+- `mrbundles` Padron 1926 No.1 [Box of 24 Natural] = $26.50/stick — $636.00
+- `mrbundles` Padron 1926 No.1 [Box of 24 Maduro] = $26.50/stick — $636.00 _(out of stock)_
+- `mrbundles` Opus October Bundle #3 [Default Title] — $160.00
+- `mrbundles` Padron 1926 No.1 [4 Pack of Natural] = $26.50/stick — $106.00
+- `mrbundles` Padron 1926 No.1 [4 Pack of Maduro] = $26.50/stick — $106.00 _(out of stock)_
