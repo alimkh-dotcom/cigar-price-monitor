@@ -1299,3 +1299,11 @@ previous run 2026-10-16T21:14:56+00:00 · 26,095 variants tracked
 - `mrbundles` Opus October Bundle #3 [Default Title] — $160.00
 - `mrbundles` Padron 1926 No.1 [4 Pack of Natural] = $26.50/stick — $106.00
 - `mrbundles` Padron 1926 No.1 [4 Pack of Maduro] = $26.50/stick — $106.00 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-10-17T12:03:23+00:00
+previous run 2026-10-17T00:02:33+00:00 · 26,095 variants tracked
+
+**No actionable changes.**
