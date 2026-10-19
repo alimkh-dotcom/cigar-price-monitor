@@ -1355,3 +1355,73 @@ previous run 2026-10-18T21:02:55+00:00 · 26,095 variants tracked
 previous run 2026-10-19T00:02:46+00:00 · 26,095 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-19T21:02:26+00:00
+previous run 2026-10-19T12:07:12+00:00 · 26,110 variants tracked
+
+## Price drops ≥20%  (71)
+- **45%** **BIG** `iheart` Gatekeeper Gordo [5 Pack] = $8.03/stick — $73.00 → **$40.15**
+- **40%** **BIG** `iheart` Brick House Corona Larga Natural [Box of 25] = $5.45/stick — $227.00 → **$136.20**
+- **40%** **BIG** `iheart` Quattro Nicaragua Espressivo [Box of 20] = $8.88/stick — $296.00 → **$177.60**
+- **40%** **BIG** `iheart` Cavalier Geneve LE 2022 [5 Pack] = $11.40/stick — $95.00 → **$57.00**
+- **40%** **BIG** `iheart` Rocky Patel Tavicusa Sixty [5 Pack] = $7.74/stick — $64.50 → **$38.70**
+- **40%** **BIG** `iheart` Alma Fuerte Sixto I Colorado Claro [Box of 10 (Tubos)] = $15.80/stick — $262.50 → **$158.00**
+- **39%** **BIG** `iheart` Sin Compromiso Seleccion Paladin de Saka [Box of 13] = $18.08/stick — $385.75 → **$235.00**
+- **35%** **BIG** `iheart` Liga Undercrown Dogma [5 Pack] = $8.12/stick — $62.50 → **$40.62**
+- **35%** **BIG** `iheart` Mi Querida Triqui Traca No.552 [5 Pack] = $8.87/stick — $68.25 → **$44.36**
+- **35%** **BIG** `iheart` Alma Del Cielo Amanecer Hexagono [5 Pack] = $19.82/stick — $152.50 → **$99.12**
+- **35%** **BIG** `iheart` Fratello Arlequin Toro [5 Pack] = $7.10/stick — $54.60 → **$35.49**
+- **35%** **BIG** `iheart` Warped Isla Del Cocodrilo Croc Bites [Box of 30] = $8.12/stick — $375.00 → **$243.75**
+- **35%** **BIG** `iheart` Liga Undercrown Shade Suprema Perfecto [Box of 5] = $10.40/stick — $80.00 → **$52.00**
+- **35%** **BIG** `iheart` Puro D'oro Deliciosos - Discontinued [5 Pack] = $35.75/stick — $275.00 → **$178.75**
+- **35%** **BIG** `iheart` Lost and Found One Night Stand 10th Anniversary Toro [Box of 10] = $11.38/stick — $175.00 → **$113.75**
+- **35%** **BIG** `iheart` Warped Maestro Del Tiempo 5712 - Discontinued [5 Pack] = $8.45/stick — $65.00 → **$42.25**
+- **35%** **BIG** `iheart` El Gueguense Robusto - Discontinued [5 Pack] = $6.89/stick — $53.00 → **$34.45**
+- **35%** **BIG** `iheart` Elite Seleccion Oscuro Small Churchill - Discontinued [Box of 20] = $7.15/stick — $220.00 → **$143.00**
+- **35%** **BIG** `iheart` Liga Privada Unico Serie Bauhaus European Exclusive [Box 12] = $13.00/stick — $240.00 → **$156.00**
+- **35%** **BIG** `iheart` Pi Synesthesia Red Limited Edition 2023 [5 Pack] = $9.75/stick — $75.00 → **$48.75**
+- **35%** **BIG** `iheart` Winston Churchill Collection - Discontinued [Box of 4] = $30.88/stick — $190.00 → **$123.50**
+- **35%** **BIG** `iheart` Zino Platinum Scepter Shorty - Discontinued [5 Pack] = $9.10/stick — $70.00 → **$45.50**
+- **35%** **BIG** `iheart` Liga Undercrown 10 Flying Pig International Exclusive [Box of 12] = $11.38/stick — $210.00 → **$136.50**
+- **35%** **BIG** `iheart` Liga Privada Unico Serie Dirty Rat [Box of 12] = $11.92/stick — $220.00 → **$143.00**
+- **35%** **BIG** `iheart` Liga Privada H99 Flying Pig [Box of 12] = $13.13/stick — $242.40 → **$157.56**
+- **35%** **BIG** `iheart` Liga Undercrown Sun Grown Belicoso - Discontinued [5 Pack] = $7.67/stick — $59.00 → **$38.35**
+- **35%** **BIG** `iheart` Winston Churchill Marrakesh - Discontinued [Box of 25] = $24.70/stick — $950.00 → **$617.50**
+- **35%** **BIG** `iheart` El Septimo Culinary Arts Collection Italy Toscana [5 Pack] = $11.70/stick — $90.00 → **$58.50**
+- **35%** **BIG** `iheart` Moon Garden Especial [5 Pack] = $10.40/stick — $80.00 → **$52.00**
+- **35%** **BIG** `iheart` Reserva Original Corona [5 Pack] = $5.85/stick — $45.00 → **$29.25**
+- **35%** `iheart` Sobremesa Solita Toro [5 Pack] = $10.55/stick — $81.15 → **$52.75**
+- **35%** `iheart` Liga Undercrown Sun Grown Toro Tubo - Discontinued [5 Pack] = $7.48/stick — $57.50 → **$37.38**
+- **35%** `iheart` Oscar Rosalila By Oscar Inframundo Toro Maduro- Intl Exclusive. [5 Pack] = $6.18/stick — $47.50 → **$30.88**
+- **32%** `iheart` Southern Draw Kudzu Lancero [Box of 20] = $7.54/stick — $220.40 → **$150.80**
+- **30%** `iheart` Dunbarton Tobacco & Trust 10th Jubilee [5 Pack] = $13.82/stick — $98.75 → **$69.12**
+- **30%** `iheart` EGM Ninfas [Box of 25] = $13.93/stick — $497.50 → **$348.25**
+- **30%** `iheart` Arturo Fuente Hemingway Untold Story Maduro [5 Pack] = $16.10/stick — $115.00 → **$80.50**
+- **30%** `iheart` illusione Fume D'Amour Lagunas [5 Pack] = $6.51/stick — $46.50 → **$32.55**
+- **30%** `iheart` Don Pepin Garcia Original Lanceros [Box of 20] = $9.80/stick — $280.00 → **$196.00**
+- **30%** `iheart` Diamond Crown Black Diamond Radiant [Box of 20] = $15.08/stick — $431.00 → **$301.70**
+
+## New products  (12)
+- `cigarsdirect` La Flor Dominicana Andalusian Bull 10Th Anniversary Maduro [Box of 10] = $60.00/stick — $600.00 _(out of stock)_
+- `tccigar` Joya De Nicaragua Antano Connecticut Lonsdale [Box of 20] = $10.75/stick — $214.95
+- `cigarsdirect` Tatuaje Skinny Monsters Michael [Box of 25] = $8.55/stick — $213.75
+- `cigarsdirect` Tatuaje Skinny Monsters Krueger [Box of 25] = $8.55/stick — $213.75
+- `tccigar` NUB Mexico 460 [Box of 24] = $8.12/stick — $194.95
+- `cigarsdirect` La Flor Dominicana Andalusian Bull 10Th Anniversary Maduro [1 Cigar] = $60.00/stick — $60.00 _(out of stock)_
+- `jackschwartz` OpusX Society Gold & Bullet (Empty Box) [Default Title] — $40.00 _(out of stock)_
+- `tccigar` CAO Amazon Basin Daggers [Default Title] — $24.95
+- `tccigar` Joya De Nicaragua Antano Connecticut Lonsdale [Single Cigar] = $10.70/stick — $10.70
+- `tccigar` NUB Mexico 460 [Single Cigar] = $9.75/stick — $9.75
+- `cigarsdirect` Tatuaje Skinny Monsters Michael [1 Cigar] = $9.50/stick — $9.50
+- `cigarsdirect` Tatuaje Skinny Monsters Krueger [1 Cigar] = $9.50/stick — $9.50
+
+## Cheap restocks  (1)
+- `tccigar` Tatiana Classic Chocolate [Box of 25] = $3.28/stick — back at $81.95 (66% of its next tier)
+
+## Cheaper than the same cigar elsewhere  (3) — _unverified, check the vitola_
+- **40% under** `iheart` Arturo Fuente Hemingway Untold Story Maduro [5 Pack] = $16.10/stick vs $27.00/stick at `cigarsdirect` (Arturo Fuente Hemingway Untold Story Maduro)
+- **31% under** `iheart` Liga Privada Unico Serie Dirty Rat [Box of 12] = $11.92/stick vs $17.33/stick at `tccigar` (Liga Privada Unico Serie Dirty Rat)
+- **30% under** `iheart` Brick House Corona Larga Natural [Box of 25] = $5.45/stick vs $7.83/stick at `cigarsdirect` (Brick House Natural Corona Larga)
