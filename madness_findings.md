@@ -250,3 +250,35 @@ compared against 7 retailers and 6 previous Monday Madness runs
 | 3 | Don Carlos Eye of the Bull [5 Pack] | $114.25 → **$85.69** | $17.14 | -25% on-site ($114.25 → $85.69, compare_at); -52% vs $36.00/stick at cigarsdirect (in stock); also discounted on 2026-10-12 at $17.14 |
 | 4 | Alma Fuerte Robustus I [5 Pack] | $107.00 → **$64.20** | $12.84 | -40% on-site ($107.00 → $64.20, compare_at); -37% vs $20.39/stick at tccigar (in stock); also discounted on 2026-10-12 at $12.84 |
 | 5 | Plasencia Alma del Campo Sendero Toro Gord [Box of 10] | $214.90 → **$128.94** | $12.89 | -40% on-site ($214.90 → $128.94, compare_at); -32% vs $19.01/stick at cigarsdirect (in stock); also discounted on 2026-10-12 at $12.89 |
+
+
+---
+
+# Monday Madness — 2026-10-19
+77 variants marked down on-site · these revert within ~24h
+compared against 7 retailers and 7 previous Monday Madness runs
+
+## Top 10 picks · $1,084.91 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Rare Pink Vintage 1960's Signature [Box of 5] | $185.00 → **$129.50** | $25.90 | -30% on-site ($185.00 → $129.50, compare_at); -57% vs $60.00/stick at cigarsdirect (in stock); first time discounted |
+| 2 | Alma Fuerte Sixto I Colorado Claro [Box of 10 (Tub] | $262.50 → **$158.00** | $15.80 | -40% on-site ($262.50 → $158.00, compare_at); -40% vs $26.55/stick at luxurycigar (in stock); also discounted on 2026-10-06 at $15.99 |
+| 3 | Rocky Patel Tavicusa Sixty [5 Pack] | $64.50 → **$38.70** | $7.74 | -40% on-site ($64.50 → $38.70, compare_at); -51% vs $15.66/stick at cigarsdirect (in stock); first time discounted |
+| 4 | Liga Privada Unico Serie Dirty Rat [Box of 12] | $220.00 → **$143.00** | $11.92 | -35% on-site ($220.00 → $143.00, compare_at); -31% vs $17.33/stick at tccigar (in stock); also discounted on 2026-10-13 at $12.83 |
+| 5 | Quattro Nicaragua Espressivo [Box of 20] | $296.00 → **$177.60** | $8.88 | -40% on-site ($296.00 → $177.60, compare_at); -34% vs $13.36/stick at cigarsdirect (in stock); also discounted on 2026-09-21 at $8.88 |
+| 6 | Cosecha 151 La Musica Robusto [Box 10] | $138.00 → **$89.00** | $8.90 | -36% on-site ($138.00 → $89.00, compare_at); -32% vs $13.07/stick at cigarsdirect (in stock); first time discounted |
+| 7 | Arturo Fuente Hemingway Untold Story Madur [5 Pack] | $115.00 → **$80.50** | $16.10 | -30% on-site ($115.00 → $80.50, compare_at); -14% vs $18.72/stick at tampasweet (in stock); also discounted on 2026-09-21 at $17.97 |
+| 8 | Sobremesa Solita Toro [5 Pack] | $81.15 → **$52.75** | $10.55 | -35% on-site ($81.15 → $52.75, compare_at); -24% vs $13.82/stick at cigarsdirect (in stock); first time discounted |
+| 9 | Mi Querida Triqui Traca No.552 [5 Pack] | $68.25 → **$44.36** | $8.87 | -35% on-site ($68.25 → $44.36, compare_at); -24% vs $11.60/stick at cigarsdirect (in stock); first time discounted |
+| 10 | Crowned Heads CHC Serie E Sublime - Discon [Box of 20] | $245.00 → **$171.50** | $8.57 | -30% on-site ($245.00 → $171.50, compare_at); -31% vs $12.38/stick at luxurycigar (in stock); also discounted on 2026-09-29 at $7.96 |
+
+## Top 5 picks · $646.80 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Rare Pink Vintage 1960's Signature [Box of 5] | $185.00 → **$129.50** | $25.90 | -30% on-site ($185.00 → $129.50, compare_at); -57% vs $60.00/stick at cigarsdirect (in stock); first time discounted |
+| 2 | Alma Fuerte Sixto I Colorado Claro [Box of 10 (Tub] | $262.50 → **$158.00** | $15.80 | -40% on-site ($262.50 → $158.00, compare_at); -40% vs $26.55/stick at luxurycigar (in stock); also discounted on 2026-10-06 at $15.99 |
+| 3 | Rocky Patel Tavicusa Sixty [5 Pack] | $64.50 → **$38.70** | $7.74 | -40% on-site ($64.50 → $38.70, compare_at); -51% vs $15.66/stick at cigarsdirect (in stock); first time discounted |
+| 4 | Liga Privada Unico Serie Dirty Rat [Box of 12] | $220.00 → **$143.00** | $11.92 | -35% on-site ($220.00 → $143.00, compare_at); -31% vs $17.33/stick at tccigar (in stock); also discounted on 2026-10-13 at $12.83 |
+| 5 | Quattro Nicaragua Espressivo [Box of 20] | $296.00 → **$177.60** | $8.88 | -40% on-site ($296.00 → $177.60, compare_at); -34% vs $13.36/stick at cigarsdirect (in stock); also discounted on 2026-09-21 at $8.88 |
