@@ -1441,3 +1441,34 @@ previous run 2026-10-19T21:02:26+00:00 · 26,110 variants tracked
 previous run 2026-10-20T00:02:46+00:00 · 26,110 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-20T21:03:02+00:00
+previous run 2026-10-20T12:03:03+00:00 · 26,133 variants tracked
+
+## New products  (23)
+- `mrbundles` Padron 1964 Belicoso Maduro [Box of 25] = $19.00/stick — $475.00 _(out of stock)_
+- `mrbundles` Padron 1964 Exclusivo Natural [Box of 25] = $16.40/stick — $410.00 _(out of stock)_
+- `jackschwartz` Viaje Full Moon 13th Anniversary Maduro [Box of 24] = $16.33/stick — $392.00 _(out of stock)_
+- `jackschwartz` Viaje Full Moon 13th Anniversary Natural [Box of 24] = $16.33/stick — $392.00 _(out of stock)_
+- `cigarsdirect` Dunbarton StillWell Star Aromatic Dulce Claro Toro [Box of 13] = $14.58/stick — $189.55
+- `cigarsdirect` Dunbarton StillWell Star Aromatic Dulce Dark Toro [Box of 13] = $14.58/stick — $189.55
+- `cigarsdirect` Dunbarton StillWell Star English Dulce Toro [Box of 13] = $14.58/stick — $189.55
+- `cigarsdirect` Dunbarton StillWell Star Aromatic Dulce Claro Petit Robusto [Box of 13] = $12.71/stick — $165.24
+- `cigarsdirect` Dunbarton StillWell Star Aromatic Dulce Dark Petit Robusto [Box of 13] = $12.71/stick — $165.24
+- `cigarsdirect` Dunbarton StillWell Star English Dulce Petit Robusto [Box of 13] = $12.71/stick — $165.24
+- `mrbundles` Padron 1964 Belicoso Maduro [5 Pack] = $19.00/stick — $95.00 _(out of stock)_
+- `jackschwartz` Brazilian Thrills [Default Title] — $92.00
+- `mrbundles` Padron 1964 Exclusivo Natural [5 Pack] = $16.40/stick — $82.00
+- `jackschwartz` Toast Across America 2026 Sampler [Default Title] — $52.00
+- `jackschwartz` Viaje Full Moon 13th Anniversary Maduro [Single] = $18.40/stick — $18.40 _(out of stock)_
+- `jackschwartz` Viaje Full Moon 13th Anniversary Natural [Single] = $18.40/stick — $18.40 _(out of stock)_
+- `cigarsdirect` Dunbarton StillWell Star Aromatic Dulce Claro Toro [1 Cigar] = $17.15/stick — $17.15
+- `cigarsdirect` Dunbarton StillWell Star Aromatic Dulce Dark Toro [1 Cigar] = $17.15/stick — $17.15
+- `cigarsdirect` Dunbarton StillWell Star English Dulce Toro [1 Cigar] = $17.15/stick — $17.15
+- `cigarsdirect` Dunbarton StillWell Star Aromatic Dulce Claro Petit Robusto [1 Cigar] = $15.00/stick — $15.00
+- `cigarsdirect` Dunbarton StillWell Star Aromatic Dulce Dark Petit Robusto [1 Cigar] = $15.00/stick — $15.00
+- `cigarsdirect` Dunbarton StillWell Star English Dulce Petit Robusto [1 Cigar] = $15.00/stick — $15.00
+- `jackschwartz` Fat Bottom Betty Toro [Default Title] — $13.80 _(out of stock)_

@@ -378,3 +378,35 @@ compared against 7 retailers and 8 previous Monday Madness runs
 | 3 | Rocky Patel Tavicusa Sixty [5 Pack] | $64.50 → **$38.70** | $7.74 | -40% on-site ($64.50 → $38.70, compare_at); -51% vs $15.66/stick at cigarsdirect (in stock); also discounted on 2026-10-19 at $7.74 |
 | 4 | Liga Privada Unico Serie Dirty Rat [Box of 12] | $220.00 → **$143.00** | $11.92 | -35% on-site ($220.00 → $143.00, compare_at); -31% vs $17.33/stick at tccigar (in stock); also discounted on 2026-10-19 at $11.92 |
 | 5 | Quattro Nicaragua Espressivo [Box of 20] | $296.00 → **$177.60** | $8.88 | -40% on-site ($296.00 → $177.60, compare_at); -34% vs $13.36/stick at cigarsdirect (in stock); also discounted on 2026-10-19 at $8.88 |
+
+
+---
+
+# Monday Madness — 2026-10-20
+77 variants marked down on-site · these revert within ~24h
+compared against 7 retailers and 8 previous Monday Madness runs
+
+## Top 10 picks · $1,057.11 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Rare Pink Vintage 1960's Signature [Box of 5] | $185.00 → **$129.50** | $25.90 | -30% on-site ($185.00 → $129.50, compare_at); -57% vs $60.00/stick at cigarsdirect (in stock); also discounted on 2026-10-19 at $25.90 |
+| 2 | Rocky Patel Tavicusa Sixty [5 Pack] | $64.50 → **$38.70** | $7.74 | -40% on-site ($64.50 → $38.70, compare_at); -51% vs $15.66/stick at cigarsdirect (in stock); also discounted on 2026-10-19 at $7.74 |
+| 3 | Liga Privada Unico Serie Dirty Rat [Box of 12] | $220.00 → **$143.00** | $11.92 | -35% on-site ($220.00 → $143.00, compare_at); -31% vs $17.33/stick at tccigar (in stock); also discounted on 2026-10-19 at $11.92 |
+| 4 | Quattro Nicaragua Espressivo [Box of 20] | $296.00 → **$177.60** | $8.88 | -40% on-site ($296.00 → $177.60, compare_at); -34% vs $13.36/stick at cigarsdirect (in stock); also discounted on 2026-10-19 at $8.88 |
+| 5 | Cosecha 151 La Musica Robusto [Box 10] | $138.00 → **$89.00** | $8.90 | -36% on-site ($138.00 → $89.00, compare_at); -32% vs $13.07/stick at cigarsdirect (in stock); also discounted on 2026-10-19 at $8.90 |
+| 6 | Crowned Heads CHC Serie E Sublime - Discon [Box of 20] | $245.00 → **$171.50** | $8.57 | -30% on-site ($245.00 → $171.50, compare_at); -31% vs $12.38/stick at luxurycigar (in stock); also discounted on 2026-10-19 at $8.57 |
+| 7 | Colorado Claro Aniversario No. 3 [5 Pack] | $186.00 → **$130.20** | $26.04 | -30% on-site ($186.00 → $130.20, compare_at); -30% vs $37.45/stick at jackschwartz (in stock); also discounted on 2026-10-19 at $26.04 |
+| 8 | Sobremesa Solita Toro [5 Pack] | $81.15 → **$52.75** | $10.55 | -35% on-site ($81.15 → $52.75, compare_at); -24% vs $13.82/stick at cigarsdirect (in stock); also discounted on 2026-10-19 at $10.55 |
+| 9 | Mi Querida Triqui Traca No.552 [5 Pack] | $68.25 → **$44.36** | $8.87 | -35% on-site ($68.25 → $44.36, compare_at); -24% vs $11.60/stick at cigarsdirect (in stock); also discounted on 2026-10-19 at $8.87 |
+| 10 | Arturo Fuente Hemingway Untold Story Madur [5 Pack] | $115.00 → **$80.50** | $16.10 | -30% on-site ($115.00 → $80.50, compare_at); -14% vs $18.72/stick at tampasweet (in stock); also discounted on 2026-10-19 at $16.10 |
+
+## Top 5 picks · $577.80 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Rare Pink Vintage 1960's Signature [Box of 5] | $185.00 → **$129.50** | $25.90 | -30% on-site ($185.00 → $129.50, compare_at); -57% vs $60.00/stick at cigarsdirect (in stock); also discounted on 2026-10-19 at $25.90 |
+| 2 | Rocky Patel Tavicusa Sixty [5 Pack] | $64.50 → **$38.70** | $7.74 | -40% on-site ($64.50 → $38.70, compare_at); -51% vs $15.66/stick at cigarsdirect (in stock); also discounted on 2026-10-19 at $7.74 |
+| 3 | Liga Privada Unico Serie Dirty Rat [Box of 12] | $220.00 → **$143.00** | $11.92 | -35% on-site ($220.00 → $143.00, compare_at); -31% vs $17.33/stick at tccigar (in stock); also discounted on 2026-10-19 at $11.92 |
+| 4 | Quattro Nicaragua Espressivo [Box of 20] | $296.00 → **$177.60** | $8.88 | -40% on-site ($296.00 → $177.60, compare_at); -34% vs $13.36/stick at cigarsdirect (in stock); also discounted on 2026-10-19 at $8.88 |
+| 5 | Cosecha 151 La Musica Robusto [Box 10] | $138.00 → **$89.00** | $8.90 | -36% on-site ($138.00 → $89.00, compare_at); -32% vs $13.07/stick at cigarsdirect (in stock); also discounted on 2026-10-19 at $8.90 |
