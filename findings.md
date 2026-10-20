@@ -1425,3 +1425,11 @@ previous run 2026-10-19T12:07:12+00:00 · 26,110 variants tracked
 - **40% under** `iheart` Arturo Fuente Hemingway Untold Story Maduro [5 Pack] = $16.10/stick vs $27.00/stick at `cigarsdirect` (Arturo Fuente Hemingway Untold Story Maduro)
 - **31% under** `iheart` Liga Privada Unico Serie Dirty Rat [Box of 12] = $11.92/stick vs $17.33/stick at `tccigar` (Liga Privada Unico Serie Dirty Rat)
 - **30% under** `iheart` Brick House Corona Larga Natural [Box of 25] = $5.45/stick vs $7.83/stick at `cigarsdirect` (Brick House Natural Corona Larga)
+
+
+---
+
+# Cigar price monitor — 2026-10-20T00:02:46+00:00
+previous run 2026-10-19T21:02:26+00:00 · 26,110 variants tracked
+
+**No actionable changes.**
