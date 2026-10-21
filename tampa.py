@@ -72,6 +72,20 @@ ONE   = re.compile(r'^\s*\$([\d,]+\.\d\d)\s*$')
 
 def money(s): return float(s.replace(",", ""))
 
+def cache_age_days(path=None):
+    """Age from the timestamp stored INSIDE the cache, never the file's mtime.
+
+    A fresh container gets the cache from git clone, which stamps every file with
+    the checkout time - so by mtime a nine-day-old crawl looks a few seconds old,
+    the weekly crawl stops firing, and stale prices get cited as current. The ts
+    written at crawl time is the only age that survives a checkout."""
+    try:
+        ts = json.load(gzip.open(path or CACHE, "rt"))["ts"]
+        then = datetime.datetime.fromisoformat(ts)
+        return (datetime.datetime.now(datetime.timezone.utc) - then).total_seconds() / 86400
+    except (OSError, KeyError, ValueError):
+        return None
+
 def crawl():
     # Product URLs must never be queued as listing pages. Expanding every link on a
     # category page swept the product pages into the frontier too, which pushed the
@@ -115,13 +129,10 @@ def crawl():
 
 def main():
     if "--if-stale" in sys.argv:
-        try:
-            age = (time.time() - os.path.getmtime(CACHE)) / 86400
-            if age < STALE_DAYS:
-                print(f"tampa cache is {age:.1f} days old, under {STALE_DAYS} - skipping")
-                return 0
-        except OSError:
-            pass
+        age = cache_age_days()
+        if age is not None and age < STALE_DAYS:
+            print(f"tampa cache is {age:.1f} days old, under {STALE_DAYS} - skipping")
+            return 0
     rows = crawl()
     if len(rows) < 50:
         print(f"ABORT: only {len(rows)} products; not overwriting the cache", file=sys.stderr)

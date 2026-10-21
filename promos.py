@@ -164,9 +164,11 @@ def rivals(cached=None):
     # so it matters most for exactly the lines Ali buys. It publishes no stock
     # status, so listings are taken as available - see tampa.py.
     try:
-        age = (datetime.datetime.now().timestamp() - os.path.getmtime(TAMPA)) / 86400
+        t = json.load(gzip.open(TAMPA, "rt"))
+        # age from the crawl timestamp inside the file - git clone resets mtime
+        crawled = datetime.datetime.fromisoformat(t["ts"])
+        age = (datetime.datetime.now(datetime.timezone.utc) - crawled).total_seconds() / 86400
         if age <= TAMPA_STALE_DAYS:
-            t = json.load(gzip.open(TAMPA, "rt"))
             n0 = len(rows)
             for name, fmt, price, q, _url in t["rows"]:
                 add(f"{name}{M.SEP}{fmt or 'Default Title'}", price, q, "tampasweet", True)
@@ -174,8 +176,8 @@ def rivals(cached=None):
                   file=sys.stderr)
         else:
             print(f"  tampasweet: cache {age:.0f} days old, skipped", file=sys.stderr)
-    except OSError:
-        print("  tampasweet: no cache; run ./tampa.py", file=sys.stderr)
+    except (OSError, KeyError, ValueError):
+        print("  tampasweet: no usable cache; run ./tampa.py", file=sys.stderr)
     return rows
 
 def indexed(rows):
