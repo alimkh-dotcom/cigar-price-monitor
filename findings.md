@@ -1472,3 +1472,15 @@ previous run 2026-10-20T12:03:03+00:00 · 26,133 variants tracked
 - `cigarsdirect` Dunbarton StillWell Star Aromatic Dulce Dark Petit Robusto [1 Cigar] = $15.00/stick — $15.00
 - `cigarsdirect` Dunbarton StillWell Star English Dulce Petit Robusto [1 Cigar] = $15.00/stick — $15.00
 - `jackschwartz` Fat Bottom Betty Toro [Default Title] — $13.80 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-10-21T00:02:55+00:00
+previous run 2026-10-20T21:03:02+00:00 · 26,137 variants tracked
+
+## New products  (4)
+- `jackschwartz` Meerapfel La Estancia Exclusiva #60 [Box of 10] = $31.54/stick — $315.45
+- `jackschwartz` Meerapfel Creation Liberte [Box of 2] = $124.50/stick — $249.00
+- `jackschwartz` Andalusian Bull 10th Anniversary Maduro (Empty Box) [Default Title] — $40.00
+- `jackschwartz` Meerapfel La Estancia Exclusiva #60 [Single] = $35.30/stick — $35.30
