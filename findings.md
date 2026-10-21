@@ -1484,3 +1484,11 @@ previous run 2026-10-20T21:03:02+00:00 · 26,137 variants tracked
 - `jackschwartz` Meerapfel Creation Liberte [Box of 2] = $124.50/stick — $249.00
 - `jackschwartz` Andalusian Bull 10th Anniversary Maduro (Empty Box) [Default Title] — $40.00
 - `jackschwartz` Meerapfel La Estancia Exclusiva #60 [Single] = $35.30/stick — $35.30
+
+
+---
+
+# Cigar price monitor — 2026-10-21T12:04:08+00:00
+previous run 2026-10-21T00:02:55+00:00 · 26,137 variants tracked
+
+**No actionable changes.**
