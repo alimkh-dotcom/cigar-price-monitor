@@ -186,6 +186,23 @@ def indexed(rows):
         for w in r[0]: idx[w].add(i)
     return idx
 
+# Words that name or modify a vitola. If the longer of two titles adds one of these,
+# the cigars are different sizes even though one title is a subset of the other:
+# "Meir Robusto" is a subset of "Meir Master Blend Double Robusto", and "Winston
+# Churchill Late Hour Churchill" collapses to the same token set as the Late Hour
+# Petit Panetela once the brand's "Churchill" absorbs the vitola's. Both produced
+# confident, wrong 58% gaps on the Oct 21 full scrape.
+VITOLA = {"robusto","toro","churchill","corona","petit","petite","panetela","panatela",
+          "lancero","belicoso","belicosos","torpedo","figurado","perfecto","piramide",
+          "double","gordo","gran","grande","short","half","lonsdale","salomon","salomones",
+          "presidente","magnum","gigante","chico","culebra","diadema","perfecxion",
+          "entreacto","demi","tasse","minuto","especial","no","especiales","toro"}
+
+def vitola_conflict(a, b):
+    """True if the larger title adds a size word the smaller one lacks."""
+    small, big = (a, b) if len(a) <= len(b) else (b, a)
+    return bool((big - small) & VITOLA)
+
 def best_rival(t, cls, rows, idx, in_stock=True):
     cand = defaultdict(int)
     for w in t:
@@ -194,6 +211,7 @@ def best_rival(t, cls, rows, idx, in_stock=True):
     for i, sh in cand.items():
         ot = rows[i][0]
         if sh < XR_SHARED or not (t <= ot or ot <= t): continue
+        if vitola_conflict(t, ot): continue
         if cls and rows[i][4] != cls: continue
         if in_stock and not rows[i][5]: continue
         if out is None or rows[i][1] < out[1]: out = (i, rows[i][1])
