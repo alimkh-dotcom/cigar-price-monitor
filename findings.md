@@ -1492,3 +1492,22 @@ previous run 2026-10-20T21:03:02+00:00 · 26,137 variants tracked
 previous run 2026-10-21T00:02:55+00:00 · 26,137 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-21T21:02:50+00:00
+previous run 2026-10-21T12:04:08+00:00 · 26,138 variants tracked
+
+## New products  (5)
+- `jackschwartz` FFOX Shark CFCF [Box of 20] = $100.00/stick — $2,000.00 _(out of stock)_
+- `jackschwartz` CAO Amazon Basin Extra Anejo 2026 [Box of 18] = $16.39/stick — $295.00 _(out of stock)_
+- `jackschwartz` Crowned Heads Belgian Blue LE 2026 [Box of 12] = $12.75/stick — $153.00 _(out of stock)_
+- `jackschwartz` CAO Amazon Basin Extra Anejo 2026 [Single] = $16.40/stick — $16.40 _(out of stock)_
+- `jackschwartz` Crowned Heads Belgian Blue LE 2026 [Single] = $13.00/stick — $13.00 _(out of stock)_
+
+## New variants on existing products  (1)
+- `jackschwartz` Deadwood Fat Bottom Betty Toro [Box of 10] = $12.20/stick — $122.00
+
+## Newly inflated variants  (1)
+- `iheart` Diamond Crown Black Diamond Radiant [Box of 20] = $21.55/stick — $301.70 → $431.00; now $21.55/stick vs $15.80 for its sibling
