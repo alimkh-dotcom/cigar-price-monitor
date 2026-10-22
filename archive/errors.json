@@ -1,0 +1,80 @@
+{
+ "AJ Fernandez New World Dorado Figurado": {
+  "fair": 13.35,
+  "first_seen": "2026-10-22",
+  "last_seen": "2026-10-22",
+  "price": 6.7,
+  "ps": 6.7,
+  "q": 1,
+  "ratio": 0.502,
+  "rival": 12.05,
+  "saving": 0.444,
+  "site": "tccigar",
+  "variant": "Single"
+ },
+ "Lost and Found 22 Minutes to Midnight Connecticut Radiante Robusto": {
+  "fair": 21.45,
+  "first_seen": "2026-10-22",
+  "last_seen": "2026-10-22",
+  "price": 10.5,
+  "ps": 10.5,
+  "q": 1,
+  "ratio": 0.489,
+  "rival": 21.0,
+  "saving": 0.5,
+  "site": "cigarsdirect",
+  "variant": "Single"
+ },
+ "Lost and Found 22 Minutes to Midnight Habano de Oro Robusto": {
+  "fair": 19.31,
+  "first_seen": "2026-10-22",
+  "last_seen": "2026-10-22",
+  "price": 276.0,
+  "ps": 13.8,
+  "q": 20,
+  "ratio": 0.715,
+  "rival": 18.9,
+  "saving": 0.27,
+  "site": "cigarsdirect",
+  "variant": "Box 20"
+ },
+ "Rocky Patel Hamlet 2020 Robusto": {
+  "fair": 15.43,
+  "first_seen": "2026-10-22",
+  "last_seen": "2026-10-22",
+  "price": 11.05,
+  "ps": 11.05,
+  "q": 1,
+  "ratio": 0.716,
+  "rival": 15.1,
+  "saving": 0.268,
+  "site": "cigarsdirect",
+  "variant": "Single"
+ },
+ "Rocky Patel Hamlet Liberation Paredes Toro": {
+  "fair": 16.6,
+  "first_seen": "2026-10-22",
+  "last_seen": "2026-10-22",
+  "price": 11.1,
+  "ps": 11.1,
+  "q": 1,
+  "ratio": 0.669,
+  "rival": 16.25,
+  "saving": 0.317,
+  "site": "cigarsdirect",
+  "variant": "Single"
+ },
+ "Undercrown 10 Corona Viva": {
+  "fair": 11.96,
+  "first_seen": "2026-10-22",
+  "last_seen": "2026-10-22",
+  "price": 8.4,
+  "ps": 8.4,
+  "q": 1,
+  "ratio": 0.702,
+  "rival": 10.8,
+  "saving": 0.222,
+  "site": "tccigar",
+  "variant": "Single"
+ }
+}

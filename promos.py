@@ -26,6 +26,7 @@ TAMPA   = os.path.join(HERE, "snapshots", "tampa.json.gz")
 TAMPA_STALE_DAYS = 10   # weekly crawl; beyond this the prices are too old to cite
 
 PROMOS = {
+    "errors":  dict(handle=None, label="iheart pricing errors", tiers=[]),
     "burn":    dict(handle="weekly-burn",    label="Weekly Burn",
                     tiers=[(5, 0.10), (10, 0.20)]),
     "madness": dict(handle="monday-madness", label="Monday Madness", tiers=[]),
@@ -86,8 +87,18 @@ def smoke_size(name):
         return None
     return 3.14159 * ((rg / 128.0) ** 2) * L
 
+# Wrapper words are identity, not noise. monitor.py drops "maduro" and "natural" as
+# stop-words, which made "22 Minutes to Midnight Connecticut Radiante Robusto" a
+# superset of "22 Minutes to Midnight Maduro Robusto" - a confident 39% gap between
+# two different cigars. Put them back for matching, and treat a wrapper the other
+# title lacks as a conflict, exactly like a vitola word.
+WRAPPER = {"maduro","natural","connecticut","habano","corojo","criollo","sumatra",
+           "rosado","oscuro","claro","colorado","cameroon","broadleaf","candela",
+           "sungrown","shade","mexican","ecuador","ecuadorian","radiante","oro"}
+
 def toks(s):
-    return frozenset(w for w in M.matchtokens(s) if w not in HOUSE)
+    raw = set(re.sub(r"[^a-z0-9 ]", " ", s.lower()).split())
+    return frozenset({w for w in M.matchtokens(s) if w not in HOUSE} | (raw & WRAPPER))
 
 def norm(s):
     return re.sub(r'[^a-z0-9]', '', s.lower())        # FULL name - truncating paired vitolas
@@ -199,9 +210,9 @@ VITOLA = {"robusto","toro","churchill","corona","petit","petite","panetela","pan
           "entreacto","demi","tasse","minuto","especial","no","especiales","toro"}
 
 def vitola_conflict(a, b):
-    """True if the larger title adds a size word the smaller one lacks."""
+    """True if the larger title adds a size or wrapper word the smaller one lacks."""
     small, big = (a, b) if len(a) <= len(b) else (b, a)
-    return bool((big - small) & VITOLA)
+    return bool((big - small) & (VITOLA | WRAPPER))
 
 def best_rival(t, cls, rows, idx, in_stock=True):
     cand = defaultdict(int)
@@ -442,6 +453,97 @@ def render_madness(date, prods, rows, idx, hist, label, prev_state):
                      + "; ".join(c["why"]) + " |")
     return "\n".join(L), {c["name"]: c["ps"] for c in cands}
 
+
+# ------------------------------------------------------------------ pricing errors
+# The detector that was missing. Everything else here reports CHANGE, so an error
+# that predates the first snapshot stays invisible forever: the AJ Fernandez Dorado
+# Figurado sat at half its own box price and half the market from 2026-09-17 to at
+# least 10-21 without one mention. This compares every in-stock iheart price to the
+# market directly, whatever its history.
+#
+# Raw gaps mislead because retailers carry systematic markups, and not uniformly:
+# measured on the 10-21 scrape, cigarsdirect runs 1.41x iheart on Fuente/OpusX but
+# 0.98x on everything else, while tccigar and tampasweet sit ~10% under on both. So
+# each rival price is first divided by that site's measured premium for the brand
+# group, recomputed every run, and only what survives that counts.
+FUENTE    = re.compile(r'opus|fuente|don carlos|hemingway|a[nñ]ejo|rare pink|destino|'
+                       r'8-5-8|chateau|casa fuente', re.I)
+ERR_LIKELY, ERR_CHEAP = 0.60, 0.75        # of the premium-adjusted cheapest rival
+ERR_MIN_SAVING = 0.20                     # and a real saving vs the cheapest place to buy
+
+def site_premiums(cur, names, rows, idx):
+    """{(site, group): median rival/iheart price ratio}, same unit class, in stock."""
+    import statistics
+    acc = defaultdict(list)
+    for k, (p, a, q) in cur.items():
+        if not k.startswith("iheart:") or not a or not q: continue
+        full = names[k]
+        if M.NONCIGAR.search(full) or M.BUNDLE.search(full) or M.SMALL.search(full): continue
+        t, cls = toks(full), M.unitclass(q)
+        if not cls or len(t) < XR_SHARED: continue
+        grp = "fuente" if FUENTE.search(full) else "other"
+        cand = defaultdict(int)
+        for w in t:
+            for i in idx.get(w, ()): cand[i] += 1
+        best = {}
+        for i, sh in cand.items():
+            ot, ps, site, _l, c, av = rows[i]
+            if sh < XR_SHARED or not (t <= ot or ot <= t) or vitola_conflict(t, ot): continue
+            if c != cls or not av: continue
+            if site not in best or ps < best[site]: best[site] = ps
+        for site, ps in best.items():
+            acc[(site, grp)].append(ps / (p / q))
+    return {k: statistics.median(v) for k, v in acc.items() if len(v) >= 5}
+
+def find_errors(cur, names, rows, idx):
+    prem = site_premiums(cur, names, rows, idx)
+    hits = {}
+    for k, (p, a, q) in cur.items():
+        if not k.startswith("iheart:") or not a or not q: continue
+        full = names[k]
+        if M.NONCIGAR.search(full) or M.BUNDLE.search(full) or M.SMALL.search(full): continue
+        t, cls = toks(full), M.unitclass(q)
+        if not cls or len(t) < XR_SHARED: continue
+        r = best_rival(t, cls, rows, idx)
+        if not r: continue
+        grp = "fuente" if FUENTE.search(full) else "other"
+        fair = r[1] / prem.get((r[2], grp), 1.0)
+        ratio = (p / q) / fair
+        saving = 1 - (p / q) / r[1]            # what he actually saves, unadjusted
+        if ratio > ERR_CHEAP or saving < ERR_MIN_SAVING: continue
+        title, var = full.split(M.SEP)[0], (full.split(M.SEP) + [""])[1]
+        if title not in hits or ratio < hits[title]["ratio"]:
+            hits[title] = dict(ratio=round(ratio, 3), saving=round(saving, 3), variant=var,
+                               price=p, q=q, ps=round(p / q, 2), rival=round(r[1], 2),
+                               site=r[2], fair=round(fair, 2))
+    return hits, prem
+
+def render_errors(date, hits, prem, archive):
+    new   = {t: h for t, h in hits.items() if t not in archive}
+    still = {t: h for t, h in hits.items() if t in archive}
+    gone  = [t for t in archive if t not in hits]
+    L = [f"# iheart pricing errors — {date}",
+         f"{len(hits)} live · {len(new)} new · {len(gone)} fixed since last run",
+         "rival prices are adjusted for each site's measured markup before comparing"]
+    def line(t, h, first=None):
+        tag = "**likely error**" if h["ratio"] <= ERR_LIKELY else "unusually cheap"
+        since = f" · live since {first}" if first else ""
+        star = " ★" if INTEREST.search(t) else ""
+        return (f"- {tag}{star} — {t} [{h['variant']}] **{money(h['ps'])}/stick**, "
+                f"**{h['saving']:.0%} under** the cheapest in stock ({money(h['rival'])} at "
+                f"{h['site']}){since}")
+    if new:
+        L.append(f"\n## New ({len(new)})")
+        L += [line(t, h) for t, h in sorted(new.items(), key=lambda x: x[1]["ratio"])]
+    if still:
+        L.append(f"\n## Still live ({len(still)})")
+        L += [line(t, h, archive[t]["first_seen"]) for t, h in
+              sorted(still.items(), key=lambda x: x[1]["ratio"])]
+    if gone:
+        L.append(f"\n## Fixed or gone ({len(gone)})")
+        L += [f"- {t} (live {archive[t]['first_seen']} → {archive[t]['last_seen']})" for t in gone]
+    return "\n".join(L), new, gone
+
 # ------------------------------------------------------------------ main
 def main():
     if len(sys.argv) < 2 or sys.argv[1] not in PROMOS:
@@ -450,6 +552,27 @@ def main():
     cached = sys.argv[sys.argv.index("--rivals") + 1] if "--rivals" in sys.argv else None
     cfg  = PROMOS[promo]
     date = datetime.date.today().isoformat()
+    if promo == "errors":
+        src = cached or fresh_cache()
+        if not src:
+            raise SystemExit("ABORT: errors needs monitor.py's fresh pull (snapshots/rivals.json.gz)")
+        live = json.load(gzip.open(src, "rt")); cur, nm = live["cur"], live["names"]
+        rows = rivals(src); idx = indexed(rows)
+        hits, prem = find_errors(cur, nm, rows, idx)
+        path = os.path.join(ARCHIVE, "errors.json")
+        archive = json.load(open(path)) if os.path.exists(path) else {}
+        text, new, gone = render_errors(date, hits, prem, archive)
+        for t, h in hits.items():
+            archive.setdefault(t, {"first_seen": date})
+            archive[t].update(last_seen=date, **h)
+        for t in gone: archive.pop(t, None)
+        os.makedirs(ARCHIVE, exist_ok=True)
+        json.dump(archive, open(path, "w"), indent=1, sort_keys=True)
+        print(text)
+        if new or gone:                      # quiet unless something changed
+            with open(os.path.join(HERE, "errors_findings.md"), "a") as f:
+                f.write("\n\n---\n\n" + text + "\n")
+        return 0
     prods = collection(cfg["handle"])
     print(f"  {cfg['label']}: {len(prods)} products", file=sys.stderr)
     rows = rivals(cached); idx = indexed(rows)

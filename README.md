@@ -191,3 +191,33 @@ marker appears anywhere in the markup — sold-out items appear to be delisted i
 So a listing is treated as available. That is an assumption, not an observation.
 Everywhere else out-of-stock prices are excluded from driving a pick; here the data
 simply does not say, so anything Tampa wins on is worth confirming before buying.
+
+## Pricing errors — `promos.py errors`
+
+The detector that was missing. Every other part of this repo reports **change**, so an
+error that already existed when tracking began stays invisible forever. The AJ Fernandez
+Dorado Figurado sat at half its own box price, and half the market, from the first
+snapshot on 2026-09-17 to at least 2026-10-22 without a single mention in 79 reports.
+
+It slipped through three separate gaps: the monitor only diffs; its cross-retailer check
+only runs on items that just changed; and the tier check compared each format to its
+*cheapest* sibling, so when the single and 5-pack were both underpriced, each looked
+normal beside the other.
+
+`errors` compares every in-stock iheart price to the market directly, whatever its
+history. Two refinements make the result trustworthy:
+
+- **Retailer markups are removed first.** Measured on the 2026-10-21 scrape, cigarsdirect
+  runs **1.41x** iheart on Fuente/OpusX but **0.98x** on everything else; tccigar and
+  tampasweet sit ~10% *under* iheart across the board. Each rival price is divided by that
+  site's measured premium for the brand group, recomputed every run. Without this, every
+  OpusX looked like a 30% bargain against cigarsdirect.
+- **It must also be a real saving** of at least 20% against the cheapest place to buy.
+
+Matching for this, and for the promos, also now treats wrapper words as identity:
+"maduro" was a stop-word, so a Connecticut Robusto matched a Maduro Robusto.
+
+Output: new hits, still-live hits with the date they first appeared, and fixed ones.
+It writes to `errors_findings.md` only when something changes, so it can run every pass.
+Across 2,622 in-stock iheart prices the first run found **two** likely errors — the
+population is genuinely small; the problem was that the system could not see it.
