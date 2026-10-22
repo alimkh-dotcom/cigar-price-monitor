@@ -530,7 +530,7 @@ def render_errors(date, hits, prem, archive):
         since = f" · live since {first}" if first else ""
         star = " ★" if INTEREST.search(t) else ""
         return (f"- {tag}{star} — {t} [{h['variant']}] **{money(h['ps'])}/stick**, "
-                f"**{h['saving']:.0%} under** the cheapest in stock ({money(h['rival'])} at "
+                f"**{h['saving']:.0%} under** the cheapest in stock among the retailers we track ({money(h['rival'])} at "
                 f"{h['site']}){since}")
     if new:
         L.append(f"\n## New ({len(new)})")
