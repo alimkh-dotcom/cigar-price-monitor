@@ -1511,3 +1511,15 @@ previous run 2026-10-21T12:04:08+00:00 · 26,138 variants tracked
 
 ## Newly inflated variants  (1)
 - `iheart` Diamond Crown Black Diamond Radiant [Box of 20] = $21.55/stick — $301.70 → $431.00; now $21.55/stick vs $15.80 for its sibling
+
+
+---
+
+# Cigar price monitor — 2026-10-22T00:02:39+00:00
+previous run 2026-10-21T21:02:50+00:00 · 26,142 variants tracked
+
+## New products  (4)
+- `mrbundles` DAVIDOFF WINSTON CHURCHILL THE LATE HOUR CHURCHILL [Box of 20] = $31.20/stick — $624.00 _(out of stock)_
+- `mrbundles` PADRON PRINCIPE NATURAL [Box of 25] = $14.05/stick — $351.25 _(out of stock)_
+- `mrbundles` DAVIDOFF WINSTON CHURCHILL THE LATE HOUR CHURCHILL [5 Pack] = $31.20/stick — $156.00
+- `mrbundles` PADRON PRINCIPE NATURAL [5 Pack] = $14.05/stick — $70.25 _(out of stock)_
