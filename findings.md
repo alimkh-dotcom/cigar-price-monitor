@@ -1523,3 +1523,11 @@ previous run 2026-10-21T21:02:50+00:00 · 26,142 variants tracked
 - `mrbundles` PADRON PRINCIPE NATURAL [Box of 25] = $14.05/stick — $351.25 _(out of stock)_
 - `mrbundles` DAVIDOFF WINSTON CHURCHILL THE LATE HOUR CHURCHILL [5 Pack] = $31.20/stick — $156.00
 - `mrbundles` PADRON PRINCIPE NATURAL [5 Pack] = $14.05/stick — $70.25 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-10-22T12:03:57+00:00
+previous run 2026-10-22T00:02:39+00:00 · 26,142 variants tracked
+
+**No actionable changes.**
