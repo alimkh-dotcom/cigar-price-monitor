@@ -1549,3 +1549,11 @@ previous run 2026-10-22T12:03:57+00:00 · 26,145 variants tracked
 
 ## New variants on existing products  (1)
 - `jackschwartz` 2005 Paul Garmirian Reserva Exclusiva Corona Extra [Box of 25] = $15.44/stick — $386.00 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-10-23T00:02:50+00:00
+previous run 2026-10-22T21:02:48+00:00 · 26,145 variants tracked
+
+**No actionable changes.**
