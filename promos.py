@@ -54,8 +54,8 @@ INTEREST = re.compile(r'opus|fuente|don carlos|hemingway|a[nñ]ejo|rare pink|des
 # cross-retailer MATCHING, because a Coronet is not a Belicoso whatever he enjoys.
 SMALLVIT = re.compile(r'entreacto|petit|demi[\s-]?tasse|half corona|coronet|'
                       r'short story|\bminutos?\b|chico|exquisito|panetela|'
-                      r'\bcorona\b(?!.*(gorda|grande|larga))', re.I)
-BIGVIT   = re.compile(r'toro|double corona|gran corona|lonsdale|salomon|presidente|'
+                      r'\bcorona\b(?!.*(gorda|grande|larga|doble|double))', re.I)
+BIGVIT   = re.compile(r'toro|double corona|corona doble|gran corona|lonsdale|salomon|presidente|'
                       r'churchill(?!.*petit)|\bgordo\b|magnum|double r\b', re.I)
 DIMS     = re.compile(r'(\d+(?:\s+\d/\d|\.\d+)?)\s*[x×]\s*(\d{2})\b', re.I)
 
