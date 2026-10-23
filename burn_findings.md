@@ -262,3 +262,35 @@ compared against 7 retailers, iheart's own formats, and 4 previous Weekly Burn r
 ## Priced at or above the market even after 20% (2) — skip
 - Rocky Patel Fifty Toro - Discontinued — $18.48 vs $13.90 at cigarsdirect
 - Jaime Garcia Reserva Especial Toro Gordo — $8.72 vs $8.20 at tccigar
+
+
+---
+
+# Weekly Burn — 2026-10-23
+59 in-stock singles · tiers: 5 sticks = 10% off, 10 sticks = 20% off
+compared against 7 retailers, iheart's own formats, and 5 previous Weekly Burn runs
+
+## Best 10 — the 20% tier · $270.04 (list $337.55)
+
+| # | cigar | list | @20% | why |
+|---|---|---|---|---|
+| 1 | Plasencia Year Of The Horse (LE 2026) | $59.00 | **$47.20** | sole in-stock source; nearest listing $59.00 at cigarsdirect (out of stock); first appearance |
+| 2 | Davidoff Year of the Snake (LE 2025) | $70.00 | **$56.00** | sole in-stock source; nearest listing $75.86 at cigarsdirect (out of stock); same list price in 2 previous runs |
+| 3 | Hemingway Classic Maduro | $13.50 | **$10.80** | -23% vs $13.99 at cigarsdirect (in stock); first appearance |
+| 4 | Destino Siglo Siglo de Familia | $55.00 | **$44.00** | sole in-stock source; nearest listing $25.50 at jackschwartz (out of stock); first appearance |
+| 5 | Winston Churchill Spitfire - Discontinued | $25.00 | **$20.00** | no listing at all at the other seven; beats iheart's own box/5-pack ($36.00/stick) by 24% more than the discount; same list price in 1 previous run |
+| 6 | Liga Privada T52 Corona Doble | $20.25 | **$16.20** | -11% vs $18.25 at tccigar (in stock); same list price in 1 previous run; shorter than a toro |
+| 7 | Liga Privada Unico Serie Year of the Rabbit LE | $36.25 | **$29.00** | no listing at all at the other seven; same list price in 1 previous run |
+| 8 | Liga Privada 10 Aniversario Seleccion Mercado  | $18.00 | **$14.40** | no listing at all at the other seven; first appearance; shorter than a toro |
+| 9 | Don Carlos Presidente | $16.05 | **$12.84** | sole in-stock source; nearest listing $16.08 at cigarsdirect (out of stock); same list price in 2 previous runs |
+| 10 | Alma Fuerte Sixto I Colorado Claro | $24.50 | **$19.60** | no listing at all at the other seven; same list price in 1 previous run |
+
+## Best 5 — the 10% tier · $200.25 (list $222.50)
+
+| # | cigar | list | @10% | why |
+|---|---|---|---|---|
+| 1 | Plasencia Year Of The Horse (LE 2026) | $59.00 | **$53.10** | sole in-stock source; nearest listing $59.00 at cigarsdirect (out of stock); first appearance |
+| 2 | Davidoff Year of the Snake (LE 2025) | $70.00 | **$63.00** | sole in-stock source; nearest listing $75.86 at cigarsdirect (out of stock); same list price in 2 previous runs |
+| 3 | Hemingway Classic Maduro | $13.50 | **$12.15** | -23% vs $13.99 at cigarsdirect (in stock); first appearance |
+| 4 | Destino Siglo Siglo de Familia | $55.00 | **$49.50** | sole in-stock source; nearest listing $25.50 at jackschwartz (out of stock); first appearance |
+| 5 | Winston Churchill Spitfire - Discontinued | $25.00 | **$22.50** | no listing at all at the other seven; beats iheart's own box/5-pack ($36.00/stick) by 24% more than the discount; same list price in 1 previous run |
