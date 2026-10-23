@@ -192,6 +192,24 @@ So a listing is treated as available. That is an assumption, not an observation.
 Everywhere else out-of-stock prices are excluded from driving a pick; here the data
 simply does not say, so anything Tampa wins on is worth confirming before buying.
 
+## Tobacconist of Greenwich — `greenwich.py`
+
+    ./greenwich.py              # pull now
+    ./greenwich.py --if-stale   # pull only if snapshots/greenwich.json.gz is over 10 hours old
+
+A BigCommerce shop with a deep rare-Fuente and Davidoff list - where the six Shopify
+sites are thinnest. No products.json, but every page carries the public storefront
+token for its own GraphQL endpoint, which returns each product's variants
+(Single / Box of N) with price and **real per-variant stock**, 50 products a request.
+
+robots.txt asks AI agents for a 10-second crawl delay, which is honoured: ~55 requests,
+about ten minutes, so `--if-stale` keeps it to roughly twice a day.
+
+It feeds the rival pool for the promos, and `errors` checks Greenwich's own in-stock
+prices too (against the other shops plus iheart). A variant **in stock at $0.00** is
+reported as a broken listing and never used as a price - on 2026-10-23 the Destino al
+Siglo de Familias box of 13 (normally $535) listed at $0 and accepted an order.
+
 ## Pricing errors — `promos.py errors`
 
 The detector that was missing. Every other part of this repo reports **change**, so an
@@ -204,7 +222,7 @@ only runs on items that just changed; and the tier check compared each format to
 *cheapest* sibling, so when the single and 5-pack were both underpriced, each looked
 normal beside the other.
 
-`errors` compares every in-stock iheart price to the market directly, whatever its
+`errors` compares every in-stock iheart price (and, since 2026-10-23, every in-stock Greenwich price) to the market directly, whatever its
 history. Two refinements make the result trustworthy:
 
 - **Retailer markups are removed first.** Measured on the 2026-10-21 scrape, cigarsdirect

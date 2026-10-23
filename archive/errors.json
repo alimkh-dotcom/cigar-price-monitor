@@ -13,7 +13,7 @@
   "variant": "Single"
  },
  "Lost and Found 22 Minutes to Midnight Connecticut Radiante Robusto": {
-  "fair": 21.46,
+  "fair": 21.45,
   "first_seen": "2026-10-22",
   "last_seen": "2026-10-23",
   "price": 10.5,
@@ -26,55 +26,84 @@
   "variant": "Single"
  },
  "Lost and Found 22 Minutes to Midnight Habano de Oro Robusto": {
-  "fair": 19.32,
+  "fair": 19.31,
   "first_seen": "2026-10-22",
   "last_seen": "2026-10-23",
   "price": 276.0,
   "ps": 13.8,
   "q": 20,
-  "ratio": 0.714,
+  "ratio": 0.715,
   "rival": 18.9,
   "saving": 0.27,
   "site": "cigarsdirect",
   "variant": "Box 20"
  },
- "Rocky Patel Hamlet 2020 Robusto": {
-  "fair": 15.43,
-  "first_seen": "2026-10-22",
+ "greenwich \u00b7 Arturo Fuente Destino al Siglo de Familias": {
+  "fair": 0.0,
+  "first_seen": "2026-10-23",
   "last_seen": "2026-10-23",
-  "price": 11.05,
-  "ps": 11.05,
-  "q": 1,
-  "ratio": 0.716,
-  "rival": 15.1,
-  "saving": 0.268,
-  "site": "cigarsdirect",
-  "variant": "Single"
+  "price": 0.0,
+  "ps": 0.0,
+  "q": 13,
+  "ratio": 0.0,
+  "rival": 0.0,
+  "saving": 1.0,
+  "site": "-",
+  "variant": "Box of 13",
+  "zero": true
  },
- "Rocky Patel Hamlet Liberation Paredes Toro": {
-  "fair": 16.61,
-  "first_seen": "2026-10-22",
+ "greenwich \u00b7 Arturo Fuente Destino al Siglo de Pasion": {
+  "fair": 0.0,
+  "first_seen": "2026-10-23",
   "last_seen": "2026-10-23",
-  "price": 11.1,
-  "ps": 11.1,
-  "q": 1,
-  "ratio": 0.668,
-  "rival": 16.25,
-  "saving": 0.317,
-  "site": "cigarsdirect",
-  "variant": "Single"
+  "price": 0.0,
+  "ps": 0.0,
+  "q": 13,
+  "ratio": 0.0,
+  "rival": 0.0,
+  "saving": 1.0,
+  "site": "-",
+  "variant": "Box of 13",
+  "zero": true
  },
- "Undercrown 10 Corona Viva": {
-  "fair": 11.96,
-  "first_seen": "2026-10-22",
+ "greenwich \u00b7 Davidoff Millennium Lancero": {
+  "fair": 55.0,
+  "first_seen": "2026-10-23",
   "last_seen": "2026-10-23",
-  "price": 8.4,
-  "ps": 8.4,
-  "q": 1,
-  "ratio": 0.702,
-  "rival": 10.8,
-  "saving": 0.222,
-  "site": "tccigar",
-  "variant": "Single"
+  "price": 290.0,
+  "ps": 29.0,
+  "q": 10,
+  "ratio": 0.527,
+  "rival": 55.0,
+  "saving": 0.473,
+  "site": "iheart",
+  "variant": "Box of 10"
+ },
+ "greenwich \u00b7 Fuente Fuente Opus X Angel's Share Perfecxion X": {
+  "fair": 0.0,
+  "first_seen": "2026-10-23",
+  "last_seen": "2026-10-23",
+  "price": 0.0,
+  "ps": 0.0,
+  "q": 32,
+  "ratio": 0.0,
+  "rival": 0.0,
+  "saving": 1.0,
+  "site": "-",
+  "variant": "Box of 32",
+  "zero": true
+ },
+ "greenwich \u00b7 Fuente Fuente Opus X OXO Oro Oscuro Super Belicoso": {
+  "fair": 41.0,
+  "first_seen": "2026-10-23",
+  "last_seen": "2026-10-23",
+  "price": 152.5,
+  "ps": 30.5,
+  "q": 5,
+  "ratio": 0.744,
+  "rival": 44.0,
+  "saving": 0.307,
+  "site": "iheart",
+  "variant": "5-Pack"
  }
 }

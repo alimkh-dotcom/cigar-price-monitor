@@ -5,7 +5,7 @@
     ./promos.py madness     # on-site markdowns that revert within ~24h; picks the best 5 and 10
 
 Each run compares against three things and says which one carried the pick:
-  1. the other seven retailers, per stick, in stock only
+  1. the other retailers (six Shopify sites, luxurycigarclub, Tampa Sweethearts, Tobacconist of Greenwich), per stick, in stock only
   2. iheart's own other formats for the same cigar (box / 5-pack)
   3. every previous run of the same promo, stored under archive/
 
@@ -24,9 +24,11 @@ ARCHIVE = os.path.join(HERE, "archive")
 LUX     = "luxurycigarclub.com"
 TAMPA   = os.path.join(HERE, "snapshots", "tampa.json.gz")
 TAMPA_STALE_DAYS = 10   # weekly crawl; beyond this the prices are too old to cite
+GREENWICH = os.path.join(HERE, "snapshots", "greenwich.json.gz")
+GREENWICH_STALE_DAYS = 2
 
 PROMOS = {
-    "errors":  dict(handle=None, label="iheart pricing errors", tiers=[]),
+    "errors":  dict(handle=None, label="pricing errors", tiers=[]),
     "burn":    dict(handle="weekly-burn",    label="Weekly Burn",
                     tiers=[(5, 0.10), (10, 0.20)]),
     "madness": dict(handle="monday-madness", label="Monday Madness", tiers=[]),
@@ -189,7 +191,30 @@ def rivals(cached=None):
             print(f"  tampasweet: cache {age:.0f} days old, skipped", file=sys.stderr)
     except (OSError, KeyError, ValueError):
         print("  tampasweet: no usable cache; run ./tampa.py", file=sys.stderr)
+    # tobacconistofgreenwich, from greenwich.py. Real per-variant stock. A $0 price
+    # is a broken listing, not a price - it is reported by `errors`, never matched.
+    g = greenwich_rows()
+    if g is not None:
+        n0 = len(rows)
+        for name, fmt, price, q, avail, _url in g:
+            if price > 0:
+                add(f"{name}{M.SEP}{fmt}", price, q, "greenwich", avail)
+        print(f"  greenwich: +{len(rows)-n0} listings", file=sys.stderr)
     return rows
+
+def greenwich_rows():
+    """greenwich.py's cache, or None if missing or older than GREENWICH_STALE_DAYS."""
+    try:
+        g = json.load(gzip.open(GREENWICH, "rt"))
+        then = datetime.datetime.fromisoformat(g["ts"])
+        age = (datetime.datetime.now(datetime.timezone.utc) - then).total_seconds() / 86400
+    except (OSError, KeyError, ValueError):
+        print("  greenwich: no usable cache; run ./greenwich.py", file=sys.stderr)
+        return None
+    if age > GREENWICH_STALE_DAYS:
+        print(f"  greenwich: cache {age:.1f} days old, skipped", file=sys.stderr)
+        return None
+    return g["rows"]
 
 def indexed(rows):
     idx = defaultdict(set)
@@ -209,10 +234,30 @@ VITOLA = {"robusto","toro","churchill","corona","petit","petite","panetela","pan
           "presidente","magnum","gigante","chico","culebra","diadema","perfecxion",
           "entreacto","demi","tasse","minuto","especial","no","especiales","toro"}
 
+# Edition words name a different cigar too: "Don Carlos Double Robusto" is a subset of
+# "Don Carlos Edicion de Aniversario Double Robusto", a $39.50 stick against a $13 one,
+# and that pair made a normal Greenwich price look 67% under the market.
+EDITION = {"aniversario","anniversary","edicion","edition"}
+
 def vitola_conflict(a, b):
-    """True if the larger title adds a size or wrapper word the smaller one lacks."""
+    """True if the larger title adds a size, wrapper or edition word the smaller lacks."""
     small, big = (a, b) if len(a) <= len(b) else (b, a)
-    return bool((big - small) & (VITOLA | WRAPPER))
+    return bool((big - small) & (VITOLA | WRAPPER | EDITION))
+
+def corroborated(t, ps, rows, idx):
+    """True if ANY matching listing elsewhere - any pack size, in stock or not - is
+    priced within ERR_CHEAP of this one. A price someone else also charges is the
+    market, not an error; an error is a price nobody else charges. Without this, one
+    mispriced rival row (luxurycigarclub's Charter Oak 5-pack at $21.56 a stick
+    against everyone else's $8) turned an ordinary price into a 'likely error'."""
+    cand = defaultdict(int)
+    for w in t:
+        for i in idx.get(w, ()): cand[i] += 1
+    for i, sh in cand.items():
+        ot = rows[i][0]
+        if sh < XR_SHARED or not (t <= ot or ot <= t) or vitola_conflict(t, ot): continue
+        if ps / rows[i][1] > ERR_CHEAP: return True
+    return False
 
 def best_rival(t, cls, rows, idx, in_stock=True):
     cand = defaultdict(int)
@@ -287,7 +332,7 @@ def assess(name, price, own_alt, rows, idx, hist, tier):
                            f"{oos[2]} (out of stock)")
             if paid < oos[1]: score += 6
         else:
-            reasons.append("no listing at all at the other seven")
+            reasons.append("no listing at all at the other retailers")
     if own_alt:
         g = paid / own_alt - 1
         # box and single are normally the same per stick, so a gap equal to the tier
@@ -351,7 +396,7 @@ def render_burn(date, items, rows, idx, hist, label):
                           t10=price * 0.9, t20=price * 0.8))
     L = [f"# {label} — {date}",
          f"{len(items)} in-stock singles · tiers: 5 sticks = 10% off, 10 sticks = 20% off",
-         f"compared against 7 retailers, iheart's own formats, and {len(hist)} previous {label} runs"]
+         f"compared against {len({r[2] for r in rows})} retailers, iheart's own formats, and {len(hist)} previous {label} runs"]
     for n, tier, key in ((10, "20%", "t20"), (5, "10%", "t10")):
         chosen = pick(cands, n, dedupe="name")
         total = sum(c[key] for c in chosen)
@@ -424,7 +469,7 @@ def render_madness(date, prods, rows, idx, hist, label, prev_state):
             score += 4
             oos = best_rival(t, cls, rows, idx, in_stock=False) if cls and len(t) >= XR_SHARED else None
             why.append(f"sole in-stock source; nearest {money(oos[1])} at {oos[2]} (out)"
-                       if oos else "no listing at all at the other seven")
+                       if oos else "no listing at all at the other retailers")
         prev = seen_before(m["name"], hist)
         if prev:
             why.append(f"also discounted on {prev[-1][0]} at {money(prev[-1][1])}")
@@ -435,7 +480,7 @@ def render_madness(date, prods, rows, idx, hist, label, prev_state):
         cands.append(dict(score=score, why=why, **m))
     L = [f"# {label} — {date}",
          f"{len(moved)} variants marked down on-site · these revert within ~24h",
-         f"compared against 7 retailers and {len(hist)} previous {label} runs"]
+         f"compared against {len({r[2] for r in rows})} retailers and {len(hist)} previous {label} runs"]
     if not cands:
         L.append("\n**No markdowns detected this week.**")
         return "\n".join(L), {}
@@ -496,36 +541,67 @@ def site_premiums(cur, names, rows, idx):
     return {k: statistics.median(v) for k, v in acc.items() if len(v) >= 5}
 
 def find_errors(cur, names, rows, idx):
+    """iheart's in-stock prices, then greenwich's, each against everyone else."""
     prem = site_premiums(cur, names, rows, idx)
+    ih = [(names[k], p, q, a) for k, (p, a, q) in cur.items() if k.startswith("iheart:")]
+    hits = scan(ih, rows, idx, prem, "iheart")
+    g = greenwich_rows()
+    if g:
+        # greenwich is checked against the other shops AND iheart, so iheart's own
+        # listings join the pool for this pass only
+        pool = [r for r in rows if r[2] != "greenwich"]
+        for full, p, q, a in ih:
+            if a and q and not (M.NONCIGAR.search(full) or M.BUNDLE.search(full)
+                                or M.SMALL.search(full)) and len(toks(full)) >= XR_SHARED:
+                pool.append((toks(full), p / q, "iheart", full, M.unitclass(q), True))
+        gsub = [(f"{n}{M.SEP}{f}", p, q, a) for n, f, p, q, a, _u in g]
+        for t, h in scan(gsub, pool, indexed(pool), prem, "greenwich").items():
+            hits[f"greenwich · {t}"] = h
+    return hits, prem
+
+def scan(subject, rows, idx, prem, shop):
+    """Hits for one shop's (full, price, qty, avail) listings against rows.
+
+    Rival prices are scaled by both shops' measured markup over iheart, so a shop
+    that runs 10% dear is not flagged for being 10% under a shop that runs 20% dear."""
     hits = {}
-    for k, (p, a, q) in cur.items():
-        if not k.startswith("iheart:") or not a or not q: continue
-        full = names[k]
+    for full, p, q, a in subject:
+        if not a or not q: continue
         if M.NONCIGAR.search(full) or M.BUNDLE.search(full) or M.SMALL.search(full): continue
         t, cls = toks(full), M.unitclass(q)
         if not cls or len(t) < XR_SHARED: continue
+        title, var = full.split(M.SEP)[0], (full.split(M.SEP) + [""])[1]
+        if p <= 0:                             # a missing price, not a cheap one
+            hits[title] = dict(ratio=0.0, saving=1.0, variant=var, price=p, q=q, ps=0.0,
+                               rival=0.0, site="-", fair=0.0, zero=True)
+            continue
         r = best_rival(t, cls, rows, idx)
         if not r: continue
         grp = "fuente" if FUENTE.search(full) else "other"
-        fair = r[1] / prem.get((r[2], grp), 1.0)
+        own = 1.0 if shop == "iheart" else prem.get((shop, grp), 1.0)
+        fair = r[1] / prem.get((r[2], grp), 1.0) * own
         ratio = (p / q) / fair
         saving = 1 - (p / q) / r[1]            # what he actually saves, unadjusted
         if ratio > ERR_CHEAP or saving < ERR_MIN_SAVING: continue
-        title, var = full.split(M.SEP)[0], (full.split(M.SEP) + [""])[1]
+        if corroborated(t, p / q, rows, idx): continue
         if title not in hits or ratio < hits[title]["ratio"]:
             hits[title] = dict(ratio=round(ratio, 3), saving=round(saving, 3), variant=var,
                                price=p, q=q, ps=round(p / q, 2), rival=round(r[1], 2),
                                site=r[2], fair=round(fair, 2))
-    return hits, prem
+    return hits
 
 def render_errors(date, hits, prem, archive):
     new   = {t: h for t, h in hits.items() if t not in archive}
     still = {t: h for t, h in hits.items() if t in archive}
     gone  = [t for t in archive if t not in hits]
-    L = [f"# iheart pricing errors — {date}",
+    L = [f"# Pricing errors (iheart, greenwich) — {date}",
          f"{len(hits)} live · {len(new)} new · {len(gone)} fixed since last run",
          "rival prices are adjusted for each site's measured markup before comparing"]
     def line(t, h, first=None):
+        if h.get("zero"):
+            return (f"- **$0 listing** — {t} [{h['variant']}] is in stock at $0.00. A broken "
+                    f"price, not a deal: expect an order to be cancelled or re-priced"
+                    + (f" · live since {first}" if first else ""))
         tag = "**likely error**" if h["ratio"] <= ERR_LIKELY else "unusually cheap"
         since = f" · live since {first}" if first else ""
         star = " ★" if INTEREST.search(t) else ""
