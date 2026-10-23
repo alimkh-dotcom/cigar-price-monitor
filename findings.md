@@ -1565,3 +1565,45 @@ previous run 2026-10-22T21:02:48+00:00 · 26,145 variants tracked
 previous run 2026-10-23T00:02:50+00:00 · 26,145 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-23T21:03:50+00:00
+previous run 2026-10-23T12:05:22+00:00 · 26,207 variants tracked
+
+## New products  (63)
+- `tccigar` Arturo Fuente Casa Fuente Robusto [Box of 25] = $35.30/stick — $882.50 _(out of stock)_
+- `jackschwartz` La Flor Dominicana The Golden Bull [Box of 14] = $60.00/stick — $840.00 _(out of stock)_
+- `gtcigars` Padron Anniversario Serie 1926 40th Anniversario Natural [Default Title] — $639.99
+- `gtcigars` Padrón 1926 Serie No. 1 [Padrón 1926 Serie No. 1 Maduro 24ct (6.7" X 54)] — $635.99 _(out of stock)_
+- `gtcigars` Padrón 1926 Serie No. 1 [Padrón 1926 Serie No. 1 Natural 24ct (6.7" X 54)] — $635.99 _(out of stock)_
+- `gtcigars` Padron 1926 Serie No.9 [Padrón 1926 Serie No. 9 Maduro 24ct  (5.25" x 56)] — $587.99
+- `gtcigars` Padron 1926 Serie No.9 [Padrón 1926 Serie No. 9 Natural 24ct (5.25" X 56)] — $587.99
+- `gtcigars` Padron 1926 Serie No. 2 [Padrón 1926 Serie No. 2 Maduro 24ct (5.5" X 52)] — $537.99
+- `gtcigars` Padron 1926 Serie No. 2 [Padrón 1926 Serie No. 2 Natural 24ct (5.5" X 52)] — $537.99
+- `gtcigars` Padron Anniversario Serie 1964 #4 [Padron Anniversario Serie 1964 #4 Natural (6.5" X 60)] — $511.99 _(out of stock)_
+- `gtcigars` Padron Anniversario Serie 1964 #4 [Padron Anniversario Serie 1964 #4 Maduro (6.5" X 60)] — $511.99 _(out of stock)_
+- `gtcigars` Padron Anniversario Serie 1964 Imperiales [Padron Anniversario Serie 1964 Imperiales Natural (6" x 54)] — $502.99
+- `gtcigars` Padron Anniversario Serie 1964 Imperiales [Padron Anniversario Serie 1964 Imperiales Maduro (6" X 54)] — $502.99 _(out of stock)_
+- `gtcigars` Padron Anniversario Serie 1964 Diplomaticos [Padrón 1964 Anniversary Diplomaticos Natural (7" X 50)] — $466.99
+- `gtcigars` Padron Anniversario Serie 1964 Diplomaticos [Padrón 1964 Anniversary Diplomaticos Maduro (7" X 50)] — $466.99 _(out of stock)_
+- `gtcigars` Padron Anniversario Serie 1964 Torpedo [Padron 1964 Anniversary Torpedo Natural (6" X 52)] — $422.99
+- `gtcigars` Padron Anniversario Serie 1964 Torpedo [Padron Torpedo 1964 Anniversary Maduro (6" X 52)] — $422.99 _(out of stock)_
+- `jackschwartz` MV-1000 [5LB Bag] — $411.54
+- `gtcigars` Padron Anniversario Serie 1964 Exclusivo [Padron 1964 Exclusivo Natural (5.5" X 50)] — $409.99
+- `gtcigars` Padron Anniversario Serie 1964 Exclusivo [Padron 1964 Exclusivo Maduro (5.5" X 50)] — $409.99 _(out of stock)_
+- `gtcigars` Padron Anniversario Serie 1964 Corona [Padron Anniversario Serie 1964 Corona Natural (6" X 42)] — $371.99
+- `gtcigars` Padron Anniversario Serie 1964 Corona [Padron Anniversario Serie 1964 Corona Maduro (6" X 42)] — $371.99 _(out of stock)_
+- `gtcigars` Padron 7000 [Padron 7000 Natural (6.2" X 60)] — $340.99 _(out of stock)_
+- `gtcigars` Padron 7000 [Padron 7000 Maduro (6.2" X 60)] — $340.99 _(out of stock)_
+- `gtcigars` Padrón Family Reserve 96th Anniversary [Padrón Family Reserve 96th Anniversary Natural (5.7" X 52)] — $327.99
+- `gtcigars` Padrón Family Reserve 96th Anniversary [Padrón Family Reserve 96th Anniversary Maduro (5.7" X 52)] — $327.99 _(out of stock)_
+- `gtcigars` Padron Family Reserve 95th Anniversary [Padrón Family Reserve 95th Anniversary Natural (4.7" X 60)] — $327.99
+- `gtcigars` Padron Family Reserve 95th Anniversary [Padrón Family Reserve 95th Anniversary Maduro (4.7" X 60)] — $327.99 _(out of stock)_
+- `gtcigars` Padron Family Reserve No. 45 [Padrón Family Reserve No. 45 Maduro (6" X 52)] — $316.99 _(out of stock)_
+- `gtcigars` Padron Family Reserve No. 45 [Padrón Family Reserve No. 45 Natural (6" X 52)] — $316.99 _(out of stock)_
+- _…33 more_
+
+## New variants on existing products  (1)
+- `jackschwartz` Camacho Connecticut Churchill [Single] = $11.10/stick — $11.10 _(out of stock)_
