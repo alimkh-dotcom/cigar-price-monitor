@@ -1607,3 +1607,15 @@ previous run 2026-10-23T12:05:22+00:00 · 26,207 variants tracked
 
 ## New variants on existing products  (1)
 - `jackschwartz` Camacho Connecticut Churchill [Single] = $11.10/stick — $11.10 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-10-24T00:02:54+00:00
+previous run 2026-10-23T21:03:50+00:00 · 26,158 variants tracked
+
+## New products  (4)
+- `mrbundles` Byron Seleccion 1850 No.3 [Box of 25] = $47.00/stick — $1,175.00
+- `mrbundles` God of Fire by Carlito Double Robusto [BOX OF 10] = $31.50/stick — $315.00 _(out of stock)_
+- `mrbundles` God of Fire by Carlito Double Robusto [4 PACK] = $31.50/stick — $126.00
+- `mrbundles` Byron Seleccion 1850 No.3 [2 Pack] = $47.00/stick — $94.00
