@@ -1619,3 +1619,11 @@ previous run 2026-10-23T21:03:50+00:00 · 26,158 variants tracked
 - `mrbundles` God of Fire by Carlito Double Robusto [BOX OF 10] = $31.50/stick — $315.00 _(out of stock)_
 - `mrbundles` God of Fire by Carlito Double Robusto [4 PACK] = $31.50/stick — $126.00
 - `mrbundles` Byron Seleccion 1850 No.3 [2 Pack] = $47.00/stick — $94.00
+
+
+---
+
+# Cigar price monitor — 2026-10-24T12:02:52+00:00
+previous run 2026-10-24T00:02:54+00:00 · 26,158 variants tracked
+
+**No actionable changes.**
