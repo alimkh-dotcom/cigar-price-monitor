@@ -1654,3 +1654,13 @@ previous run 2026-10-24T21:02:52+00:00 · 26,161 variants tracked
 previous run 2026-10-25T00:02:45+00:00 · 26,161 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-25T21:02:52+00:00
+previous run 2026-10-25T12:02:52+00:00 · 26,163 variants tracked
+
+## New products  (2)
+- `mrbundles` Aladino Vintage Selection Toro [BOX OF 10] = $23.00/stick — $230.00
+- `mrbundles` Aladino Vintage Selection Toro [5 PACK] = $11.50/stick — $57.50 · **50% of its next tier**

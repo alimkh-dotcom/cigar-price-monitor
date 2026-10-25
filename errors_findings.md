@@ -57,3 +57,23 @@ rival prices are adjusted for each site's measured markup before comparing
 - **likely error** ★ — greenwich · Davidoff Millennium Lancero [Box of 10] **$29.00/stick**, **47% under** the cheapest in stock among the retailers we track ($55.00 at iheart) · live since 2026-10-23
 - unusually cheap — Lost and Found 22 Minutes to Midnight Habano de Oro Robusto [Box 20] **$13.80/stick**, **27% under** the cheapest in stock among the retailers we track ($18.90 at cigarsdirect) · live since 2026-10-22
 - unusually cheap ★ — greenwich · Fuente Fuente Opus X OXO Oro Oscuro Super Belicoso [5-Pack] **$30.50/stick**, **31% under** the cheapest in stock among the retailers we track ($44.00 at iheart) · live since 2026-10-23
+
+
+---
+
+# Pricing errors (iheart, greenwich) — 2026-10-25
+8 live · 0 new · 1 fixed since last run
+rival prices are adjusted for each site's measured markup before comparing
+
+## Still live (8)
+- **$0 listing** — greenwich · Arturo Fuente Destino al Siglo de Familias [Box of 13] is in stock at $0.00. A broken price, not a deal: expect an order to be cancelled or re-priced · live since 2026-10-23
+- **$0 listing** — greenwich · Arturo Fuente Destino al Siglo de Pasion [Box of 13] is in stock at $0.00. A broken price, not a deal: expect an order to be cancelled or re-priced · live since 2026-10-23
+- **$0 listing** — greenwich · Fuente Fuente Opus X Angel's Share Perfecxion X [Box of 32] is in stock at $0.00. A broken price, not a deal: expect an order to be cancelled or re-priced · live since 2026-10-23
+- **likely error** — Lost and Found 22 Minutes to Midnight Connecticut Radiante Robusto [Single] **$10.50/stick**, **50% under** the cheapest in stock among the retailers we track ($21.00 at cigarsdirect) · live since 2026-10-22
+- **likely error** — AJ Fernandez New World Dorado Figurado [Single] **$6.70/stick**, **44% under** the cheapest in stock among the retailers we track ($12.05 at tccigar) · live since 2026-10-22
+- **likely error** ★ — greenwich · Davidoff Millennium Lancero [Box of 10] **$29.00/stick**, **47% under** the cheapest in stock among the retailers we track ($55.00 at iheart) · live since 2026-10-23
+- unusually cheap — Lost and Found 22 Minutes to Midnight Habano de Oro Robusto [Box 20] **$13.80/stick**, **27% under** the cheapest in stock among the retailers we track ($18.90 at cigarsdirect) · live since 2026-10-22
+- unusually cheap ★ — greenwich · Fuente Fuente Opus X OXO Oro Oscuro Super Belicoso [5-Pack] **$30.50/stick**, **31% under** the cheapest in stock among the retailers we track ($44.00 at iheart) · live since 2026-10-23
+
+## Fixed or gone (1)
+- Brick House Teaser (live 2026-10-25 → 2026-10-25)
