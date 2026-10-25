@@ -1638,3 +1638,11 @@ previous run 2026-10-24T12:02:52+00:00 · 26,161 variants tracked
 - `jackschwartz` Crowned Heads Belgian Blue LE 2026 [Box of 12] = $12.75/stick — $153.00
 - `tccigar` Oscar Valladares Five Cigar Fresh Pack Sampler [Default Title] — $38.95
 - `jackschwartz` Crowned Heads Belgian Blue LE 2026 [Single] = $13.00/stick — $13.00
+
+
+---
+
+# Cigar price monitor — 2026-10-25T00:02:45+00:00
+previous run 2026-10-24T21:02:52+00:00 · 26,161 variants tracked
+
+**No actionable changes.**
