@@ -37,3 +37,23 @@ rival prices are adjusted for each site's measured markup before comparing
 - Rocky Patel Hamlet 2020 Robusto (live 2026-10-22 → 2026-10-23)
 - Rocky Patel Hamlet Liberation Paredes Toro (live 2026-10-22 → 2026-10-23)
 - Undercrown 10 Corona Viva (live 2026-10-22 → 2026-10-23)
+
+
+---
+
+# Pricing errors (iheart, greenwich) — 2026-10-25
+9 live · 1 new · 0 fixed since last run
+rival prices are adjusted for each site's measured markup before comparing
+
+## New (1)
+- unusually cheap — Brick House Teaser [Box of 28] **$5.40/stick**, **31% under** the cheapest in stock among the retailers we track ($7.85 at greenwich)
+
+## Still live (8)
+- **$0 listing** — greenwich · Arturo Fuente Destino al Siglo de Familias [Box of 13] is in stock at $0.00. A broken price, not a deal: expect an order to be cancelled or re-priced · live since 2026-10-23
+- **$0 listing** — greenwich · Arturo Fuente Destino al Siglo de Pasion [Box of 13] is in stock at $0.00. A broken price, not a deal: expect an order to be cancelled or re-priced · live since 2026-10-23
+- **$0 listing** — greenwich · Fuente Fuente Opus X Angel's Share Perfecxion X [Box of 32] is in stock at $0.00. A broken price, not a deal: expect an order to be cancelled or re-priced · live since 2026-10-23
+- **likely error** — Lost and Found 22 Minutes to Midnight Connecticut Radiante Robusto [Single] **$10.50/stick**, **50% under** the cheapest in stock among the retailers we track ($21.00 at cigarsdirect) · live since 2026-10-22
+- **likely error** — AJ Fernandez New World Dorado Figurado [Single] **$6.70/stick**, **44% under** the cheapest in stock among the retailers we track ($12.05 at tccigar) · live since 2026-10-22
+- **likely error** ★ — greenwich · Davidoff Millennium Lancero [Box of 10] **$29.00/stick**, **47% under** the cheapest in stock among the retailers we track ($55.00 at iheart) · live since 2026-10-23
+- unusually cheap — Lost and Found 22 Minutes to Midnight Habano de Oro Robusto [Box 20] **$13.80/stick**, **27% under** the cheapest in stock among the retailers we track ($18.90 at cigarsdirect) · live since 2026-10-22
+- unusually cheap ★ — greenwich · Fuente Fuente Opus X OXO Oro Oscuro Super Belicoso [5-Pack] **$30.50/stick**, **31% under** the cheapest in stock among the retailers we track ($44.00 at iheart) · live since 2026-10-23
