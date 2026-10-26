@@ -1680,3 +1680,72 @@ previous run 2026-10-25T21:02:52+00:00 · 26,163 variants tracked
 previous run 2026-10-26T00:02:45+00:00 · 26,163 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-26T21:02:49+00:00
+previous run 2026-10-26T12:06:27+00:00 · 26,166 variants tracked
+
+## Price drops ≥20%  (59)
+- **40%** **BIG** `iheart` Zino Platinum LE 2013 "The Make of N.Y." Pulse - Discontinued [Box of 10] = $23.40/stick — $390.00 → **$234.00**
+- **40%** **BIG** `iheart` Zino Platinum LE 2013 “The Make of L.A.” Film - Discontinued [Box of 10] = $22.80/stick — $380.00 → **$228.00**
+- **40%** **BIG** `iheart` Avo XO Preludio [Box of 20] = $7.32/stick — $244.00 → **$146.40**
+- **40%** **BIG** `iheart` Davidoff Short Pleasures Assortment (2014 Release)- Discontinued. [Box of 4] = $18.75/stick — $125.00 → **$75.00**
+- **40%** **BIG** `iheart` Oliva Serie V Churchill Extra [5 Pack] = $9.67/stick — $80.60 → **$48.36**
+- **35%** **BIG** `iheart` Jaime Garcia Reserva Especial Belicoso [Box of 20] = $6.43/stick — $198.00 → **$128.70**
+- **35%** **BIG** `iheart` Liga Privada 10 Aniversario Seleccion Mercado Corona Doble Intl. Exclusive [Box of 10] = $14.17/stick — $218.00 → **$141.70**
+- **35%** **BIG** `iheart` Mi Querida Ancho Corto [Box of 20] = $8.87/stick — $273.00 → **$177.45**
+- **35%** **BIG** `iheart` Sobremesa Short Churchill [Box of 14] = $9.19/stick — $198.00 → **$128.70**
+- **35%** **BIG** `iheart` Black Robusto [5 Pack] = $5.33/stick — $41.00 → **$26.65**
+- **35%** **BIG** `iheart` Warped Isla Del Cocodrilo Blanco Perfecto [Box of 15] = $11.70/stick — $270.00 → **$175.50**
+- **35%** **BIG** `iheart` Warped La Colmena 8 Asia Exclusive [Box of 8] = $23.56/stick — $290.00 → **$188.50**
+- **35%** **BIG** `iheart` Herrera Esteli Edicion Limitada Lancero [Box of 15] = $9.53/stick — $220.00 → **$143.00**
+- **35%** **BIG** `iheart` Liga Privada Unico Serie Papas Bravas Robusto Intl. Exclusive [Box of 20] = $6.50/stick — $200.00 → **$130.00**
+- **35%** **BIG** `iheart` Puro D'Oro Sublimes - Discontinued [5 Pack] = $35.75/stick — $275.00 → **$178.75**
+- **35%** **BIG** `iheart` Puro D'Oro Magnificos - Discontinued [5 Pack] = $41.60/stick — $320.00 → **$208.00**
+- **35%** **BIG** `iheart` Serie V Melanio Edicion Ano 2022 [Box of 10] = $18.20/stick — $280.00 → **$182.00**
+- **35%** **BIG** `iheart` Las Calaveras LE 2025 LC56 [Box of 24] = $10.56/stick — $390.00 → **$253.50**
+- **35%** **BIG** `iheart` Liga Privada H99 Robusto [5 Pack] = $11.31/stick — $87.00 → **$56.55**
+- **35%** **BIG** `iheart` Winston Churchill Chartwell - Discontinued [Box of 4] = $18.20/stick — $112.00 → **$72.80**
+- **35%** **BIG** `iheart` Winston Churchill Marrakesh - Discontinued [Box of 4] = $24.70/stick — $152.00 → **$98.80**
+- **35%** **BIG** `iheart` Fine and Rare BR12-13 (LE 2017) [Box of 10] = $19.50/stick — $300.00 → **$195.00**
+- **35%** **BIG** `iheart` Alma Del Cielo Celeste Robusto [Box 10] = $16.25/stick — $250.00 → **$162.50**
+- **35%** **BIG** `iheart` Nicaragua Toro [Box of 12] = $16.57/stick — $306.00 → **$198.90**
+- **35%** **BIG** `iheart` Liga Privada H99 Toro [Box of 24] = $11.86/stick — $438.00 → **$284.70**
+- **35%** **BIG** `iheart` Alma Fuerte Colorado Claro Robustus II [Box of 10] = $14.95/stick — $230.00 → **$149.50**
+- **35%** **BIG** `iheart` Liga Privada Unico Serie UF-13 [Box of 12] = $12.84/stick — $237.00 → **$154.05**
+- **35%** `iheart` Ashton Corona [5 Pack] = $8.36/stick — $64.30 → **$41.80**
+- **30%** `iheart` Zino Platinum Sceptor Chubby Tubos [Box of 20] = $15.26/stick — $436.00 → **$305.20**
+- **30%** `iheart` Hirochi Robaina  Toro - Discontinued [5 Pack] = $8.58/stick — $61.30 → **$42.91**
+- **30%** `iheart` illusione Oneoff Black Robusto [5 Pack] = $11.20/stick — $80.00 → **$56.00**
+- **30%** `iheart` Tatuaje Lancero Sampler [Box of 10] = $7.70/stick — $110.00 → **$77.00**
+- **30%** `iheart` Lampert 1675 Edicion Morado Robusto [Box of 20] = $9.80/stick — $280.00 → **$196.00**
+- **30%** `iheart` The Tabernacle Broadleaf Robusto [Box of 24] = $9.77/stick — $335.00 → **$234.50**
+- **30%** `iheart` No.3 [5 Pack] = $8.89/stick — $63.50 → **$44.45**
+- **30%** `iheart` The Tabernacle Havana CT142 Corona [Box of 24] = $8.52/stick — $292.00 → **$204.40**
+- **30%** `iheart` Crowned Heads The Yellow Rose [5 Pack] = $9.07/stick — $64.75 → **$45.33**
+- **28%** `iheart` Davidoff Millennium Blend Lancero - Discontinued [Box of 5] = $39.60/stick — $275.00 → **$198.00**
+- **28%** `iheart` Signature 6000 [Box of 25] = $16.12/stick — $558.00 → **$403.00**
+- **28%** `iheart` Alma Fuerte Generacion V Salomon [Box of 10] = $18.13/stick — $251.10 → **$181.35**
+
+## New products  (7)
+- `cigarsdirect` CAO Flathead Speed Shop V770 Big Block [Box of 24] = $9.29/stick — $222.95
+- `cigarsdirect` CAO Flathead Speed Shop V660 Carb [Box of 24] = $8.50/stick — $203.95
+- `cigarsdirect` CAO Flathead Speed Shop V654 Camshaft [Box of 24] = $7.62/stick — $182.95
+- `jackschwartz` Fuente Smoke Pink, Support Pink Sampler [Default Title] — $175.00
+- `cigarsdirect` CAO Flathead Speed Shop V770 Big Block [1 Cigar] = $11.59/stick — $11.59
+- `cigarsdirect` CAO Flathead Speed Shop V660 Carb [1 Cigar] = $10.59/stick — $10.59
+- `cigarsdirect` CAO Flathead Speed Shop V654 Camshaft [1 Cigar] = $9.49/stick — $9.49
+
+## New variants on existing products  (1)
+- `cigarsdirect` Room 101 Big Payback Connecticut Gordo [Box of 20] = $8.54/stick — $170.82
+
+## Cheaper than the same cigar elsewhere  (7) — _unverified, check the vitola_
+- **32% under** `iheart` Liga Privada Unico Serie UF-13 [Box of 12] = $12.84/stick vs $18.75/stick at `tccigar` (Liga Privada Unico Serie UF-13)
+- **30% under** `iheart` Lampert 1675 Edicion Azul Toro [Box of 20] = $8.40/stick vs $12.00/stick at `mrbundles` (Lampert 1675 Azul Toro)
+- **29% under** `iheart` Lampert 1675 Edicion Morado Robusto [Box of 20] = $9.80/stick vs $13.72/stick at `jackschwartz` (Lampert 1675 Morado Robusto)
+- **28% under** `iheart` Jaime Garcia Reserva Especial Belicoso [Box of 20] = $6.43/stick vs $8.91/stick at `cigarsdirect` (Jaime Garcia Reserva Especial Belicoso)
+- **28% under** `iheart` Liga Privada H99 Toro [Box of 24] = $11.86/stick vs $16.41/stick at `tccigar` (Liga Privada H99 Toro)
+- **27% under** `iheart` Liga Privada H99 Robusto [5 Pack] = $11.31/stick vs $15.50/stick at `tccigar` (Liga Privada H99 Robusto)
+- **27% under** `iheart` Oliva Serie V Churchill Extra [5 Pack] = $9.67/stick vs $13.18/stick at `cigarsdirect` (Oliva Serie V Churchill Extra)

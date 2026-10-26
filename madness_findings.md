@@ -474,3 +474,35 @@ compared against 7 retailers and 9 previous Monday Madness runs
 | 3 | Rocky Patel Tavicusa Sixty [5 Pack] | $64.50 → **$38.70** | $7.74 | -40% on-site ($64.50 → $38.70, compare_at); -51% vs $15.66/stick at cigarsdirect (in stock); also discounted on 2026-10-20 at $7.74 |
 | 4 | Liga Privada Unico Serie Dirty Rat [Box of 12] | $220.00 → **$143.00** | $11.92 | -35% on-site ($220.00 → $143.00, compare_at); -31% vs $17.33/stick at tccigar (in stock); also discounted on 2026-10-20 at $11.92 |
 | 5 | Quattro Nicaragua Espressivo [Box of 20] | $296.00 → **$177.60** | $8.88 | -40% on-site ($296.00 → $177.60, compare_at); -34% vs $13.36/stick at cigarsdirect (in stock); also discounted on 2026-10-20 at $8.88 |
+
+
+---
+
+# Monday Madness — 2026-10-26
+62 variants marked down on-site · these revert within ~24h
+compared against 8 retailers and 10 previous Monday Madness runs
+
+## Top 10 picks · $3,214.15 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Avo XO Preludio [Box of 20] | $244.00 → **$146.40** | $7.32 | -40% on-site ($244.00 → $146.40, compare_at); -40% vs $12.20/stick at greenwich (in stock); also discounted on 2026-09-29 at $7.69 |
+| 2 | Don Carlos Eye of the Bull [Box of 20] | $457.00 → **$342.75** | $17.14 | -25% on-site ($457.00 → $342.75, compare_at); -38% vs $27.50/stick at greenwich (in stock); also discounted on 2026-10-13 at $17.14 |
+| 3 | Liga Privada Unico Serie UF-13 [Box of 12] | $237.00 → **$154.05** | $12.84 | -35% on-site ($237.00 → $154.05, compare_at); -32% vs $18.75/stick at tccigar (in stock); first time discounted |
+| 4 | Liga Privada H99 Toro [Box of 24] | $438.00 → **$284.70** | $11.86 | -35% on-site ($438.00 → $284.70, compare_at); -28% vs $16.41/stick at tccigar (in stock); first time discounted |
+| 5 | Liga Privada H99 Robusto [5 Pack] | $87.00 → **$56.55** | $11.31 | -35% on-site ($87.00 → $56.55, compare_at); -27% vs $15.50/stick at tccigar (in stock); also discounted on 2026-10-13 at $11.05 |
+| 6 | Fuente Fuente OpusX Super Belicoso [Box of 29] | $1,150.00 → **$862.50** | $29.74 | -25% on-site ($1,150.00 → $862.50, compare_at); -30% vs $42.59/stick at greenwich (in stock); first time discounted |
+| 7 | OpusX 20th Anniversary Believe [Box of 20] | $1,275.00 → **$1,020.00** | $51.00 | -20% on-site ($1,275.00 → $1,020.00, compare_at); -31% vs $74.00/stick at greenwich (in stock); first time discounted |
+| 8 | Jaime Garcia Reserva Especial Belicoso [Box of 20] | $198.00 → **$128.70** | $6.43 | -35% on-site ($198.00 → $128.70, compare_at); -28% vs $8.91/stick at cigarsdirect (in stock); also discounted on 2026-09-21 at $6.93 |
+| 9 | Alma Del Cielo Celeste Robusto [Box 10] | $250.00 → **$162.50** | $16.25 | -35% on-site ($250.00 → $162.50, compare_at); -30% vs $23.36/stick at cigarsdirect (in stock); also discounted on 2026-09-21 at $16.25 |
+| 10 | illusione Oneoff Black Robusto [5 Pack] | $80.00 → **$56.00** | $11.20 | -30% on-site ($80.00 → $56.00, compare_at); -28% vs $15.65/stick at luxurycigar (in stock); also discounted on 2026-10-06 at $12.00 |
+
+## Top 5 picks · $984.45 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Avo XO Preludio [Box of 20] | $244.00 → **$146.40** | $7.32 | -40% on-site ($244.00 → $146.40, compare_at); -40% vs $12.20/stick at greenwich (in stock); also discounted on 2026-09-29 at $7.69 |
+| 2 | Don Carlos Eye of the Bull [Box of 20] | $457.00 → **$342.75** | $17.14 | -25% on-site ($457.00 → $342.75, compare_at); -38% vs $27.50/stick at greenwich (in stock); also discounted on 2026-10-13 at $17.14 |
+| 3 | Liga Privada Unico Serie UF-13 [Box of 12] | $237.00 → **$154.05** | $12.84 | -35% on-site ($237.00 → $154.05, compare_at); -32% vs $18.75/stick at tccigar (in stock); first time discounted |
+| 4 | Liga Privada H99 Toro [Box of 24] | $438.00 → **$284.70** | $11.86 | -35% on-site ($438.00 → $284.70, compare_at); -28% vs $16.41/stick at tccigar (in stock); first time discounted |
+| 5 | Liga Privada H99 Robusto [5 Pack] | $87.00 → **$56.55** | $11.31 | -35% on-site ($87.00 → $56.55, compare_at); -27% vs $15.50/stick at tccigar (in stock); also discounted on 2026-10-13 at $11.05 |
