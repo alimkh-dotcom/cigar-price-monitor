@@ -1770,3 +1770,54 @@ previous run 2026-10-26T21:02:49+00:00 · 26,171 variants tracked
 previous run 2026-10-27T00:02:51+00:00 · 26,171 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-27T21:03:39+00:00
+previous run 2026-10-27T12:05:33+00:00 · 26,164 variants tracked
+
+## Price drops ≥20%  (130)
+- **25%** `iheart` Fratello Arlequin Gordo [5 Pack] = $10.61/stick — $70.75 → **$53.06**
+- **25%** `iheart` Brick House Churchill Double Connecticut [Box of 25] = $7.76/stick — $258.75 → **$194.06**
+- **25%** `iheart` Eastern Standard Euro Express [Box of 24] = $9.68/stick — $309.75 → **$232.31**
+- **25%** `iheart` Fratello Oro Boxer [Box of 20] = $10.63/stick — $283.60 → **$212.70**
+- **25%** `iheart` Caldwell Long Live The King Maduro Belicoso [Box of 10] = $11.40/stick — $152.00 → **$114.00**
+- **25%** `iheart` Caldwell Long Live the Queen Maduro Queen's Charge [Box of 10] = $13.50/stick — $180.00 → **$135.00**
+- **25%** `iheart` Caldwell Long Live the Queen Maduro Queen's Crest [Box of 10] = $10.65/stick — $142.00 → **$106.50**
+- **25%** `iheart` AJ Fernandez Dias de Gloria Brazil Robusto [Box of 20] = $10.88/stick — $290.00 → **$217.50**
+- **25%** `iheart` AJ Fernandez Dias de Gloria Brazil Gordo [Box of 20] = $12.00/stick — $320.00 → **$240.00**
+- **25%** `iheart` AJ Fernandez Dias de Gloria Brazil Corona [Box of 20] = $10.50/stick — $280.00 → **$210.00**
+- **25%** `iheart` AJ Fernandez New World Decenio Gordo [Box of 20] = $11.25/stick — $300.00 → **$225.00**
+- **25%** `iheart` AJ Fernandez New World Decenio Robusto [Box of 20] = $9.38/stick — $250.00 → **$187.50**
+- **25%** `iheart` AJ Fernandez New World Dorado Gordito [Box of 10] = $9.90/stick — $132.00 → **$99.00**
+- **25%** `iheart` Fratello Arlequin Gordo [Box of 20] = $10.61/stick — $283.00 → **$212.25**
+- **25%** `iheart` Fratello Arlequin Toro [Box of 20] = $10.24/stick — $273.00 → **$204.75**
+- **25%** `iheart` Fratello Arlequin Toro [5 Pack] = $8.19/stick — $54.60 → **$40.95**
+- **25%** `iheart` Fratello Arlequin Corona [Box of 20] = $9.04/stick — $241.00 → **$180.75**
+- **25%** `iheart` Fratello Arlequin Robusto [Box of 20] = $9.82/stick — $262.00 → **$196.50**
+- **25%** `iheart` Fratello Arlequin Connecticut Toro [Box of 20] = $10.24/stick — $273.00 → **$204.75**
+- **25%** `iheart` Fratello Arlequin Connecticut Robusto [Box of 20] = $9.82/stick — $262.00 → **$196.50**
+- **25%** `iheart` Fratello Classico Toro [Box of 20] = $10.24/stick — $273.00 → **$204.75**
+- **25%** `iheart` Fratello Classico Corona [Box of 20] = $8.38/stick — $223.60 → **$167.70**
+- **25%** `iheart` Fratello Classico Timacle [Box of 20] = $10.24/stick — $273.00 → **$204.75**
+- **25%** `iheart` AJ Fernandez New World Dorado Figurado [Box of 10] = $10.05/stick — $134.00 → **$100.50**
+- **25%** `iheart` Fratello Oro Robusto [Box of 20] = $9.45/stick — $252.00 → **$189.00**
+- **25%** `iheart` Fratello Oro Robusto [5 Pack] = $9.45/stick — $63.00 → **$47.25**
+- **25%** `iheart` Fratello Classico Robusto [Box of 20] = $9.45/stick — $252.00 → **$189.00**
+- **25%** `iheart` Fratello Classico Robusto [5 Pack] = $9.45/stick — $63.00 → **$47.25**
+- **25%** `iheart` AJ Fernandez Dias de Gloria Brazil Figurado [Box of 20] = $11.62/stick — $310.00 → **$232.50**
+- **25%** `iheart` Brick House Corona Larga Natural [Box of 25] = $6.81/stick — $227.00 → **$170.25**
+- **25%** `iheart` Alec Bradley Magic Toast Gran Toro Limited Edition [Box of 20] = $9.94/stick — $265.00 → **$198.75**
+- **25%** `iheart` Black Market Perfecto- Discontinued. [Box of 10] = $13.50/stick — $180.00 → **$135.00**
+- **25%** `iheart` E.P. Carrillo Capa De Sol Exclusivos- Discontinued. [Box of 20] = $7.88/stick — $210.00 → **$157.50** _(out of stock)_
+- **25%** `iheart` Lost and Found One Night Stand 10th Anniversary Toro [Box of 10] = $13.12/stick — $175.00 → **$131.25**
+- **25%** `iheart` Eastern Standard The Cypress Room [Box of 24] = $13.12/stick — $420.00 → **$315.00**
+- **25%** `iheart` Elite Seleccion Oscuro Small Churchill - Discontinued [Box of 20] = $8.25/stick — $220.00 → **$165.00**
+- **25%** `iheart` Elite Seleccion Oscuro Especial No.6 - Discontinued [Box of 20] = $9.38/stick — $250.00 → **$187.50**
+- **25%** `iheart` Cavalier Geneve Prospektor [Box of 20] = $10.12/stick — $270.00 → **$202.50**
+- **25%** `iheart` Cavalier Geneve LE 2022 [Box of 10] = $14.25/stick — $190.00 → **$142.50**
+- **25%** `iheart` Fine and Rare HOF/506 (LE 2019) [Box of 10] = $21.75/stick — $290.00 → **$217.50**
+
+## New products  (1)
+- `jackschwartz` Super Spooky Basin Bundle [Default Title] — $108.00
