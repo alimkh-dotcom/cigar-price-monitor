@@ -1749,3 +1749,16 @@ previous run 2026-10-26T12:06:27+00:00 · 26,166 variants tracked
 - **28% under** `iheart` Liga Privada H99 Toro [Box of 24] = $11.86/stick vs $16.41/stick at `tccigar` (Liga Privada H99 Toro)
 - **27% under** `iheart` Liga Privada H99 Robusto [5 Pack] = $11.31/stick vs $15.50/stick at `tccigar` (Liga Privada H99 Robusto)
 - **27% under** `iheart` Oliva Serie V Churchill Extra [5 Pack] = $9.67/stick vs $13.18/stick at `cigarsdirect` (Oliva Serie V Churchill Extra)
+
+
+---
+
+# Cigar price monitor — 2026-10-27T00:02:51+00:00
+previous run 2026-10-26T21:02:49+00:00 · 26,171 variants tracked
+
+## New products  (5)
+- `jackschwartz` Viaje Full Moon 13th Anniversary Maduro Limited Edition [Box of 24] = $22.50/stick — $540.00 _(out of stock)_
+- `jackschwartz` Viaje Full Moon 13th Anniversary Natural Limited Edition [Box of 24] = $22.50/stick — $540.00 _(out of stock)_
+- `mrbundles` ALFONSO #1 TUBO 3-PACK [Default Title] — $105.00
+- `jackschwartz` Viaje Full Moon 13th Anniversary Maduro Limited Edition [Single] = $22.75/stick — $22.75 _(out of stock)_
+- `jackschwartz` Viaje Full Moon 13th Anniversary Natural Limited Edition [Single] = $22.75/stick — $22.75 _(out of stock)_
