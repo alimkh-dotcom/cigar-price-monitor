@@ -1762,3 +1762,11 @@ previous run 2026-10-26T21:02:49+00:00 · 26,171 variants tracked
 - `mrbundles` ALFONSO #1 TUBO 3-PACK [Default Title] — $105.00
 - `jackschwartz` Viaje Full Moon 13th Anniversary Maduro Limited Edition [Single] = $22.75/stick — $22.75 _(out of stock)_
 - `jackschwartz` Viaje Full Moon 13th Anniversary Natural Limited Edition [Single] = $22.75/stick — $22.75 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-10-27T12:05:33+00:00
+previous run 2026-10-27T00:02:51+00:00 · 26,171 variants tracked
+
+**No actionable changes.**
