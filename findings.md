@@ -1837,3 +1837,20 @@ previous run 2026-10-27T21:03:39+00:00 · 26,163 variants tracked
 previous run 2026-10-28T00:02:47+00:00 · 26,163 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-28T21:02:54+00:00
+previous run 2026-10-28T12:09:29+00:00 · 26,170 variants tracked
+
+## New products  (9)
+- `tccigar` Arturo Fuente Black Pink Work of Art [Box of 25] = $25.10/stick — $627.50 _(out of stock)_
+- `tccigar` Arturo Fuente Black Pink Signature [Box of 25] = $24.10/stick — $602.50 _(out of stock)_
+- `iheart` Travel Retail Selection Corona Tubos (2002 Release) [Box of 8] = $36.25/stick — $290.00
+- `tccigar` Arturo Fuente Black Pink Happy Ending [Box of 25] = $11.50/stick — $287.50 _(out of stock)_
+- `iheart` Travel Retail Selection Corona Tubos (2002 Release) [5 Pack] = $36.25/stick — $181.25
+- `iheart` Travel Retail Selection Corona Tubos (2002 Release) [Single] = $36.25/stick — $36.25
+- `tccigar` Arturo Fuente Black Pink Happy Ending [Single Cigar] = $28.75/stick — $28.75 _(out of stock)_
+- `tccigar` Arturo Fuente Black Pink Work of Art [Single Cigar] = $25.10/stick — $25.10 _(out of stock)_
+- `tccigar` Arturo Fuente Black Pink Signature [Single Cigar] = $24.10/stick — $24.10 _(out of stock)_
