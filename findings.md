@@ -1854,3 +1854,13 @@ previous run 2026-10-28T12:09:29+00:00 · 26,170 variants tracked
 - `tccigar` Arturo Fuente Black Pink Happy Ending [Single Cigar] = $28.75/stick — $28.75 _(out of stock)_
 - `tccigar` Arturo Fuente Black Pink Work of Art [Single Cigar] = $25.10/stick — $25.10 _(out of stock)_
 - `tccigar` Arturo Fuente Black Pink Signature [Single Cigar] = $24.10/stick — $24.10 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-10-29T00:02:51+00:00
+previous run 2026-10-28T21:02:54+00:00 · 26,172 variants tracked
+
+## New products  (2)
+- `cigarsdirect` Arturo Fuente OpusX Baby Shark No.77 [Box of 30] = $66.67/stick — $2,000.00
+- `cigarsdirect` Arturo Fuente OpusX Baby Shark No.77 [1 Cigar] = $65.00/stick — $65.00 _(out of stock)_
