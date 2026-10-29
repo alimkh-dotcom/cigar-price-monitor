@@ -1864,3 +1864,11 @@ previous run 2026-10-28T21:02:54+00:00 · 26,172 variants tracked
 ## New products  (2)
 - `cigarsdirect` Arturo Fuente OpusX Baby Shark No.77 [Box of 30] = $66.67/stick — $2,000.00
 - `cigarsdirect` Arturo Fuente OpusX Baby Shark No.77 [1 Cigar] = $65.00/stick — $65.00 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-10-29T12:03:08+00:00
+previous run 2026-10-29T00:02:51+00:00 · 26,173 variants tracked
+
+**No actionable changes.**
