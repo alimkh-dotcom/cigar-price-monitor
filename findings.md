@@ -1872,3 +1872,24 @@ previous run 2026-10-28T21:02:54+00:00 · 26,172 variants tracked
 previous run 2026-10-29T00:02:51+00:00 · 26,173 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-29T21:03:04+00:00
+previous run 2026-10-29T12:03:08+00:00 · 26,182 variants tracked
+
+## New products  (13)
+- `jackschwartz` Davidoff Year of the Sheep LE 2027 [Box of 10] = $62.00/stick — $620.00 _(out of stock)_
+- `mrbundles` Padron 1926 No.35 Natural [Box of 24] = $16.35/stick — $392.40 _(out of stock)_
+- `mrbundles` JC NEWMAN DIAMOND CROWN MAXIMUS #4 (TORO) [BOX OF 20] = $18.50/stick — $370.00
+- `cigarsdirect` Black Works Studio Culture Vulture Toro [Box of 20] = $13.05/stick — $261.00
+- `cigarsdirect` Black Works Studio Culture Vulture Robusto [Box of 20] = $12.60/stick — $252.00
+- `cigarsdirect` Black Works Studio Culture Vulture Panatela [Box of 20] = $12.15/stick — $243.00
+- `mrbundles` LAMPERT CONTINENTAL 52 (Bundle of 10) [Default Title] — $107.50
+- `mrbundles` JC NEWMAN DIAMOND CROWN MAXIMUS #4 (TORO) [5 PACK] = $18.50/stick — $92.50
+- `mrbundles` Padron 1926 No.35 Natural [4 Pack] = $16.35/stick — $65.40 _(out of stock)_
+- `jackschwartz` Davidoff Year of the Sheep LE 2027 [Single] = $62.00/stick — $62.00 _(out of stock)_
+- `cigarsdirect` Black Works Studio Culture Vulture Toro [1 Cigar] = $14.50/stick — $14.50
+- `cigarsdirect` Black Works Studio Culture Vulture Robusto [1 Cigar] = $14.00/stick — $14.00
+- `cigarsdirect` Black Works Studio Culture Vulture Panatela [1 Cigar] = $13.50/stick — $13.50
