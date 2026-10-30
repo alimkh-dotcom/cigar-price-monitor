@@ -1903,3 +1903,11 @@ previous run 2026-10-29T21:03:04+00:00 · 26,184 variants tracked
 ## New products  (2)
 - `mrbundles` AG CIGARS BELLAS [50 Cigars] = $3.60/stick — $180.00
 - `mrbundles` AG CIGARS BELLAS [25 Cigars] = $3.60/stick — $90.00
+
+
+---
+
+# Cigar price monitor — 2026-10-30T12:04:17+00:00
+previous run 2026-10-30T00:02:41+00:00 · 26,184 variants tracked
+
+**No actionable changes.**
