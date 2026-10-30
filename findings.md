@@ -1911,3 +1911,38 @@ previous run 2026-10-29T21:03:04+00:00 · 26,184 variants tracked
 previous run 2026-10-30T00:02:41+00:00 · 26,184 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-10-30T21:02:44+00:00
+previous run 2026-10-30T12:04:17+00:00 · 26,201 variants tracked
+
+## New products  (22)
+- `jackschwartz` Paul Garmirian 35th Anniversary Short Robusto [Box of 25] = $18.23/stick — $455.63
+- `gtcigars` Don Pepin Vintage Edition [Toro Gordo (6" x 60)] — $235.99
+- `gtcigars` My Father Jaime Garcia Reserva Especial Connecticut [Robusto (5" x 50)] — $206.99
+- `gtcigars` My Father Jaime Garcia Reserva Especial Connecticut [Toro (6" x 54)] — $206.99
+- `gtcigars` My Father Jaime Garcia Reserva Especial Connecticut [Toro Gordo (6" x 60)] — $206.99
+- `gtcigars` My Father Jaime Garcia Reserva Especial Connecticut [Churchill (7" x 50)] — $206.99
+- `iheart` Exclusive - China 2088 [Box of 5] = $25.00/stick — $125.00
+- `jackschwartz` Paul Garmirian 35th Anniversary Short Robusto [5-Pack] = $20.25/stick — $101.25
+- `gtcigars` Espinosa 601 Red Label Habano 5CT Sampler [Churchill (7" x 48)] — $25.99
+- `gtcigars` Espinosa 601 Red Label Habano 5CT Sampler [Robusto (5.25" x 52)] — $25.99
+- `gtcigars` Espinosa 601 Red Label Habano 5CT Sampler [Toro (6" x 50)] — $25.99
+- `gtcigars` Espinosa 601 Red Label Habano 5CT Sampler [Torpedo (6.5" x 52)] — $25.99
+- `gtcigars` Espinosa 601 Red Label Habano 5CT Sampler [Trabuco (6.1" x 58)] — $25.99
+- `gtcigars` Espinosa Habano 5CT Sampler [No. 4 (Robusto) (5.5" X 50)] — $25.99
+- `gtcigars` Espinosa Habano 5CT Sampler [No. 5 (Toro) (6" x 52)] — $25.99
+- `gtcigars` Espinosa Habano 5CT Sampler [No. 8 (Trabuco) (6.1" x 58)] — $25.99
+- `gtcigars` Espinosa Habano 5CT Sampler [Rabito (6" x 46)] — $25.99
+- `gtcigars` Espinosa Habano 5CT Sampler [Toro Box-Pressed (6" x 54)] — $25.99
+- `gtcigars` Espinosa Crema 5CT Sampler [No. 4 (Robusto) (5.5"x52)] — $25.99
+- `gtcigars` Espinosa Crema 5CT Sampler [No. 1 (Churchill) (7" x 48)] — $25.99
+- `gtcigars` Espinosa Crema 5CT Sampler [No. 5 (Toro) (6" x 56)] — $25.99
+- `jackschwartz` Paul Garmirian 35th Anniversary Short Robusto [Single] = $20.50/stick — $20.50
+
+## New variants on existing products  (3)
+- `gtcigars` Don Pepin Garcia Blue (Original) [Toro Grande (6" x 62)] — $197.99
+- `gtcigars` My Father Jaime Garcia Reserva Especial [Gordo Extra (7" x 70)] — $155.99
+- `gtcigars` La Antiguedad by My Father Cigars [Super Toro (7" x 56)] — $152.99
