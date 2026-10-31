@@ -1946,3 +1946,11 @@ previous run 2026-10-30T12:04:17+00:00 · 26,201 variants tracked
 - `gtcigars` Don Pepin Garcia Blue (Original) [Toro Grande (6" x 62)] — $197.99
 - `gtcigars` My Father Jaime Garcia Reserva Especial [Gordo Extra (7" x 70)] — $155.99
 - `gtcigars` La Antiguedad by My Father Cigars [Super Toro (7" x 56)] — $152.99
+
+
+---
+
+# Cigar price monitor — 2026-10-31T00:03:02+00:00
+previous run 2026-10-30T21:02:44+00:00 · 26,200 variants tracked
+
+**No actionable changes.**
