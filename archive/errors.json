@@ -12,6 +12,19 @@
   "site": "tccigar",
   "variant": "5 Pack"
  },
+ "Brick House Teaser": {
+  "fair": 7.83,
+  "first_seen": "2026-11-01",
+  "last_seen": "2026-11-01",
+  "price": 141.75,
+  "ps": 5.06,
+  "q": 28,
+  "ratio": 0.646,
+  "rival": 7.85,
+  "saving": 0.355,
+  "site": "greenwich",
+  "variant": "Box of 28"
+ },
  "Lost and Found 22 Minutes to Midnight Connecticut Radiante Robusto": {
   "fair": 21.0,
   "first_seen": "2026-10-22",
@@ -118,5 +131,18 @@
   "saving": 0.307,
   "site": "iheart",
   "variant": "5-Pack"
+ },
+ "illusione Epernay Tuonela Le Grande": {
+  "fair": 12.84,
+  "first_seen": "2026-11-01",
+  "last_seen": "2026-11-01",
+  "price": 216.0,
+  "ps": 8.64,
+  "q": 25,
+  "ratio": 0.673,
+  "rival": 12.3,
+  "saving": 0.298,
+  "site": "tccigar",
+  "variant": "Box of 25"
  }
 }
