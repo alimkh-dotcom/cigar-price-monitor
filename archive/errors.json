@@ -2,7 +2,7 @@
  "AJ Fernandez New World Dorado Figurado": {
   "fair": 12.52,
   "first_seen": "2026-10-22",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "price": 26.8,
   "ps": 5.36,
   "q": 5,
@@ -12,23 +12,10 @@
   "site": "tccigar",
   "variant": "5 Pack"
  },
- "Brick House Teaser": {
-  "fair": 7.83,
-  "first_seen": "2026-11-01",
-  "last_seen": "2026-11-01",
-  "price": 141.75,
-  "ps": 5.06,
-  "q": 28,
-  "ratio": 0.646,
-  "rival": 7.85,
-  "saving": 0.355,
-  "site": "greenwich",
-  "variant": "Box of 28"
- },
  "Lost and Found 22 Minutes to Midnight Connecticut Radiante Robusto": {
   "fair": 21.0,
   "first_seen": "2026-10-22",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "price": 10.5,
   "ps": 10.5,
   "q": 1,
@@ -41,7 +28,7 @@
  "Lost and Found 22 Minutes to Midnight Criollo Classico Corona Extra": {
   "fair": 16.2,
   "first_seen": "2026-10-27",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "price": 240.0,
   "ps": 12.0,
   "q": 20,
@@ -54,7 +41,7 @@
  "Lost and Found 22 Minutes to Midnight Habano de Oro Robusto": {
   "fair": 18.9,
   "first_seen": "2026-10-22",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "price": 258.75,
   "ps": 12.94,
   "q": 20,
@@ -67,7 +54,7 @@
  "greenwich \u00b7 Arturo Fuente Destino al Siglo de Familias": {
   "fair": 0.0,
   "first_seen": "2026-10-23",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "price": 0.0,
   "ps": 0.0,
   "q": 13,
@@ -81,7 +68,7 @@
  "greenwich \u00b7 Arturo Fuente Destino al Siglo de Pasion": {
   "fair": 0.0,
   "first_seen": "2026-10-23",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "price": 0.0,
   "ps": 0.0,
   "q": 13,
@@ -95,7 +82,7 @@
  "greenwich \u00b7 Davidoff Millennium Lancero": {
   "fair": 55.11,
   "first_seen": "2026-10-23",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "price": 290.0,
   "ps": 29.0,
   "q": 10,
@@ -108,7 +95,7 @@
  "greenwich \u00b7 Fuente Fuente Opus X Angel's Share Perfecxion X": {
   "fair": 0.0,
   "first_seen": "2026-10-23",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "price": 0.0,
   "ps": 0.0,
   "q": 32,
@@ -122,7 +109,7 @@
  "greenwich \u00b7 Fuente Fuente Opus X OXO Oro Oscuro Super Belicoso": {
   "fair": 41.0,
   "first_seen": "2026-10-23",
-  "last_seen": "2026-11-01",
+  "last_seen": "2026-11-02",
   "price": 152.5,
   "ps": 30.5,
   "q": 5,
@@ -131,18 +118,5 @@
   "saving": 0.307,
   "site": "iheart",
   "variant": "5-Pack"
- },
- "illusione Epernay Tuonela Le Grande": {
-  "fair": 12.84,
-  "first_seen": "2026-11-01",
-  "last_seen": "2026-11-01",
-  "price": 216.0,
-  "ps": 8.64,
-  "q": 25,
-  "ratio": 0.673,
-  "rival": 12.3,
-  "saving": 0.298,
-  "site": "tccigar",
-  "variant": "Box of 25"
  }
 }
