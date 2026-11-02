@@ -570,3 +570,35 @@ compared against 8 retailers and 11 previous Monday Madness runs
 | 3 | Avo XO Preludio [Box of 20] | $244.00 → **$146.40** | $7.32 | -40% on-site ($244.00 → $146.40, compare_at); -40% vs $12.20/stick at greenwich (in stock); also discounted on 2026-10-26 at $7.32 |
 | 4 | Liga Privada H99 Toro [Box of 24] | $438.00 → **$284.70** | $11.86 | -35% on-site ($438.00 → $284.70, compare_at); -28% vs $16.41/stick at tccigar (in stock); also discounted on 2026-10-26 at $11.86 |
 | 5 | Liga Privada H99 Robusto [5 Pack] | $87.00 → **$56.55** | $11.31 | -35% on-site ($87.00 → $56.55, compare_at); -27% vs $15.50/stick at tccigar (in stock); also discounted on 2026-10-26 at $11.31 |
+
+
+---
+
+# Monday Madness — 2026-11-02
+85 variants marked down on-site · these revert within ~24h
+compared against 8 retailers and 12 previous Monday Madness runs
+
+## Top 10 picks · $2,308.39 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Arturo Fuente Hemingway Untold Story Madur [5 Pack] | $115.00 → **$80.50** | $16.10 | -30% on-site ($115.00 → $80.50, compare_at); -40% vs $27.00/stick at cigarsdirect (in stock); also discounted on 2026-10-21 at $16.10 |
+| 2 | Liga Privada H99 Flying Pig [Box of 12] | $242.40 → **$157.56** | $13.13 | -35% on-site ($242.40 → $157.56, compare_at); -37% vs $20.83/stick at cigarsdirect (in stock); also discounted on 2026-10-21 at $13.13 |
+| 3 | Liga Privada Unico Serie L40 [5 Pack] | $100.00 → **$65.00** | $13.00 | -35% on-site ($100.00 → $65.00, compare_at); -32% vs $19.00/stick at tccigar (in stock); first time discounted |
+| 4 | Quattro Nicaragua Espressivo [Box of 20] | $296.00 → **$177.60** | $8.88 | -40% on-site ($296.00 → $177.60, compare_at); -40% vs $14.84/stick at greenwich (in stock); also discounted on 2026-10-21 at $8.88 |
+| 5 | Liga Privada No.9 Flying Pig [Box of 12] | $240.00 → **$156.00** | $13.00 | -35% on-site ($240.00 → $156.00, compare_at); -29% vs $18.33/stick at cigarsdirect (in stock); also discounted on 2026-10-13 at $13.00 |
+| 6 | Alma Fuerte Robustus I [Box 10] | $214.00 → **$139.10** | $13.91 | -35% on-site ($214.00 → $139.10, compare_at); -32% vs $20.39/stick at tccigar (in stock); also discounted on 2026-10-13 at $12.84 |
+| 7 | Plasencia Alma del Campo Madrono Gordo [Box of 10] | $239.90 → **$155.94** | $15.59 | -35% on-site ($239.90 → $155.94, compare_at); -26% vs $21.19/stick at cigarsdirect (in stock); also discounted on 2026-09-29 at $15.59 |
+| 8 | illusione Fume D'Amour Capistranos [Box of 25] | $320.00 → **$208.00** | $8.32 | -35% on-site ($320.00 → $208.00, compare_at); -28% vs $11.62/stick at luxurycigar (in stock); also discounted on 2026-10-06 at $8.96 |
+| 9 | OpusX 20th Anniversary Father and Son [Box of 20] | $1,340.00 → **$1,072.00** | $53.60 | -20% on-site ($1,340.00 → $1,072.00, compare_at); -29% vs $76.00/stick at greenwich (in stock); also discounted on 2026-10-27 at $53.60 |
+| 10 | Sin Compromiso Seleccion Paladin de Saka [5 Pack] | $148.75 → **$96.69** | $19.34 | -35% on-site ($148.75 → $96.69, compare_at); -35% vs $29.75/stick at greenwich (in stock); also discounted on 2026-10-21 at $18.08 |
+
+## Top 5 picks · $636.66 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Arturo Fuente Hemingway Untold Story Madur [5 Pack] | $115.00 → **$80.50** | $16.10 | -30% on-site ($115.00 → $80.50, compare_at); -40% vs $27.00/stick at cigarsdirect (in stock); also discounted on 2026-10-21 at $16.10 |
+| 2 | Liga Privada H99 Flying Pig [Box of 12] | $242.40 → **$157.56** | $13.13 | -35% on-site ($242.40 → $157.56, compare_at); -37% vs $20.83/stick at cigarsdirect (in stock); also discounted on 2026-10-21 at $13.13 |
+| 3 | Liga Privada Unico Serie L40 [5 Pack] | $100.00 → **$65.00** | $13.00 | -35% on-site ($100.00 → $65.00, compare_at); -32% vs $19.00/stick at tccigar (in stock); first time discounted |
+| 4 | Quattro Nicaragua Espressivo [Box of 20] | $296.00 → **$177.60** | $8.88 | -40% on-site ($296.00 → $177.60, compare_at); -40% vs $14.84/stick at greenwich (in stock); also discounted on 2026-10-21 at $8.88 |
+| 5 | Liga Privada No.9 Flying Pig [Box of 12] | $240.00 → **$156.00** | $13.00 | -35% on-site ($240.00 → $156.00, compare_at); -29% vs $18.33/stick at cigarsdirect (in stock); also discounted on 2026-10-13 at $13.00 |

@@ -182,3 +182,31 @@ rival prices are adjusted for each site's measured markup before comparing
 ## Fixed or gone (2)
 - Brick House Teaser (live 2026-11-01 → 2026-11-01)
 - illusione Epernay Tuonela Le Grande (live 2026-11-01 → 2026-11-01)
+
+
+---
+
+# Pricing errors (iheart, greenwich) — 2026-11-02
+17 live · 8 new · 0 fixed since last run
+rival prices are adjusted for each site's measured markup before comparing
+
+## New (8)
+- **likely error** — Quattro Nicaragua Espressivo [Box of 20] **$8.88/stick**, **40% under** the cheapest in stock among the retailers we track ($14.84 at greenwich)
+- unusually cheap ★ — Liga Privada H99 Flying Pig [Box of 12] **$13.13/stick**, **37% under** the cheapest in stock among the retailers we track ($20.83 at cigarsdirect)
+- unusually cheap — Sin Compromiso Seleccion Paladin de Saka [5 Pack] **$19.34/stick**, **35% under** the cheapest in stock among the retailers we track ($29.75 at greenwich)
+- unusually cheap ★ — Alma Fuerte Robustus I [Box 10] **$13.91/stick**, **32% under** the cheapest in stock among the retailers we track ($20.39 at tccigar)
+- unusually cheap ★ — Liga Privada Unico Serie L40 [5 Pack] **$13.00/stick**, **32% under** the cheapest in stock among the retailers we track ($19.00 at tccigar)
+- unusually cheap — Colorado Claro Aniversario No. 3 [5 Pack] **$26.04/stick**, **30% under** the cheapest in stock among the retailers we track ($37.20 at greenwich)
+- unusually cheap ★ — Liga Privada No.9 Flying Pig [Box of 12] **$13.00/stick**, **29% under** the cheapest in stock among the retailers we track ($18.33 at cigarsdirect)
+- unusually cheap ★ — Plasencia Alma del Campo Madrono Gordo [Box of 10] **$15.59/stick**, **26% under** the cheapest in stock among the retailers we track ($21.19 at cigarsdirect)
+
+## Still live (9)
+- **$0 listing** — greenwich · Arturo Fuente Destino al Siglo de Familias [Box of 13] is in stock at $0.00. A broken price, not a deal: expect an order to be cancelled or re-priced · live since 2026-10-23
+- **$0 listing** — greenwich · Arturo Fuente Destino al Siglo de Pasion [Box of 13] is in stock at $0.00. A broken price, not a deal: expect an order to be cancelled or re-priced · live since 2026-10-23
+- **$0 listing** — greenwich · Fuente Fuente Opus X Angel's Share Perfecxion X [Box of 32] is in stock at $0.00. A broken price, not a deal: expect an order to be cancelled or re-priced · live since 2026-10-23
+- **likely error** — AJ Fernandez New World Dorado Figurado [5 Pack] **$5.36/stick**, **55% under** the cheapest in stock among the retailers we track ($12.00 at tccigar) · live since 2026-10-22
+- **likely error** — Lost and Found 22 Minutes to Midnight Connecticut Radiante Robusto [Single] **$10.50/stick**, **50% under** the cheapest in stock among the retailers we track ($21.00 at cigarsdirect) · live since 2026-10-22
+- **likely error** ★ — greenwich · Davidoff Millennium Lancero [Box of 10] **$29.00/stick**, **47% under** the cheapest in stock among the retailers we track ($55.00 at iheart) · live since 2026-10-23
+- unusually cheap — Lost and Found 22 Minutes to Midnight Habano de Oro Robusto [Box 20] **$12.94/stick**, **32% under** the cheapest in stock among the retailers we track ($18.90 at cigarsdirect) · live since 2026-10-22
+- unusually cheap — Lost and Found 22 Minutes to Midnight Criollo Classico Corona Extra [Box 20] **$12.00/stick**, **26% under** the cheapest in stock among the retailers we track ($16.20 at cigarsdirect) · live since 2026-10-27
+- unusually cheap ★ — greenwich · Fuente Fuente Opus X OXO Oro Oscuro Super Belicoso [5-Pack] **$30.50/stick**, **31% under** the cheapest in stock among the retailers we track ($44.00 at iheart) · live since 2026-10-23

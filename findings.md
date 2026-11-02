@@ -2011,3 +2011,80 @@ previous run 2026-11-01T22:01:44+00:00 · 26,201 variants tracked
 previous run 2026-11-02T00:02:54+00:00 · 26,201 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-11-02T22:02:27+00:00
+previous run 2026-11-02T12:06:34+00:00 · 26,223 variants tracked
+
+## Price drops ≥20%  (49)
+- **40%** **BIG** `iheart` Quattro Nicaragua Espressivo [Box of 20] = $8.88/stick — $296.00 → **$177.60**
+- **35%** **BIG** `iheart` Timeless Classics Assortment (2014 Release) [Box of 3] = $21.45/stick — $99.00 → **$64.35**
+- **35%** **BIG** `iheart` Nicaragua Robusto Tubos [Box of 4] = $13.97/stick — $86.00 → **$55.90**
+- **35%** **BIG** `iheart` Puro D'oro Deliciosos - Discontinued [5 Pack] = $35.75/stick — $275.00 → **$178.75**
+- **35%** **BIG** `iheart` Southern Draw Kudzu Lancero [Box of 20] = $7.54/stick — $232.00 → **$150.80**
+- **35%** **BIG** `iheart` illusione Fume D'Amour Capistranos [Box of 25] = $8.32/stick — $320.00 → **$208.00**
+- **33%** `iheart` Balmoral Anejo XO Gran Perfecto FT EL 2018 [Box of 10] = $16.41/stick — $245.00 → **$164.15**
+- **33%** `iheart` Zino Platinum LE 2013 “The Make of L.A.” CarCult - Discontinued [Box of 10] = $23.56/stick — $350.00 → **$235.60**
+- **32%** `iheart` Millennium Blend Robusto [Box of 25] = $20.80/stick — $767.00 → **$520.00**
+- **31%** `iheart` Zino Platinum LE 2013 "The Make of N.Y." Spirit - Discontinued [Box of 10] = $24.18/stick — $350.00 → **$241.80**
+- **30%** `iheart` Arturo Fuente Hemingway Untold Story Maduro [5 Pack] = $16.10/stick — $115.00 → **$80.50**
+- **30%** `iheart` illusione Epernay Le Voyage [Box of 5] = $21.00/stick — $150.00 → **$105.00**
+- **30%** `iheart` Pi Synesthesia Red Limited Edition 2023 [Box of 12] = $10.50/stick — $180.00 → **$126.00**
+- **30%** `iheart` Colorado Claro Aniversario No. 3 [5 Pack] = $26.04/stick — $186.00 → **$130.20**
+- **30%** `iheart` Rare Pink Vintage 1960's Signature [Box of 5] = $25.90/stick — $185.00 → **$129.50**
+- **30%** `iheart` Rare Pink Vintage 1960's Happy Endings [Box of 5] = $24.50/stick — $175.00 → **$122.50**
+- **30%** `iheart` Grand Cru No.2 [5 Pack] = $15.82/stick — $113.00 → **$79.10**
+- **30%** `iheart` Jaime Garcia Reserva Especial Robusto [Box of 20] = $6.16/stick — $176.00 → **$123.20**
+- **28%** `iheart` Sin Compromiso Seleccion Paladin de Saka [5 Pack] = $19.34/stick — $133.88 → **$96.69**
+- **28%** `iheart` Liga Undercrown Shade Suprema Perfecto [Box of 5] = $10.40/stick — $72.00 → **$52.00**
+- **28%** `iheart` Liga Privada Unico Serie L40 [5 Pack] = $13.00/stick — $90.00 → **$65.00**
+- **28%** `iheart` Alma Del Cielo Amanecer Hexagono [5 Pack] = $19.83/stick — $137.25 → **$99.13**
+- **26%** `iheart` The Tabernacle Havana CT142 Double Corona [5 Pack] = $10.93/stick — $74.20 → **$54.67**
+- **26%** `iheart` Winston Churchill Blenheim - Discontinued [Box of 25] = $27.30/stick — $924.00 → **$682.50**
+- **26%** `iheart` Winston Churchill Collection - Discontinued [Box of 4] = $30.88/stick — $167.20 → **$123.50**
+- **25%** `iheart` ME II Churchill [Box of 15] = $9.00/stick — $180.00 → **$135.00**
+- **25%** `iheart` Davidoff Year of the Snake (LE 2025) [Box 10] = $52.50/stick — $700.00 → **$525.00**
+- **25%** `iheart` White Edition LE 2012 - Discontinued. [5 Pack] = $52.50/stick — $350.00 → **$262.50**
+- **25%** `iheart` OpusX Fuente Fuente [Box of 32] = $25.50/stick — $1,088.00 → **$816.00**
+- **25%** `iheart` OpusX Double Corona [5 Pack] = $41.25/stick — $275.00 → **$206.25**
+- **25%** `iheart` The Chef's Edition (LE 2025) [Box of 10] = $41.25/stick — $550.00 → **$412.50**
+- **25%** `iheart` Grand Cru Diademas Finas LE 2024 [5 Pack] = $42.75/stick — $285.00 → **$213.75**
+- **25%** `iheart` OpusX Belicosos XXX [5 Pack] = $22.50/stick — $150.00 → **$112.50**
+- **25%** `iheart` Don Carlos Presidente [Box of 25] = $12.03/stick — $401.00 → **$300.75**
+- **25%** `iheart` Linea B No.03 La Dalia [Box of 10] = $11.51/stick — $153.50 → **$115.13**
+- **25%** `iheart` Plasencia Year of the Dragon (LE 2024) [Box 10] = $31.50/stick — $418.50 → **$315.00**
+- **24%** `iheart` Exclusive - China 2088 [Box of 5] = $19.00/stick — $125.00 → **$95.00**
+- **24%** `iheart` Liga Privada Unico Serie Bauhaus European Exclusive [Box 12] = $13.00/stick — $204.00 → **$156.00**
+- **24%** `iheart` Liga Privada No.9 Flying Pig [Box of 12] = $13.00/stick — $204.00 → **$156.00**
+- **24%** `iheart` Liga Privada H99 Flying Pig [Box of 12] = $13.13/stick — $206.04 → **$157.56**
+
+## New products  (23)
+- `jackschwartz` Fuente Black Pink Black Panther [Box of 20] = $34.00/stick — $680.00 _(out of stock)_
+- `jackschwartz` The Sonnet 18 Fuente Collection [Default Title] — $560.00 _(out of stock)_
+- `jackschwartz` Fuente Black Pink Work of Art [Box of 25] = $21.00/stick — $525.00 _(out of stock)_
+- `jackschwartz` Fuente Black Pink Signature [Box of 25] = $20.00/stick — $500.00 _(out of stock)_
+- `gtcigars` Lunatic Maduro [Lunatic Maduro Jackhammer (8" X 60)] — $376.99 _(out of stock)_
+- `gtcigars` Lunatic Maduro [Lunatic Maduro El Grande (5.5" X 80)] — $301.99 _(out of stock)_
+- `gtcigars` Lunatic Maduro [Lunatic Maduro (8" X 80)] — $290.99 _(out of stock)_
+- `gtcigars` Lunatic Maduro [Lunatic Maduro La Montaña (7" X 70)] — $288.99 _(out of stock)_
+- `gtcigars` Dia de los Muertos - Sweet Jane 2026 L.E. [Default Title] — $259.99 _(out of stock)_
+- `gtcigars` Lunatic Maduro [Lunatic Maduro El Chiquito (4.75" X 70)] — $250.99 _(out of stock)_
+- `gtcigars` Lunatic Habano [Lunatic Habano El Chiquito (4.75" X 70)] — $250.99 _(out of stock)_
+- `jackschwartz` Fuente Black Pink Happy Ending [Box of 10] = $24.00/stick — $240.00 _(out of stock)_
+- `gtcigars` Lunatic Maduro [Lunatic Hombre Libre Maduro NEW (6" X 54)] — $232.99 _(out of stock)_
+- `gtcigars` Lunatic Maduro [Lunatic Maduro Short Titan (4.75" X 60)] — $213.99 _(out of stock)_
+- `gtcigars` Lunatic Habano [Lunatic Habano Hombre Libre (6" X 54)] — $213.99 _(out of stock)_
+- `gtcigars` Lunatic Habano [Lunatic Habano Short Robusto (4.75" X 52)] — $188.99 _(out of stock)_
+- `gtcigars` Lunatic Perfecto El Gran Loco (5.5" X 80) [Default Title] — $97.99 _(out of stock)_
+- `iheart` Joya De Nicaragua Numero Uno L'ambassadeur [5 Pack] = $13.40/stick — $67.00 · **68% of its next tier**
+- `jackschwartz` Fuente Black Pink Black Panther [Single] = $34.00/stick — $34.00 _(out of stock)_
+- `jackschwartz` Fuente Black Pink Happy Ending [Single] = $24.00/stick — $24.00 _(out of stock)_
+- `jackschwartz` Fuente Black Pink Work of Art [Single] = $21.00/stick — $21.00 _(out of stock)_
+- `jackschwartz` Fuente Black Pink Signature [Single] = $20.00/stick — $20.00 _(out of stock)_
+- `iheart` Joya De Nicaragua Numero Uno L'ambassadeur [Single] = $19.75/stick — $19.75
+
+## Cheaper than the same cigar elsewhere  (2) — _unverified, check the vitola_
+- **40% under** `iheart` Arturo Fuente Hemingway Untold Story Maduro [5 Pack] = $16.10/stick vs $27.00/stick at `cigarsdirect` (Arturo Fuente Hemingway Untold Story Maduro)
+- **32% under** `iheart` Liga Privada Unico Serie L40 [5 Pack] = $13.00/stick vs $19.00/stick at `tccigar` (Liga Privada Unico Serie L40)
