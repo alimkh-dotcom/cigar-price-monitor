@@ -2106,3 +2106,42 @@ previous run 2026-11-02T22:02:27+00:00 · 26,222 variants tracked
 previous run 2026-11-03T00:03:14+00:00 · 26,222 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-11-03T22:03:45+00:00
+previous run 2026-11-03T12:02:56+00:00 · 26,243 variants tracked
+
+## Price drops ≥20%  (2)
+- **38%** **BIG** `jackschwartz` Andalusian Bull 10th Anniversary Maduro (Empty Box) [Default Title] — $40.00 → **$25.00**
+- **38%** **BIG** `jackschwartz` OpusX Society Gold & Bullet (Empty Box) [Default Title] — $40.00 → **$25.00**
+
+## New products  (20)
+- `jackschwartz` La Flor Dominicana The Golden Bull [Box of 14] = $60.00/stick — $840.00
+- `gtcigars` Split Personality NEW (6" X 60) [Default Title] — $305.99 _(out of stock)_
+- `gtcigars` Asylum 13 Ogre [Asylum 13 Ogre (6" X 60)] — $281.99 _(out of stock)_
+- `jackschwartz` La Flor Dominicana The Golden Bull [4-Pack] = $69.00/stick — $276.00
+- `gtcigars` Asylum 13 Ogre [Asylum 13 Ogre (6" X 52)] — $266.99 _(out of stock)_
+- `gtcigars` Asylum 13 Authentic Corojo [Asylum Corojo (6" X 60)] — $260.99 _(out of stock)_
+- `gtcigars` Asylum 13 Connecticut [Asylum 13 Connecticut (6" X 60)] — $260.99 _(out of stock)_
+- `gtcigars` Asylum 13 Connecticut [Asylum 13 Connecticut (6" X 52)] — $244.99 _(out of stock)_
+- `gtcigars` Asylum 13 Authentic Corojo [Asylum Corojo (6" X 52)] — $243.99 _(out of stock)_
+- `jackschwartz` Fuente Cuban Corona Maduro [Box of 25] = $9.25/stick — $231.30
+- `gtcigars` Asylum Insidious [Asylum Insidious (6" X 52)] — $219.99 _(out of stock)_
+- `gtcigars` Asylum Insidious [Asylum Insidious (5" X 50)] — $214.99 _(out of stock)_
+- `gtcigars` Dunbarton 10th Jubilee [Default Title] — $192.99
+- `gtcigars` Asylum 13 Ogre [Asylum 13 Ogre (7" X 70) 10 Count Box] — $120.99 _(out of stock)_
+- `gtcigars` Asylum 13 Ogre [Asylum 13 Ogre (6" X 60) 10 Count Box] — $112.99 _(out of stock)_
+- `gtcigars` Schizo Maduro [Schizo Maduro (6" X 50)] — $107.99 _(out of stock)_
+- `gtcigars` Schizo Maduro [Schizo Maduro (5" X 50)] — $102.99 _(out of stock)_
+- `gtcigars` Schizo [Schizo (6" X 50)] — $102.99 _(out of stock)_
+- `gtcigars` Schizo [Schizo (5" X 50)] — $99.99 _(out of stock)_
+- `jackschwartz` La Flor Dominicana The Golden Bull [Single] = $69.00/stick — $69.00
+
+## New variants on existing products  (2)
+- `gtcigars` Asylum 13 [Asylum 13 (7" X 70) 10 Count Box] — $112.99 _(out of stock)_
+- `gtcigars` Asylum 13 [Asylum 13 (6" X 60) 10 Count Box] — $103.99 _(out of stock)_
+
+## Newly inflated variants  (1)
+- `iheart` OpusX OXO Oro Oscuro Robusto [Box of 29] = $60.83/stick — $1,411.20 → $1,764.00; now $60.83/stick vs $42.00 for its sibling
