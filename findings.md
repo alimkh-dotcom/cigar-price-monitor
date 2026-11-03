@@ -2088,3 +2088,13 @@ previous run 2026-11-02T12:06:34+00:00 · 26,223 variants tracked
 ## Cheaper than the same cigar elsewhere  (2) — _unverified, check the vitola_
 - **40% under** `iheart` Arturo Fuente Hemingway Untold Story Maduro [5 Pack] = $16.10/stick vs $27.00/stick at `cigarsdirect` (Arturo Fuente Hemingway Untold Story Maduro)
 - **32% under** `iheart` Liga Privada Unico Serie L40 [5 Pack] = $13.00/stick vs $19.00/stick at `tccigar` (Liga Privada Unico Serie L40)
+
+
+---
+
+# Cigar price monitor — 2026-11-03T00:03:14+00:00
+previous run 2026-11-02T22:02:27+00:00 · 26,222 variants tracked
+
+## New products  (2)
+- `gtcigars` Asylum 13 [Asylum 13 (6" X 6)] — $259.99 _(out of stock)_
+- `gtcigars` Asylum 13 [Asylum 13 (7" X 70)] — $0.00 _(out of stock)_
