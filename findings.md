@@ -2098,3 +2098,11 @@ previous run 2026-11-02T22:02:27+00:00 · 26,222 variants tracked
 ## New products  (2)
 - `gtcigars` Asylum 13 [Asylum 13 (6" X 6)] — $259.99 _(out of stock)_
 - `gtcigars` Asylum 13 [Asylum 13 (7" X 70)] — $0.00 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-11-03T12:02:56+00:00
+previous run 2026-11-03T00:03:14+00:00 · 26,222 variants tracked
+
+**No actionable changes.**
