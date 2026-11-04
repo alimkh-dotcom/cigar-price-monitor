@@ -2158,3 +2158,16 @@ previous run 2026-11-03T22:03:45+00:00 · 26,246 variants tracked
 - `gtcigars` Sobremesa Tapa Negra [Toro (6" X 52)] — $186.99
 - `gtcigars` Sobremesa Tapa Negra [Corona Gorda (5.6" X 48)] — $178.99
 - `mrbundles` God of Fire Serie B Robusto Gordo 54 [5 Pack] = $31.20/stick — $156.00
+
+
+---
+
+# Cigar price monitor — 2026-11-04T22:02:37+00:00
+previous run 2026-11-04T00:02:32+00:00 · 26,245 variants tracked
+
+## New products  (2)
+- `jackschwartz` Tatuaje Boris Karloff [Box of 20] = $15.00/stick — $300.00 _(out of stock)_
+- `jackschwartz` Tatuaje Boris Karloff [Single] = $15.50/stick — $15.50 _(out of stock)_
+
+## New variants on existing products  (1)
+- `iheart` Nicaragua Robusto Tubos [Box of 12] = $21.50/stick — $258.00 _(out of stock)_
