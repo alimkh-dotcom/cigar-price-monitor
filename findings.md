@@ -2145,3 +2145,16 @@ previous run 2026-11-03T12:02:56+00:00 · 26,243 variants tracked
 
 ## Newly inflated variants  (1)
 - `iheart` OpusX OXO Oro Oscuro Robusto [Box of 29] = $60.83/stick — $1,411.20 → $1,764.00; now $60.83/stick vs $42.00 for its sibling
+
+
+---
+
+# Cigar price monitor — 2026-11-04T00:02:32+00:00
+previous run 2026-11-03T22:03:45+00:00 · 26,246 variants tracked
+
+## New products  (5)
+- `mrbundles` God of Fire Serie B Robusto Gordo 54 [Box of 10] = $31.20/stick — $312.00
+- `gtcigars` Dunbarton Tobacco & Trust 10th Jubilee [Corona Gorda (5.63"x48)] — $192.99
+- `gtcigars` Sobremesa Tapa Negra [Toro (6" X 52)] — $186.99
+- `gtcigars` Sobremesa Tapa Negra [Corona Gorda (5.6" X 48)] — $178.99
+- `mrbundles` God of Fire Serie B Robusto Gordo 54 [5 Pack] = $31.20/stick — $156.00
