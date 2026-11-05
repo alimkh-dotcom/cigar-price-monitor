@@ -2171,3 +2171,15 @@ previous run 2026-11-04T00:02:32+00:00 · 26,245 variants tracked
 
 ## New variants on existing products  (1)
 - `iheart` Nicaragua Robusto Tubos [Box of 12] = $21.50/stick — $258.00 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-11-05T00:03:37+00:00
+previous run 2026-11-04T22:02:37+00:00 · 26,249 variants tracked
+
+## New products  (4)
+- `mrbundles` ALADINO COROJO RESERVA TORO [Box of 20] = $17.00/stick — $340.00
+- `mrbundles` DAVIDOFF ESCURIO GRAN PERFECTO [BOX OF 12] = $22.60/stick — $271.20
+- `mrbundles` DAVIDOFF ESCURIO GRAN PERFECTO [4 PACK] = $22.60/stick — $90.40
+- `mrbundles` ALADINO COROJO RESERVA TORO [5 Pack] = $17.00/stick — $85.00
