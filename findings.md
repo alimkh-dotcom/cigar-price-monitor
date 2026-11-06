@@ -2183,3 +2183,43 @@ previous run 2026-11-04T22:02:37+00:00 · 26,249 variants tracked
 - `mrbundles` DAVIDOFF ESCURIO GRAN PERFECTO [BOX OF 12] = $22.60/stick — $271.20
 - `mrbundles` DAVIDOFF ESCURIO GRAN PERFECTO [4 PACK] = $22.60/stick — $90.40
 - `mrbundles` ALADINO COROJO RESERVA TORO [5 Pack] = $17.00/stick — $85.00
+
+
+---
+
+# Cigar price monitor — 2026-11-06T12:02:25+00:00
+previous run 2026-11-05T00:03:37+00:00 · 26,270 variants tracked
+
+## New products  (29)
+- `jackschwartz` Fuente November to Remember Sampler [Default Title] — $270.00
+- `cigarsdirect` Montesino Gran Corona Maduro [Box of 25] = $7.68/stick — $192.11 _(out of stock)_
+- `cigarsdirect` Montesino Gran Corona Natural [Box of 25] = $7.68/stick — $192.11 _(out of stock)_
+- `cigarsdirect` Montesino Toro Maduro [Box of 25] = $7.29/stick — $182.36 _(out of stock)_
+- `cigarsdirect` Montesino Toro Natural [Box of 25] = $7.29/stick — $182.36 _(out of stock)_
+- `cigarsdirect` Montesino No.1 Maduro [Box of 25] = $6.85/stick — $171.23 _(out of stock)_
+- `cigarsdirect` Montesino No.1 Natural [Box of 25] = $6.85/stick — $171.23 _(out of stock)_
+- `cigarsdirect` Montesino Robusto Maduro [Box of 25] = $6.57/stick — $164.29 _(out of stock)_
+- `cigarsdirect` Montesino Robusto Natural [Box of 25] = $6.57/stick — $164.29 _(out of stock)_
+- `cigarsdirect` Montesino No.2 Maduro [Box of 25] = $6.52/stick — $162.88 _(out of stock)_
+- `cigarsdirect` Montesino No.2 Natural [Box of 25] = $6.52/stick — $162.88 _(out of stock)_
+- `cigarsdirect` Montesino Diplomatico Maduro [Box of 25] = $6.07/stick — $151.74 _(out of stock)_
+- `cigarsdirect` Montesino Diplomatico Natural [Box of 25] = $6.07/stick — $151.74 _(out of stock)_
+- `cigarsdirect` Montesino Napolean Grande Maduro [Bundle of 25] = $4.57/stick — $114.16 _(out of stock)_
+- `cigarsdirect` Montesino Napolean Grande Natural [Bundle of 25] = $4.57/stick — $114.16 _(out of stock)_
+- `cigarsdirect` Montesino Gran Corona Maduro [1 Cigar] = $8.54/stick — $8.54 _(out of stock)_
+- `cigarsdirect` Montesino Gran Corona Natural [1 Cigar] = $8.54/stick — $8.54 _(out of stock)_
+- `cigarsdirect` Montesino Toro Maduro [1 Cigar] = $8.10/stick — $8.10 _(out of stock)_
+- `cigarsdirect` Montesino Toro Natural [1 Cigar] = $8.10/stick — $8.10 _(out of stock)_
+- `cigarsdirect` Montesino No.1 Maduro [1 Cigar] = $7.61/stick — $7.61 _(out of stock)_
+- `cigarsdirect` Montesino No.1 Natural [1 Cigar] = $7.61/stick — $7.61 _(out of stock)_
+- `cigarsdirect` Montesino Robusto Maduro [1 Cigar] = $7.30/stick — $7.30 _(out of stock)_
+- `cigarsdirect` Montesino Robusto Natural [1 Cigar] = $7.30/stick — $7.30 _(out of stock)_
+- `cigarsdirect` Montesino No.2 Maduro [1 Cigar] = $7.24/stick — $7.24 _(out of stock)_
+- `cigarsdirect` Montesino No.2 Natural [1 Cigar] = $7.24/stick — $7.24 _(out of stock)_
+- `cigarsdirect` Montesino Diplomatico Maduro [1 Cigar] = $6.74/stick — $6.74 _(out of stock)_
+- `cigarsdirect` Montesino Diplomatico Natural [1 Cigar] = $6.74/stick — $6.74 _(out of stock)_
+- `cigarsdirect` Montesino Napolean Grande Maduro [1 Cigar] = $5.07/stick — $5.07 _(out of stock)_
+- `cigarsdirect` Montesino Napolean Grande Natural [1 Cigar] = $5.07/stick — $5.07 _(out of stock)_
+
+## New variants on existing products  (1)
+- `iheart` Aniversario Special T [Box of 4] = $32.00/stick — $128.00 _(out of stock)_
