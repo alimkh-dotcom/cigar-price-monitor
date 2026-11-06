@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./monitor.py)",
+      "Bash(./tampa.py:*)",
+      "Bash(./greenwich.py:*)",
+      "Bash(./promos.py:*)",
+      "Bash(git fetch:*)",
+      "Bash(git checkout -B main origin/main)",
+      "Bash(git rev-parse:*)",
+      "Bash(git status:*)",
+      "Bash(git log:*)",
+      "Bash(git diff:*)",
+      "Bash(git add -A)",
+      "Bash(git -c user.email=ali.mkh@gmail.com -c user.name=\"Ali\" commit:*)",
+      "Bash(git push origin HEAD:main)",
+      "Bash(curl:*)",
+      "Bash(python3:*)",
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "Bash(head:*)",
+      "Bash(cat:*)"
+    ]
+  }
+}
