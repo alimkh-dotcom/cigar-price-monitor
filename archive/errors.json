@@ -80,17 +80,17 @@
   "zero": true
  },
  "greenwich \u00b7 Davidoff Millennium Lancero": {
-  "fair": 55.11,
+  "fair": 55.15,
   "first_seen": "2026-10-23",
   "last_seen": "2026-11-06",
-  "price": 290.0,
+  "price": 29.0,
   "ps": 29.0,
-  "q": 10,
+  "q": 1,
   "ratio": 0.526,
   "rival": 55.0,
   "saving": 0.473,
   "site": "iheart",
-  "variant": "Box of 10"
+  "variant": "Single"
  },
  "greenwich \u00b7 Fuente Fuente Opus X Angel's Share Perfecxion X": {
   "fair": 0.0,

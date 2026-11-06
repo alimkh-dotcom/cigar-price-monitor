@@ -294,3 +294,39 @@ compared against 7 retailers, iheart's own formats, and 5 previous Weekly Burn r
 | 3 | Hemingway Classic Maduro | $13.50 | **$12.15** | -23% vs $13.99 at cigarsdirect (in stock); first appearance |
 | 4 | Destino Siglo Siglo de Familia | $55.00 | **$49.50** | sole in-stock source; nearest listing $25.50 at jackschwartz (out of stock); first appearance |
 | 5 | Winston Churchill Spitfire - Discontinued | $25.00 | **$22.50** | no listing at all at the other seven; beats iheart's own box/5-pack ($36.00/stick) by 24% more than the discount; same list price in 1 previous run |
+
+
+---
+
+# Weekly Burn — 2026-11-06
+68 in-stock singles · tiers: 5 sticks = 10% off, 10 sticks = 20% off
+compared against 8 retailers, iheart's own formats, and 6 previous Weekly Burn runs
+
+## Best 10 — the 20% tier · $265.17 (list $331.46)
+
+| # | cigar | list | @20% | why |
+|---|---|---|---|---|
+| 1 | Meerapfel Ernest Corona Gorda | $43.00 | **$34.40** | -20% vs $43.00 at greenwich (in stock); same list price in 1 previous run |
+| 2 | OpusX OXO Oro Oscuro Double Robusto | $49.00 | **$39.20** | no listing at all at the other retailers; same list price in 1 previous run |
+| 3 | Don Carlos Eye of the Shark | $33.00 | **$26.40** | -14% vs $30.75 at greenwich (in stock); same list price in 1 previous run |
+| 4 | OpusX Belicosos XXX | $30.00 | **$24.00** | no listing at all at the other retailers; same list price in 1 previous run |
+| 5 | Alma Fuerte Nestor IV Toro | $24.00 | **$19.20** | -23% vs $24.97 at cigarsdirect (in stock); iheart's own box is cheaper per stick ($18.50); first appearance |
+| 6 | OpusX Double Robusto | $43.80 | **$35.04** | -9% vs $38.50 at tccigar (in stock); same list price in 1 previous run |
+| 7 | OpusX Forbidden X Deseos D'amor | $62.00 | **$49.60** | -5% vs $52.45 at tccigar (in stock); same list price in 1 previous run |
+| 8 | Don Carlos Robusto | $13.86 | **$11.09** | -8% vs $12.06 at greenwich (in stock); first appearance |
+| 9 | Liga Privada H99 Robusto | $17.40 | **$13.92** | -10% vs $15.50 at tccigar (in stock); same list price in 3 previous runs |
+| 10 | Anejo Reserva 46 | $15.40 | **$12.32** | sole in-stock source; nearest listing $13.70 at greenwich (out of stock); same list price in 2 previous runs |
+
+## Best 5 — the 10% tier · $161.10 (list $179.00)
+
+| # | cigar | list | @10% | why |
+|---|---|---|---|---|
+| 1 | Meerapfel Ernest Corona Gorda | $43.00 | **$38.70** | -20% vs $43.00 at greenwich (in stock); same list price in 1 previous run |
+| 2 | OpusX OXO Oro Oscuro Double Robusto | $49.00 | **$44.10** | no listing at all at the other retailers; same list price in 1 previous run |
+| 3 | Don Carlos Eye of the Shark | $33.00 | **$29.70** | -14% vs $30.75 at greenwich (in stock); same list price in 1 previous run |
+| 4 | OpusX Belicosos XXX | $30.00 | **$27.00** | no listing at all at the other retailers; same list price in 1 previous run |
+| 5 | Alma Fuerte Nestor IV Toro | $24.00 | **$21.60** | -23% vs $24.97 at cigarsdirect (in stock); iheart's own box is cheaper per stick ($18.50); first appearance |
+
+## Priced at or above the market even after 20% (2) — skip
+- Davidoff Winston Churchill LE 2025 - The Artis — $42.40 vs $27.80 at greenwich
+- Rocky Patel Sixty Robusto — $15.88 vs $15.10 at cigarsdirect

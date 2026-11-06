@@ -666,3 +666,35 @@ compared against 8 retailers and 13 previous Monday Madness runs
 | 3 | Alma Fuerte Robustus I [Box 10] | $214.00 → **$139.10** | $13.91 | -35% on-site ($214.00 → $139.10, compare_at); -32% vs $20.39/stick at tccigar (in stock); also discounted on 2026-11-02 at $19.26 |
 | 4 | Plasencia Alma del Campo Madrono Gordo [Box of 10] | $239.90 → **$155.94** | $15.59 | -35% on-site ($239.90 → $155.94, compare_at); -26% vs $21.19/stick at cigarsdirect (in stock); also discounted on 2026-11-02 at $21.59 |
 | 5 | Arturo Fuente Hemingway Untold Story Madur [5 Pack] | $115.00 → **$80.50** | $16.10 | -30% on-site ($115.00 → $80.50, compare_at); -40% vs $27.00/stick at cigarsdirect (in stock); also discounted on 2026-11-02 at $16.10 |
+
+
+---
+
+# Monday Madness — 2026-11-06
+96 variants marked down on-site · these revert within ~24h
+compared against 8 retailers and 14 previous Monday Madness runs
+
+## Top 10 picks · $2,886.12 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Alma Fuerte Colorado Claro Robustus II [Box of 10] | $230.00 → **$180.00** | $18.00 | -22% on-site ($230.00 → $180.00, compare_at); -19% vs $22.12/stick at luxurycigar (in stock); also discounted on 2026-10-27 at $14.95 |
+| 2 | Sobremesa Brulee Wagashi [Box of 13] | $233.00 → **$205.04** | $15.77 | -12% on-site ($233.00 → $205.04, compare_at); -17% vs $18.95/stick at greenwich (in stock); first time discounted |
+| 3 | Winston Churchill Blenheim - Discontinued [Box of 25] | $1,050.00 → **$924.00** | $36.96 | -12% on-site ($1,050.00 → $924.00, compare_at); no listing at all at the other retailers; also discounted on 2026-11-03 at $36.96 |
+| 4 | Liga Privada H99 Super Ancho [Box of 10] | $228.50 → **$185.00** | $18.50 | -19% on-site ($228.50 → $185.00, compare_at); -8% vs $20.20/stick at tccigar (in stock); also discounted on 2026-10-13 at $14.85 |
+| 5 | Elite Seleccion Oscuro Especial No.6 - Dis [Box of 20] | $250.00 → **$187.50** | $9.38 | -25% on-site ($250.00 → $187.50, compare_at); no listing at all at the other retailers; first time discounted |
+| 6 | Fine and Rare HOF/506 (LE 2019) [Box of 10] | $290.00 → **$217.50** | $21.75 | -25% on-site ($290.00 → $217.50, compare_at); sole in-stock source; nearest $21.90 at cigarsdirect (out); first time discounted |
+| 7 | Eastern Standard The Cypress Room [Box of 24] | $420.00 → **$315.00** | $13.12 | -25% on-site ($420.00 → $315.00, compare_at); sole in-stock source; nearest $12.78 at cigarsdirect (out); first time discounted |
+| 8 | Avo XO Preludio [Box of 20] | $244.00 → **$195.20** | $9.76 | -20% on-site ($244.00 → $195.20, compare_at); -20% vs $12.20/stick at greenwich (in stock); also discounted on 2026-10-27 at $7.32 |
+| 9 | Freud Alterego Robusto [Box of 10] | $260.00 → **$234.00** | $23.40 | -10% on-site ($260.00 → $234.00, compare_at); -10% vs $26.00/stick at cigarsdirect (in stock); first time discounted |
+| 10 | Oliva Serie V Belicoso [Box of 24] | $303.60 → **$242.88** | $10.12 | -20% on-site ($303.60 → $242.88, compare_at); no listing at all at the other retailers; first time discounted |
+
+## Top 5 picks · $1,681.54 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Alma Fuerte Colorado Claro Robustus II [Box of 10] | $230.00 → **$180.00** | $18.00 | -22% on-site ($230.00 → $180.00, compare_at); -19% vs $22.12/stick at luxurycigar (in stock); also discounted on 2026-10-27 at $14.95 |
+| 2 | Sobremesa Brulee Wagashi [Box of 13] | $233.00 → **$205.04** | $15.77 | -12% on-site ($233.00 → $205.04, compare_at); -17% vs $18.95/stick at greenwich (in stock); first time discounted |
+| 3 | Winston Churchill Blenheim - Discontinued [Box of 25] | $1,050.00 → **$924.00** | $36.96 | -12% on-site ($1,050.00 → $924.00, compare_at); no listing at all at the other retailers; also discounted on 2026-11-03 at $36.96 |
+| 4 | Liga Privada H99 Super Ancho [Box of 10] | $228.50 → **$185.00** | $18.50 | -19% on-site ($228.50 → $185.00, compare_at); -8% vs $20.20/stick at tccigar (in stock); also discounted on 2026-10-13 at $14.85 |
+| 5 | Elite Seleccion Oscuro Especial No.6 - Dis [Box of 20] | $250.00 → **$187.50** | $9.38 | -25% on-site ($250.00 → $187.50, compare_at); no listing at all at the other retailers; first time discounted |

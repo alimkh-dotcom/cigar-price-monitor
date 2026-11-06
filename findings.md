@@ -2223,3 +2223,48 @@ previous run 2026-11-05T00:03:37+00:00 · 26,270 variants tracked
 
 ## New variants on existing products  (1)
 - `iheart` Aniversario Special T [Box of 4] = $32.00/stick — $128.00 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-11-06T22:02:50+00:00
+previous run 2026-11-06T12:02:25+00:00 · 26,303 variants tracked
+
+## New products  (29)
+- `jackschwartz` La Flor Dominicana Andalusian Bull Dupont Line 2 [LFD Andalusian Bull Dupont Line 2] — $2,200.00
+- `jackschwartz` E.P. Carrillo Battleborn Heroes [Box of 21] = $19.12/stick — $401.50 _(out of stock)_
+- `tccigar` Casa Carrillo Battleborn Toro 2026 [Box of 21] = $18.85/stick — $395.95
+- `tccigar` Tatuaje Boris Karloff 2026 [Box of 20] = $15.00/stick — $300.00 _(out of stock)_
+- `cigarsdirect` Tatuaje Boris Karloff Gran Corona [Box of 20] = $13.50/stick — $270.00 _(out of stock)_
+- `cigarsdirect` Arturo Fuente Corona Imperial Natural Shade Grown [Box of 25] = $8.58/stick — $214.50
+- `cigarsdirect` Arturo Fuente Conquistadores Natural [Box of 30] = $6.47/stick — $193.98
+- `cigarsdirect` 2026 Oliva Serie V Melanio Perfecto Limited Edition [Box of 10] = $18.00/stick — $180.00
+- `jackschwartz` 2007 Paul Garmirian Reserva Exclusiva Corona Extra [Box of 10] = $17.50/stick — $175.00
+- `gtcigars` Aging Room Quattro 4CT Sampler [Maestro Belicoso (6.0"x52)] — $25.99
+- `gtcigars` Aging Room Quattro Nicaragua Concerto 4CT Sampler [Vibrato (6.0"x54)] — $25.99 _(out of stock)_
+- `gtcigars` Aging Room Quattro Nicaragua Sonata 4CT Sampler [Espressivo (Robusto) (5.0"x50)] — $25.99 _(out of stock)_
+- `gtcigars` Vintage 1999 4CT Sampler [Toro (6.5 X 52)] — $25.99
+- `gtcigars` Java Mint 4CT Sampler [Java Min Corona (5 X 42)] — $25.99
+- `gtcigars` Java Maduro 4CT Sampler [Java Maduro Corona (5 X 42)] — $25.99
+- `gtcigars` Rocky Patel Sun Grown 4CT Sampler [Sun Grown Robusto (5 X 50)] — $25.99
+- `gtcigars` Rocky Patel Sun Grown 4CT Sampler [Sun Grown Maduro Robusto (5 X 50)] — $25.99
+- `gtcigars` Oliva Serie V 4ct Sampler [Lancero (7.0 x 38)] — $24.99
+- `tccigar` Casa Carrillo Battleborn Toro 2026 [Single Cigar] = $21.00/stick — $21.00
+- `jackschwartz` E.P. Carrillo Battleborn Heroes [Single] = $21.00/stick — $21.00 _(out of stock)_
+- `cigarsdirect` 2026 Oliva Serie V Melanio Perfecto Limited Edition [1 Cigar] = $20.00/stick — $20.00
+- `gtcigars` Oliva Serie V 4ct Sampler [Melanio Petite Corona (4.5 x 46)] — $19.99
+- `gtcigars` Oliva Serie V 4ct Sampler [Maduro Toro (6.0 x 50)] — $19.99
+- `gtcigars` Gilberto Oliva Reserva 4ct Sampler [Churchill (7.0 x 50)] — $19.99
+- `jackschwartz` 2007 Paul Garmirian Reserva Exclusiva Corona Extra [Single] = $17.50/stick — $17.50
+- `tccigar` Tatuaje Boris Karloff 2026 [Single Cigar] = $15.00/stick — $15.00
+- `cigarsdirect` Tatuaje Boris Karloff Gran Corona [1 Cigar] = $15.00/stick — $15.00 _(out of stock)_
+- `cigarsdirect` Arturo Fuente Corona Imperial Natural Shade Grown [1 Cigar] = $8.58/stick — $8.58
+- `cigarsdirect` Arturo Fuente Conquistadores Natural [1 Cigar] = $6.47/stick — $6.47
+
+## New variants on existing products  (6)
+- `cigarsdirect` Drew Estate Liga Privada H99 Toro [Pack of 4] = $18.52/stick — $74.10
+- `cigarsdirect` Drew Estate Liga Privada No.9 Toro [Pack of 4] = $18.52/stick — $74.10
+- `cigarsdirect` Drew Estate Liga Privada T52 Toro [Pack of 4] = $18.52/stick — $74.10
+- `cigarsdirect` Drew Estate Liga Privada H99 Robusto [Pack of 4] = $17.57/stick — $70.30
+- `cigarsdirect` Drew Estate Liga Privada No.9 Robusto [Pack of 4] = $17.57/stick — $70.30
+- `cigarsdirect` Drew Estate Liga Privada T52 Robusto [Pack of 4] = $17.57/stick — $70.30
