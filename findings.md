@@ -2268,3 +2268,24 @@ previous run 2026-11-06T12:02:25+00:00 · 26,303 variants tracked
 - `cigarsdirect` Drew Estate Liga Privada H99 Robusto [Pack of 4] = $17.57/stick — $70.30
 - `cigarsdirect` Drew Estate Liga Privada No.9 Robusto [Pack of 4] = $17.57/stick — $70.30
 - `cigarsdirect` Drew Estate Liga Privada T52 Robusto [Pack of 4] = $17.57/stick — $70.30
+
+
+---
+
+# Cigar price monitor — 2026-11-07T00:02:44+00:00
+previous run 2026-11-06T22:02:50+00:00 · 26,310 variants tracked
+
+## Price drops ≥20%  (5)
+- **23%** `gtcigars` Vintage 1999 4CT Sampler [Toro (6.5 X 52)] — $25.99 → **$19.99**
+- **23%** `gtcigars` Java Mint 4CT Sampler [Java Min Corona (5 X 42)] — $25.99 → **$19.99**
+- **23%** `gtcigars` Java Maduro 4CT Sampler [Java Maduro Corona (5 X 42)] — $25.99 → **$19.99**
+- **23%** `gtcigars` Rocky Patel Sun Grown 4CT Sampler [Sun Grown Robusto (5 X 50)] — $25.99 → **$19.99**
+- **23%** `gtcigars` Rocky Patel Sun Grown 4CT Sampler [Sun Grown Maduro Robusto (5 X 50)] — $25.99 → **$19.99**
+
+## New products  (6)
+- `mrbundles` Padron 1964 Diplomatico [Box of 25 Naturals] = $20.00/stick — $500.00 _(out of stock)_
+- `mrbundles` Padron 1964 Diplomatico [Box of 25 Maduros] = $20.00/stick — $500.00 _(out of stock)_
+- `tccigar` Casa Carrillo Pledge Purple Robusto [Box of 10] = $14.85/stick — $148.50 _(out of stock)_
+- `mrbundles` Padron 1964 Diplomatico [5 Pack of Naturals] = $20.00/stick — $100.00 _(out of stock)_
+- `mrbundles` Padron 1964 Diplomatico [5 Pack of Maduros] = $20.00/stick — $100.00 _(out of stock)_
+- `tccigar` Casa Carrillo Pledge Purple Robusto [Single Cigar] = $14.85/stick — $14.85 _(out of stock)_
