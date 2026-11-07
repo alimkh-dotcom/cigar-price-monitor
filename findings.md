@@ -2289,3 +2289,11 @@ previous run 2026-11-06T22:02:50+00:00 · 26,310 variants tracked
 - `mrbundles` Padron 1964 Diplomatico [5 Pack of Naturals] = $20.00/stick — $100.00 _(out of stock)_
 - `mrbundles` Padron 1964 Diplomatico [5 Pack of Maduros] = $20.00/stick — $100.00 _(out of stock)_
 - `tccigar` Casa Carrillo Pledge Purple Robusto [Single Cigar] = $14.85/stick — $14.85 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-11-07T12:02:31+00:00
+previous run 2026-11-07T00:02:44+00:00 · 26,310 variants tracked
+
+**No actionable changes.**
