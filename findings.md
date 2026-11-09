@@ -2345,3 +2345,65 @@ previous run 2026-11-08T22:02:48+00:00 · 26,309 variants tracked
 previous run 2026-11-09T00:02:43+00:00 · 26,309 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-11-09T22:02:50+00:00
+previous run 2026-11-09T12:03:54+00:00 · 26,308 variants tracked
+
+## Price drops ≥20%  (60)
+- **40%** **BIG** `iheart` Zino Platinum LE 2013 "The Make of N.Y." Flavor - Discontinued [Box of 10] = $21.60/stick — $360.00 → **$216.00**
+- **40%** **BIG** `iheart` Rocky Patel Tavicusa Robusto [Box of 20] = $7.38/stick — $246.00 → **$147.60**
+- **40%** **BIG** `iheart` Davidoff Short Pleasures Assortment (2014 Release)- Discontinued. [Box of 4] = $18.75/stick — $125.00 → **$75.00**
+- **35%** **BIG** `iheart` Signature 6000 [5 Pack] = $16.00/stick — $124.00 → **$80.00**
+- **35%** **BIG** `iheart` Jaime Garcia Reserva Especial Toro Gordo [Box of 20] = $7.08/stick — $218.00 → **$141.70**
+- **35%** **BIG** `iheart` Puro D'Oro Magnificos - Discontinued [5 Pack] = $41.60/stick — $320.00 → **$208.00**
+- **35%** **BIG** `iheart` Nicaragua Toro [Box of 12] = $16.57/stick — $306.00 → **$198.90**
+- **33%** `iheart` Freud Alterego Robusto [Box of 10] = $15.60/stick — $234.00 → **$156.00**
+- **32%** `iheart` Ultra OP No.8 Churchill [5 Pack] = $8.60/stick — $63.00 → **$43.00**
+- **31%** `iheart` Oliva Serie V Torpedo [Box of 24] = $8.36/stick — $292.00 → **$200.75**
+- **31%** `iheart` Oliva Serie V Belicoso [Box of 24] = $6.96/stick — $242.88 → **$166.98**
+- **30%** `iheart` Herrera Esteli Edicion Limitada Lancero [Box of 15] = $9.53/stick — $204.60 → **$143.00**
+- **30%** `iheart` The Tabernacle Broadleaf Toro [Box of 24] = $9.50/stick — $325.73 → **$228.01**
+- **30%** `iheart` illusione Epernay La Vie [Box of 25] = $10.36/stick — $370.00 → **$259.00**
+- **30%** `iheart` Tatuaje Lancero Sampler [Box of 10] = $7.70/stick — $110.00 → **$77.00**
+- **30%** `iheart` Jaime Garcia Reserva Especial Belicoso [5 Pack] = $6.93/stick — $49.50 → **$34.65**
+- **30%** `iheart` Special C  (Without Coffin) - Discontinued. [Bundle of 3] = $17.50/stick — $75.00 → **$52.50**
+- **30%** `iheart` Reserva 1898 Sampler - Discontinued [Box of 5] = $15.40/stick — $110.00 → **$77.00**
+- **30%** `iheart` Rare Pink Vintage 1960's Queen of Hearts [Box of 5] = $27.30/stick — $195.00 → **$136.50**
+- **29%** `iheart` Freud Limited Edition Collaboration 2023 - Chapter One: The Disruptor Sigmund [5 Pack] = $27.00/stick — $189.00 → **$135.00**
+- **28%** `iheart` Zino Platinum Pudge - Discontinued [Box of 12] = $10.83/stick — $180.00 → **$130.00**
+- **28%** `iheart` Highclere Castle Churchill Edwardian [Box of 20] = $11.83/stick — $327.60 → **$236.60**
+- **28%** `iheart` Bella Dominicana I [Box of 10] = $5.53/stick — $76.50 → **$55.25**
+- **28%** `iheart` Bella Dominicana A [Box of 10] = $6.37/stick — $88.20 → **$63.70**
+- **28%** `iheart` Alma Del Cielo Boreal Toro [Box of 10] = $17.88/stick — $247.50 → **$178.75**
+- **28%** `iheart` Alma Del Cielo Amanecer Hexagono [Box 10] = $19.82/stick — $274.50 → **$198.25**
+- **28%** `iheart` Signature 6000 [Box of 25] = $16.12/stick — $558.00 → **$403.00**
+- **28%** `iheart` The Tabernacle Havana CT142 Robusto [Box of 24] = $9.07/stick — $301.50 → **$217.75**
+- **27%** `iheart` Gatekeeper Gordo [Box 24] = $8.02/stick — $262.50 → **$192.50**
+- **26%** `iheart` Seleccion No.5 [Box 13] = $13.36/stick — $235.14 → **$173.68**
+- **26%** `iheart` Moon Garden Especial [Box of 20] = $10.40/stick — $281.60 → **$208.00**
+- **26%** `iheart` Mi Querida Triqui Traca No.652 [Box of 20] = $9.52/stick — $257.84 → **$190.45**
+- **26%** `iheart` Winston Churchill Blenheim - Discontinued [Box of 4] = $27.30/stick — $147.84 → **$109.20**
+- **26%** `iheart` Winston Churchill Marrakesh - Discontinued [Box of 4] = $24.70/stick — $133.76 → **$98.80**
+- **26%** `iheart` Sobremesa Brulee Wagashi [Box of 13] = $11.65/stick — $205.04 → **$151.45**
+- **26%** `iheart` Sobremesa Solita Toro [Box of 13] = $10.56/stick — $185.77 → **$137.22**
+- **26%** `iheart` Seleccion Intrepido [Box 13] = $11.93/stick — $209.88 → **$155.03**
+- **26%** `iheart` Mi Querida Black SakaKhan [Box of 10] = $13.16/stick — $178.20 → **$131.63**
+- **25%** `iheart` Fuente Fuente OpusX Love Affair [5 Pack] = $22.80/stick — $153.00 → **$114.00**
+- **25%** `iheart` Fuente Fuente Opusx Perfecxion X [5 Pack] = $31.50/stick — $210.00 → **$157.50**
+
+## New products  (3)
+- `cigarsdirect` Perdomo Legacy Maduro Sampler [Box of 11] = $12.27/stick — $135.00
+- `cigarsdirect` Perdomo Legacy Shade Grown Sampler [Box of 11] = $12.27/stick — $135.00
+- `cigarsdirect` Perdomo Legacy Connecticut Sampler [Box of 11] = $12.27/stick — $135.00
+
+## New variants on existing products  (1)
+- `jackschwartz` 2001 Paul Garmirian Reserva Exclusiva Corona [Box of 10] = $17.00/stick — $170.00 _(out of stock)_
+
+## Cheaper than the same cigar elsewhere  (4) — _unverified, check the vitola_
+- **40% under** `iheart` Freud Alterego Robusto [Box of 10] = $15.60/stick vs $26.00/stick at `cigarsdirect` (Freud AlterEgo Robusto)
+- **31% under** `iheart` Jaime Garcia Reserva Especial Toro Gordo [Box of 20] = $7.08/stick vs $10.26/stick at `cigarsdirect` (Jaime Garcia Reserva Especial Toro Gordo)
+- **29% under** `iheart` Lampert 1675 Edicion Morado Robusto [Box of 20] = $9.80/stick vs $13.72/stick at `jackschwartz` (Lampert 1675 Morado Robusto)
+- **28% under** `iheart` Liga Privada H99 Toro [Box of 24] = $11.86/stick vs $16.41/stick at `tccigar` (Liga Privada H99 Toro)

@@ -954,3 +954,35 @@ compared against 8 retailers and 17 previous Monday Madness runs
 | 3 | Avo XO Preludio [Box of 20] | $244.00 → **$195.20** | $9.76 | -20% on-site ($244.00 → $195.20, compare_at); -20% vs $12.20/stick at greenwich (in stock); also discounted on 2026-11-08 at $9.76 |
 | 4 | Liga Privada H99 Toro [Box of 24] | $438.00 → **$372.30** | $15.51 | -15% on-site ($438.00 → $372.30, compare_at); -5% vs $16.41/stick at tccigar (in stock); also discounted on 2026-11-08 at $16.43 |
 | 5 | Liga Privada 10 Aniversario Seleccion Merc [Box of 10] | $218.00 → **$185.30** | $18.53 | -15% on-site ($218.00 → $185.30, compare_at); no listing at all at the other retailers; also discounted on 2026-11-08 at $19.62 |
+
+
+---
+
+# Monday Madness — 2026-11-09
+122 variants marked down on-site · these revert within ~24h
+compared against 8 retailers and 17 previous Monday Madness runs
+
+## Top 10 picks · $1,827.54 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Freud Alterego Robusto [Box of 10] | $260.00 → **$156.00** | $15.60 | -40% on-site ($260.00 → $156.00, compare_at); -40% vs $26.00/stick at cigarsdirect (in stock); also discounted on 2026-11-08 at $23.40 |
+| 2 | Alma Fuerte Colorado Claro Robustus II [Box of 10] | $230.00 → **$149.50** | $14.95 | -35% on-site ($230.00 → $149.50, compare_at); -32% vs $22.12/stick at luxurycigar (in stock); also discounted on 2026-11-08 at $20.70 |
+| 3 | The Tabernacle Broadleaf Toro [Box of 24] | $361.92 → **$228.01** | $9.50 | -37% on-site ($361.92 → $228.01, compare_at); -32% vs $14.02/stick at cigarsdirect (in stock); also discounted on 2026-11-08 at $14.33 |
+| 4 | Avo XO Preludio [Box of 20] | $244.00 → **$146.40** | $7.32 | -40% on-site ($244.00 → $146.40, compare_at); -40% vs $12.20/stick at greenwich (in stock); also discounted on 2026-11-08 at $9.76 |
+| 5 | Liga Privada H99 Toro [Box of 24] | $438.00 → **$284.70** | $11.86 | -35% on-site ($438.00 → $284.70, compare_at); -28% vs $16.41/stick at tccigar (in stock); also discounted on 2026-11-08 at $16.43 |
+| 6 | Sobremesa Brulee Wagashi [Box of 13] | $233.00 → **$151.45** | $11.65 | -35% on-site ($233.00 → $151.45, compare_at); -39% vs $18.95/stick at greenwich (in stock); also discounted on 2026-11-08 at $16.20 |
+| 7 | Liga Privada H99 Super Ancho [Box of 10] | $228.50 → **$148.53** | $14.85 | -35% on-site ($228.50 → $148.53, compare_at); -26% vs $20.20/stick at tccigar (in stock); also discounted on 2026-11-08 at $20.57 |
+| 8 | Highclere Castle Churchill Edwardian [Box of 20] | $364.00 → **$236.60** | $11.83 | -35% on-site ($364.00 → $236.60, compare_at); -29% vs $16.56/stick at cigarsdirect (in stock); also discounted on 2026-11-08 at $17.29 |
+| 9 | Alma Del Cielo Boreal Toro [Box of 10] | $275.00 → **$178.75** | $17.88 | -35% on-site ($275.00 → $178.75, compare_at); -30% vs $25.64/stick at cigarsdirect (in stock); also discounted on 2026-11-08 at $24.75 |
+| 10 | Rocky Patel Tavicusa Robusto [Box of 20] | $246.00 → **$147.60** | $7.38 | -40% on-site ($246.00 → $147.60, compare_at); -46% vs $13.59/stick at cigarsdirect (in stock); first time discounted |
+
+## Top 5 picks · $964.61 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Freud Alterego Robusto [Box of 10] | $260.00 → **$156.00** | $15.60 | -40% on-site ($260.00 → $156.00, compare_at); -40% vs $26.00/stick at cigarsdirect (in stock); also discounted on 2026-11-08 at $23.40 |
+| 2 | Alma Fuerte Colorado Claro Robustus II [Box of 10] | $230.00 → **$149.50** | $14.95 | -35% on-site ($230.00 → $149.50, compare_at); -32% vs $22.12/stick at luxurycigar (in stock); also discounted on 2026-11-08 at $20.70 |
+| 3 | The Tabernacle Broadleaf Toro [Box of 24] | $361.92 → **$228.01** | $9.50 | -37% on-site ($361.92 → $228.01, compare_at); -32% vs $14.02/stick at cigarsdirect (in stock); also discounted on 2026-11-08 at $14.33 |
+| 4 | Avo XO Preludio [Box of 20] | $244.00 → **$146.40** | $7.32 | -40% on-site ($244.00 → $146.40, compare_at); -40% vs $12.20/stick at greenwich (in stock); also discounted on 2026-11-08 at $9.76 |
+| 5 | Liga Privada H99 Toro [Box of 24] | $438.00 → **$284.70** | $11.86 | -35% on-site ($438.00 → $284.70, compare_at); -28% vs $16.41/stick at tccigar (in stock); also discounted on 2026-11-08 at $16.43 |
