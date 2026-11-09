@@ -890,3 +890,35 @@ compared against 8 retailers and 16 previous Monday Madness runs
 | 3 | Avo XO Preludio [Box of 20] | $244.00 → **$195.20** | $9.76 | -20% on-site ($244.00 → $195.20, compare_at); -20% vs $12.20/stick at greenwich (in stock); also discounted on 2026-11-07 at $9.76 |
 | 4 | Liga Privada H99 Toro [Box of 24] | $438.00 → **$372.30** | $15.51 | -15% on-site ($438.00 → $372.30, compare_at); -5% vs $16.41/stick at tccigar (in stock); also discounted on 2026-11-07 at $16.43 |
 | 5 | Liga Privada 10 Aniversario Seleccion Merc [Box of 10] | $218.00 → **$185.30** | $18.53 | -15% on-site ($218.00 → $185.30, compare_at); no listing at all at the other retailers; also discounted on 2026-11-07 at $19.62 |
+
+
+---
+
+# Monday Madness — 2026-11-09
+96 variants marked down on-site · these revert within ~24h
+compared against 8 retailers and 17 previous Monday Madness runs
+
+## Top 10 picks · $2,864.04 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Alma Fuerte Colorado Claro Robustus II [Box of 10] | $230.00 → **$180.00** | $18.00 | -22% on-site ($230.00 → $180.00, compare_at); -19% vs $22.12/stick at luxurycigar (in stock); also discounted on 2026-11-08 at $20.70 |
+| 2 | Liga Privada H99 Super Ancho [Box of 10] | $228.50 → **$185.00** | $18.50 | -19% on-site ($228.50 → $185.00, compare_at); -8% vs $20.20/stick at tccigar (in stock); also discounted on 2026-11-08 at $20.57 |
+| 3 | Avo XO Preludio [Box of 20] | $244.00 → **$195.20** | $9.76 | -20% on-site ($244.00 → $195.20, compare_at); -20% vs $12.20/stick at greenwich (in stock); also discounted on 2026-11-08 at $9.76 |
+| 4 | Liga Privada H99 Toro [Box of 24] | $438.00 → **$372.30** | $15.51 | -15% on-site ($438.00 → $372.30, compare_at); -5% vs $16.41/stick at tccigar (in stock); also discounted on 2026-11-08 at $16.43 |
+| 5 | Liga Privada 10 Aniversario Seleccion Merc [Box of 10] | $218.00 → **$185.30** | $18.53 | -15% on-site ($218.00 → $185.30, compare_at); no listing at all at the other retailers; also discounted on 2026-11-08 at $19.62 |
+| 6 | Sobremesa Brulee Wagashi [Box of 13] | $233.00 → **$205.04** | $15.77 | -12% on-site ($233.00 → $205.04, compare_at); -17% vs $18.95/stick at greenwich (in stock); also discounted on 2026-11-08 at $16.20 |
+| 7 | Winston Churchill Marrakesh - Discontinued [5 Pack] | $190.00 → **$167.20** | $33.44 | -12% on-site ($190.00 → $167.20, compare_at); no listing at all at the other retailers; also discounted on 2026-11-08 at $33.44 |
+| 8 | Winston Churchill Blenheim - Discontinued [Box of 25] | $1,050.00 → **$924.00** | $36.96 | -12% on-site ($1,050.00 → $924.00, compare_at); no listing at all at the other retailers; also discounted on 2026-11-08 at $36.96 |
+| 9 | Gatekeeper Gordo [Box 24] | $350.00 → **$262.50** | $10.94 | -25% on-site ($350.00 → $262.50, compare_at); no listing at all at the other retailers; also discounted on 2026-11-08 at $11.68 |
+| 10 | Elite Seleccion Oscuro Especial No.6 - Dis [Box of 20] | $250.00 → **$187.50** | $9.38 | -25% on-site ($250.00 → $187.50, compare_at); no listing at all at the other retailers; also discounted on 2026-11-08 at $10.00 |
+
+## Top 5 picks · $1,117.80 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Alma Fuerte Colorado Claro Robustus II [Box of 10] | $230.00 → **$180.00** | $18.00 | -22% on-site ($230.00 → $180.00, compare_at); -19% vs $22.12/stick at luxurycigar (in stock); also discounted on 2026-11-08 at $20.70 |
+| 2 | Liga Privada H99 Super Ancho [Box of 10] | $228.50 → **$185.00** | $18.50 | -19% on-site ($228.50 → $185.00, compare_at); -8% vs $20.20/stick at tccigar (in stock); also discounted on 2026-11-08 at $20.57 |
+| 3 | Avo XO Preludio [Box of 20] | $244.00 → **$195.20** | $9.76 | -20% on-site ($244.00 → $195.20, compare_at); -20% vs $12.20/stick at greenwich (in stock); also discounted on 2026-11-08 at $9.76 |
+| 4 | Liga Privada H99 Toro [Box of 24] | $438.00 → **$372.30** | $15.51 | -15% on-site ($438.00 → $372.30, compare_at); -5% vs $16.41/stick at tccigar (in stock); also discounted on 2026-11-08 at $16.43 |
+| 5 | Liga Privada 10 Aniversario Seleccion Merc [Box of 10] | $218.00 → **$185.30** | $18.53 | -15% on-site ($218.00 → $185.30, compare_at); no listing at all at the other retailers; also discounted on 2026-11-08 at $19.62 |
