@@ -2407,3 +2407,13 @@ previous run 2026-11-09T12:03:54+00:00 · 26,308 variants tracked
 - **31% under** `iheart` Jaime Garcia Reserva Especial Toro Gordo [Box of 20] = $7.08/stick vs $10.26/stick at `cigarsdirect` (Jaime Garcia Reserva Especial Toro Gordo)
 - **29% under** `iheart` Lampert 1675 Edicion Morado Robusto [Box of 20] = $9.80/stick vs $13.72/stick at `jackschwartz` (Lampert 1675 Morado Robusto)
 - **28% under** `iheart` Liga Privada H99 Toro [Box of 24] = $11.86/stick vs $16.41/stick at `tccigar` (Liga Privada H99 Toro)
+
+
+---
+
+# Cigar price monitor — 2026-11-10T00:02:53+00:00
+previous run 2026-11-09T22:02:50+00:00 · 26,310 variants tracked
+
+## New products  (2)
+- `jackschwartz` Meerapfel Project 18 [Box of 99] = $99.00/stick — $9,801.00
+- `jackschwartz` Meerapfel Project 18 [6-Pack] = $99.17/stick — $595.00 _(out of stock)_
