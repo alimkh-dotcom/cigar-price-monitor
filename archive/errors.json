@@ -1,107 +1,16 @@
 {
  "AJ Fernandez New World Dorado Figurado": {
-  "fair": 12.59,
+  "fair": 12.52,
   "first_seen": "2026-10-22",
   "last_seen": "2026-11-10",
   "price": 26.8,
   "ps": 5.36,
   "q": 5,
-  "ratio": 0.426,
+  "ratio": 0.428,
   "rival": 12.0,
   "saving": 0.553,
   "site": "tccigar",
   "variant": "5 Pack"
- },
- "Alma Del Cielo Boreal Toro": {
-  "fair": 25.64,
-  "first_seen": "2026-11-09",
-  "last_seen": "2026-11-10",
-  "price": 178.75,
-  "ps": 17.88,
-  "q": 10,
-  "ratio": 0.697,
-  "rival": 25.64,
-  "saving": 0.303,
-  "site": "cigarsdirect",
-  "variant": "Box of 10"
- },
- "Avo XO Preludio": {
-  "fair": 12.17,
-  "first_seen": "2026-11-09",
-  "last_seen": "2026-11-10",
-  "price": 146.4,
-  "ps": 7.32,
-  "q": 20,
-  "ratio": 0.601,
-  "rival": 12.2,
-  "saving": 0.4,
-  "site": "greenwich",
-  "variant": "Box of 20"
- },
- "Freud Alterego Robusto": {
-  "fair": 26.0,
-  "first_seen": "2026-11-09",
-  "last_seen": "2026-11-10",
-  "price": 156.0,
-  "ps": 15.6,
-  "q": 10,
-  "ratio": 0.6,
-  "rival": 26.0,
-  "saving": 0.4,
-  "site": "cigarsdirect",
-  "variant": "Box of 10"
- },
- "Highclere Castle Churchill Edwardian": {
-  "fair": 16.56,
-  "first_seen": "2026-11-09",
-  "last_seen": "2026-11-10",
-  "price": 236.6,
-  "ps": 11.83,
-  "q": 20,
-  "ratio": 0.714,
-  "rival": 16.56,
-  "saving": 0.286,
-  "site": "cigarsdirect",
-  "variant": "Box of 20"
- },
- "Jaime Garcia Reserva Especial Toro Gordo": {
-  "fair": 10.26,
-  "first_seen": "2026-11-09",
-  "last_seen": "2026-11-10",
-  "price": 141.7,
-  "ps": 7.08,
-  "q": 20,
-  "ratio": 0.691,
-  "rival": 10.26,
-  "saving": 0.309,
-  "site": "cigarsdirect",
-  "variant": "Box of 20"
- },
- "Lampert 1675 Edicion Morado Robusto": {
-  "fair": 13.22,
-  "first_seen": "2026-11-09",
-  "last_seen": "2026-11-10",
-  "price": 196.0,
-  "ps": 9.8,
-  "q": 20,
-  "ratio": 0.741,
-  "rival": 13.72,
-  "saving": 0.286,
-  "site": "jackschwartz",
-  "variant": "Box of 20"
- },
- "Liga Privada H99 Toro": {
-  "fair": 17.23,
-  "first_seen": "2026-11-09",
-  "last_seen": "2026-11-10",
-  "price": 284.7,
-  "ps": 11.86,
-  "q": 24,
-  "ratio": 0.689,
-  "rival": 16.41,
-  "saving": 0.277,
-  "site": "tccigar",
-  "variant": "Box of 24"
  },
  "Lost and Found 22 Minutes to Midnight Connecticut Radiante Robusto": {
   "fair": 21.0,
@@ -142,45 +51,6 @@
   "site": "cigarsdirect",
   "variant": "Box 20"
  },
- "Rocky Patel Tavicusa Robusto": {
-  "fair": 13.59,
-  "first_seen": "2026-11-09",
-  "last_seen": "2026-11-10",
-  "price": 147.6,
-  "ps": 7.38,
-  "q": 20,
-  "ratio": 0.543,
-  "rival": 13.59,
-  "saving": 0.457,
-  "site": "cigarsdirect",
-  "variant": "Box of 20"
- },
- "Sobremesa Brulee Wagashi": {
-  "fair": 18.91,
-  "first_seen": "2026-11-09",
-  "last_seen": "2026-11-10",
-  "price": 151.45,
-  "ps": 11.65,
-  "q": 13,
-  "ratio": 0.616,
-  "rival": 18.95,
-  "saving": 0.385,
-  "site": "greenwich",
-  "variant": "Box of 13"
- },
- "The Tabernacle Broadleaf Toro": {
-  "fair": 14.02,
-  "first_seen": "2026-11-09",
-  "last_seen": "2026-11-10",
-  "price": 228.01,
-  "ps": 9.5,
-  "q": 24,
-  "ratio": 0.678,
-  "rival": 14.02,
-  "saving": 0.322,
-  "site": "cigarsdirect",
-  "variant": "Box of 24"
- },
  "greenwich \u00b7 Arturo Fuente Destino al Siglo de Familias": {
   "fair": 0.0,
   "first_seen": "2026-10-23",
@@ -210,16 +80,16 @@
   "zero": true
  },
  "greenwich \u00b7 Davidoff Millennium Lancero": {
-  "fair": 55.13,
+  "fair": 55.69,
   "first_seen": "2026-10-23",
   "last_seen": "2026-11-10",
-  "price": 290.0,
+  "price": 29.0,
   "ps": 29.0,
-  "q": 10,
-  "ratio": 0.526,
+  "q": 1,
+  "ratio": 0.521,
   "rival": 55.0,
   "saving": 0.473,
   "site": "iheart",
-  "variant": "Box of 10"
+  "variant": "Single"
  }
 }

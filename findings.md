@@ -2425,3 +2425,30 @@ previous run 2026-11-09T22:02:50+00:00 · 26,310 variants tracked
 previous run 2026-11-10T00:02:53+00:00 · 26,310 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-11-10T22:03:09+00:00
+previous run 2026-11-10T12:03:18+00:00 · 26,321 variants tracked
+
+## New products  (15)
+- `iheart` Linea D No.08 Robusto [Box of 50] = $15.38/stick — $769.00
+- `iheart` Linea D No.08 Robusto [Box of 25] = $15.36/stick — $384.00
+- `iheart` Sobremesa Robusto Largo [Box of 25] = $15.25/stick — $381.25
+- `iheart` Sobremesa Cervantes Fino - Discontinued [Box of 25] = $12.50/stick — $312.50
+- `jackschwartz` J.C. Newman El Baton Belicoso [Box of 25] = $9.59/stick — $239.75 _(out of stock)_
+- `jackschwartz` Rojas KSG LE 2026 Lonsdale [Box of 12] = $12.92/stick — $155.00 _(out of stock)_
+- `iheart` Linea D No.08 Robusto [Box of 10] = $15.30/stick — $153.00
+- `iheart` Linea D No.08 Robusto [5 Pack] = $15.30/stick — $76.50
+- `iheart` Sobremesa Robusto Largo [5 Pack] = $15.25/stick — $76.25 _(out of stock)_
+- `iheart` Sobremesa Cervantes Fino - Discontinued [5 Pack] = $12.50/stick — $62.50 _(out of stock)_
+- `iheart` Linea D No.08 Robusto [Single] = $15.30/stick — $15.30
+- `iheart` Sobremesa Robusto Largo [Single] = $15.25/stick — $15.25 _(out of stock)_
+- `jackschwartz` Rojas KSG LE 2026 Lonsdale [Single] = $14.50/stick — $14.50 _(out of stock)_
+- `iheart` Sobremesa Cervantes Fino - Discontinued [Single] = $12.50/stick — $12.50 _(out of stock)_
+- `jackschwartz` J.C. Newman El Baton Belicoso [Single] = $10.90/stick — $10.90 _(out of stock)_
+
+## Newly inflated variants  (2)
+- `iheart` Signature 6000 [Box of 25] = $22.32/stick — $403.00 → $558.00; now $22.32/stick vs $16.00 for its sibling
+- `iheart` Ultra OP No.8 Churchill [Box of 20] = $12.60/stick — $189.00 → $252.00; now $12.60/stick vs $8.60 for its sibling
