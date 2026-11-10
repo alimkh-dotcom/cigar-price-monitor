@@ -2417,3 +2417,11 @@ previous run 2026-11-09T22:02:50+00:00 · 26,310 variants tracked
 ## New products  (2)
 - `jackschwartz` Meerapfel Project 18 [Box of 99] = $99.00/stick — $9,801.00
 - `jackschwartz` Meerapfel Project 18 [6-Pack] = $99.17/stick — $595.00 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-11-10T12:03:18+00:00
+previous run 2026-11-10T00:02:53+00:00 · 26,310 variants tracked
+
+**No actionable changes.**
