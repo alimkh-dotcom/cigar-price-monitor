@@ -2460,3 +2460,13 @@ previous run 2026-11-10T12:03:18+00:00 · 26,321 variants tracked
 previous run 2026-11-10T22:03:09+00:00 · 26,321 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-11-11T12:03:14+00:00
+previous run 2026-11-11T00:03:11+00:00 · 26,322 variants tracked
+
+## New products  (2)
+- `iheart` A First Class Experience Corona [5 Pack] = $40.00/stick — $200.00
+- `iheart` A First Class Experience Corona [Single] = $40.00/stick — $40.00
