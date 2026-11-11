@@ -2470,3 +2470,47 @@ previous run 2026-11-11T00:03:11+00:00 · 26,322 variants tracked
 ## New products  (2)
 - `iheart` A First Class Experience Corona [5 Pack] = $40.00/stick — $200.00
 - `iheart` A First Class Experience Corona [Single] = $40.00/stick — $40.00
+
+
+---
+
+# Cigar price monitor — 2026-11-11T22:02:57+00:00
+previous run 2026-11-11T12:03:14+00:00 · 26,350 variants tracked
+
+## Price drops ≥20%  (1)
+- **99%** **BIG** `jackschwartz` Arturo Fuente Natural Cuban Corona [Single] = $8.25/stick — $825.00 → **$8.25** _(out of stock)_
+
+## New products  (30)
+- `jackschwartz` The LFD Golden Legacy Reserve [Default Title] — $4,000.00
+- `iheart` Grand Cru Toro [Box of 25] = $30.00/stick — $750.00
+- `jackschwartz` Viaje Full Moon 13th Anniversary Natural Limited Edition [Box of 24] = $22.50/stick — $540.00 _(out of stock)_
+- `jackschwartz` Viaje Full Moon 13th Anniversary Maduro Limited Edition [Box of 24] = $22.50/stick — $540.00 _(out of stock)_
+- `iheart` Aniversario Special R Tubos [Box of 20] = $26.00/stick — $520.00 · **30% of its next tier**
+- `iheart` Aniversario Special R Tubos [5 Pack] = $86.40/stick — $432.00
+- `jackschwartz` Brick House Commodore Maduro [Box of 25] = $10.58/stick — $264.50 _(out of stock)_
+- `jackschwartz` J.C. Newman El Baton Double Toro [Box of 25] = $10.35/stick — $258.75 _(out of stock)_
+- `jackschwartz` J.C. Newman El Baton Double Torpedo [Box of 25] = $9.90/stick — $247.50 _(out of stock)_
+- `jackschwartz` J.C. Newman El Baton Robusto [Box of 25] = $9.36/stick — $234.00 _(out of stock)_
+- `iheart` Nicaragua Robusto Box Pressed [Box of 12] = $18.75/stick — $225.00
+- `jackschwartz` Padron Cigar of the Year Sampler [Box of 5] = $42.00/stick — $210.00 _(out of stock)_
+- `iheart` Grand Cru Toro [5 Pack] = $32.20/stick — $161.00 _(out of stock)_
+- `iheart` Signature No.2 Tubos [5 Pack] = $25.70/stick — $128.50 _(out of stock)_
+- `iheart` Nicaragua Robusto Box Pressed [5 Pack] = $20.90/stick — $104.50
+- `iheart` Signature No.2 Tubos [Box of 4] = $23.75/stick — $95.00
+- `mrbundles` Lampert Cigars Oro Toro Grande [Default Title] — $90.00
+- `iheart` Aniversario Special R Tubos [Single] = $86.40/stick — $86.40
+- `iheart` Nicaragua Robusto Box Pressed [Box of 4] = $19.00/stick — $76.00
+- `mrbundles` Lampert Cigars Platino Toro Grande (5 Pack) [Default Title] — $75.00
+- `mrbundles` Lampert Cigars Platino 52 [Default Title] — $75.00
+- `iheart` Grand Cru Toro [Single] = $32.20/stick — $32.20 _(out of stock)_
+- `iheart` Signature No.2 Tubos [Single] = $25.70/stick — $25.70 _(out of stock)_
+- `jackschwartz` Viaje Full Moon 13th Anniversary Natural Limited Edition [Single] = $22.75/stick — $22.75
+- `jackschwartz` Viaje Full Moon 13th Anniversary Maduro Limited Edition [Single] = $22.75/stick — $22.75
+- `iheart` Nicaragua Robusto Box Pressed [Single] = $20.90/stick — $20.90
+- `jackschwartz` Brick House Commodore Maduro [Single] = $12.00/stick — $12.00 _(out of stock)_
+- `jackschwartz` J.C. Newman El Baton Double Toro [Single] = $11.75/stick — $11.75 _(out of stock)_
+- `jackschwartz` J.C. Newman El Baton Double Torpedo [Single] = $11.25/stick — $11.25 _(out of stock)_
+- `jackschwartz` J.C. Newman El Baton Robusto [Single] = $10.65/stick — $10.65 _(out of stock)_
+
+## New variants on existing products  (1)
+- `gtcigars` Rocky Patel Java Maduro [Toro (6" X 50)] — $208.52
