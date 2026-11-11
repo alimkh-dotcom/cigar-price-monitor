@@ -2452,3 +2452,11 @@ previous run 2026-11-10T12:03:18+00:00 · 26,321 variants tracked
 ## Newly inflated variants  (2)
 - `iheart` Signature 6000 [Box of 25] = $22.32/stick — $403.00 → $558.00; now $22.32/stick vs $16.00 for its sibling
 - `iheart` Ultra OP No.8 Churchill [Box of 20] = $12.60/stick — $189.00 → $252.00; now $12.60/stick vs $8.60 for its sibling
+
+
+---
+
+# Cigar price monitor — 2026-11-11T00:03:11+00:00
+previous run 2026-11-10T22:03:09+00:00 · 26,321 variants tracked
+
+**No actionable changes.**

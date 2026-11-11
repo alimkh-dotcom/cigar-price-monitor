@@ -344,3 +344,23 @@ rival prices are adjusted for each site's measured markup before comparing
 - Rocky Patel Tavicusa Robusto (live 2026-11-09 → 2026-11-10)
 - Sobremesa Brulee Wagashi (live 2026-11-09 → 2026-11-10)
 - The Tabernacle Broadleaf Toro (live 2026-11-09 → 2026-11-10)
+
+
+---
+
+# Pricing errors (iheart, greenwich) — 2026-11-11
+9 live · 2 new · 0 fixed since last run
+rival prices are adjusted for each site's measured markup before comparing
+
+## New (2)
+- unusually cheap — Brick House Teaser [Box of 28] **$5.06/stick**, **36% under** the cheapest in stock among the retailers we track ($7.85 at greenwich)
+- unusually cheap — illusione Epernay Tuonela Le Grande [Box of 25] **$8.64/stick**, **30% under** the cheapest in stock among the retailers we track ($12.30 at tccigar)
+
+## Still live (7)
+- **$0 listing** — greenwich · Arturo Fuente Destino al Siglo de Familias [Box of 13] is in stock at $0.00. A broken price, not a deal: expect an order to be cancelled or re-priced · live since 2026-10-23
+- **$0 listing** — greenwich · Arturo Fuente Destino al Siglo de Pasion [Box of 13] is in stock at $0.00. A broken price, not a deal: expect an order to be cancelled or re-priced · live since 2026-10-23
+- **likely error** — AJ Fernandez New World Dorado Figurado [5 Pack] **$5.36/stick**, **55% under** the cheapest in stock among the retailers we track ($12.00 at tccigar) · live since 2026-10-22
+- **likely error** — Lost and Found 22 Minutes to Midnight Connecticut Radiante Robusto [Single] **$10.50/stick**, **50% under** the cheapest in stock among the retailers we track ($21.00 at cigarsdirect) · live since 2026-10-22
+- **likely error** ★ — greenwich · Davidoff Millennium Lancero [Single] **$29.00/stick**, **47% under** the cheapest in stock among the retailers we track ($55.00 at iheart) · live since 2026-10-23
+- unusually cheap — Lost and Found 22 Minutes to Midnight Habano de Oro Robusto [Box 20] **$12.94/stick**, **32% under** the cheapest in stock among the retailers we track ($18.90 at cigarsdirect) · live since 2026-10-22
+- unusually cheap — Lost and Found 22 Minutes to Midnight Criollo Classico Corona Extra [Box 20] **$12.00/stick**, **26% under** the cheapest in stock among the retailers we track ($16.20 at cigarsdirect) · live since 2026-10-27
