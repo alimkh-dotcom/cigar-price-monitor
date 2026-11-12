@@ -2514,3 +2514,11 @@ previous run 2026-11-11T12:03:14+00:00 · 26,350 variants tracked
 
 ## New variants on existing products  (1)
 - `gtcigars` Rocky Patel Java Maduro [Toro (6" X 50)] — $208.52
+
+
+---
+
+# Cigar price monitor — 2026-11-12T00:03:33+00:00
+previous run 2026-11-11T22:02:57+00:00 · 26,350 variants tracked
+
+**No actionable changes.**
