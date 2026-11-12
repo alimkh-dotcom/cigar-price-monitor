@@ -2522,3 +2522,11 @@ previous run 2026-11-11T12:03:14+00:00 · 26,350 variants tracked
 previous run 2026-11-11T22:02:57+00:00 · 26,350 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-11-12T12:03:49+00:00
+previous run 2026-11-12T00:03:33+00:00 · 26,350 variants tracked
+
+**No actionable changes.**
