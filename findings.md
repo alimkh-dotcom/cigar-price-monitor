@@ -2550,3 +2550,47 @@ previous run 2026-11-12T12:03:49+00:00 · 26,352 variants tracked
 previous run 2026-11-12T22:02:58+00:00 · 26,352 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-11-13T01:58:45+00:00
+previous run 2026-11-13T00:02:46+00:00 · 30,842 variants tracked
+
+## New products  (4078)
+- `sunofagun` Macallan TIME : SPACE Mastery Scotch Whisky [Default Title] — $2,000.00 _(out of stock)_
+- `sunofagun` Fuente Fuente OpusX Opus 22 (2025) — Singles in 14 Rare Sizes [Box of 22] = $77.27/stick — $1,700.00 _(out of stock)_
+- `sunofagun` Byron Líricos Salomon [Box of 25] = $57.15/stick — $1,428.75
+- `sunofagun` Fuente Fuente OpusX Society Gold & Bullet (Pre-Order) [Box of 12] = $106.67/stick — $1,280.00
+- `sunofagun` El Septimo Doble Gran Reserva 20th Anniversary Toro [Box of 14] = $89.14/stick — $1,247.96
+- `sunofagun` Byron Grand Bouquets Perfecto [Box of 25] = $47.91/stick — $1,197.75
+- `sunofagun` Davidoff Royal Release Salomones [Box of 10] = $118.59/stick — $1,185.90
+- `sunofagun` Byron Selección Privada No. 1 Double Corona [Box of 25] = $45.39/stick — $1,134.75
+- `sunofagun` Glenfiddich 30 Year Scotch Whisky [Default Title] — $1,100.00 _(out of stock)_
+- `sunofagun` Alfonso Añejos No. 6 Double Corona [Box of 25] = $42.03/stick — $1,050.75 _(out of stock)_
+- `sunofagun` Alfonso Añejos No. 5 Churchill [Box of 25] = $42.03/stick — $1,050.75 _(out of stock)_
+- `sunofagun` Alfonso Gran Selección Enormes Gordo [Box of 25] = $40.35/stick — $1,008.75
+- `sunofagun` Alfonso Añejos No. 4 Toro Grande [Box of 25] = $40.35/stick — $1,008.75 _(out of stock)_
+- `sunofagun` Alfonso Gran Selección Grandiosos Double Corona [Box of 25] = $39.51/stick — $987.75
+- `sunofagun` Byron Selección Privada No. 2 Torpedo [Box of 25] = $38.67/stick — $966.75
+- `sunofagun` Davidoff Royal Release Robusto [Box of 10] = $95.89/stick — $958.90
+- `sunofagun` Davidoff Aniversario Double R [Box of 25] = $37.83/stick — $945.75
+- `sunofagun` Alfonso Gran Selección Exclusivos Torpedo [Box of 25] = $36.99/stick — $924.75
+- `sunofagun` Alfonso Añejos No. 3 Toro [Box of 25] = $36.99/stick — $924.75 _(out of stock)_
+- `sunofagun` Rocky Patel Edge Toro Sumatra [Tray of 100] — $923.00
+- `sunofagun` Rocky Patel Edge Toro Corojo [Tray of 100] — $923.00
+- `sunofagun` Rocky Patel Edge Toro Maduro [Tray of 100] — $923.00
+- `sunofagun` Rocky Patel Edge Toro Habano [Tray of 100] — $923.00
+- `sunofagun` Byron Honorables Gordo [Box of 25] = $36.15/stick — $903.75
+- `sunofagun` Byron Aristócratas Double Corona [Box of 25] = $36.15/stick — $903.75
+- `sunofagun` Byron Distinguidos Toro [Box of 25] = $36.15/stick — $903.75
+- `sunofagun` Byron Mesolongis Churchill [Box of 25] = $36.15/stick — $903.75
+- `sunofagun` Byron Venecianos Belicoso [Box of 25] = $36.15/stick — $903.75
+- `sunofagun` Byron Épique Poemas Churchill [Box of 25] = $36.15/stick — $903.75
+- `sunofagun` Atabey Benditos Churchill [Box of 25] = $36.15/stick — $903.75
+- _…4048 more_
+
+## Cheaper than the same cigar elsewhere  (3) — _unverified, check the vitola_
+- **43% under** `sunofagun` Arturo Fuente Rare Pink Queen of Hearts [5-Pack] = $36.99/stick vs $65.00/stick at `cigarsdirect` (Arturo Fuente Rare Pink Queen of Hearts)
+- **28% under** `sunofagun` Montecristo No. 2 Torpedo [Single] = $24.99/stick vs $34.76/stick at `cigarsdirect` (Montecristo M No.2 Torpedo)
+- **27% under** `sunofagun` Montecristo No. 2 Torpedo [5-Pack] = $21.99/stick vs $30.15/stick at `cigarsdirect` (Montecristo M No.2 Torpedo)
