@@ -2614,3 +2614,47 @@ previous run 2026-11-13T01:58:45+00:00 · 28,764 variants tracked
 previous run 2026-11-13T11:39:28+00:00 · 28,764 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-11-13T22:03:02+00:00
+previous run 2026-11-13T12:03:20+00:00 · 28,834 variants tracked
+
+## New products  (67)
+- `cigarsdirect` Arturo Fuente Black Pink Black Panther [Box of 20] = $110.00/stick — $2,200.00
+- `cigarsdirect` Arturo Fuente Black Pink Work of Art [Box of 25] = $70.00/stick — $1,750.00
+- `cigarsdirect` Arturo Fuente Black Pink Signature [Box of 25] = $70.00/stick — $1,750.00
+- `cigarsdirect` Fuente Fuente OpusX Rare Purple Diadema 56 [Box of 10] = $125.00/stick — $1,250.00 _(out of stock)_
+- `cigarsdirect` Fuente Fuente OpusX Rare Purple Diadema 54 [Box of 10] = $125.00/stick — $1,250.00
+- `cigarsdirect` Fuente Fuente OpusX Rare Black Diadema 54 [Box of 10] = $125.00/stick — $1,250.00
+- `cigarsdirect` God of Fire KKP Special Reserve Diadema 56 [Box of 10] = $125.00/stick — $1,250.00 _(out of stock)_
+- `cigarsdirect` God of Fire KKP Special Reserve Diadema 54 [Box of 10] = $125.00/stick — $1,250.00
+- `cigarsdirect` Arturo Fuente Black Pink Happy Ending [Box of 10] = $120.00/stick — $1,200.00
+- `cigarsdirect` Fuente Fuente OpusX Rare Black Diadema 56 [Box of 10] = $120.00/stick — $1,200.00 _(out of stock)_
+- `cigarsdirect` Fuente Fuente OpusX Rare Purple Diadema 60 [Box of 10] = $100.00/stick — $1,000.00 _(out of stock)_
+- `cigarsdirect` Fuente Fuente OpusX Rare Black Diadema 60 [Box of 10] = $100.00/stick — $1,000.00 _(out of stock)_
+- `cigarsdirect` God of Fire KKP Special Reserve Diadema 60 [Box of 10] = $100.00/stick — $1,000.00 _(out of stock)_
+- `cigarsdirect` God of Fire KKP Never Back Down Diadema 60 [Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `cigarsdirect` God of Fire KKP Never Back Down Diadema 56 [Box of 10] = $75.00/stick — $750.00
+- `cigarsdirect` God of Fire KKP Never Back Down Diadema 54 [Box of 10] = $75.00/stick — $750.00
+- `cigarsdirect` 2026 God of Fire KKP Cigar Sampler [Black Box of 4] = $98.75/stick — $395.00
+- `cigarsdirect` 2026 God of Fire KKP Cigar Sampler [Macassar Box of 4] = $98.75/stick — $395.00
+- `jackschwartz` Viaje Stuffed Turkey White Meat [Box of 25] = $11.00/stick — $275.00 _(out of stock)_
+- `jackschwartz` Viaje Stuffed Turkey Dark Meat [Box of 25] = $11.00/stick — $275.00 _(out of stock)_
+- `iheart` Larutan Dirt [Box of 24] = $8.12/stick — $195.00
+- `iheart` Larutan Root [Box of 24] = $7.50/stick — $180.00
+- `iheart` Larutan Jucy Lucy [Box of 40] = $4.38/stick — $175.00
+- `iheart` Larutan Dirt Torpedo [Box of 24] = $7.08/stick — $170.00
+- `iheart` Larutan Clean Robusto [Box of 24] = $5.62/stick — $135.00
+- `iheart` Larutan NDB [Box of 12] = $10.42/stick — $125.00
+- `cigarsdirect` Fuente Fuente OpusX Rare Purple Diadema 56 [1 Cigar] = $125.00/stick — $125.00 _(out of stock)_
+- `cigarsdirect` Fuente Fuente OpusX Rare Purple Diadema 54 [1 Cigar] = $125.00/stick — $125.00 _(out of stock)_
+- `cigarsdirect` Fuente Fuente OpusX Rare Black Diadema 54 [1 Cigar] = $125.00/stick — $125.00 _(out of stock)_
+- `cigarsdirect` God of Fire KKP Special Reserve Diadema 56 [1 Cigar] = $125.00/stick — $125.00 _(out of stock)_
+- _…37 more_
+
+## New variants on existing products  (3)
+- `iheart` Confidenciaal Fiftyseven [Bundle of 10] = $19.60/stick — $196.00 _(out of stock)_
+- `iheart` Confidenciaal Churchill [Bundle of 10] = $17.60/stick — $176.00 _(out of stock)_
+- `jackschwartz` Meerapfel Project 18 [Single] = $100.00/stick — $100.00

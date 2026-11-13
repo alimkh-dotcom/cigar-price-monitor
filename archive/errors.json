@@ -1,12 +1,12 @@
 {
  "AJ Fernandez New World Dorado Figurado": {
-  "fair": 12.54,
+  "fair": 12.59,
   "first_seen": "2026-10-22",
   "last_seen": "2026-11-13",
   "price": 26.8,
   "ps": 5.36,
   "q": 5,
-  "ratio": 0.427,
+  "ratio": 0.426,
   "rival": 12.0,
   "saving": 0.553,
   "site": "tccigar",
@@ -80,16 +80,16 @@
   "zero": true
  },
  "greenwich \u00b7 Davidoff Millennium Lancero": {
-  "fair": 56.18,
+  "fair": 56.11,
   "first_seen": "2026-10-23",
   "last_seen": "2026-11-13",
-  "price": 290.0,
+  "price": 29.0,
   "ps": 29.0,
-  "q": 10,
-  "ratio": 0.516,
+  "q": 1,
+  "ratio": 0.517,
   "rival": 55.0,
   "saving": 0.473,
   "site": "iheart",
-  "variant": "Box of 10"
+  "variant": "Single"
  }
 }
