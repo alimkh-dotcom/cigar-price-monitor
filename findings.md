@@ -2594,3 +2594,15 @@ previous run 2026-11-13T00:02:46+00:00 · 30,842 variants tracked
 - **43% under** `sunofagun` Arturo Fuente Rare Pink Queen of Hearts [5-Pack] = $36.99/stick vs $65.00/stick at `cigarsdirect` (Arturo Fuente Rare Pink Queen of Hearts)
 - **28% under** `sunofagun` Montecristo No. 2 Torpedo [Single] = $24.99/stick vs $34.76/stick at `cigarsdirect` (Montecristo M No.2 Torpedo)
 - **27% under** `sunofagun` Montecristo No. 2 Torpedo [5-Pack] = $21.99/stick vs $30.15/stick at `cigarsdirect` (Montecristo M No.2 Torpedo)
+
+
+---
+
+# Cigar price monitor — 2026-11-13T11:39:28+00:00
+previous run 2026-11-13T01:58:45+00:00 · 28,764 variants tracked
+
+## New products  (4)
+- `sunofagun` Arturo Fuente Hemingway Signature Sungrown Oscuro Reserva Especial [Box of 25] = $12.59/stick — $314.75
+- `sunofagun` Arturo Fuente Rare Holiday Collection 10-Cigar Sampler [Box of 10] = $20.00/stick — $199.99
+- `sunofagun` Arturo Fuente Hemingway Signature Sungrown Oscuro Reserva Especial [5-Pack] = $13.59/stick — $67.95
+- `sunofagun` Arturo Fuente Hemingway Signature Sungrown Oscuro Reserva Especial [Single] = $14.99/stick — $14.99

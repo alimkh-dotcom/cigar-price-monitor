@@ -30,6 +30,13 @@ SMALL = re.compile(r'papas fritas|coronet|ponies|cigarrito|cigarillo|petit |peti
 NONCIGAR = re.compile(r'ashtray|lighter|cutter|humidor|boveda|hygrometer|magazine|'
                       r'\bcase\b|wallet|keychain|mug|glass|solution|torch|\bpen\b|'
                       r'\bhat\b|shirt|book|\bbag\b|match|gift card', re.I)
+# Shopify's own product_type, where the shop sets one. Matched ONLY against that
+# field, never the title: cigar lines are routinely named after spirits (Diesel
+# Whiskey Row, Perdomo Bourbon Barrel-Aged, Tatiana Rum, Punch Bottle Rocket), so
+# a name-based spirits filter drops real cigars. An empty or unknown type is kept.
+NONCIGAR_TYPE = re.compile(r'spirit|accessor|lighter|cutter|humidor|ashtray|apparel|'
+                           r'\bswag\b|\bhats?\b|merch|gift ?(?:wrap|card)|barware|'
+                           r'glassware', re.I)
 BUNDLE = re.compile(r'sampler|assort|collection|gift|taster|taste of| \+ |combo|variety', re.I)
 STOP = {"the","of","by","cigar","cigars","and","le","natural","maduro","edicion",
         "serie","series","discontinued","original","release","box","pack","packs",
@@ -113,6 +120,8 @@ def scrape():
             if not prods:
                 break
             for p in prods:
+                if NONCIGAR_TYPE.search(p.get("product_type") or ""):
+                    continue                        # spirits, ashtrays, apparel
                 for var in p["variants"]:
                     try: price = float(var["price"])
                     except (TypeError, ValueError): continue
