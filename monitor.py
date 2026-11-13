@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Scrape six Shopify cigar catalogs, diff against the last run, report what changed.
+"""Scrape seven Shopify cigar catalogs, diff against the last run, report what changed.
 
 Only one file persists between runs: snapshots/state.json.gz — prices/availability/
 counts keyed by variant id, names stripped (~210 KB). Names come from the live pull.

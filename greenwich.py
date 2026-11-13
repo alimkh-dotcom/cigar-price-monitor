@@ -5,7 +5,7 @@
     ./greenwich.py --if-stale   # pull only when the cache is older than 10 hours
 
 The Tobacconist of Greenwich is a BigCommerce shop with a deep rare-Fuente and
-Davidoff list, which is exactly where the six Shopify sites are thin. It has no
+Davidoff list, which is exactly where the Shopify sites are thin. It has no
 products.json, but every page it serves carries a public storefront token for its
 own GraphQL endpoint, and that returns each product's variants (Single / Box of N)
 with price and stock - 50 products a request instead of one page per product.

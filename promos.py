@@ -5,7 +5,7 @@
     ./promos.py madness     # on-site markdowns that revert within ~24h; picks the best 5 and 10
 
 Each run compares against three things and says which one carried the pick:
-  1. the other retailers (six Shopify sites, luxurycigarclub, Tampa Sweethearts, Tobacconist of Greenwich), per stick, in stock only
+  1. the other retailers (seven Shopify sites, luxurycigarclub, Tampa Sweethearts, Tobacconist of Greenwich), per stick, in stock only
   2. iheart's own other formats for the same cigar (box / 5-pack)
   3. every previous run of the same promo, stored under archive/
 
