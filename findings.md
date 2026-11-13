@@ -2542,3 +2542,11 @@ previous run 2026-11-12T12:03:49+00:00 · 26,352 variants tracked
 - `jackschwartz` Padron 60th Anniversary Maduro [Single] = $77.50/stick — $77.50 _(out of stock)_
 - `jackschwartz` 🎁 Westminster Connecticut Cigarillo (100% off) [Tin of 10] = $0.00/stick — $0.00
 - `jackschwartz` 🎁 Westminster Cameroon Cigarillo (100% off) [Tin of 10] = $0.00/stick — $0.00
+
+
+---
+
+# Cigar price monitor — 2026-11-13T00:02:46+00:00
+previous run 2026-11-12T22:02:58+00:00 · 26,352 variants tracked
+
+**No actionable changes.**
