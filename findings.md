@@ -2606,3 +2606,11 @@ previous run 2026-11-13T01:58:45+00:00 · 28,764 variants tracked
 - `sunofagun` Arturo Fuente Rare Holiday Collection 10-Cigar Sampler [Box of 10] = $20.00/stick — $199.99
 - `sunofagun` Arturo Fuente Hemingway Signature Sungrown Oscuro Reserva Especial [5-Pack] = $13.59/stick — $67.95
 - `sunofagun` Arturo Fuente Hemingway Signature Sungrown Oscuro Reserva Especial [Single] = $14.99/stick — $14.99
+
+
+---
+
+# Cigar price monitor — 2026-11-13T12:03:20+00:00
+previous run 2026-11-13T11:39:28+00:00 · 28,764 variants tracked
+
+**No actionable changes.**
