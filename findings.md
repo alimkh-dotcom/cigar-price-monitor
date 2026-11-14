@@ -2674,3 +2674,12 @@ previous run 2026-11-13T22:03:02+00:00 · 28,834 variants tracked
 previous run 2026-11-14T00:02:51+00:00 · 28,834 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-11-14T22:02:58+00:00
+previous run 2026-11-14T12:02:43+00:00 · 28,835 variants tracked
+
+## New products  (1)
+- `mrbundles` Selected Tobacco Petit Gift Sets [Default Title] — $164.99
