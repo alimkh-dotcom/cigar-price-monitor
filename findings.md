@@ -2658,3 +2658,11 @@ previous run 2026-11-13T12:03:20+00:00 · 28,834 variants tracked
 - `iheart` Confidenciaal Fiftyseven [Bundle of 10] = $19.60/stick — $196.00 _(out of stock)_
 - `iheart` Confidenciaal Churchill [Bundle of 10] = $17.60/stick — $176.00 _(out of stock)_
 - `jackschwartz` Meerapfel Project 18 [Single] = $100.00/stick — $100.00
+
+
+---
+
+# Cigar price monitor — 2026-11-14T00:02:51+00:00
+previous run 2026-11-13T22:03:02+00:00 · 28,834 variants tracked
+
+**No actionable changes.**
