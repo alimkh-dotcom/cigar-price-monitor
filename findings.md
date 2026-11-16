@@ -2723,3 +2723,79 @@ previous run 2026-11-15T22:02:29+00:00 · 28,835 variants tracked
 previous run 2026-11-16T00:02:32+00:00 · 28,835 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-11-16T22:02:30+00:00
+previous run 2026-11-16T12:03:19+00:00 · 28,847 variants tracked
+
+## Price drops ≥20%  (67)
+- **40%** **BIG** `iheart` Quattro Nicaragua Espressivo [Box of 20] = $8.88/stick — $296.00 → **$177.60**
+- **35%** **BIG** `iheart` Timeless Classics Assortment (2014 Release) [Box of 3] = $21.45/stick — $99.00 → **$64.35**
+- **35%** **BIG** `iheart` Nicaragua Robusto Tubos [Box of 4] = $13.97/stick — $86.00 → **$55.90**
+- **35%** **BIG** `iheart` Puro D'oro Deliciosos - Discontinued [5 Pack] = $35.75/stick — $275.00 → **$178.75**
+- **35%** **BIG** `iheart` Aniversario Special R [Box of 4] = $18.27/stick — $112.40 → **$73.06**
+- **35%** **BIG** `iheart` Yamasa Piramides [Box of 4] = $17.42/stick — $107.20 → **$69.68**
+- **33%** `iheart` Highclere Castle Victorian Churchill [Box of 20] = $10.92/stick — $327.60 → **$218.40**
+- **33%** `iheart` Balmoral Anejo XO Gran Perfecto FT EL 2018 [Box of 10] = $16.41/stick — $245.00 → **$164.15**
+- **32%** `iheart` A First Class Experience Corona [5 Pack] = $27.00/stick — $200.00 → **$135.00**
+- **32%** `iheart` Charter Oak Habano Rotschild [5 Pack] = $4.68/stick — $34.20 → **$23.40**
+- **31%** `iheart` illusione Epernay 10th Anniversary D'Aosta [Box of 10] = $9.90/stick — $143.00 → **$99.00**
+- **30%** `iheart` Zino Platinum Scepter Shorty - Discontinued [5 Pack] = $9.80/stick — $70.00 → **$49.00**
+- **30%** `iheart` Rare Pink Vintage 1960's Work of Art [Box of 5] = $22.40/stick — $160.00 → **$112.00**
+- **30%** `iheart` Rare Pink Vintage 1960's Happy Endings [Box of 5] = $24.50/stick — $175.00 → **$122.50**
+- **30%** `iheart` Grand Cru No.2 [5 Pack] = $15.82/stick — $113.00 → **$79.10**
+- **29%** `iheart` White Edition LE 2012 - Discontinued. [5 Pack] = $49.70/stick — $350.00 → **$248.50**
+- **28%** `iheart` Winston Churchill Robusto [Box of 4] = $17.25/stick — $96.40 → **$69.00**
+- **28%** `iheart` Liga Privada No.9 Belicoso [5 Pack] = $12.51/stick — $86.63 → **$62.56**
+- **28%** `iheart` Sin Compromiso Seleccion Paladin de Saka [5 Pack] = $19.34/stick — $133.88 → **$96.69**
+- **28%** `iheart` Liga Undercrown Shade Suprema Perfecto [Box of 5] = $10.40/stick — $72.00 → **$52.00**
+- **28%** `iheart` Lampert 1675 Edicion Morado Robusto [Box of 20] = $9.10/stick — $252.00 → **$182.00**
+- **28%** `iheart` Liga Privada H99 Robusto [5 Pack] = $11.31/stick — $78.30 → **$56.55**
+- **28%** `iheart` Liga Privada No.9 Corona Doble [5 Pack] = $12.74/stick — $88.20 → **$63.70**
+- **28%** `iheart` Alma Fuerte Generacion V Salomon [Box of 10] = $18.13/stick — $251.10 → **$181.35**
+- **28%** `iheart` Liga Privada T52 Robusto [5 Pack] = $10.79/stick — $74.70 → **$53.95**
+- **28%** `iheart` Olmec Claro Double Corona [Box of 12] = $11.61/stick — $192.89 → **$139.31**
+- **28%** `iheart` Alma Del Cielo Amanecer Hexagono [5 Pack] = $19.83/stick — $137.25 → **$99.13**
+- **27%** `iheart` Escurio 10th Anniversary LE Gran Toro [Box of 12] = $27.01/stick — $444.00 → **$324.12**
+- **26%** `iheart` The Tabernacle Havana CT142 Double Corona [5 Pack] = $10.93/stick — $74.20 → **$54.67**
+- **26%** `iheart` El Gueguense Robusto - Discontinued [5 Pack] = $7.42/stick — $50.35 → **$37.10**
+- **26%** `iheart` El Gueguense Churchill - Discontinued [5 Pack] = $8.20/stick — $55.67 → **$41.02**
+- **26%** `iheart` Seleccion No.2 [Box 13] = $13.81/stick — $243.06 → **$179.53**
+- **26%** `iheart` Warped La Colmena 8 Asia Exclusive [Box of 8] = $23.56/stick — $255.20 → **$188.50**
+- **26%** `iheart` Mi Querida Triqui Traca No.648 [Box of 20] = $9.52/stick — $257.84 → **$190.45**
+- **26%** `iheart` Winston Churchill Collection - Discontinued [Box of 4] = $30.88/stick — $167.20 → **$123.50**
+- **26%** `iheart` Sin Compromiso Seleccion Paladin de Saka [Box of 13] = $19.29/stick — $339.46 → **$250.74**
+- **26%** `iheart` Sobremesa Gran Imperiales [Box of 25] = $9.72/stick — $328.90 → **$242.94**
+- **26%** `iheart` Seleccion No.7 Parejos [Box 13] = $14.01/stick — $246.49 → **$182.07**
+- **26%** `iheart` Mi Querida Black PapaSaka [Box of 10] = $11.41/stick — $154.44 → **$114.08**
+- **25%** `iheart` Fuente Fuente Opusx Reserva D'Chateau Tin [Tin of 3] = $41.25/stick — $165.00 → **$123.75**
+
+## New products  (10)
+- `iheart` Oliva Serie V Melanio Toro Grande EL 2020 [Box of 10] = $35.00/stick — $350.00
+- `tccigar` Weller by Cohiba 2026 Toro [Box of 10] = $35.00/stick — $349.99
+- `jackschwartz` Angelenos Robusto Gordo [Box of 25] = $13.94/stick — $348.50
+- `jackschwartz` J.C. Newman Yagua Toro [Box of 20] = $10.57/stick — $211.50
+- `iheart` Oliva Serie V Melanio Toro Grande EL 2020 [5 Pack] = $35.00/stick — $175.00
+- `jackschwartz` J.C. Newman Yagua Toro [5-pack] = $11.80/stick — $59.00
+- `iheart` Oliva Serie V Melanio Toro Grande EL 2020 [Single] = $35.00/stick — $35.00
+- `tccigar` Weller by Cohiba 2026 Toro [Single Cigar] = $34.99/stick — $34.99
+- `jackschwartz` Angelenos Robusto Gordo [Single] = $14.75/stick — $14.75
+- `jackschwartz` J.C. Newman Yagua Toro [Single] = $12.00/stick — $12.00
+
+## New variants on existing products  (2)
+- `jackschwartz` Prometheus Cigar Tube [Rose Gold] — $90.00
+- `jackschwartz` Prometheus Cigar Tube [Chrome] — $80.00
+
+## Cheaper than the same cigar elsewhere  (10) — _unverified, check the vitola_
+- **36% under** `iheart` Liga Privada Unico Serie Feral Flying Pig [Box of 10] = $14.82/stick vs $23.30/stick at `sunofagun` (Liga Privada Unico Feral Flying Pig)
+- **34% under** `iheart` Lampert 1675 Edicion Morado Robusto [Box of 20] = $9.10/stick vs $13.72/stick at `jackschwartz` (Lampert 1675 Morado Robusto)
+- **32% under** `iheart` Liga Privada H99 Robusto [5 Pack] = $11.31/stick vs $16.62/stick at `sunofagun` (Liga Privada H99 Robusto)
+- **32% under** `iheart` Liga Privada Unico Serie UF-13 [Box of 12] = $12.84/stick vs $18.75/stick at `tccigar` (Liga Privada Unico Serie UF-13)
+- **31% under** `iheart` Highclere Castle Victorian Churchill [Box of 20] = $10.92/stick vs $15.80/stick at `tccigar` (Highclere Castle Victorian Churchill)
+- **31% under** `iheart` Liga Privada T52 Robusto [5 Pack] = $10.79/stick vs $15.54/stick at `sunofagun` (Liga Privada T52 Robusto)
+- **30% under** `iheart` Lampert 1675 Edicion Azul Toro [5 Pack] = $8.40/stick vs $12.00/stick at `mrbundles` (Lampert 1675 Azul Toro)
+- **29% under** `iheart` Liga Privada No.9 Belicoso [5 Pack] = $12.51/stick vs $17.66/stick at `sunofagun` (Liga Privada No. 9 Belicoso)
+- **28% under** `iheart` Liga Privada No.9 Robusto [Box of 24] = $11.21/stick vs $15.54/stick at `tccigar` (Liga Privada No. 9 Robusto)
+- **26% under** `iheart` Liga Privada No.9 Corona Doble [5 Pack] = $12.74/stick vs $17.16/stick at `sunofagun` (Liga Privada No. 9 Corona Doble)

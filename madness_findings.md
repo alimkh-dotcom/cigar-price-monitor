@@ -1050,3 +1050,35 @@ compared against 8 retailers and 18 previous Monday Madness runs
 | 3 | Liga Privada H99 Toro [Box of 24] | $438.00 → **$284.70** | $11.86 | -35% on-site ($438.00 → $284.70, compare_at); -28% vs $16.41/stick at tccigar (in stock); also discounted on 2026-11-09 at $16.43 |
 | 4 | Sobremesa Brulee Wagashi [Box of 13] | $233.00 → **$151.45** | $11.65 | -35% on-site ($233.00 → $151.45, compare_at); -39% vs $18.95/stick at greenwich (in stock); also discounted on 2026-11-09 at $16.20 |
 | 5 | Liga Privada H99 Super Ancho [Box of 10] | $228.50 → **$148.53** | $14.85 | -35% on-site ($228.50 → $148.53, compare_at); -26% vs $20.20/stick at tccigar (in stock); also discounted on 2026-11-09 at $20.57 |
+
+
+---
+
+# Monday Madness — 2026-11-16
+101 variants marked down on-site · these revert within ~24h
+compared against 9 retailers and 19 previous Monday Madness runs
+
+## Top 10 picks · $1,604.32 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Liga Privada H99 Flying Pig [Box of 12] | $242.40 → **$157.56** | $13.13 | -35% on-site ($242.40 → $157.56, compare_at); -37% vs $20.83/stick at cigarsdirect (in stock); also discounted on 2026-11-03 at $18.18 |
+| 2 | Lampert 1675 Edicion Morado Robusto [Box of 20] | $280.00 → **$182.00** | $9.10 | -35% on-site ($280.00 → $182.00, compare_at); -34% vs $13.72/stick at jackschwartz (in stock); also discounted on 2026-11-10 at $12.60 |
+| 3 | Liga Privada Unico Serie Feral Flying Pig [Box of 10] | $228.00 → **$148.20** | $14.82 | -35% on-site ($228.00 → $148.20, compare_at); -34% vs $22.50/stick at greenwich (in stock); also discounted on 2026-09-29 at $15.96 |
+| 4 | Liga Privada H99 Robusto [5 Pack] | $87.00 → **$56.55** | $11.31 | -35% on-site ($87.00 → $56.55, compare_at); -32% vs $16.62/stick at sunofagun (in stock); also discounted on 2026-10-27 at $11.31 |
+| 5 | Don Carlos Eye of the Bull [Box of 20] | $457.00 → **$342.75** | $17.14 | -25% on-site ($457.00 → $342.75, compare_at); -38% vs $27.50/stick at greenwich (in stock); also discounted on 2026-10-27 at $17.14 |
+| 6 | Liga Privada Unico Serie UF-13 [Box of 12] | $237.00 → **$154.05** | $12.84 | -35% on-site ($237.00 → $154.05, compare_at); -32% vs $18.75/stick at tccigar (in stock); also discounted on 2026-10-27 at $12.84 |
+| 7 | Quattro Nicaragua Espressivo [Box of 20] | $296.00 → **$177.60** | $8.88 | -40% on-site ($296.00 → $177.60, compare_at); -40% vs $14.84/stick at greenwich (in stock); also discounted on 2026-11-03 at $8.88 |
+| 8 | Liga Privada T52 Robusto [5 Pack] | $83.00 → **$53.95** | $10.79 | -35% on-site ($83.00 → $53.95, compare_at); -31% vs $15.54/stick at sunofagun (in stock); first time discounted |
+| 9 | Liga Privada No.9 Belicoso [5 Pack] | $96.25 → **$62.56** | $12.51 | -35% on-site ($96.25 → $62.56, compare_at); -29% vs $17.66/stick at sunofagun (in stock); first time discounted |
+| 10 | Liga Privada No.9 Robusto [Box of 24] | $414.00 → **$269.10** | $11.21 | -35% on-site ($414.00 → $269.10, compare_at); -28% vs $15.54/stick at tccigar (in stock); first time discounted |
+
+## Top 5 picks · $887.06 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Liga Privada H99 Flying Pig [Box of 12] | $242.40 → **$157.56** | $13.13 | -35% on-site ($242.40 → $157.56, compare_at); -37% vs $20.83/stick at cigarsdirect (in stock); also discounted on 2026-11-03 at $18.18 |
+| 2 | Lampert 1675 Edicion Morado Robusto [Box of 20] | $280.00 → **$182.00** | $9.10 | -35% on-site ($280.00 → $182.00, compare_at); -34% vs $13.72/stick at jackschwartz (in stock); also discounted on 2026-11-10 at $12.60 |
+| 3 | Liga Privada Unico Serie Feral Flying Pig [Box of 10] | $228.00 → **$148.20** | $14.82 | -35% on-site ($228.00 → $148.20, compare_at); -34% vs $22.50/stick at greenwich (in stock); also discounted on 2026-09-29 at $15.96 |
+| 4 | Liga Privada H99 Robusto [5 Pack] | $87.00 → **$56.55** | $11.31 | -35% on-site ($87.00 → $56.55, compare_at); -32% vs $16.62/stick at sunofagun (in stock); also discounted on 2026-10-27 at $11.31 |
+| 5 | Don Carlos Eye of the Bull [Box of 20] | $457.00 → **$342.75** | $17.14 | -25% on-site ($457.00 → $342.75, compare_at); -38% vs $27.50/stick at greenwich (in stock); also discounted on 2026-10-27 at $17.14 |
