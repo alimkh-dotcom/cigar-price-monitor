@@ -2799,3 +2799,15 @@ previous run 2026-11-16T12:03:19+00:00 · 28,847 variants tracked
 - **29% under** `iheart` Liga Privada No.9 Belicoso [5 Pack] = $12.51/stick vs $17.66/stick at `sunofagun` (Liga Privada No. 9 Belicoso)
 - **28% under** `iheart` Liga Privada No.9 Robusto [Box of 24] = $11.21/stick vs $15.54/stick at `tccigar` (Liga Privada No. 9 Robusto)
 - **26% under** `iheart` Liga Privada No.9 Corona Doble [5 Pack] = $12.74/stick vs $17.16/stick at `sunofagun` (Liga Privada No. 9 Corona Doble)
+
+
+---
+
+# Cigar price monitor — 2026-11-17T00:02:51+00:00
+previous run 2026-11-16T22:02:30+00:00 · 28,848 variants tracked
+
+## New products  (1)
+- `gtcigars` GT Ultimate Holiday Gift Set [Default Title] — $120.00
+
+## Cheap restocks  (1)
+- `tccigar` Tatiana Classic Chocolate [Box of 25] = $3.28/stick — back at $81.95 (66% of its next tier)
