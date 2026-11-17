@@ -2901,3 +2901,14 @@ previous run 2026-11-17T00:02:51+00:00 · 29,394 variants tracked
 - **30% under** `tobaccoreserve` God of Fire KKP Never Back Down Diadema 56 [5-Pack] = $52.50/stick vs $75.00/stick at `cigarsdirect` (God of Fire KKP Never Back Down Diadema 56)
 - **30% under** `tobaccoreserve` God of Fire KKP Never Back Down Diadema 56 [Box of 10] = $52.50/stick vs $75.00/stick at `cigarsdirect` (God of Fire KKP Never Back Down Diadema 56)
 - **27% under** `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull Natural [Single cigar] = $80.00/stick vs $110.00/stick at `cigarsdirect` (FFOX Heaven and Earth Tauros The Bull Natural)
+
+
+---
+
+# Cigar price monitor — 2026-11-17T22:02:28+00:00
+previous run 2026-11-17T12:02:48+00:00 · 29,397 variants tracked
+
+## New products  (3)
+- `cigarsdirect` Drew Estate Feral Flying Pig Collection [Box of 10] = $25.00/stick — $250.00
+- `cigarsdirect` Undercrown El Tigre Flying Pig [Box of 12] = $13.33/stick — $159.99
+- `cigarsdirect` Undercrown El Tigre Flying Pig [1 Cigar] = $16.18/stick — $16.18
