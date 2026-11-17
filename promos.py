@@ -42,7 +42,7 @@ XR_SHARED  = 3               # at least this many shared distinctive words, AND 
                              # and Corona Edwardian with Edwardian Robusto; requiring
                              # a superset means neither side may contradict the other.
 INTEREST = re.compile(r'opus|fuente|don carlos|hemingway|a[nñ]ejo|rare pink|destino|'
-                      r'padr[oó]n|davidoff|liga privada|atabey|byron|alfonso|'
+                      r'padr[oó]n|davidoff|liga privada|atabey|byron|'
                       r'god of fire|alma fuerte|\besg\b|\bvsg\b|'
                       r'winston churchill|meerapfel|plasencia', re.I)
 
