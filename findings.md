@@ -2811,3 +2811,93 @@ previous run 2026-11-16T22:02:30+00:00 · 28,848 variants tracked
 
 ## Cheap restocks  (1)
 - `tccigar` Tatiana Classic Chocolate [Box of 25] = $3.28/stick — back at $81.95 (66% of its next tier)
+
+
+---
+
+# Cigar price monitor — 2026-11-17T12:02:48+00:00
+previous run 2026-11-17T00:02:51+00:00 · 29,394 variants tracked
+
+## ⚑ Standing watch  (40)
+- **OpusX** — NEW listing: `tobaccoreserve` Arturo Fuente Opus X Oro Oscuro Belicoso XXX Single cigar = $31.65/stick — $31.65
+- **OpusX** — NEW listing: `tobaccoreserve` Arturo Fuente Opus X PerfecXion 77 Shark Single cigar = $40.47/stick — $40.47
+- **OpusX** — NEW listing: `tobaccoreserve` Arturo Fuente Opus X Robusto Single cigar = $34.05/stick — $34.05
+- **OpusX** — NEW listing: `tobaccoreserve` Fuente Fuente Opus X Fuente Fuente Corona 5 Pack = $30.36/stick — $151.80
+- **OpusX** — NEW listing: `tobaccoreserve` Fuente Fuente Opus X Fuente Fuente Corona Single = $30.36/stick — $30.36
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Don Carlos Edicion de Anniversario Double Robusto Single cigar = $44.00/stick — $44.00
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Don Carlos Edicion de Anniversario Robusto Box of 10 — Save 10% = $38.70/stick — $387.00
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Don Carlos Edicion de Anniversario Robusto Single cigar = $43.00/stick — $43.00
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Don Carlos Edicion de Anniversario Toro Box of 10 — Save 10% = $39.60/stick — $396.00
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Don Carlos Edicion de Anniversario Toro Single cigar = $44.00/stick — $44.00
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Hemingway Single cigar = $225.00/stick — $225.00
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Lost City Carlito's A Box of 10 — Save 10% = $70.11/stick — $701.10
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Lost City Carlito's A Single cigar = $77.90/stick — $77.90
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Lost City D Robusto Single cigar = $47.00/stick — $47.00
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Lost City Toro Single cigar = $47.00/stick — $47.00
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X ReXilient Churchill 5-Pack — Save 5% = $118.75/stick — $593.75
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X ReXilient Churchill Single cigar = $125.00/stick — $125.00
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Society Blue – La Edición de la Sociedad 5-Pack — Save 5% = $80.75/stick — $403.75
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Society Blue – La Edición de la Sociedad Box of 20 — Save 10% = $76.50/stick — $1,530.00
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Society Blue – La Edición de la Sociedad Single cigar = $85.00/stick — $85.00
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Society Gold & Bullet 5-Pack — Limited-Time Price = $100.00/stick — $500.00
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Society Gold & Bullet Box of 12 — Limited-Time Price = $100.00/stick — $1,200.00
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Society Gold & Bullet Single cigar = $100.00/stick — $100.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Angel's Share Stairway to Heaven 5-Pack = $195.00/stick — $975.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Angel's Share Stairway to Heaven Single cigar = $195.00/stick — $195.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth El Escorpion Maduro Single cigar = $77.50/stick — $77.50
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth El Escorpion Natural Single cigar = $77.50/stick — $77.50
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Opus 5 Opus 5 Set — $395.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Rare Black Cigar Selection (6) 6-Cigar Selection = $75.00/stick — $450.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 54 Single cigar = $80.00/stick — $80.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 56 Single cigar = $80.00/stick — $80.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Rare Black Torpedo Single cigar = $80.00/stick — $80.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Scorpio Maduro Single cigar = $80.00/stick — $80.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull Natural Single cigar = $80.00/stick — $80.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Serie Heaven & Earth Opus 11 Sampler Opus 11 Sampler — $825.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 54 Single cigar = $80.00/stick — $80.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 56 Single = $80.00/stick — $80.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 60 Single cigar = $80.00/stick — $80.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Purple Rain Torpedo Single cigar = $80.00/stick — $80.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Rare Black Double Corona Single cigar = $80.00/stick — $80.00
+
+## New products  (526)
+- `tobaccoreserve` Opus X Angel's Share Stairway to Heaven [Box of 30] = $195.00/stick — $5,850.00 _(out of stock)_
+- `tobaccoreserve` Opus X Hemingway [Box of 20 — Save 10%] = $247.50/stick — $4,950.00 _(out of stock)_
+- `tobaccoreserve` Plasencia Alma del Fuego Ometepe Edición Limitada [Box of 20] = $125.00/stick — $2,500.00
+- `tobaccoreserve` Padrón 50th Anniversary Maduro [Box of 50 — Save 10%] = $49.50/stick — $2,475.00 _(out of stock)_
+- `tobaccoreserve` Padrón 50th Anniversary Natural [Box of 50 — Save 10%] = $49.50/stick — $2,475.00 _(out of stock)_
+- `tobaccoreserve` LFD 30 Year Anniversary [Box of 60 — Save 10%] = $37.80/stick — $2,268.00 _(out of stock)_
+- `tobaccoreserve` Byron 1850 Liricos [Box of 25 — Save 10%] = $70.20/stick — $1,755.00 _(out of stock)_
+- `tobaccoreserve` Alfonso Añejos No. 4 [Box of 25 — Save 10%] = $67.50/stick — $1,687.50 _(out of stock)_
+- `tobaccoreserve` Alfonso Gran Selección Exclusivo [Box of 25 — Save 10%] = $63.00/stick — $1,575.00 _(out of stock)_
+- `tobaccoreserve` Opus X Society Blue – La Edición de la Sociedad [Box of 20 — Save 10%] = $76.50/stick — $1,530.00
+- `tobaccoreserve` Byron 1850 Grand Bouquets [Box of 25 — Save 10%] = $58.50/stick — $1,462.50 _(out of stock)_
+- `tobaccoreserve` Opus X Hemingway [5-Pack — Save 5%] = $261.25/stick — $1,306.25 _(out of stock)_
+- `tobaccoreserve` Opus X Society Gold & Bullet [Box of 12 — Limited-Time Price] = $100.00/stick — $1,200.00
+- `tobaccoreserve` Davidoff Year of the Rabbit Pipe [Default Title] — $1,180.00
+- `tobaccoreserve` Byron 1850 Selección Privada No. 2 [Box of 25 — Save 10%] = $46.80/stick — $1,170.00 _(out of stock)_
+- `tobaccoreserve` Atabey Benditos [Box of 25 — Save 10%] = $43.65/stick — $1,091.25 _(out of stock)_
+- `tobaccoreserve` Atabey Dioses [Box of 25 — Save 10%] = $41.85/stick — $1,046.25 _(out of stock)_
+- `tobaccoreserve` Atabey Misticos [Box of 25 — Save 10%] = $41.85/stick — $1,046.25 _(out of stock)_
+- `tobaccoreserve` Atabey Ritos [Box of 25 — Save 10%] = $40.95/stick — $1,023.75 _(out of stock)_
+- `tobaccoreserve` Opus X Angel's Share Stairway to Heaven [5-Pack] = $195.00/stick — $975.00
+- `tobaccoreserve` Fuente Fuente Opus X Fuente Fuente Corona [Box of 32] = $30.36/stick — $971.52 _(out of stock)_
+- `tobaccoreserve` Atabey Spiritus [Box of 25 — Save 10%] = $37.35/stick — $933.75 _(out of stock)_
+- `tobaccoreserve` Atabey Duendes [Box of 25 — Save 10%] = $37.35/stick — $933.75 _(out of stock)_
+- `tobaccoreserve` Atabey Delirios [Box of 25 — Save 10%] = $37.35/stick — $933.75 _(out of stock)_
+- `tobaccoreserve` Perdomo Legacy Father & Son Shade Grown Gran Figurado [Box of 50 — Save 10%] = $18.00/stick — $900.00 _(out of stock)_
+- `tobaccoreserve` Perdomo Legacy Father & Son Maduro Gran Figurado [Box of 50 — Save 10%] = $18.00/stick — $900.00 _(out of stock)_
+- `tobaccoreserve` Perdomo Legacy Father & Son Connecticut Gran Figurado [Box of 50 — Save 10%] = $18.00/stick — $900.00 _(out of stock)_
+- `tobaccoreserve` Rocky Patel Conviction Toro [Box of 10 — Save 10%] = $90.00/stick — $900.00
+- `tobaccoreserve` El Septimo Fabuloso Dark Ruby [Box of 10 — Save 10%] = $90.00/stick — $900.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth BBMF Natural [Box] — $875.00 _(out of stock)_
+- _…496 more_
+
+## Cheaper than the same cigar elsewhere  (7) — _unverified, check the vitola_
+- **56% under** `tobaccoreserve` God of Fire KKP Special Reserve Diadema 54 [5-Pack] = $55.00/stick vs $125.00/stick at `cigarsdirect` (God of Fire KKP Special Reserve Diadema 54)
+- **56% under** `tobaccoreserve` God of Fire KKP Special Reserve Diadema 54 [Box of 10] = $55.00/stick vs $125.00/stick at `cigarsdirect` (God of Fire KKP Special Reserve Diadema 54)
+- **40% under** `tobaccoreserve` Opus X Heaven & Earth El Escorpion Maduro [Single cigar] = $77.50/stick vs $129.99/stick at `cigarsdirect` (FFOX Heaven and Earth El Escorpion Maduro)
+- **40% under** `tobaccoreserve` Opus X Heaven & Earth El Escorpion Natural [Single cigar] = $77.50/stick vs $129.99/stick at `cigarsdirect` (FFOX Heaven and Earth El Escorpion Maduro)
+- **30% under** `tobaccoreserve` God of Fire KKP Never Back Down Diadema 56 [5-Pack] = $52.50/stick vs $75.00/stick at `cigarsdirect` (God of Fire KKP Never Back Down Diadema 56)
+- **30% under** `tobaccoreserve` God of Fire KKP Never Back Down Diadema 56 [Box of 10] = $52.50/stick vs $75.00/stick at `cigarsdirect` (God of Fire KKP Never Back Down Diadema 56)
+- **27% under** `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull Natural [Single cigar] = $80.00/stick vs $110.00/stick at `cigarsdirect` (FFOX Heaven and Earth Tauros The Bull Natural)

@@ -1114,3 +1114,35 @@ compared against 9 retailers and 20 previous Monday Madness runs
 | 3 | Highclere Castle Victorian Churchill [Box of 20] | $364.00 → **$218.40** | $10.92 | -40% on-site ($364.00 → $218.40, compare_at); -31% vs $15.80/stick at tccigar (in stock); also discounted on 2026-11-16 at $17.29 |
 | 4 | Liga Privada Unico Serie UF-13 [Box of 12] | $237.00 → **$154.05** | $12.84 | -35% on-site ($237.00 → $154.05, compare_at); -32% vs $18.75/stick at tccigar (in stock); also discounted on 2026-11-16 at $17.82 |
 | 5 | Liga Privada No.9 Robusto [Box of 24] | $414.00 → **$269.10** | $11.21 | -35% on-site ($414.00 → $269.10, compare_at); -28% vs $15.54/stick at tccigar (in stock); also discounted on 2026-11-16 at $15.53 |
+
+
+---
+
+# Monday Madness — 2026-11-17
+101 variants marked down on-site · these revert within ~24h
+compared against 10 retailers and 20 previous Monday Madness runs
+
+## Top 10 picks · $1,696.97 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Liga Privada H99 Flying Pig [Box of 12] | $242.40 → **$157.56** | $13.13 | -35% on-site ($242.40 → $157.56, compare_at); -37% vs $20.83/stick at cigarsdirect (in stock); also discounted on 2026-11-16 at $18.18 |
+| 2 | Liga Privada Unico Serie Feral Flying Pig [Box of 10] | $228.00 → **$148.20** | $14.82 | -35% on-site ($228.00 → $148.20, compare_at); -34% vs $22.50/stick at greenwich (in stock); also discounted on 2026-11-16 at $20.52 |
+| 3 | Highclere Castle Victorian Churchill [Box of 20] | $364.00 → **$218.40** | $10.92 | -40% on-site ($364.00 → $218.40, compare_at); -31% vs $15.80/stick at tccigar (in stock); also discounted on 2026-11-16 at $17.29 |
+| 4 | Liga Privada Unico Serie UF-13 [Box of 12] | $237.00 → **$154.05** | $12.84 | -35% on-site ($237.00 → $154.05, compare_at); -32% vs $18.75/stick at tccigar (in stock); also discounted on 2026-11-16 at $17.82 |
+| 5 | Liga Privada No.9 Robusto [Box of 24] | $414.00 → **$269.10** | $11.21 | -35% on-site ($414.00 → $269.10, compare_at); -28% vs $15.54/stick at tccigar (in stock); also discounted on 2026-11-16 at $15.53 |
+| 6 | Alma Fuerte Generacion V Salomon [Box of 10] | $279.00 → **$181.35** | $18.13 | -35% on-site ($279.00 → $181.35, compare_at); -27% vs $24.75/stick at cigarsdirect (in stock); also discounted on 2026-11-16 at $25.20 |
+| 7 | Lampert 1675 Edicion Morado Robusto [Box of 20] | $280.00 → **$182.00** | $9.10 | -35% on-site ($280.00 → $182.00, compare_at); -34% vs $13.72/stick at jackschwartz (in stock); also discounted on 2026-11-16 at $12.60 |
+| 8 | Olmec Claro Double Corona [Box of 12] | $214.32 → **$139.31** | $11.61 | -35% on-site ($214.32 → $139.31, compare_at); -29% vs $16.34/stick at cigarsdirect (in stock); also discounted on 2026-11-16 at $16.97 |
+| 9 | Mi Querida Triqui Traca No.648 [Box of 20] | $293.00 → **$190.45** | $9.52 | -35% on-site ($293.00 → $190.45, compare_at); -24% vs $12.45/stick at cigarsdirect (in stock); also discounted on 2026-11-16 at $13.19 |
+| 10 | Liga Privada H99 Robusto [5 Pack] | $87.00 → **$56.55** | $11.31 | -35% on-site ($87.00 → $56.55, compare_at); -32% vs $16.62/stick at sunofagun (in stock); also discounted on 2026-11-16 at $11.31 |
+
+## Top 5 picks · $947.31 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Liga Privada H99 Flying Pig [Box of 12] | $242.40 → **$157.56** | $13.13 | -35% on-site ($242.40 → $157.56, compare_at); -37% vs $20.83/stick at cigarsdirect (in stock); also discounted on 2026-11-16 at $18.18 |
+| 2 | Liga Privada Unico Serie Feral Flying Pig [Box of 10] | $228.00 → **$148.20** | $14.82 | -35% on-site ($228.00 → $148.20, compare_at); -34% vs $22.50/stick at greenwich (in stock); also discounted on 2026-11-16 at $20.52 |
+| 3 | Highclere Castle Victorian Churchill [Box of 20] | $364.00 → **$218.40** | $10.92 | -40% on-site ($364.00 → $218.40, compare_at); -31% vs $15.80/stick at tccigar (in stock); also discounted on 2026-11-16 at $17.29 |
+| 4 | Liga Privada Unico Serie UF-13 [Box of 12] | $237.00 → **$154.05** | $12.84 | -35% on-site ($237.00 → $154.05, compare_at); -32% vs $18.75/stick at tccigar (in stock); also discounted on 2026-11-16 at $17.82 |
+| 5 | Liga Privada No.9 Robusto [Box of 24] | $414.00 → **$269.10** | $11.21 | -35% on-site ($414.00 → $269.10, compare_at); -28% vs $15.54/stick at tccigar (in stock); also discounted on 2026-11-16 at $15.53 |
