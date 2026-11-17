@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Scrape seven Shopify cigar catalogs, diff against the last run, report what changed.
+"""Scrape eight Shopify cigar catalogs, diff against the last run, report what changed.
 
 Only one file persists between runs: snapshots/state.json.gz — prices/availability/
 counts keyed by variant id, names stripped (~210 KB). Names come from the live pull.
@@ -37,6 +37,24 @@ NONCIGAR = re.compile(r'ashtray|lighter|cutter|humidor|boveda|hygrometer|magazin
 NONCIGAR_TYPE = re.compile(r'spirit|accessor|lighter|cutter|humidor|ashtray|apparel|'
                            r'\bswag\b|\bhats?\b|merch|gift ?(?:wrap|card)|barware|'
                            r'glassware', re.I)
+# Standing watches. A listing matching one of these is reported the moment it is
+# newly listed or comes back in stock, at ANY price, ahead of everything else.
+# The ordinary restock path cannot do this: it is gated on cheapness(), which
+# compares a variant only against other IN-STOCK variants of the same product at
+# the same shop, so it returns None - and stays silent - exactly when a line is
+# scarce enough that nothing else of it is in stock. That is the case these exist
+# for. First pattern to match wins, so the more specific ones come first.
+WATCH = [
+    ("OpusX Heaven & Earth",
+     re.compile(r'heaven\s*(?:&|and)\s*earth|\bbbmf\b|tauros|el escorpion|'
+                r'rare black|rare purple|purple rain|scorpio|'
+                r'angel.?s share|stairway to heaven|opus ?(?:5|6|11) ', re.I)),
+    ("Rare Pink",
+     re.compile(r'rare pink|black pink', re.I)),
+    ("OpusX",
+     re.compile(r'opus\s?x|\boxo\b|forbidden x', re.I)),
+]
+
 BUNDLE = re.compile(r'sampler|assort|collection|gift|taster|taste of| \+ |combo|variety', re.I)
 STOP = {"the","of","by","cigar","cigars","and","le","natural","maduro","edicion",
         "serie","series","discontinued","original","release","box","pack","packs",
@@ -88,7 +106,16 @@ def fetch(domain, page, tries=6):
     return [], False
 
 def qty(title):
-    """Cigars in this variant, or None when the label doesn't say."""
+    """Cigars in this variant, or None when the label doesn't say.
+
+    Some shops append a promo blurb to the variant label ("5-Pack - Save 5%",
+    "Box of 12 - Limited-Time Price"). The percent sign used to trip the
+    grams/percent guard below, which exists for Boveda packs, and the whole
+    label returned None - 51% of tobaccoreserve's variants parsed as unknown.
+    Strip the blurb before parsing.
+    """
+    title = re.sub(r'\s*[\u2014\u2013-]+\s*(?:save\s+\d+\s*%|limited[\s-]*time\s+price)\s*$',
+                   '', title, flags=re.I)
     t = title.strip().lower().replace("-", " ")
     if t in ("single cigar", "single", "1 cigar", "single pack", "1 tubo", "1 pack"):
         return 1
@@ -245,6 +272,25 @@ def report(cur, names, prev, prev_ts, ts):
             if o and price / q >= min(o) * TRAP_RATIO:
                 breaks.append((price / op - 1, k, op, price, q, price / q, min(o)))
 
+    # --- A2: standing watches - any new listing or restock, at any price
+    watch = []
+    for k, r in cur.items():
+        nm = names[k]
+        if NONCIGAR.search(nm): continue
+        price, avail, q = r
+        if not avail: continue
+        label = next((lab for lab, rx in WATCH if rx.search(nm)), None)
+        if label is None: continue
+        old = prev.get(k)
+        if old is None:          watch.append((label, "NEW listing", k, price, q))
+        elif not old[1]:         watch.append((label, "back IN STOCK", k, price, q))
+        elif old[0] > price:
+            # Any cut at all, not just one over DROP_PCT. A watched line easing 8%
+            # never reaches the drops section, and "report ANY movement" means any.
+            watch.append((label, f"price cut {1 - price/old[0]:.0%} from ${old[0]:,.2f}",
+                          k, price, q))
+    watch.sort(key=lambda x: (x[0], names[x[2]]))
+
     # --- B: cross-retailer, only for things that just changed
     rows, tok2rows = build_xindex(cur, names)
     seen, xr = set(), []
@@ -272,10 +318,17 @@ def report(cur, names, prev, prev_ts, ts):
 
     L = [f"# Cigar price monitor — {ts}",
          f"previous run {prev_ts} · {len(cur):,} variants tracked"]
-    total = len(drops) + len(restocks) + len(breaks) + len(new_prod) + len(new_var) + len(xr)
+    total = len(drops) + len(restocks) + len(breaks) + len(new_prod) + len(new_var) + len(xr) + len(watch)
     if not total:
         L.append("\n**No actionable changes.**")
         return "\n".join(L), 0
+
+    if watch:
+        L.append(f"\n## \u2691 Standing watch  ({len(watch)})")
+        for label, why, k, pr, q in watch:
+            ps = f" = ${pr/q:,.2f}/stick" if q else ""
+            L.append(f"- **{label}** \u2014 {why}: `{k.split(':')[0]}` "
+                     f"{names[k].replace(SEP, ' ')}{ps} \u2014 ${pr:,.2f}")
 
     if drops:
         L.append(f"\n## Price drops ≥{int(DROP_PCT*100)}%  ({len(drops)})")
