@@ -42,7 +42,8 @@ XR_SHARED  = 3               # at least this many shared distinctive words, AND 
                              # and Corona Edwardian with Edwardian Robusto; requiring
                              # a superset means neither side may contradict the other.
 INTEREST = re.compile(r'opus|fuente|don carlos|hemingway|a[nñ]ejo|rare pink|destino|'
-                      r'padr[oó]n|davidoff|liga privada|atabey|alma fuerte|\besg\b|\bvsg\b|'
+                      r'padr[oó]n|davidoff|liga privada|atabey|byron|alfonso|'
+                      r'god of fire|alma fuerte|\besg\b|\bvsg\b|'
                       r'winston churchill|meerapfel|plasencia', re.I)
 
 # He prefers cigars that take less time. Smoke time tracks tobacco VOLUME, which

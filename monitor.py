@@ -29,7 +29,10 @@ SMALL = re.compile(r'papas fritas|coronet|ponies|cigarrito|cigarillo|petit |peti
                    r'cubanito|junior|demi|\btins? of\b|x.press', re.I)
 NONCIGAR = re.compile(r'ashtray|lighter|cutter|humidor|boveda|hygrometer|magazine|'
                       r'\bcase\b|wallet|keychain|mug|glass|solution|torch|\bpen\b|'
-                      r'\bhat\b|shirt|book|\bbag\b|match|gift card', re.I)
+                      r'\bhat\b|shirt|book|\bbag\b|match|gift card|watch winder|'
+                      # Prometheus/God of Fire sell display pieces whose variant label
+                      # says so outright; the brand name alone reads as a cigar hit.
+                      r'box only|\bno cigars?\b', re.I)
 # Shopify's own product_type, where the shop sets one. Matched ONLY against that
 # field, never the title: cigar lines are routinely named after spirits (Diesel
 # Whiskey Row, Perdomo Bourbon Barrel-Aged, Tatiana Rum, Punch Bottle Rocket), so
