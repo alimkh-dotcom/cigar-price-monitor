@@ -2912,3 +2912,11 @@ previous run 2026-11-17T12:02:48+00:00 · 29,397 variants tracked
 - `cigarsdirect` Drew Estate Feral Flying Pig Collection [Box of 10] = $25.00/stick — $250.00
 - `cigarsdirect` Undercrown El Tigre Flying Pig [Box of 12] = $13.33/stick — $159.99
 - `cigarsdirect` Undercrown El Tigre Flying Pig [1 Cigar] = $16.18/stick — $16.18
+
+
+---
+
+# Cigar price monitor — 2026-11-18T00:02:28+00:00
+previous run 2026-11-17T22:02:28+00:00 · 29,398 variants tracked
+
+**No actionable changes.**
