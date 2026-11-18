@@ -2940,3 +2940,15 @@ previous run 2026-11-18T00:02:28+00:00 · 29,410 variants tracked
 - `tobaccoreserve` Padrón 1964 Anniversary Series “A” Natural [Single cigar] = $38.95/stick — $38.95
 - `tobaccoreserve` Padrón 1926 Serie No. 80 Maduro [Single cigar] = $37.30/stick — $37.30
 - `tobaccoreserve` Padrón 1926 Serie No. 80 Natural [Single cigar] = $37.30/stick — $37.30
+
+
+---
+
+# Cigar price monitor — 2026-11-18T22:02:41+00:00
+previous run 2026-11-18T12:03:15+00:00 · 29,410 variants tracked
+
+## New products  (4)
+- `cigarsdirect` EGM Classic Ninfa Jar Limited Edition [Jar of 50] — $2,700.00
+- `jackschwartz` Diamond Crown Maximus Double Robusto No. 6 (New Blend) [Box of 20] = $15.53/stick — $310.50 _(out of stock)_
+- `jackschwartz` Selected Tobaccos Petit Edition 5-Cigar Gift Set [Box of 5] = $33.00/stick — $165.00
+- `jackschwartz` Diamond Crown Maximus Double Robusto No. 6 (New Blend) [Single] = $17.50/stick — $17.50

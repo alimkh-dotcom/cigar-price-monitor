@@ -1242,3 +1242,22 @@ compared against 10 retailers and 21 previous Monday Madness runs
 | 3 | Liga Privada Unico Serie Feral Flying Pig [Box of 10] | $228.00 → **$193.80** | $19.38 | -15% on-site ($228.00 → $193.80, compare_at); -14% vs $22.50/stick at greenwich (in stock); also discounted on 2026-11-17 at $20.52 |
 | 4 | Liga Privada Unico Serie UF-13 [Box of 12] | $237.00 → **$201.45** | $16.79 | -15% on-site ($237.00 → $201.45, compare_at); -10% vs $18.75/stick at tccigar (in stock); also discounted on 2026-11-17 at $17.82 |
 | 5 | Liga Privada No.9 Belicoso [Box of 24] | $462.00 → **$392.70** | $16.36 | -15% on-site ($462.00 → $392.70, compare_at); -7% vs $17.66/stick at sunofagun (in stock); also discounted on 2026-11-17 at $17.33 |
+
+
+---
+
+# Monday Madness — 2026-11-18
+1 variants marked down on-site · these revert within ~24h
+compared against 10 retailers and 21 previous Monday Madness runs
+
+## Top 10 picks · $135.00 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | A First Class Experience Corona [5 Pack] | $200.00 → **$135.00** | $27.00 | -32% on-site ($200.00 → $135.00, compare_at); no listing at all at the other retailers; also discounted on 2026-11-17 at $27.00 |
+
+## Top 5 picks · $135.00 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | A First Class Experience Corona [5 Pack] | $200.00 → **$135.00** | $27.00 | -32% on-site ($200.00 → $135.00, compare_at); no listing at all at the other retailers; also discounted on 2026-11-17 at $27.00 |
