@@ -1210,3 +1210,35 @@ compared against 10 retailers and 21 previous Monday Madness runs
 | 3 | Liga Privada Unico Serie Feral Flying Pig [Box of 10] | $228.00 → **$193.80** | $19.38 | -15% on-site ($228.00 → $193.80, compare_at); -14% vs $22.50/stick at greenwich (in stock); also discounted on 2026-11-17 at $20.52 |
 | 4 | Liga Privada Unico Serie UF-13 [Box of 12] | $237.00 → **$201.45** | $16.79 | -15% on-site ($237.00 → $201.45, compare_at); -10% vs $18.75/stick at tccigar (in stock); also discounted on 2026-11-17 at $17.82 |
 | 5 | Liga Privada No.9 Belicoso [Box of 24] | $462.00 → **$392.70** | $16.36 | -15% on-site ($462.00 → $392.70, compare_at); -7% vs $17.66/stick at sunofagun (in stock); also discounted on 2026-11-17 at $17.33 |
+
+
+---
+
+# Monday Madness — 2026-11-18
+72 variants marked down on-site · these revert within ~24h
+compared against 10 retailers and 21 previous Monday Madness runs
+
+## Top 10 picks · $2,801.09 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Liga Privada H99 Flying Pig [Box of 12] | $242.40 → **$206.04** | $17.17 | -15% on-site ($242.40 → $206.04, compare_at); -18% vs $20.83/stick at cigarsdirect (in stock); also discounted on 2026-11-17 at $18.18 |
+| 2 | Liga Privada H99 Robusto [Box of 24] | $408.00 → **$346.80** | $14.45 | -15% on-site ($408.00 → $346.80, compare_at); -13% vs $16.62/stick at sunofagun (in stock); also discounted on 2026-11-17 at $15.66 |
+| 3 | Liga Privada Unico Serie Feral Flying Pig [Box of 10] | $228.00 → **$193.80** | $19.38 | -15% on-site ($228.00 → $193.80, compare_at); -14% vs $22.50/stick at greenwich (in stock); also discounted on 2026-11-17 at $20.52 |
+| 4 | Liga Privada Unico Serie UF-13 [Box of 12] | $237.00 → **$201.45** | $16.79 | -15% on-site ($237.00 → $201.45, compare_at); -10% vs $18.75/stick at tccigar (in stock); also discounted on 2026-11-17 at $17.82 |
+| 5 | Liga Privada No.9 Belicoso [Box of 24] | $462.00 → **$392.70** | $16.36 | -15% on-site ($462.00 → $392.70, compare_at); -7% vs $17.66/stick at sunofagun (in stock); also discounted on 2026-11-17 at $17.33 |
+| 6 | Liga Privada No.9 Robusto [Box of 24] | $414.00 → **$351.90** | $14.66 | -15% on-site ($414.00 → $351.90, compare_at); -6% vs $15.54/stick at tccigar (in stock); also discounted on 2026-11-17 at $15.53 |
+| 7 | Liga Privada Unico Serie Bauhaus European  [Box 12] | $240.00 → **$204.00** | $17.00 | -15% on-site ($240.00 → $204.00, compare_at); no listing at all at the other retailers; also discounted on 2026-11-17 at $18.00 |
+| 8 | Liga Privada No.9 Corona Doble [Box of 24] | $468.00 → **$397.80** | $16.57 | -15% on-site ($468.00 → $397.80, compare_at); -3% vs $17.16/stick at sunofagun (in stock); also discounted on 2026-11-17 at $17.64 |
+| 9 | Liga Privada H99 Papas Fritas [Box of 25] | $182.00 → **$154.70** | $6.19 | -15% on-site ($182.00 → $154.70, compare_at); no listing at all at the other retailers; also discounted on 2026-11-17 at $6.48 |
+| 10 | Liga Privada T52 Robusto [Box of 24] | $414.00 → **$351.90** | $14.66 | -15% on-site ($414.00 → $351.90, compare_at); -6% vs $15.54/stick at sunofagun (in stock); also discounted on 2026-11-17 at $14.94 |
+
+## Top 5 picks · $1,340.79 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Liga Privada H99 Flying Pig [Box of 12] | $242.40 → **$206.04** | $17.17 | -15% on-site ($242.40 → $206.04, compare_at); -18% vs $20.83/stick at cigarsdirect (in stock); also discounted on 2026-11-17 at $18.18 |
+| 2 | Liga Privada H99 Robusto [Box of 24] | $408.00 → **$346.80** | $14.45 | -15% on-site ($408.00 → $346.80, compare_at); -13% vs $16.62/stick at sunofagun (in stock); also discounted on 2026-11-17 at $15.66 |
+| 3 | Liga Privada Unico Serie Feral Flying Pig [Box of 10] | $228.00 → **$193.80** | $19.38 | -15% on-site ($228.00 → $193.80, compare_at); -14% vs $22.50/stick at greenwich (in stock); also discounted on 2026-11-17 at $20.52 |
+| 4 | Liga Privada Unico Serie UF-13 [Box of 12] | $237.00 → **$201.45** | $16.79 | -15% on-site ($237.00 → $201.45, compare_at); -10% vs $18.75/stick at tccigar (in stock); also discounted on 2026-11-17 at $17.82 |
+| 5 | Liga Privada No.9 Belicoso [Box of 24] | $462.00 → **$392.70** | $16.36 | -15% on-site ($462.00 → $392.70, compare_at); -7% vs $17.66/stick at sunofagun (in stock); also discounted on 2026-11-17 at $17.33 |

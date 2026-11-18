@@ -2920,3 +2920,23 @@ previous run 2026-11-17T12:02:48+00:00 · 29,397 variants tracked
 previous run 2026-11-17T22:02:28+00:00 · 29,398 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-11-18T12:03:15+00:00
+previous run 2026-11-18T00:02:28+00:00 · 29,410 variants tracked
+
+## New products  (12)
+- `tobaccoreserve` Padrón 1964 Anniversary Series “A” Maduro [Box of 10] = $38.95/stick — $389.50 _(out of stock)_
+- `tobaccoreserve` Padrón 1964 Anniversary Series “A” Natural [Box of 10] = $38.95/stick — $389.50 _(out of stock)_
+- `tobaccoreserve` Padrón 1926 Serie No. 80 Maduro [Box of 8] = $37.30/stick — $298.40
+- `tobaccoreserve` Padrón 1926 Serie No. 80 Natural [Box of 8] = $37.30/stick — $298.40
+- `tobaccoreserve` Padrón 1964 Anniversary Series “A” Maduro [5-Pack] = $38.95/stick — $194.75 _(out of stock)_
+- `tobaccoreserve` Padrón 1964 Anniversary Series “A” Natural [5-Pack] = $38.95/stick — $194.75 _(out of stock)_
+- `tobaccoreserve` Padrón 1926 Serie No. 80 Maduro [5-Pack] = $37.30/stick — $186.50 _(out of stock)_
+- `tobaccoreserve` Padrón 1926 Serie No. 80 Natural [5-Pack] = $37.30/stick — $186.50 _(out of stock)_
+- `tobaccoreserve` Padrón 1964 Anniversary Series “A” Maduro [Single cigar] = $38.95/stick — $38.95
+- `tobaccoreserve` Padrón 1964 Anniversary Series “A” Natural [Single cigar] = $38.95/stick — $38.95
+- `tobaccoreserve` Padrón 1926 Serie No. 80 Maduro [Single cigar] = $37.30/stick — $37.30
+- `tobaccoreserve` Padrón 1926 Serie No. 80 Natural [Single cigar] = $37.30/stick — $37.30
