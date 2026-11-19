@@ -2952,3 +2952,42 @@ previous run 2026-11-18T12:03:15+00:00 · 29,410 variants tracked
 - `jackschwartz` Diamond Crown Maximus Double Robusto No. 6 (New Blend) [Box of 20] = $15.53/stick — $310.50 _(out of stock)_
 - `jackschwartz` Selected Tobaccos Petit Edition 5-Cigar Gift Set [Box of 5] = $33.00/stick — $165.00
 - `jackschwartz` Diamond Crown Maximus Double Robusto No. 6 (New Blend) [Single] = $17.50/stick — $17.50
+
+
+---
+
+# Cigar price monitor — 2026-11-19T00:02:35+00:00
+previous run 2026-11-18T22:02:41+00:00 · 29,408 variants tracked
+
+## ⚑ Standing watch  (6)
+- **OpusX** — NEW listing: `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack Carlito's A / Box of 10 = $70.11/stick — $701.10
+- **OpusX** — NEW listing: `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack Carlito's A / Single — $77.90
+- **OpusX** — NEW listing: `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack Double Robusto / Single — $47.00
+- **OpusX** — NEW listing: `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack Double Robusto Tubo / Single — $48.75
+- **OpusX** — NEW listing: `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack Piramide / Single — $47.00
+- **OpusX** — NEW listing: `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack Toro / Single — $47.00
+
+## Price drops ≥20%  (6)
+- **25%** `tobaccoreserve` Perdomo Legacy Father & Son Shade Grown Gran Figurado [Single] = $15.00/stick — $20.00 → **$15.00**
+- **25%** `tobaccoreserve` Perdomo Legacy Father & Son Maduro Gran Figurado [Single] = $15.00/stick — $20.00 → **$15.00**
+- **25%** `tobaccoreserve` Perdomo Legacy Father & Son Connecticut Gran Figurado [Single] = $15.00/stick — $20.00 → **$15.00**
+- **21%** `tobaccoreserve` Perdomo Legacy Father & Son Shade Grown Gran Figurado [5-Pack — Save 5%] = $15.00/stick — $95.00 → **$75.00** _(out of stock)_
+- **21%** `tobaccoreserve` Perdomo Legacy Father & Son Maduro Gran Figurado [5-Pack — Save 5%] = $15.00/stick — $95.00 → **$75.00** _(out of stock)_
+- **21%** `tobaccoreserve` Perdomo Legacy Father & Son Connecticut Gran Figurado [5-Pack — Save 5%] = $15.00/stick — $95.00 → **$75.00** _(out of stock)_
+
+## New products  (15)
+- `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack [Carlito's A / Box of 10] = $70.11/stick — $701.10
+- `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack [Toro / Box of 10] = $47.00/stick — $470.00 _(out of stock)_ · **67% of its next tier**
+- `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack [Piramide / Box of 10] = $42.30/stick — $423.00 _(out of stock)_ · **60% of its next tier**
+- `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack [Double Robusto / Box of 10] = $42.30/stick — $423.00 _(out of stock)_ · **60% of its next tier**
+- `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack [Double Robusto Tubo / Box of 8] = $48.75/stick — $390.00 _(out of stock)_ · **70% of its next tier**
+- `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack [Carlito's A / 5-Pack] — $370.03 _(out of stock)_
+- `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack [Double Robusto Tubo / 5-Pack] — $243.75 _(out of stock)_
+- `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack [Toro / 5-Pack] — $235.00 _(out of stock)_
+- `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack [Piramide / 5-Pack] — $223.25 _(out of stock)_
+- `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack [Double Robusto / 5-Pack] — $223.25 _(out of stock)_
+- `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack [Carlito's A / Single] — $77.90
+- `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack [Double Robusto Tubo / Single] — $48.75
+- `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack [Piramide / Single] — $47.00
+- `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack [Double Robusto / Single] — $47.00
+- `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack [Toro / Single] — $47.00

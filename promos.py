@@ -271,6 +271,7 @@ def best_rival(t, cls, rows, idx, in_stock=True):
         if vitola_conflict(t, ot): continue
         if cls and rows[i][4] != cls: continue
         if in_stock and not rows[i][5]: continue
+        if rows[i][1] <= 0: continue        # a $0 listing is a broken price, not the market
         if out is None or rows[i][1] < out[1]: out = (i, rows[i][1])
     return rows[out[0]] if out else None
 
