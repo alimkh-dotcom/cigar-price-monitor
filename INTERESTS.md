@@ -116,6 +116,58 @@ Report ANY movement, at any price, even outside a promo.
 For an untried Rare Pink vitola he would rather buy **singles or a Weekly Burn
 tier than a 5-pack**, so flag single-stick availability when it exists.
 
+## Where to buy what
+
+Measured 2026-11-19 on a full catalogue pull of all eight Shopify shops.
+
+**Atabey -> sunofagun, always.** tobaccoreserve is cheapest on **0 of 12** Atabey
+singles, running a flat 10-14% over sunofagun on every one: Hechizos $22.00 vs
+$19.99, Divinos and Idolos $29.50 vs $25.99, Brujos $36.00 vs $31.99, Delirios
+and Spiritus and Duendes $41.50 vs $36.99, Dioses and Misticos $46.50 vs $41.99,
+Benditos $48.50 vs $42.99, Sabios $38.00 vs $33.99, Ritos $45.50 vs iheart's
+$40.00. tobaccoreserve has the breadth (46 variants vs 48) but never the price.
+
+**God of Fire -> split.** KKP at tobaccoreserve (flat $49.50 for Gran Toro 56,
+Piramide 58, Toro Extra 54, Diadema 60; $52.50 Diadema 56, $55.00 Diadema 54).
+The four core lines at cigarsdirect. This is the main reason tobaccoreserve is
+in the set: 64 God of Fire variants, all 64 in stock, the best availability
+anywhere in the rotation.
+
+**Don Carlos Edicion de Aniversario -> jackschwartz**, $38.50 Robusto / $39.50
+Toro / $39.50 Double Robusto, against tobaccoreserve's $43.00-$44.00. Note
+tobaccoreserve lists this line as "Opus X Don Carlos Edicion de Anniversario" -
+everyone else sells it as an Arturo Fuente line, not an Opus X, so that prefix
+looks like their mislabel and is worth confirming before treating it as Opus X.
+
+### Correcting the 2026-11-17 "53 unique variants" claim
+
+That figure was used to justify adding tobaccoreserve and **it was about double
+the truth**. Re-measured 2026-11-19 on the same brand set: 51 of its in-stock
+variants had no strict match elsewhere, but 25 of those matched once spelling
+and title differences were folded, leaving **about 28** genuinely absent from
+every other tracked shop. Including God of Fire, which was not in the brand set
+on 2026-11-17, the current figure is **about 36**.
+
+Two distinct causes, both worth remembering when judging any shop's "unique"
+inventory:
+- **tobaccoreserve omits the vitola from its product titles.** It lists "Atabey
+  Hechizos"; everyone else lists "Atabey Hechizos Petit Corona". Same cigar.
+  Exact token matching cannot see through that, and the two-token titles fall
+  below the three-distinctive-token floor the cross-retailer matcher uses, so
+  they are never fuzzy-matched either.
+- **Spelling and house prefixes.** "Anniversario" vs "Aniversario", "Opus X ..."
+  vs "Arturo Fuente ...". Folding doubled letters and accents fixes the first;
+  the second needs the house tokens set aside, but only once the rest of the
+  title carries three distinctive tokens of its own, or "OpusX Robusto" matches
+  "Arturo Fuente Robusto".
+
+So: **never present "no match at the other shops" as evidence a shop is the only
+source, or as a reason to buy there.** Check the brand and line by hand first.
+
+**Also found:** Opus X Purple Rain Torpedo is at sunofagun at $80.00, the same
+price as tobaccoreserve's pre-order, so Heaven & Earth is not a tobaccoreserve
+exclusive the way the 2026-11-17 note implied.
+
 ## Always
 
 Stock matters as much as price — a cheap listing that is out of stock is useless
