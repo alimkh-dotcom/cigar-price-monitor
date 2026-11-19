@@ -2991,3 +2991,47 @@ previous run 2026-11-18T22:02:41+00:00 · 29,408 variants tracked
 - `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack [Piramide / Single] — $47.00
 - `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack [Double Robusto / Single] — $47.00
 - `tobaccoreserve` Fuente Fuente Opus X The Lost City — Choose Size & Pack [Toro / Single] — $47.00
+
+
+---
+
+# Cigar price monitor — 2026-11-19T12:02:51+00:00
+previous run 2026-11-19T00:02:35+00:00 · 29,495 variants tracked
+
+## ⚑ Standing watch  (3)
+- **OpusX** — NEW listing: `sunofagun` Fire & the Lost City — Opus X Lost City & God of Fire Cigar Sampler 6-Cigar Sampler = $31.17/stick — $186.99
+- **OpusX** — NEW listing: `sunofagun` For the Opus X Smoker — Fuente-Made Cigar Sampler Under Other Bands 5-Cigar Sampler = $20.40/stick — $101.99
+- **OpusX** — NEW listing: `sunofagun` The Collector's Fire — God of Fire KKP & Opus X Lost City Collector Sampler 6-Cigar Sampler = $39.66/stick — $237.99
+
+## New products  (181)
+- `tobaccoreserve` Padrón 50th Anniversary — Choose Wrapper [Natural / Box of 50] = $49.50/stick — $2,475.00 _(out of stock)_
+- `tobaccoreserve` Padrón 50th Anniversary — Choose Wrapper [Maduro / Box of 50] = $49.50/stick — $2,475.00 _(out of stock)_
+- `tobaccoreserve` Fuente y Padrón Legends Collaboration [Arturo Fuente / 5-Pack] — $855.00 _(out of stock)_
+- `tobaccoreserve` Fuente y Padrón Legends Collaboration [Padrón / 5-Pack] — $855.00 _(out of stock)_
+- `tobaccoreserve` Perdomo Legacy Father & Son — Choose Wrapper [Connecticut / Box of 50] = $15.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` Perdomo Legacy Father & Son — Choose Wrapper [Maduro / Box of 50] = $15.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` Perdomo Legacy Father & Son — Choose Wrapper [Shade Grown / Box of 50] = $15.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` Padrón 60th Anniversary — Choose Wrapper [Natural / Box of 10] = $67.50/stick — $675.00 _(out of stock)_
+- `tobaccoreserve` Padrón 60th Anniversary — Choose Wrapper [Maduro / Box of 10] = $67.50/stick — $675.00 _(out of stock)_
+- `tobaccoreserve` Padrón Black No. 99 — Choose Wrapper [Natural / Box of 10] = $40.23/stick — $402.30 _(out of stock)_
+- `tobaccoreserve` Padrón Black No. 99 — Choose Wrapper [Maduro / Box of 10] = $40.23/stick — $402.30 _(out of stock)_
+- `tobaccoreserve` Padrón 1964 Anniversary Series “A” — Choose Wrapper [Natural / Box of 10] = $38.95/stick — $389.50 _(out of stock)_
+- `tobaccoreserve` Padrón 1964 Anniversary Series “A” — Choose Wrapper [Maduro / Box of 10] = $38.95/stick — $389.50 _(out of stock)_
+- `tobaccoreserve` Padrón Black No. 97 — Choose Wrapper [Natural / Box of 10] = $38.25/stick — $382.50 _(out of stock)_
+- `tobaccoreserve` Padrón Black No. 97 — Choose Wrapper [Maduro / Box of 10] = $38.25/stick — $382.50 _(out of stock)_
+- `mrbundles` EGM Bravos x Tuxedo Society Cigar [BOX OF 10] = $37.00/stick — $370.00
+- `tobaccoreserve` Padrón 60th Anniversary — Choose Wrapper [Natural / 5-Pack] — $356.25 _(out of stock)_
+- `tobaccoreserve` Padrón 60th Anniversary — Choose Wrapper [Maduro / 5-Pack] — $356.25 _(out of stock)_
+- `tobaccoreserve` Perdomo Legacy Shade Grown — Choose Size [Gordo / Box of 24] = $13.95/stick — $334.80 _(out of stock)_
+- `tobaccoreserve` Perdomo Legacy Maduro — Choose Size [Gordo / Box of 24] = $13.95/stick — $334.80 _(out of stock)_
+- `tobaccoreserve` Perdomo Legacy Connecticut — Choose Size [Gordo / Box of 24] = $13.95/stick — $334.80 _(out of stock)_
+- `tobaccoreserve` Perdomo Legacy Shade Grown — Choose Size [Churchill / Box of 24] = $13.50/stick — $324.00 _(out of stock)_
+- `tobaccoreserve` Perdomo Legacy Maduro — Choose Size [Churchill / Box of 24] = $13.50/stick — $324.00 _(out of stock)_
+- `tobaccoreserve` Perdomo Legacy Connecticut — Choose Size [Churchill / Box of 24] = $13.50/stick — $324.00 _(out of stock)_
+- `tobaccoreserve` Perdomo Legacy Shade Grown — Choose Size [Epicure / Box of 24] = $13.05/stick — $313.20 _(out of stock)_
+- `tobaccoreserve` Perdomo Legacy Maduro — Choose Size [Epicure / Box of 24] = $13.05/stick — $313.20 _(out of stock)_
+- `tobaccoreserve` Perdomo Legacy Connecticut — Choose Size [Epicure / Box of 24] = $13.05/stick — $313.20 _(out of stock)_
+- `tobaccoreserve` Perdomo Legacy Shade Grown — Choose Size [Robusto / Box of 24] = $12.60/stick — $302.40 _(out of stock)_
+- `tobaccoreserve` Perdomo Legacy Maduro — Choose Size [Robusto / Box of 24] = $12.60/stick — $302.40 _(out of stock)_
+- `tobaccoreserve` Perdomo Legacy Connecticut — Choose Size [Robusto / Box of 24] = $12.60/stick — $302.40 _(out of stock)_
+- _…151 more_

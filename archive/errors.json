@@ -1,20 +1,20 @@
 {
  "AJ Fernandez New World Dorado Figurado": {
-  "fair": 12.54,
+  "fair": 12.53,
   "first_seen": "2026-10-22",
   "last_seen": "2026-11-19",
   "price": 26.8,
   "ps": 5.36,
   "q": 5,
-  "ratio": 0.427,
+  "ratio": 0.428,
   "rival": 12.0,
   "saving": 0.553,
   "site": "tccigar",
   "variant": "5 Pack"
  },
- "Lost and Found 22 Minutes to Midnight Connecticut Radiante Robusto": {
+ "Lost & Found 22 Minutes to Midnight Connecticut Radiante Robusto": {
   "fair": 21.0,
-  "first_seen": "2026-10-22",
+  "first_seen": "2026-11-19",
   "last_seen": "2026-11-19",
   "price": 10.5,
   "ps": 10.5,
@@ -25,9 +25,9 @@
   "site": "cigarsdirect",
   "variant": "Single"
  },
- "Lost and Found 22 Minutes to Midnight Criollo Classico Corona Extra": {
+ "Lost & Found 22 Minutes to Midnight Criollo Classico Corona Extra": {
   "fair": 16.2,
-  "first_seen": "2026-10-27",
+  "first_seen": "2026-11-19",
   "last_seen": "2026-11-19",
   "price": 240.0,
   "ps": 12.0,
@@ -38,9 +38,9 @@
   "site": "cigarsdirect",
   "variant": "Box 20"
  },
- "Lost and Found 22 Minutes to Midnight Habano de Oro Robusto": {
+ "Lost & Found 22 Minutes to Midnight Habano de Oro Robusto": {
   "fair": 18.9,
-  "first_seen": "2026-10-22",
+  "first_seen": "2026-11-19",
   "last_seen": "2026-11-19",
   "price": 258.75,
   "ps": 12.94,
@@ -80,16 +80,16 @@
   "zero": true
  },
  "greenwich \u00b7 Davidoff Millennium Lancero": {
-  "fair": 56.18,
+  "fair": 55.78,
   "first_seen": "2026-10-23",
   "last_seen": "2026-11-19",
-  "price": 290.0,
+  "price": 29.0,
   "ps": 29.0,
-  "q": 10,
-  "ratio": 0.516,
+  "q": 1,
+  "ratio": 0.52,
   "rival": 55.0,
   "saving": 0.473,
   "site": "iheart",
-  "variant": "Box of 10"
+  "variant": "Single"
  }
 }

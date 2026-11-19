@@ -490,3 +490,26 @@ rival prices are adjusted for each site's measured markup before comparing
 - Olmec Claro Double Corona (live 2026-11-16 → 2026-11-17)
 - Quattro Nicaragua Espressivo (live 2026-11-16 → 2026-11-17)
 - Sin Compromiso Seleccion Paladin de Saka (live 2026-11-16 → 2026-11-17)
+
+
+---
+
+# Pricing errors (iheart, greenwich) — 2026-11-19
+7 live · 3 new · 3 fixed since last run
+rival prices are adjusted for each site's measured markup before comparing
+
+## New (3)
+- **likely error** — Lost & Found 22 Minutes to Midnight Connecticut Radiante Robusto [Single] **$10.50/stick**, **50% under** the cheapest in stock among the retailers we track ($21.00 at cigarsdirect)
+- unusually cheap — Lost & Found 22 Minutes to Midnight Habano de Oro Robusto [Box 20] **$12.94/stick**, **32% under** the cheapest in stock among the retailers we track ($18.90 at cigarsdirect)
+- unusually cheap — Lost & Found 22 Minutes to Midnight Criollo Classico Corona Extra [Box 20] **$12.00/stick**, **26% under** the cheapest in stock among the retailers we track ($16.20 at cigarsdirect)
+
+## Still live (4)
+- **$0 listing** — greenwich · Arturo Fuente Destino al Siglo de Familias [Box of 13] is in stock at $0.00. A broken price, not a deal: expect an order to be cancelled or re-priced · live since 2026-10-23
+- **$0 listing** — greenwich · Arturo Fuente Destino al Siglo de Pasion [Box of 13] is in stock at $0.00. A broken price, not a deal: expect an order to be cancelled or re-priced · live since 2026-10-23
+- **likely error** — AJ Fernandez New World Dorado Figurado [5 Pack] **$5.36/stick**, **55% under** the cheapest in stock among the retailers we track ($12.00 at tccigar) · live since 2026-10-22
+- **likely error** ★ — greenwich · Davidoff Millennium Lancero [Single] **$29.00/stick**, **47% under** the cheapest in stock among the retailers we track ($55.00 at iheart) · live since 2026-10-23
+
+## Fixed or gone (3)
+- Lost and Found 22 Minutes to Midnight Connecticut Radiante Robusto (live 2026-10-22 → 2026-11-19)
+- Lost and Found 22 Minutes to Midnight Criollo Classico Corona Extra (live 2026-10-27 → 2026-11-19)
+- Lost and Found 22 Minutes to Midnight Habano de Oro Robusto (live 2026-10-22 → 2026-11-19)
