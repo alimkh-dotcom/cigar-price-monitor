@@ -80,16 +80,16 @@
   "zero": true
  },
  "greenwich \u00b7 Davidoff Millennium Lancero": {
-  "fair": 55.78,
+  "fair": 55.64,
   "first_seen": "2026-10-23",
   "last_seen": "2026-11-19",
-  "price": 29.0,
+  "price": 290.0,
   "ps": 29.0,
-  "q": 1,
-  "ratio": 0.52,
+  "q": 10,
+  "ratio": 0.521,
   "rival": 55.0,
   "saving": 0.473,
   "site": "iheart",
-  "variant": "Single"
+  "variant": "Box of 10"
  }
 }

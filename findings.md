@@ -3035,3 +3035,42 @@ previous run 2026-11-19T00:02:35+00:00 · 29,495 variants tracked
 - `tobaccoreserve` Perdomo Legacy Maduro — Choose Size [Robusto / Box of 24] = $12.60/stick — $302.40 _(out of stock)_
 - `tobaccoreserve` Perdomo Legacy Connecticut — Choose Size [Robusto / Box of 24] = $12.60/stick — $302.40 _(out of stock)_
 - _…151 more_
+
+
+---
+
+# Cigar price monitor — 2026-11-19T22:03:01+00:00
+previous run 2026-11-19T12:02:51+00:00 · 29,510 variants tracked
+
+## ⚑ Standing watch  (6)
+- **OpusX** — price cut 11% from $225.00: `tobaccoreserve` Opus X Hemingway Single cigar = $200.00/stick — $200.00
+- **OpusX Heaven & Earth** — price cut 23% from $195.00: `tobaccoreserve` Opus X Angel's Share Stairway to Heaven Single cigar = $150.00/stick — $150.00
+- **OpusX Heaven & Earth** — back IN STOCK: `tobaccoreserve` Opus X Heaven & Earth El Escorpion Maduro Box of 10 = $77.50/stick — $775.00
+- **OpusX Heaven & Earth** — back IN STOCK: `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 54 Single cigar = $80.00/stick — $80.00
+- **OpusX Heaven & Earth** — price cut 3% from $80.00: `tobaccoreserve` Opus X Heaven & Earth Rare Black Torpedo Single cigar = $77.50/stick — $77.50
+- **OpusX Heaven & Earth** — back IN STOCK: `tobaccoreserve` Opus X Heaven & Earth Scorpio Maduro Single cigar = $75.00/stick — $75.00
+
+## Price drops ≥20%  (4)
+- **23%** `tobaccoreserve` Opus X Angel's Share Stairway to Heaven [Single cigar] = $150.00/stick — $195.00 → **$150.00**
+- **22%** `tobaccoreserve` Tabernacle Knight Commander [Single] = $40.00/stick — $51.00 → **$40.00**
+- **22%** `tobaccoreserve` Tabernacle Knight Commander [5 Pack] = $40.00/stick — $255.00 → **$200.00** _(out of stock)_
+- **22%** `tobaccoreserve` Tabernacle Knight Commander [Box of 12] = $40.00/stick — $612.00 → **$480.00** _(out of stock)_
+
+## New products  (17)
+- `jackschwartz` Atabey Benditos [Box of 25] = $43.88/stick — $1,097.00 _(out of stock)_
+- `jackschwartz` Crowned Heads The Yellow Rose [Box of 20] = $11.88/stick — $237.50 _(out of stock)_
+- `sunofagun` The Dark Reserve — Premium Maduro & Oscuro Cigar Sampler, 6 Cigars [6-Cigar Sampler] = $16.83/stick — $100.99
+- `sunofagun` The Gentle Maduro — Mild Maduro Cigar Sampler, Mild-Medium to Medium [5-Cigar Sampler] = $11.20/stick — $55.99
+- `sunofagun` The Full Measure — Full-Strength Cigar Sampler, Four Great Houses [5-Cigar Sampler] = $11.00/stick — $54.99
+- `sunofagun` Espresso & Black Pepper — Coffee and Spice Cigar Sampler, Medium-Full [5-Cigar Sampler] = $10.80/stick — $53.99
+- `sunofagun` The Pepper Mill — Peppery Cigar Sampler, Medium-Full to Full [5-Cigar Sampler] = $10.20/stick — $50.99
+- `sunofagun` Dividend Sixty — Best Value 60 Ring Gauge Cigar Sampler [5-Cigar Sampler] = $10.00/stick — $49.99
+- `sunofagun` Dividend Flight — Best Value Mild to Full Cigar Sampler, 6 Cigars [6-Cigar Sampler] = $8.33/stick — $49.99
+- `jackschwartz` Atabey Benditos [Single] = $49.00/stick — $49.00 _(out of stock)_
+- `sunofagun` Dividend Light — Best Value Mild Cigar Sampler [5-Cigar Sampler] = $8.80/stick — $43.99
+- `sunofagun` Dividend Bold — Best Value Bold Cigar Sampler, Medium-Full to Full [5-Cigar Sampler] = $8.40/stick — $41.99
+- `sunofagun` Dividend Medium — Best Value Medium-Bodied Cigar Sampler [5-Cigar Sampler] = $8.00/stick — $39.99
+- `gtcigars` Cohiba Rubicon 5CT Sampler [Toro (6 x 54)] — $25.99
+- `gtcigars` Cohiba Rubicon 5CT Sampler [Robusto (5.5 x 55)] — $25.99
+- `gtcigars` Cohiba Rubicon 5CT Sampler [Gigante (6 x 60)] — $25.99
+- `jackschwartz` Crowned Heads The Yellow Rose [Single] = $10.75/stick — $10.75 _(out of stock)_
