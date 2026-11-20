@@ -330,3 +330,38 @@ compared against 8 retailers, iheart's own formats, and 6 previous Weekly Burn r
 ## Priced at or above the market even after 20% (2) — skip
 - Davidoff Winston Churchill LE 2025 - The Artis — $42.40 vs $27.80 at greenwich
 - Rocky Patel Sixty Robusto — $15.88 vs $15.10 at cigarsdirect
+
+
+---
+
+# Weekly Burn — 2026-11-20
+74 in-stock singles · tiers: 5 sticks = 10% off, 10 sticks = 20% off
+compared against 10 retailers, iheart's own formats, and 7 previous Weekly Burn runs
+
+## Best 10 — the 20% tier · $307.63 (list $384.54)
+
+| # | cigar | list | @20% | why |
+|---|---|---|---|---|
+| 1 | OpusX 20th Anniversary Father and Son | $67.00 | **$53.60** | -29% vs $76.00 at greenwich (in stock); same list price in 1 previous run |
+| 2 | OpusX Arena D'Amor | $81.25 | **$65.00** | sole in-stock source; nearest listing $80.00 at sunofagun (out of stock); first appearance |
+| 3 | OpusX Sol D'Amor | $79.00 | **$63.20** | sole in-stock source; nearest listing $84.99 at sunofagun (out of stock); first appearance |
+| 4 | OpusX Belicoso XXX | $30.00 | **$24.00** | -22% vs $30.95 at greenwich (in stock); first appearance |
+| 5 | Liga Privada Unico Serie Year of the Dragon LE | $37.00 | **$29.60** | no listing at all at the other retailers; first appearance |
+| 6 | Liga Privada Unico Serie Dirty Rat | $18.34 | **$14.67** | -15% vs $17.35 at tccigar (in stock); first appearance |
+| 7 | Liga Privada No.9 Robusto | $17.25 | **$13.80** | -11% vs $15.55 at tccigar (in stock); first appearance |
+| 8 | Hemingway Classic Maduro | $13.50 | **$10.80** | -14% vs $12.60 at greenwich (in stock); same list price in 1 previous run |
+| 9 | Rare Pink Vintage 1960's Short Story | $25.80 | **$20.64** | no listing at all at the other retailers; same list price in 2 previous runs; shorter than a toro |
+| 10 | Anejo Reserva No. 46 | $15.40 | **$12.32** | sole in-stock source; nearest listing $13.70 at greenwich (out of stock); first appearance |
+
+## Best 5 — the 10% tier · $264.83 (list $294.25)
+
+| # | cigar | list | @10% | why |
+|---|---|---|---|---|
+| 1 | OpusX 20th Anniversary Father and Son | $67.00 | **$60.30** | -29% vs $76.00 at greenwich (in stock); same list price in 1 previous run |
+| 2 | OpusX Arena D'Amor | $81.25 | **$73.12** | sole in-stock source; nearest listing $80.00 at sunofagun (out of stock); first appearance |
+| 3 | OpusX Sol D'Amor | $79.00 | **$71.10** | sole in-stock source; nearest listing $84.99 at sunofagun (out of stock); first appearance |
+| 4 | OpusX Belicoso XXX | $30.00 | **$27.00** | -22% vs $30.95 at greenwich (in stock); first appearance |
+| 5 | Liga Privada Unico Serie Year of the Dragon LE | $37.00 | **$33.30** | no listing at all at the other retailers; first appearance |
+
+## Priced at or above the market even after 20% (1) — skip
+- Davidoff Millennium Blend Lancero - Discontinu — $44.00 vs $29.00 at greenwich
