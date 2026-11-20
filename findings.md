@@ -3088,3 +3088,15 @@ previous run 2026-11-19T22:03:01+00:00 · 29,516 variants tracked
 - `cigarsdirect` Crowned Heads Decimo 54 Gran Toro [1 Cigar] = $16.95/stick — $16.95 _(out of stock)_
 - `cigarsdirect` Crowned Heads Decimo 50 Toro [1 Cigar] = $15.95/stick — $15.95 _(out of stock)_
 - `cigarsdirect` Crowned Heads Decimo 52 Robusto [1 Cigar] = $14.95/stick — $14.95 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-11-20T12:03:28+00:00
+previous run 2026-11-20T00:02:29+00:00 · 29,520 variants tracked
+
+## New products  (4)
+- `mrbundles` MEERAPFEL PROJECT 18 [BOX OF 99] = $99.00/stick — $9,801.00
+- `mrbundles` ATABEY SPIRITUS [Box of 25] = $41.50/stick — $1,037.50
+- `mrbundles` MEERAPFEL PROJECT 18 [SINGLE CIGAR] = $99.00/stick — $99.00
+- `mrbundles` ATABEY SPIRITUS [2 Pack] = $41.50/stick — $83.00 _(out of stock)_
