@@ -3074,3 +3074,17 @@ previous run 2026-11-19T12:02:51+00:00 · 29,510 variants tracked
 - `gtcigars` Cohiba Rubicon 5CT Sampler [Robusto (5.5 x 55)] — $25.99
 - `gtcigars` Cohiba Rubicon 5CT Sampler [Gigante (6 x 60)] — $25.99
 - `jackschwartz` Crowned Heads The Yellow Rose [Single] = $10.75/stick — $10.75 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-11-20T00:02:29+00:00
+previous run 2026-11-19T22:03:01+00:00 · 29,516 variants tracked
+
+## New products  (6)
+- `cigarsdirect` Crowned Heads Decimo 54 Gran Toro [Box of 10] = $15.26/stick — $152.55 _(out of stock)_
+- `cigarsdirect` Crowned Heads Decimo 50 Toro [Box of 10] = $14.36/stick — $143.55 _(out of stock)_
+- `cigarsdirect` Crowned Heads Decimo 52 Robusto [Box of 10] = $13.46/stick — $134.55 _(out of stock)_
+- `cigarsdirect` Crowned Heads Decimo 54 Gran Toro [1 Cigar] = $16.95/stick — $16.95 _(out of stock)_
+- `cigarsdirect` Crowned Heads Decimo 50 Toro [1 Cigar] = $15.95/stick — $15.95 _(out of stock)_
+- `cigarsdirect` Crowned Heads Decimo 52 Robusto [1 Cigar] = $14.95/stick — $14.95 _(out of stock)_
