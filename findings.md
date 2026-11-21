@@ -3123,3 +3123,23 @@ previous run 2026-11-20T22:02:51+00:00 · 29,524 variants tracked
 
 ## New products  (1)
 - `tobaccoreserve` Opus X Opus 22 Sampler – Limited Edition [Default Title] — $1,700.00
+
+
+---
+
+# Cigar price monitor — 2026-11-21T12:02:31+00:00
+previous run 2026-11-21T00:02:19+00:00 · 29,533 variants tracked
+
+## Price drops ≥20%  (1)
+- **22%** `tobaccoreserve` Foundation 10-Year Aniversario Salomon [Single Cigar] = $35.00/stick — $45.00 → **$35.00**
+
+## New products  (9)
+- `mrbundles` God of Fire KKP Special Reserve Toro Extra 54 [BOX OF 10] = $50.00/stick — $499.99
+- `mrbundles` God of Fire Serie Aniversario Diademas 56 [Box of 10] = $34.00/stick — $340.00 _(out of stock)_
+- `mrbundles` God of Fire Serie B Robusto [Box of 10] = $29.00/stick — $290.00 _(out of stock)_
+- `mrbundles` GOD OF FIRE DON CARLOS ROBUSTO [Box of 10] = $29.00/stick — $290.00 _(out of stock)_
+- `mrbundles` God of Fire Serie Aniversario Diademas 56 [5 Pack] = $34.00/stick — $170.00 _(out of stock)_
+- `mrbundles` God of Fire Serie B Assortment [Default Title] — $170.00
+- `mrbundles` God of Fire Serie B Robusto [4 Pack] = $29.00/stick — $116.00 _(out of stock)_
+- `mrbundles` GOD OF FIRE DON CARLOS ROBUSTO [4 Pack] = $29.00/stick — $116.00 _(out of stock)_
+- `mrbundles` God of Fire KKP Special Reserve Toro Extra 54 [2 PACK] = $54.99/stick — $109.99
