@@ -3111,3 +3111,15 @@ previous run 2026-11-20T12:03:28+00:00 · 29,523 variants tracked
 - `cigarsdirect` Weller by Cohiba Limited Edition Toro 2026 [Box of 10] = $33.30/stick — $333.00 _(out of stock)_
 - `gtcigars` Dunbarton Cosmic Corona Sampler [Corona (5"x44)] — $182.99
 - `cigarsdirect` Weller by Cohiba Limited Edition Toro 2026 [1 Cigar] = $37.00/stick — $37.00 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-11-21T00:02:19+00:00
+previous run 2026-11-20T22:02:51+00:00 · 29,524 variants tracked
+
+## ⚑ Standing watch  (1)
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Opus 22 Sampler – Limited Edition Default Title — $1,700.00
+
+## New products  (1)
+- `tobaccoreserve` Opus X Opus 22 Sampler – Limited Edition [Default Title] — $1,700.00
