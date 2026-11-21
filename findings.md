@@ -3143,3 +3143,24 @@ previous run 2026-11-21T00:02:19+00:00 · 29,533 variants tracked
 - `mrbundles` God of Fire Serie B Robusto [4 Pack] = $29.00/stick — $116.00 _(out of stock)_
 - `mrbundles` GOD OF FIRE DON CARLOS ROBUSTO [4 Pack] = $29.00/stick — $116.00 _(out of stock)_
 - `mrbundles` God of Fire KKP Special Reserve Toro Extra 54 [2 PACK] = $54.99/stick — $109.99
+
+
+---
+
+# Cigar price monitor — 2026-11-21T22:02:27+00:00
+previous run 2026-11-21T12:02:31+00:00 · 29,534 variants tracked
+
+## ⚑ Standing watch  (1)
+- **OpusX Heaven & Earth** — back IN STOCK: `tobaccoreserve` PRE ORDER - Opus X Heaven & Earth Rare Black Diadema 60 Single cigar = $80.00/stick — $80.00
+
+## Price drops ≥20%  (10)
+- **20%** `tobaccoreserve` El Septimo Rembrandt Torpedo [5-Pack — Save 5%] = $19.76/stick — $123.50 → **$98.80**
+- **20%** `tobaccoreserve` El Septimo Rembrandt Torpedo [Box of 20 — Save 10%] = $18.72/stick — $468.00 → **$374.40** _(out of stock)_
+- **20%** `tobaccoreserve` El Septimo Leonardo da Vinci Lancero [5-Pack — Save 5%] = $19.76/stick — $123.50 → **$98.80**
+- **20%** `tobaccoreserve` El Septimo Leonardo da Vinci Lancero [Box of 20 — Save 10%] = $18.72/stick — $468.00 → **$374.40** _(out of stock)_
+- **20%** `tobaccoreserve` El Septimo Napoleon Maduro [Single cigar] = $30.40/stick — $38.00 → **$30.40**
+- **20%** `tobaccoreserve` El Septimo Napoleon Connecticut [Single cigar] = $30.40/stick — $38.00 → **$30.40**
+- **20%** `tobaccoreserve` El Septimo Spain Rioja [Single cigar] = $11.20/stick — $14.00 → **$11.20**
+- **20%** `tobaccoreserve` El Septimo Spain Rioja [Box of 20 — Save 10%] = $10.08/stick — $252.00 → **$201.60** _(out of stock)_
+- **20%** `tobaccoreserve` El Septimo Japan Nigori Corona [5-Pack — Save 5%] = $12.16/stick — $76.00 → **$60.80**
+- **20%** `tobaccoreserve` El Septimo France Bordeaux — Château Zaya [5-Pack — Save 5%] = $16.72/stick — $104.50 → **$83.60**
