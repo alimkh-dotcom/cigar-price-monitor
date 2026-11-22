@@ -3164,3 +3164,15 @@ previous run 2026-11-21T12:02:31+00:00 · 29,534 variants tracked
 - **20%** `tobaccoreserve` El Septimo Spain Rioja [Box of 20 — Save 10%] = $10.08/stick — $252.00 → **$201.60** _(out of stock)_
 - **20%** `tobaccoreserve` El Septimo Japan Nigori Corona [5-Pack — Save 5%] = $12.16/stick — $76.00 → **$60.80**
 - **20%** `tobaccoreserve` El Septimo France Bordeaux — Château Zaya [5-Pack — Save 5%] = $16.72/stick — $104.50 → **$83.60**
+
+
+---
+
+# Cigar price monitor — 2026-11-22T00:02:27+00:00
+previous run 2026-11-21T22:02:27+00:00 · 29,538 variants tracked
+
+## New products  (4)
+- `tobaccoreserve` Vault Collection #3 - The Five Horsemen [Default Title] — $200.00
+- `tobaccoreserve` Vault Collection #4 - The Purple Dynasty [Default Title] — $165.00
+- `tobaccoreserve` Vault Collection- Padrón Exclusive No. 1 [Default Title] — $100.00
+- `tobaccoreserve` Vault Collection - Padrón Exclusive No.2 [Default Title] — $95.00
