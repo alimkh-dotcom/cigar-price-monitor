@@ -1470,3 +1470,35 @@ compared against 10 retailers and 25 previous Monday Madness runs
 | # | cigar | was → now | per stick | why |
 |---|---|---|---|---|
 | 1 | A First Class Experience Corona [5 Pack] | $200.00 → **$135.00** | $27.00 | -32% on-site ($200.00 → $135.00, compare_at); no listing at all at the other retailers; also discounted on 2026-11-21 at $27.00 |
+
+
+---
+
+# Monday Madness — 2026-11-22
+40 variants marked down on-site · these revert within ~24h
+compared against 10 retailers and 25 previous Monday Madness runs
+
+## Top 10 picks · $2,597.92 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Liga Privada T52 Flying Pig [Box of 12] | $240.00 → **$204.00** | $17.00 | -15% on-site ($240.00 → $204.00, compare_at); -7% vs $18.33/stick at cigarsdirect (in stock); first time discounted |
+| 2 | Davidoff Grand Cru No.3 - Discontinued [Box of 25] | $513.00 → **$461.70** | $18.47 | -10% on-site ($513.00 → $461.70, compare_at); -10% vs $20.50/stick at greenwich (in stock); first time discounted |
+| 3 | Liga Privada T52 Toro [Box of 24] | $438.00 → **$372.30** | $15.51 | -15% on-site ($438.00 → $372.30, compare_at); -6% vs $16.54/stick at sunofagun (in stock); first time discounted |
+| 4 | Liga Privada 10 Aniversario Seleccion Merc [Box of 10] | $180.00 → **$153.00** | $15.30 | -15% on-site ($180.00 → $153.00, compare_at); no listing at all at the other retailers; first time discounted |
+| 5 | A First Class Experience Corona [5 Pack] | $200.00 → **$135.00** | $27.00 | -32% on-site ($200.00 → $135.00, compare_at); no listing at all at the other retailers; also discounted on 2026-11-21 at $27.00 |
+| 6 | Alma Fuerte Robustus Corto [Box of 20] | $299.80 → **$269.82** | $13.49 | -10% on-site ($299.80 → $269.82, compare_at); no listing at all at the other retailers; first time discounted |
+| 7 | Liga Privada Unico Serie Year of the Snake [Box of 10] | $295.00 → **$265.50** | $26.55 | -10% on-site ($295.00 → $265.50, compare_at); no listing at all at the other retailers; first time discounted |
+| 8 | Alma Fuerte Sixto I Colorado Claro [Box 10] | $245.00 → **$190.00** | $19.00 | -22% on-site ($245.00 → $190.00, compare_at); -6% vs $20.19/stick at sunofagun (in stock); also discounted on 2026-10-21 at $15.80 |
+| 9 | Liga Privada Unico Serie Year of the Drago [Box of 10] | $370.00 → **$344.10** | $34.41 | -7% on-site ($370.00 → $344.10, compare_at); no listing at all at the other retailers; first time discounted |
+| 10 | Pledge Lonsdale Limitada - Discontinued [Box of 20] | $270.00 → **$202.50** | $10.12 | -25% on-site ($270.00 → $202.50, compare_at); no listing at all at the other retailers; first time discounted |
+
+## Top 5 picks · $1,326.00 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Liga Privada T52 Flying Pig [Box of 12] | $240.00 → **$204.00** | $17.00 | -15% on-site ($240.00 → $204.00, compare_at); -7% vs $18.33/stick at cigarsdirect (in stock); first time discounted |
+| 2 | Davidoff Grand Cru No.3 - Discontinued [Box of 25] | $513.00 → **$461.70** | $18.47 | -10% on-site ($513.00 → $461.70, compare_at); -10% vs $20.50/stick at greenwich (in stock); first time discounted |
+| 3 | Liga Privada T52 Toro [Box of 24] | $438.00 → **$372.30** | $15.51 | -15% on-site ($438.00 → $372.30, compare_at); -6% vs $16.54/stick at sunofagun (in stock); first time discounted |
+| 4 | Liga Privada 10 Aniversario Seleccion Merc [Box of 10] | $180.00 → **$153.00** | $15.30 | -15% on-site ($180.00 → $153.00, compare_at); no listing at all at the other retailers; first time discounted |
+| 5 | A First Class Experience Corona [5 Pack] | $200.00 → **$135.00** | $27.00 | -32% on-site ($200.00 → $135.00, compare_at); no listing at all at the other retailers; also discounted on 2026-11-21 at $27.00 |

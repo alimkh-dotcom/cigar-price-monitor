@@ -3194,3 +3194,11 @@ previous run 2026-11-22T00:02:27+00:00 · 29,559 variants tracked
 - `tobaccoreserve` Foundation Olmec | Claro & Maduro [Toro / Claro / Single] — $16.44
 - `tobaccoreserve` Foundation Olmec | Claro & Maduro [Robusto / Maduro / Single] — $15.42
 - `tobaccoreserve` Foundation Olmec | Claro & Maduro [Robusto / Claro / Single] — $15.42
+
+
+---
+
+# Cigar price monitor — 2026-11-22T22:02:20+00:00
+previous run 2026-11-22T12:02:26+00:00 · 29,560 variants tracked
+
+**No actionable changes.**
