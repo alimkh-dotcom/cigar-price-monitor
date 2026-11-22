@@ -3176,3 +3176,21 @@ previous run 2026-11-21T22:02:27+00:00 · 29,538 variants tracked
 - `tobaccoreserve` Vault Collection #4 - The Purple Dynasty [Default Title] — $165.00
 - `tobaccoreserve` Vault Collection- Padrón Exclusive No. 1 [Default Title] — $100.00
 - `tobaccoreserve` Vault Collection - Padrón Exclusive No.2 [Default Title] — $95.00
+
+
+---
+
+# Cigar price monitor — 2026-11-22T12:02:26+00:00
+previous run 2026-11-22T00:02:27+00:00 · 29,559 variants tracked
+
+## New products  (10)
+- `tobaccoreserve` Foundation Olmec | Claro & Maduro [Toro / Maduro / Box of 12] = $16.44/stick — $197.28
+- `tobaccoreserve` Foundation Olmec | Claro & Maduro [Toro / Claro / Box of 12] = $16.44/stick — $197.28
+- `tobaccoreserve` Foundation Olmec | Claro & Maduro [Robusto / Maduro / Box of 12] = $15.42/stick — $185.04
+- `tobaccoreserve` Foundation Olmec | Claro & Maduro [Robusto / Claro / Box of 12] = $15.42/stick — $185.04
+- `tobaccoreserve` Foundation Olmec | Claro & Maduro [Double Corona / Maduro / Single] — $18.16
+- `tobaccoreserve` Foundation Olmec | Claro & Maduro [Double Corona / Claro / Single] — $18.16
+- `tobaccoreserve` Foundation Olmec | Claro & Maduro [Toro / Maduro / Single] — $16.44
+- `tobaccoreserve` Foundation Olmec | Claro & Maduro [Toro / Claro / Single] — $16.44
+- `tobaccoreserve` Foundation Olmec | Claro & Maduro [Robusto / Maduro / Single] — $15.42
+- `tobaccoreserve` Foundation Olmec | Claro & Maduro [Robusto / Claro / Single] — $15.42

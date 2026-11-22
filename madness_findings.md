@@ -1451,3 +1451,22 @@ compared against 10 retailers and 25 previous Monday Madness runs
 | # | cigar | was → now | per stick | why |
 |---|---|---|---|---|
 | 1 | A First Class Experience Corona [5 Pack] | $200.00 → **$135.00** | $27.00 | -32% on-site ($200.00 → $135.00, compare_at); no listing at all at the other retailers; also discounted on 2026-11-21 at $27.00 |
+
+
+---
+
+# Monday Madness — 2026-11-22
+1 variants marked down on-site · these revert within ~24h
+compared against 10 retailers and 25 previous Monday Madness runs
+
+## Top 10 picks · $135.00 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | A First Class Experience Corona [5 Pack] | $200.00 → **$135.00** | $27.00 | -32% on-site ($200.00 → $135.00, compare_at); no listing at all at the other retailers; also discounted on 2026-11-21 at $27.00 |
+
+## Top 5 picks · $135.00 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | A First Class Experience Corona [5 Pack] | $200.00 → **$135.00** | $27.00 | -32% on-site ($200.00 → $135.00, compare_at); no listing at all at the other retailers; also discounted on 2026-11-21 at $27.00 |
