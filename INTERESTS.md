@@ -108,10 +108,13 @@ Report ANY movement, at any price, even outside a promo.
 - **Rare Pink Black Pink** — the 2026 follow-up. Connecticut-grown habano-seed
   wrapper over Dominican filler, four double-tapered perfectos (Black Panther
   6 5/8 x 55, Signature 6 x 46, Work of Art 4 7/8 x 60, Happy Ending 5 1/2 x 53).
-  Shipping since March 2026, restricted to TAA-member retailers. As of
-  2026-11-05 the only buyable Black Pink at any tracked retailer is inside Jack
-  Schwartz's "November to Remember" sampler ($270, 14 sticks). **Report the first
-  time any retailer has Black Pink singles or boxes IN STOCK, whatever the price.**
+  Shipping since March 2026, restricted to TAA-member retailers.
+  **WATCH FIRED 2026-11-23: parkplaza has Black Pink SINGLES in stock** — Signature
+  $24.99, Work of Art $24.99, Happy Ending $29.99. Black Panther is not listed.
+  Before this the only access anywhere in the set was inside Jack Schwartz's
+  "November to Remember" sampler ($270, 14 sticks). These are allocated, so
+  **report any change to that list — a sell-out, a restock, a Black Panther
+  appearing, or Black Pink surfacing at a second retailer.**
 
 For an untried Rare Pink vitola he would rather buy **singles or a Weekly Burn
 tier than a 5-pack**, so flag single-stick availability when it exists.
@@ -138,6 +141,25 @@ Toro / $39.50 Double Robusto, against tobaccoreserve's $43.00-$44.00. Note
 tobaccoreserve lists this line as "Opus X Don Carlos Edicion de Anniversario" -
 everyone else sells it as an Arturo Fuente line, not an Opus X, so that prefix
 looks like their mislabel and is worth confirming before treating it as Opus X.
+
+**Rare Pink and Black Pink -> parkplaza.** Added 2026-11-23 and immediately the
+cheapest Rare Pink singles in or out of the tracked set: Happy Ending **$24.99**
+(iheart $35.00), Queen of Hearts **$24.99** (tccigar $33.95), Sophisticated
+Hooker **$34.99** (sold as a single nowhere else we track). Discount any
+"% under cigarsdirect" on these - that is the known Fuente outlier, not a deal.
+Ali has passed on iheart's Happy Endings 5-pack at $122.50 ($24.50/stick) three
+times; parkplaza sells the same stick singly for about the same money.
+
+**Destino al Siglo singles -> parkplaza** on three of four: Amistad $33.00 (iheart
+$39.25), Amor $39.00 ($44.00), Familias $40.00 ($55.00), Pasion $42.00 (tie).
+
+**parkplaza baseline, measured 2026-11-23** on **620** head-to-head in-stock
+singles - by far the largest sample measured for any shop, so the most reliable:
+median **1.052x** the cheapest tracked rival, cheapest of anyone on **36%**,
+15%+ dearer on 16%. Better than sunofagun (1.062x / 32%). It carries **no Atabey,
+Byron, God of Fire or Meerapfel**, but 33 Davidoff singles in stock (cheapest
+Signature Ambassadrice $13.50 - not the cheapest Davidoff source, jackschwartz
+still is, but good breadth for the one-vitola-at-a-time project).
 
 ### Correcting the 2026-11-17 "53 unique variants" claim
 

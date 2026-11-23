@@ -1,6 +1,6 @@
 # Cigar price monitor
 
-Thrice-daily diff of eight Shopify cigar catalogs (~31,300 variants). Reports only what
+Thrice-daily diff of nine Shopify cigar catalogs (~34,300 variants). Reports only what
 changed and is worth acting on — deliberately not a full anomaly scan.
 
 ## Why a diff and not a scan
@@ -104,7 +104,7 @@ roster against the last archived one and stays quiet until it changes by more
 than 20%. Run them as often as you like; they report once per new promo.
 
 Both produce a **best 5** and a **best 10** with a stated reason per pick, drawn from
-three comparisons: the other eight retailers (per stick, in stock), iheart's own other
+three comparisons: the other nine retailers (per stick, in stock), iheart's own other
 formats for the same cigar, and every previous run of that promo in `archive/`.
 
 ### What the two promos actually are
@@ -197,7 +197,7 @@ simply does not say, so anything Tampa wins on is worth confirming before buying
     ./greenwich.py              # pull now
     ./greenwich.py --if-stale   # pull only if snapshots/greenwich.json.gz is over 10 hours old
 
-A BigCommerce shop with a deep rare-Fuente and Davidoff list - where the eight Shopify
+A BigCommerce shop with a deep rare-Fuente and Davidoff list - where the nine Shopify
 sites are thinnest. No products.json, but every page carries the public storefront
 token for its own GraphQL endpoint, which returns each product's variants
 (Single / Box of N) with price and **real per-variant stock**, 50 products a request.

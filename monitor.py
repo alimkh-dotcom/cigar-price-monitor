@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Scrape eight Shopify cigar catalogs, diff against the last run, report what changed.
+"""Scrape nine Shopify cigar catalogs, diff against the last run, report what changed.
 
 Only one file persists between runs: snapshots/state.json.gz — prices/availability/
 counts keyed by variant id, names stripped (~210 KB). Names come from the live pull.
@@ -57,6 +57,30 @@ WATCH = [
     ("OpusX",
      re.compile(r'opus\s?x|\boxo\b|forbidden x', re.I)),
 ]
+
+# Shops that sell far more than cigars tag their cigars explicitly, and for those a
+# blacklist is the wrong shape: parkplaza carries ~2,774 wine, bourbon, beer and
+# scotch listings whose product_type matches nothing in NONCIGAR_TYPE. Whitelist
+# instead - keep only the "Cigar ..." types, minus the accessory ones sharing that
+# prefix. Value is (keep, drop) matched against product_type.
+CIGAR_ONLY = {
+    "parkplaza": (re.compile(r'^cigar', re.I),
+                  re.compile(r'cutter|punch|\btools?\b', re.I)),
+}
+# Those shops also give every product one "Default Title" variant and carry the
+# pack count in the PRODUCT title ("... 13ct Box"), so qty() on the variant label
+# returns None for all 3,050 of them. Recovered here: 100% of singles, 99% of boxes.
+PACK_CT = re.compile(r'(\d+)\s*(?:ct|count|pk|packs?|cigars?)\b', re.I)
+
+def variant_qty(site, ptype, ptitle, vtitle):
+    """Sticks in this variant, or None when nothing says."""
+    if site not in CIGAR_ONLY:
+        return qty(vtitle)
+    if ptype.strip().lower().endswith("single"):
+        return 1
+    m = PACK_CT.search(ptitle)
+    n = int(m.group(1)) if m else None
+    return n if n and n <= MAXQTY else None
 
 BUNDLE = re.compile(r'sampler|assort|collection|gift|taster|taste of| \+ |combo|variety', re.I)
 STOP = {"the","of","by","cigar","cigars","and","le","natural","maduro","edicion",
@@ -150,14 +174,34 @@ def scrape():
             if not prods:
                 break
             for p in prods:
-                if NONCIGAR_TYPE.search(p.get("product_type") or ""):
+                ptype = p.get("product_type") or ""
+                wl = CIGAR_ONLY.get(site)
+                if wl:
+                    keep, drop = wl
+                    if not keep.search(ptype) or drop.search(ptype):
+                        continue                    # wine, bourbon, cutters
+                elif NONCIGAR_TYPE.search(ptype):
                     continue                        # spirits, ashtrays, apparel
                 for var in p["variants"]:
                     try: price = float(var["price"])
                     except (TypeError, ValueError): continue
                     key = f"{site}:{var['id']}"
-                    cur[key]   = [price, 1 if var["available"] else 0, qty(var["title"])]
-                    names[key] = f"{p['title']}{SEP}{var['title']}"
+                    # "Default Title" carries no information and its two tokens would
+                    # pollute every cross-retailer match, so use the product_type -
+                    # "Cigar Single"/"Cigar Box" tokenise away entirely via STOP.
+                    # The pack count lives in the PRODUCT title here ("... 50ct
+                    # Box"). Left there it becomes a product token and no box ever
+                    # matches the same box elsewhere, so move it to the label, where
+                    # keytokens(keep_nums=False) strips it like every other count.
+                    vlabel, ptitle = var["title"], p["title"]
+                    if wl:
+                        vlabel = f"{ptype} {PACK_CT.search(ptitle).group(0)}" \
+                                 if PACK_CT.search(ptitle) else ptype
+                        ptitle = PACK_CT.sub(" ", ptitle)
+                        ptitle = re.sub(r"\s+", " ", ptitle).strip()
+                    cur[key]   = [price, 1 if var["available"] else 0,
+                                  variant_qty(site, ptype, p["title"], var["title"])]
+                    names[key] = f"{ptitle}{SEP}{vlabel}"
                     n += 1
             time.sleep(1.5)                          # iheart 429s without this
         print(f"  {site:14} {n:6}{'  INCOMPLETE' if failed else ''}", file=sys.stderr)
