@@ -3210,3 +3210,45 @@ previous run 2026-11-22T12:02:26+00:00 · 29,560 variants tracked
 previous run 2026-11-22T22:02:20+00:00 · 29,560 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-11-23T12:03:11+00:00
+previous run 2026-11-23T00:02:27+00:00 · 29,908 variants tracked
+
+## ⚑ Standing watch  (1)
+- **OpusX Heaven & Earth** — back IN STOCK: `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 56 Single = $80.00/stick — $80.00
+
+## New products  (348)
+- `sunofagun` El Galan Reserva Especial Habano Oscuro Obesos Box Pressed Gordo [Box of 24] = $10.08/stick — $241.92
+- `sunofagun` El Galan Reserva Especial Habano Oscuro Gallardos Box Pressed Torpedo [Box of 24] = $9.24/stick — $221.76
+- `sunofagun` El Galan Reserva Especial Habano Oscuro Apuestos Box Pressed Toro [Box of 24] = $9.24/stick — $221.76
+- `sunofagun` El Galan Reserva Especial Connecticut Apuestos Toro [Box of 24] = $9.24/stick — $221.76
+- `sunofagun` Doña Nieves Minga Gordo [Box of 24] = $9.24/stick — $221.76
+- `sunofagun` Vegas del Purial Lancero [Box of 20] = $10.94/stick — $218.80
+- `sunofagun` Vegas del Purial Super Toro [Box of 20] = $10.94/stick — $218.80
+- `sunofagun` El Galan Semilla Cubana Natural Churchill [Box of 25] = $8.39/stick — $209.75
+- `sunofagun` El Galan Semilla Cubana Natural Corona Gorda [Box of 25] = $8.39/stick — $209.75
+- `sunofagun` El Galan Semilla Cubana Natural Torpedo [Box of 25] = $8.39/stick — $209.75
+- `sunofagun` El Galan Semilla Cubana Maduro Corona Gorda [Box of 24] = $8.41/stick — $201.84
+- `sunofagun` El Galan Semilla Cubana Maduro Toro [Box of 24] = $8.41/stick — $201.84
+- `sunofagun` El Galan Reserva Especial Habano Oscuro Airosos Box Pressed Robusto [Box of 24] = $8.41/stick — $201.84
+- `sunofagun` El Galan Reserva Especial Connecticut Airosos Robusto [Box of 24] = $8.41/stick — $201.84
+- `sunofagun` Doña Nieves Negra Macha Box Pressed Robusto [Box of 24] = $8.41/stick — $201.84
+- `sunofagun` Doña Nieves Nievita Robusto [Box of 24] = $8.41/stick — $201.84
+- `sunofagun` Vegas del Purial Belicoso [Box of 20] = $10.09/stick — $201.80
+- `sunofagun` Doña Nieves Sentimiento Ternura Box Pressed Torpedo [Box of 21] = $9.23/stick — $193.83
+- `sunofagun` Doña Nieves Sentimiento Aprecio Box Pressed Toro [Box of 21] = $9.23/stick — $193.83
+- `sunofagun` El Galan Semilla Cubana Natural Toro [Box of 25] = $7.55/stick — $188.75
+- `sunofagun` El Galan Semilla Cubana Natural Robusto [Box of 25] = $7.55/stick — $188.75
+- `sunofagun` Vegas del Purial Robusto [Box of 20] = $9.24/stick — $184.80
+- `sunofagun` Doña Nieves Sentimiento Emoción Box Pressed Toro [Box of 21] = $8.42/stick — $176.82
+- `sunofagun` El Galan Tabaco de la Casa Extra Gordo Box Pressed [Habano / Bundle of 25] = $4.19/stick — $104.75
+- `sunofagun` El Galan Tabaco de la Casa Extra Gordo Box Pressed [Connecticut / Bundle of 25] = $4.19/stick — $104.75
+- `sunofagun` El Galan Tabaco de la Casa Extra Gordo Box Pressed [Maduro / Bundle of 25] = $4.19/stick — $104.75
+- `sunofagun` El Galan Tabaco de la Casa Torpedo [Habano / Bundle of 25] = $3.35/stick — $83.75
+- `sunofagun` El Galan Tabaco de la Casa Torpedo [Connecticut / Bundle of 25] = $3.35/stick — $83.75
+- `sunofagun` El Galan Tabaco de la Casa Torpedo [Maduro / Bundle of 25] = $3.35/stick — $83.75
+- `sunofagun` El Galan Tabaco de la Casa Toro [Habano / Bundle of 25] = $3.35/stick — $83.75
+- _…318 more_
