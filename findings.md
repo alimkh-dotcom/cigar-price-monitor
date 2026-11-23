@@ -3252,3 +3252,78 @@ previous run 2026-11-23T00:02:27+00:00 · 29,908 variants tracked
 - `sunofagun` El Galan Tabaco de la Casa Torpedo [Maduro / Bundle of 25] = $3.35/stick — $83.75
 - `sunofagun` El Galan Tabaco de la Casa Toro [Habano / Bundle of 25] = $3.35/stick — $83.75
 - _…318 more_
+
+
+---
+
+# Cigar price monitor — 2026-11-23T22:02:24+00:00
+previous run 2026-11-23T12:03:11+00:00 · 29,912 variants tracked
+
+## ⚑ Standing watch  (6)
+- **OpusX** — price cut 25% from $332.50: `iheart` OpusX Forbidden X El Beso Prohibido 5 Pack = $49.88/stick — $249.38
+- **OpusX** — price cut 25% from $135.00: `iheart` OpusX OXO Oro Oscuro Perfecxion X Tin Tin of 3 = $33.75/stick — $101.25
+- **OpusX** — price cut 25% from $180.00: `iheart` OpusX Petit Lancero 5 Pack = $27.00/stick — $135.00
+- **OpusX Heaven & Earth** — price cut 23% from $975.00: `tobaccoreserve` Opus X Angel's Share Stairway to Heaven 5-Pack = $150.00/stick — $750.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Tauros The Bull Natural – Limited Edition 2024 – Aged 2 Years Default — $85.00
+- **Rare Pink** — back IN STOCK: `cigarsdirect` Arturo Fuente Black Pink Black Panther Box of 20 = $110.00/stick — $2,200.00
+
+## Price drops ≥20%  (56)
+- **35%** **BIG** `iheart` Winston Churchill The Late Hour Toro [5 Pack] = $19.24/stick — $148.00 → **$96.20**
+- **35%** **BIG** `iheart` Winston Churchill The Late Hour Churchill [5 Pack] = $20.28/stick — $156.00 → **$101.40**
+- **35%** **BIG** `iheart` Yamasa Robusto [Box of 12] = $14.37/stick — $265.20 → **$172.38**
+- **35%** **BIG** `iheart` Winston Churchill The Late Hour Robusto [5 Pack] = $17.68/stick — $136.00 → **$88.40**
+- **35%** `iheart` Grand Cru Robusto [5 Pack] = $18.14/stick — $139.50 → **$90.68**
+- **33%** `cigarsdirect` Perdomo 30th Anniversary Maduro Epicure [Box of 20] = $12.60/stick — $378.00 → **$252.00**
+- **33%** `cigarsdirect` Perdomo 30th Anniversary Connecticut Epicure [Box of 20] = $12.60/stick — $378.00 → **$252.00**
+- **33%** `iheart` The Upsetters Original Rude Boy [Box of 20] = $9.38/stick — $281.52 → **$187.68**
+- **30%** `iheart` Liga Privada Unico Serie Year of the Dragon LE 2024 [Box of 10] = $24.05/stick — $344.10 → **$240.50**
+- **30%** `iheart` Liga Privada Unico Serie Year of the Tiger LE 2022 [Box of 8] = $26.00/stick — $297.60 → **$208.00**
+- **30%** `iheart` Davidoff Art Edition 2014 Forms of Freedom 2 [5 Pack] = $63.00/stick — $450.00 → **$315.00**
+- **30%** `iheart` Classic No. 2 Tubos - Discontinued [Box of 4] = $50.75/stick — $290.00 → **$203.00**
+- **30%** `iheart` Hemingway Between the Lines [Box of 25] = $15.54/stick — $555.00 → **$388.50**
+- **30%** `iheart` EGM Media Coronas [Box of 20] = $11.54/stick — $329.80 → **$230.86**
+- **30%** `iheart` EGM Ninfas [Box of 10] = $13.93/stick — $199.00 → **$139.30** _(out of stock)_
+- **29%** `iheart` Grand Cru No. 1 - Discontinued [Box of 5] = $29.00/stick — $205.00 → **$145.00**
+- **28%** `iheart` Liga Privada Unico Serie Bakkwa Asia Pacific Exclusive [5 Pack] = $13.81/stick — $95.63 → **$69.06**
+- **28%** `iheart` Olmec Claro Toro [Box of 12] = $10.49/stick — $174.31 → **$125.89**
+- **28%** `iheart` Alma Fuerte Robustus Corto [Box of 20] = $9.74/stick — $269.82 → **$194.87**
+- **28%** `iheart` Liga Privada Unico Serie Year of the Snake LE 2025 [Box of 10] = $19.18/stick — $265.50 → **$191.75**
+- **28%** `iheart` Nicaragua Diademas [Box of 12] = $17.88/stick — $297.00 → **$214.50**
+- **28%** `iheart` Aniversario No.3 Tubos [Box of 20] = $22.10/stick — $612.00 → **$442.00**
+- **28%** `iheart` The Tabernacle Broadleaf Lancero [Box of 24] = $10.45/stick — $347.40 → **$250.90**
+- **28%** `iheart` Yamasa Toro [Box of 12] = $16.96/stick — $281.88 → **$203.58**
+- **27%** `iheart` Brick House Churchill Double Connecticut [Box of 25] = $5.69/stick — $194.06 → **$142.31**
+- **27%** `iheart` AJ Fernandez Dias de Gloria Brazil Corona [Box of 20] = $7.70/stick — $210.00 → **$154.00**
+- **27%** `iheart` Brick House Corona Larga Natural [Box of 25] = $4.99/stick — $170.25 → **$124.85**
+- **27%** `iheart` Caldwell Long Live The King Maduro Super Toro [Box of 10] = $8.66/stick — $118.13 → **$86.63**
+- **26%** `iheart` Sobremesa Brulee Toro [Box of 13] = $9.75/stick — $171.60 → **$126.75**
+- **26%** `iheart` Sobremesa Brulee Double Corona [Box of 13] = $10.37/stick — $182.51 → **$134.81**
+- **25%** `iheart` Cuvee Selection 2012 Year of the Dragon [5 Pack] = $75.00/stick — $500.00 → **$375.00**
+- **25%** `iheart` Davidoff Saveurs Gstaad 2013 [5 Pack] = $60.00/stick — $400.00 → **$300.00**
+- **25%** `iheart` Millennium Blend Lonsdale - Discontinued [5 Pack] = $41.25/stick — $275.00 → **$206.25**
+- **25%** `iheart` OpusX Petit Lancero [5 Pack] = $27.00/stick — $180.00 → **$135.00**
+- **25%** `iheart` Davidoff Year of the Horse [Box 10] = $48.75/stick — $650.00 → **$487.50**
+- **25%** `iheart` Classic Ambassadrice - Discontinued [Box of 5] = $14.85/stick — $99.00 → **$74.25**
+- **25%** `iheart` Destino al Siglo de Amistad [5 Pack] = $29.40/stick — $196.00 → **$147.00**
+- **25%** `iheart` OpusX OXO Oro Oscuro Perfecxion X Tin [Tin of 3] = $33.75/stick — $135.00 → **$101.25**
+- **25%** `iheart` 75th Anniversary LE 2001 - Discontinued [5 Pack] = $37.50/stick — $250.00 → **$187.50**
+- **25%** `iheart` Linea D No.06 Petit 109 [5 Pack] = $8.85/stick — $59.00 → **$44.25**
+
+## New products  (3)
+- `cigarsdirect` Black Works Studio Shaolin 36 Chamber Belicoso [Box of 24] = $12.15/stick — $291.60
+- `tobaccoreserve` Opus X Tauros The Bull Natural – Limited Edition 2024 – Aged 2 Years [Default] — $85.00
+- `cigarsdirect` Black Works Studio Shaolin 36 Chamber Belicoso [1 Cigar] = $13.50/stick — $13.50
+
+## Cheaper than the same cigar elsewhere  (8) — _unverified, check the vitola_
+- **39% under** `iheart` AJ Fernandez Dias de Gloria Brazil Corona [Box of 20] = $7.70/stick vs $12.60/stick at `cigarsdirect` (AJ Fernandez Dias de Gloria Brazil Corona)
+- **36% under** `iheart` Brick House Churchill Double Connecticut [Box of 25] = $5.69/stick vs $8.96/stick at `tccigar` (Brick House Double Connecticut Churchill)
+- **36% under** `iheart` Brick House Corona Larga Natural [Box of 25] = $4.99/stick vs $7.83/stick at `cigarsdirect` (Brick House Natural Corona Larga)
+- **32% under** `iheart` Liga Privada Unico Serie Ratzilla [Box of 10] = $12.84/stick vs $18.79/stick at `tccigar` (Liga Privada Unico Serie Ratzilla)
+- **31% under** `iheart` Liga Privada Unico Serie Dirty Rat [Box of 12] = $11.92/stick vs $17.33/stick at `tccigar` (Liga Privada Unico Serie Dirty Rat)
+- **30% under** `iheart` Liga Privada T52 Flying Pig [Box of 12] = $13.00/stick vs $18.66/stick at `sunofagun` (Liga Privada T52 Flying Pig)
+- **30% under** `iheart` EGM Media Coronas [Box of 20] = $11.54/stick vs $16.50/stick at `mrbundles` (EGM Media Coronas)
+- **28% under** `iheart` Liga Privada T52 Toro [Box of 24] = $11.86/stick vs $16.54/stick at `sunofagun` (Liga Privada T52 Toro)
+
+## Newly inflated variants  (2)
+- `cigarsdirect` Aging Room Quattro Nicaragua Maestro Torpedo [1 Cigar] = $18.97/stick — $13.78 → $18.97; now $18.97/stick vs $13.46 for its sibling
+- `cigarsdirect` Aging Room Quattro Nicaragua Maestro Torpedo [Box of 20] = $17.07/stick — $248.18 → $341.50; now $17.07/stick vs $13.46 for its sibling

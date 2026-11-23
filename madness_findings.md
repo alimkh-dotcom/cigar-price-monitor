@@ -1566,3 +1566,35 @@ compared against 10 retailers and 26 previous Monday Madness runs
 | 3 | Liga Privada Unico Serie Dirty Rat [Box of 12] | $220.00 → **$187.00** | $15.58 | -15% on-site ($220.00 → $187.00, compare_at); -10% vs $17.33/stick at tccigar (in stock); also discounted on 2026-11-22 at $16.50 |
 | 4 | Liga Privada T52 Flying Pig [Box of 12] | $240.00 → **$204.00** | $17.00 | -15% on-site ($240.00 → $204.00, compare_at); -7% vs $18.33/stick at cigarsdirect (in stock); also discounted on 2026-11-22 at $18.00 |
 | 5 | Liga Privada T52 Toro [Box of 24] | $438.00 → **$372.30** | $15.51 | -15% on-site ($438.00 → $372.30, compare_at); -6% vs $16.54/stick at sunofagun (in stock); also discounted on 2026-11-22 at $16.43 |
+
+
+---
+
+# Monday Madness — 2026-11-23
+76 variants marked down on-site · these revert within ~24h
+compared against 10 retailers and 26 previous Monday Madness runs
+
+## Top 10 picks · $1,698.99 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Liga Privada Unico Serie Ratzilla [Box of 10] | $197.50 → **$128.38** | $12.84 | -35% on-site ($197.50 → $128.38, compare_at); -32% vs $18.79/stick at tccigar (in stock); also discounted on 2026-11-22 at $17.78 |
+| 2 | Liga Privada Unico Serie Dirty Rat [Box of 12] | $220.00 → **$143.00** | $11.92 | -35% on-site ($220.00 → $143.00, compare_at); -31% vs $17.33/stick at tccigar (in stock); also discounted on 2026-11-22 at $16.50 |
+| 3 | Liga Privada T52 Flying Pig [Box of 12] | $240.00 → **$156.00** | $13.00 | -35% on-site ($240.00 → $156.00, compare_at); -29% vs $18.33/stick at cigarsdirect (in stock); also discounted on 2026-11-22 at $18.00 |
+| 4 | Liga Privada T52 Toro [Box of 24] | $438.00 → **$284.70** | $11.86 | -35% on-site ($438.00 → $284.70, compare_at); -28% vs $16.54/stick at sunofagun (in stock); also discounted on 2026-11-22 at $16.43 |
+| 5 | Alma Fuerte Sixto I Colorado Claro [Box 10] | $245.00 → **$159.25** | $15.93 | -35% on-site ($245.00 → $159.25, compare_at); -21% vs $20.19/stick at sunofagun (in stock); also discounted on 2026-11-22 at $23.70 |
+| 6 | Winston Churchill The Late Hour Toro [5 Pack] | $148.00 → **$96.20** | $19.24 | -35% on-site ($148.00 → $96.20, compare_at); -24% vs $25.24/stick at sunofagun (in stock); also discounted on 2026-11-22 at $26.55 |
+| 7 | Liga Privada T52 Corona Doble [Box of 24] | $486.00 → **$315.90** | $13.16 | -35% on-site ($486.00 → $315.90, compare_at); -23% vs $17.16/stick at sunofagun (in stock); also discounted on 2026-11-22 at $18.23 |
+| 8 | Sobremesa Brulee Toro [Box of 13] | $195.00 → **$126.75** | $9.75 | -35% on-site ($195.00 → $126.75, compare_at); -29% vs $13.82/stick at cigarsdirect (in stock); also discounted on 2026-11-22 at $14.09 |
+| 9 | Sobremesa Brulee Double Corona [Box of 13] | $207.40 → **$134.81** | $10.37 | -35% on-site ($207.40 → $134.81, compare_at); -27% vs $14.24/stick at cigarsdirect (in stock); also discounted on 2026-11-22 at $14.36 |
+| 10 | AJ Fernandez Dias de Gloria Brazil Corona [Box of 20] | $280.00 → **$154.00** | $7.70 | -45% on-site ($280.00 → $154.00, compare_at); -39% vs $12.60/stick at cigarsdirect (in stock); first time discounted |
+
+## Top 5 picks · $871.33 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | Liga Privada Unico Serie Ratzilla [Box of 10] | $197.50 → **$128.38** | $12.84 | -35% on-site ($197.50 → $128.38, compare_at); -32% vs $18.79/stick at tccigar (in stock); also discounted on 2026-11-22 at $17.78 |
+| 2 | Liga Privada Unico Serie Dirty Rat [Box of 12] | $220.00 → **$143.00** | $11.92 | -35% on-site ($220.00 → $143.00, compare_at); -31% vs $17.33/stick at tccigar (in stock); also discounted on 2026-11-22 at $16.50 |
+| 3 | Liga Privada T52 Flying Pig [Box of 12] | $240.00 → **$156.00** | $13.00 | -35% on-site ($240.00 → $156.00, compare_at); -29% vs $18.33/stick at cigarsdirect (in stock); also discounted on 2026-11-22 at $18.00 |
+| 4 | Liga Privada T52 Toro [Box of 24] | $438.00 → **$284.70** | $11.86 | -35% on-site ($438.00 → $284.70, compare_at); -28% vs $16.54/stick at sunofagun (in stock); also discounted on 2026-11-22 at $16.43 |
+| 5 | Alma Fuerte Sixto I Colorado Claro [Box 10] | $245.00 → **$159.25** | $15.93 | -35% on-site ($245.00 → $159.25, compare_at); -21% vs $20.19/stick at sunofagun (in stock); also discounted on 2026-11-22 at $23.70 |

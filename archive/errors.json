@@ -1,6 +1,19 @@
 {
+ "AJ Fernandez Dias de Gloria Brazil Corona": {
+  "fair": 12.6,
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "price": 154.0,
+  "ps": 7.7,
+  "q": 20,
+  "ratio": 0.611,
+  "rival": 12.6,
+  "saving": 0.389,
+  "site": "cigarsdirect",
+  "variant": "Box of 20"
+ },
  "AJ Fernandez New World Dorado Figurado": {
-  "fair": 12.53,
+  "fair": 12.52,
   "first_seen": "2026-10-22",
   "last_seen": "2026-11-23",
   "price": 26.8,
@@ -11,6 +24,71 @@
   "saving": 0.553,
   "site": "tccigar",
   "variant": "5 Pack"
+ },
+ "EGM Media Coronas": {
+  "fair": 16.49,
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "price": 230.86,
+  "ps": 11.54,
+  "q": 20,
+  "ratio": 0.7,
+  "rival": 16.49,
+  "saving": 0.3,
+  "site": "cigarsdirect",
+  "variant": "Box of 20"
+ },
+ "Liga Privada T52 Flying Pig": {
+  "fair": 18.33,
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "price": 156.0,
+  "ps": 13.0,
+  "q": 12,
+  "ratio": 0.709,
+  "rival": 18.33,
+  "saving": 0.291,
+  "site": "cigarsdirect",
+  "variant": "Box of 12"
+ },
+ "Liga Privada T52 Toro": {
+  "fair": 16.48,
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "price": 284.7,
+  "ps": 11.86,
+  "q": 24,
+  "ratio": 0.72,
+  "rival": 16.54,
+  "saving": 0.283,
+  "site": "sunofagun",
+  "variant": "Box of 24"
+ },
+ "Liga Privada Unico Serie Dirty Rat": {
+  "fair": 18.09,
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "price": 143.0,
+  "ps": 11.92,
+  "q": 12,
+  "ratio": 0.659,
+  "rival": 17.33,
+  "saving": 0.312,
+  "site": "tccigar",
+  "variant": "Box of 12"
+ },
+ "Liga Privada Unico Serie Ratzilla": {
+  "fair": 19.62,
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "price": 128.38,
+  "ps": 12.84,
+  "q": 10,
+  "ratio": 0.654,
+  "rival": 18.79,
+  "saving": 0.317,
+  "site": "tccigar",
+  "variant": "Box of 10"
  },
  "Lost & Found 22 Minutes to Midnight Connecticut Radiante Robusto": {
   "fair": 21.0,
@@ -51,6 +129,84 @@
   "site": "cigarsdirect",
   "variant": "Box 20"
  },
+ "OpusX Forbidden X El Beso Prohibido": {
+  "fair": 77.27,
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "price": 249.38,
+  "ps": 49.88,
+  "q": 5,
+  "ratio": 0.645,
+  "rival": 72.0,
+  "saving": 0.307,
+  "site": "greenwich",
+  "variant": "5 Pack"
+ },
+ "Sobremesa Brulee Double Corona": {
+  "fair": 14.24,
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "price": 134.81,
+  "ps": 10.37,
+  "q": 13,
+  "ratio": 0.728,
+  "rival": 14.24,
+  "saving": 0.272,
+  "site": "cigarsdirect",
+  "variant": "Box of 13"
+ },
+ "Sobremesa Brulee Toro": {
+  "fair": 13.82,
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "price": 126.75,
+  "ps": 9.75,
+  "q": 13,
+  "ratio": 0.706,
+  "rival": 13.82,
+  "saving": 0.294,
+  "site": "cigarsdirect",
+  "variant": "Box of 13"
+ },
+ "The Tabernacle Broadleaf Lancero": {
+  "fair": 14.2,
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "price": 250.9,
+  "ps": 10.45,
+  "q": 24,
+  "ratio": 0.736,
+  "rival": 14.5,
+  "saving": 0.279,
+  "site": "greenwich",
+  "variant": "Box of 24"
+ },
+ "The Upsetters Original Rude Boy": {
+  "fair": 14.08,
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "price": 187.68,
+  "ps": 9.38,
+  "q": 20,
+  "ratio": 0.667,
+  "rival": 14.08,
+  "saving": 0.333,
+  "site": "cigarsdirect",
+  "variant": "Box of 20"
+ },
+ "Winston Churchill The Late Hour Robusto": {
+  "fair": 24.3,
+  "first_seen": "2026-11-23",
+  "last_seen": "2026-11-23",
+  "price": 88.4,
+  "ps": 17.68,
+  "q": 5,
+  "ratio": 0.728,
+  "rival": 24.39,
+  "saving": 0.275,
+  "site": "sunofagun",
+  "variant": "5 Pack"
+ },
  "greenwich \u00b7 Arturo Fuente Destino al Siglo de Familias": {
   "fair": 0.0,
   "first_seen": "2026-10-23",
@@ -80,16 +236,16 @@
   "zero": true
  },
  "greenwich \u00b7 Davidoff Millennium Lancero": {
-  "fair": 55.69,
+  "fair": 56.18,
   "first_seen": "2026-10-23",
   "last_seen": "2026-11-23",
-  "price": 29.0,
+  "price": 290.0,
   "ps": 29.0,
-  "q": 1,
-  "ratio": 0.521,
+  "q": 10,
+  "ratio": 0.516,
   "rival": 55.0,
   "saving": 0.473,
   "site": "iheart",
-  "variant": "Single"
+  "variant": "Box of 10"
  }
 }
