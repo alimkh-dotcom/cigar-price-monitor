@@ -109,12 +109,30 @@ Report ANY movement, at any price, even outside a promo.
   wrapper over Dominican filler, four double-tapered perfectos (Black Panther
   6 5/8 x 55, Signature 6 x 46, Work of Art 4 7/8 x 60, Happy Ending 5 1/2 x 53).
   Shipping since March 2026, restricted to TAA-member retailers.
-  **WATCH FIRED 2026-11-23: parkplaza has Black Pink SINGLES in stock** — Signature
-  $24.99, Work of Art $24.99, Happy Ending $29.99. Black Panther is not listed.
-  Before this the only access anywhere in the set was inside Jack Schwartz's
-  "November to Remember" sampler ($270, 14 sticks). These are allocated, so
-  **report any change to that list — a sell-out, a restock, a Black Panther
-  appearing, or Black Pink surfacing at a second retailer.**
+  **Corrected 2026-11-24.** An earlier note claimed the only Black Pink in the set
+  was inside Jack Schwartz's "November to Remember" sampler, and on 2026-11-23 I
+  repeated it and called parkplaza the first source. **Both were wrong** —
+  tccigar, cigarsdirect and sunofagun have all carried Black Pink for weeks. The
+  note was stale and never re-checked, and the comparison that "confirmed" it
+  looked only at singles, so sunofagun's 5-packs were invisible to it.
+
+  Verified live 2026-11-24:
+  - **parkplaza — the only sane in-stock source.** Signature **$24.99**, Work of
+    Art **$24.99**, Happy Ending **$29.99**, singles, all IN STOCK. No Black Panther.
+  - **cigarsdirect — in stock but it is the Fuente outlier.** Work of Art and
+    Signature boxes of 25 at $70.00/stick, Happy Ending $120.00 single, **Black
+    Panther box of 20 at $2,200 ($110.00/stick)** — the only Black Panther anywhere
+    we can see, and it came back in stock on 2026-11-23. Not a buy at that price.
+  - **tccigar — everything OUT.** Work of Art $25.10, Happy Ending $28.75,
+    Signature $24.10 as singles. **The prices to watch: a tccigar restock
+    undercuts parkplaza on all three.**
+  - **sunofagun — everything OUT**, all four vitolas as 5-packs: Signature
+    $15.00/stick, Work of Art $15.80, Happy Ending $17.20, Black Panther $21.40.
+    **Cheapest per stick of anyone when it is in stock** — and it WAS in stock on
+    2026-11-19 (Work of Art), so it moves.
+
+  So: **report any restock at tccigar or sunofagun** (both undercut parkplaza),
+  any Black Panther outside cigarsdirect, and any parkplaza sell-out.
 
 For an untried Rare Pink vitola he would rather buy **singles or a Weekly Burn
 tier than a 5-pack**, so flag single-stick availability when it exists.
