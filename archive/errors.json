@@ -25,19 +25,6 @@
   "site": "tccigar",
   "variant": "5 Pack"
  },
- "Caldwell Long Live the Queen Queen's Club": {
-  "fair": 16.6,
-  "first_seen": "2026-11-24",
-  "last_seen": "2026-11-24",
-  "price": 115.0,
-  "ps": 11.5,
-  "q": 10,
-  "ratio": 0.693,
-  "rival": 16.6,
-  "saving": 0.307,
-  "site": "parkplaza",
-  "variant": "Box of 10"
- },
  "EGM Media Coronas": {
   "fair": 16.49,
   "first_seen": "2026-11-23",
@@ -63,6 +50,19 @@
   "saving": 0.291,
   "site": "cigarsdirect",
   "variant": "Box of 12"
+ },
+ "Liga Privada T52 Toro": {
+  "fair": 16.55,
+  "first_seen": "2026-11-24",
+  "last_seen": "2026-11-24",
+  "price": 284.7,
+  "ps": 11.86,
+  "q": 24,
+  "ratio": 0.717,
+  "rival": 16.54,
+  "saving": 0.283,
+  "site": "sunofagun",
+  "variant": "Box of 24"
  },
  "Liga Privada Unico Serie Dirty Rat": {
   "fair": 18.09,
@@ -129,6 +129,19 @@
   "site": "cigarsdirect",
   "variant": "Box 20"
  },
+ "OpusX Forbidden X El Beso Prohibido": {
+  "fair": 77.83,
+  "first_seen": "2026-11-24",
+  "last_seen": "2026-11-24",
+  "price": 249.38,
+  "ps": 49.88,
+  "q": 5,
+  "ratio": 0.641,
+  "rival": 72.0,
+  "saving": 0.307,
+  "site": "greenwich",
+  "variant": "5 Pack"
+ },
  "Sobremesa Brulee Double Corona": {
   "fair": 14.24,
   "first_seen": "2026-11-23",
@@ -156,13 +169,13 @@
   "variant": "Box of 13"
  },
  "The Tabernacle Broadleaf Lancero": {
-  "fair": 14.19,
+  "fair": 14.2,
   "first_seen": "2026-11-23",
   "last_seen": "2026-11-24",
   "price": 250.9,
   "ps": 10.45,
   "q": 24,
-  "ratio": 0.737,
+  "ratio": 0.736,
   "rival": 14.5,
   "saving": 0.279,
   "site": "greenwich",
@@ -182,13 +195,13 @@
   "variant": "Box of 20"
  },
  "Winston Churchill The Late Hour Robusto": {
-  "fair": 24.3,
+  "fair": 24.41,
   "first_seen": "2026-11-23",
   "last_seen": "2026-11-24",
   "price": 88.4,
   "ps": 17.68,
   "q": 5,
-  "ratio": 0.728,
+  "ratio": 0.724,
   "rival": 24.39,
   "saving": 0.275,
   "site": "sunofagun",
@@ -223,16 +236,16 @@
   "zero": true
  },
  "greenwich \u00b7 Davidoff Millennium Lancero": {
-  "fair": 56.22,
+  "fair": 56.18,
   "first_seen": "2026-10-23",
   "last_seen": "2026-11-24",
-  "price": 29.0,
+  "price": 290.0,
   "ps": 29.0,
-  "q": 1,
+  "q": 10,
   "ratio": 0.516,
   "rival": 55.0,
   "saving": 0.473,
   "site": "iheart",
-  "variant": "Single"
+  "variant": "Box of 10"
  }
 }

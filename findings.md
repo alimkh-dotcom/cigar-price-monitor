@@ -3760,3 +3760,28 @@ previous run 2026-11-24T00:02:39+00:00 · 35,513 variants tracked
 - **27% under** `greenwich` Arturo Fuente Anejo Reserva #55 [Box of 25] = $17.49/stick vs $23.99/stick at `sunofagun` (Arturo Fuente Añejo Reserva No. 55)
 - **27% under** `greenwich` God of Fire KKP Never Back Down Diadema 54 [Box of 10] = $55.00/stick vs $75.00/stick at `cigarsdirect` (God of Fire KKP Never Back Down Diadema 54)
 - **27% under** `greenwich` Cuesta-Rey Centenario Maduro Robusto #7 [Single] = $8.80/stick vs $11.99/stick at `sunofagun` (Cuesta-Rey Centenario Robusto No. 7 Maduro)
+
+
+---
+
+# Cigar price monitor — 2026-11-24T12:02:55+00:00
+previous run 2026-11-24T01:53:25+00:00 · 35,516 variants tracked
+
+## Price drops ≥20%  (12)
+- **41%** **BIG** `tobaccoreserve` Infinity Cigars Night Shift Perfecto [Single] = $13.00/stick — $22.00 → **$13.00**
+- **41%** **BIG** `tobaccoreserve` Infinity Cigars Day Shift Perfecto [Single] = $13.00/stick — $22.00 → **$13.00**
+- **40%** **BIG** `tobaccoreserve` Infinity Cigars Night Shift Toro [Single] = $12.00/stick — $20.00 → **$12.00**
+- **40%** **BIG** `tobaccoreserve` Infinity Cigars Day Shift Toro [Single] = $12.00/stick — $20.00 → **$12.00**
+- **38%** **BIG** `tobaccoreserve` Infinity Cigars Night Shift Perfecto [5-Pack — Save 5%] = $13.00/stick — $104.50 → **$65.00**
+- **38%** **BIG** `tobaccoreserve` Infinity Cigars Day Shift Perfecto [5-Pack — Save 5%] = $13.00/stick — $104.50 → **$65.00**
+- **37%** **BIG** `tobaccoreserve` Infinity Cigars Night Shift Toro [5-Pack — Save 5%] = $12.00/stick — $95.00 → **$60.00**
+- **37%** **BIG** `tobaccoreserve` Infinity Cigars Day Shift Toro [5-Pack — Save 5%] = $12.00/stick — $95.00 → **$60.00**
+- **34%** `tobaccoreserve` Infinity Cigars Night Shift Perfecto [Box of 25 — Save 10%] = $13.00/stick — $495.00 → **$325.00** _(out of stock)_
+- **34%** `tobaccoreserve` Infinity Cigars Day Shift Perfecto [Box of 25 — Save 10%] = $13.00/stick — $495.00 → **$325.00** _(out of stock)_
+- **33%** `tobaccoreserve` Infinity Cigars Night Shift Toro [Box of 25 — Save 10%] = $12.00/stick — $450.00 → **$300.00** _(out of stock)_
+- **33%** `tobaccoreserve` Infinity Cigars Day Shift Toro [Box of 25 — Save 10%] = $12.00/stick — $450.00 → **$300.00** _(out of stock)_
+
+## New products  (3)
+- `sunofagun` My Father La Antiguedad Robusto [Box of 20] = $7.99/stick — $159.80
+- `sunofagun` My Father La Antiguedad Robusto [5-Pack] = $8.99/stick — $44.95
+- `sunofagun` My Father La Antiguedad Robusto [Single] = $9.99/stick — $9.99
