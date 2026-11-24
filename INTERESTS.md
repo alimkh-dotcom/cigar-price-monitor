@@ -173,11 +173,31 @@ tobaccoreserve lists this line as "Opus X Don Carlos Edicion de Anniversario" -
 everyone else sells it as an Arturo Fuente line, not an Opus X, so that prefix
 looks like their mislabel and is worth confirming before treating it as Opus X.
 
-**Rare Pink -> tccigar** for singles among shops that ship to him: Short Story
-$18.25, Signature $24.35, Work of Art $25.10, Queen of Hearts $33.95 - cheaper
-than iheart on every vitola (2026-11-19). **Tampa** is cheaper still per stick in
-Mini Boxes of 5 but sells no singles and exposes no stock field. Discount any
-"% under cigarsdirect" on Rare Pink - that is the known Fuente outlier.
+**Rare Pink singles — split tccigar / Greenwich.** Verified in stock 2026-11-24:
+
+| vitola | cheapest in-stock single | |
+|---|---|---|
+| Short Story | **$18.25** | tccigar |
+| Signature | **$24.35** | tccigar |
+| Work of Art | **$25.10** | tccigar |
+| Queen of Hearts | **$33.95** | tccigar |
+| Happy Ending | **$30.80** | greenwich (iheart $35.00) |
+| Sophisticated Hooker | **$50.00** | greenwich (cigarsdirect $90.00) |
+
+**Greenwich carries the entire Rare Pink line as singles, 5-packs and boxes, all
+in stock**, and is the only in-stock source for Sophisticated Hooker. This was
+invisible until 2026-11-24 because Greenwich never reached the matcher - the gap
+that was fixed the same day. Discount any "% under cigarsdirect" on Rare Pink.
+
+**The six as singles come to $182.45. Tampa's Rare Pink Sampler IV is $150.00 for
+all six** ($25.00/stick, one order, ships to NY) - still the best way to buy the
+line, by $32.45. A 2026-11-23 answer put that gap at $76.65 because Greenwich was
+not in the comparison. Greenwich's own Rare Pink 5-Cigar Assortment is $150.00
+for FIVE, so Tampa's beats it outright.
+
+**Greenwich also lists Black Pink** (Happy Ending, Signature, Work of Art) but all
+out of stock and priced $0.00, which is its known broken-listing pattern. It is a
+restock source to watch, not a price.
 
 ### Correcting the 2026-11-17 "53 unique variants" claim
 
