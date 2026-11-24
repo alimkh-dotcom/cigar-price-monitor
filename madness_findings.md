@@ -1598,3 +1598,35 @@ compared against 10 retailers and 26 previous Monday Madness runs
 | 3 | Liga Privada T52 Flying Pig [Box of 12] | $240.00 → **$156.00** | $13.00 | -35% on-site ($240.00 → $156.00, compare_at); -29% vs $18.33/stick at cigarsdirect (in stock); also discounted on 2026-11-22 at $18.00 |
 | 4 | Liga Privada T52 Toro [Box of 24] | $438.00 → **$284.70** | $11.86 | -35% on-site ($438.00 → $284.70, compare_at); -28% vs $16.54/stick at sunofagun (in stock); also discounted on 2026-11-22 at $16.43 |
 | 5 | Alma Fuerte Sixto I Colorado Claro [Box 10] | $245.00 → **$159.25** | $15.93 | -35% on-site ($245.00 → $159.25, compare_at); -21% vs $20.19/stick at sunofagun (in stock); also discounted on 2026-11-22 at $23.70 |
+
+
+---
+
+# Monday Madness — 2026-11-24
+76 variants marked down on-site · these revert within ~24h
+compared against 11 retailers and 27 previous Monday Madness runs
+
+## Top 10 picks · $1,796.07 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | AJ Fernandez Dias de Gloria Brazil Corona [Box of 20] | $280.00 → **$154.00** | $7.70 | -45% on-site ($280.00 → $154.00, compare_at); -39% vs $12.60/stick at cigarsdirect (in stock); also discounted on 2026-11-23 at $11.20 |
+| 2 | The Upsetters Original Rude Boy [Box of 20] | $312.80 → **$187.68** | $9.38 | -40% on-site ($312.80 → $187.68, compare_at); -33% vs $14.08/stick at cigarsdirect (in stock); also discounted on 2026-11-23 at $14.86 |
+| 3 | Liga Privada Unico Serie Ratzilla [Box of 10] | $197.50 → **$128.38** | $12.84 | -35% on-site ($197.50 → $128.38, compare_at); -32% vs $18.79/stick at tccigar (in stock); also discounted on 2026-11-23 at $17.78 |
+| 4 | Liga Privada Unico Serie Dirty Rat [Box of 12] | $220.00 → **$143.00** | $11.92 | -35% on-site ($220.00 → $143.00, compare_at); -31% vs $17.33/stick at tccigar (in stock); also discounted on 2026-11-23 at $16.50 |
+| 5 | Liga Privada T52 Flying Pig [Box of 12] | $240.00 → **$156.00** | $13.00 | -35% on-site ($240.00 → $156.00, compare_at); -29% vs $18.33/stick at cigarsdirect (in stock); also discounted on 2026-11-23 at $18.00 |
+| 6 | Liga Privada T52 Toro [Box of 24] | $438.00 → **$284.70** | $11.86 | -35% on-site ($438.00 → $284.70, compare_at); -28% vs $16.54/stick at sunofagun (in stock); also discounted on 2026-11-23 at $16.43 |
+| 7 | Alma Fuerte Sixto I Colorado Claro [Box 10] | $245.00 → **$159.25** | $15.93 | -35% on-site ($245.00 → $159.25, compare_at); -21% vs $20.19/stick at sunofagun (in stock); also discounted on 2026-11-23 at $23.70 |
+| 8 | Brick House Churchill Double Connecticut [Box of 25] | $258.75 → **$142.31** | $5.69 | -45% on-site ($258.75 → $142.31, compare_at); -26% vs $7.70/stick at tampasweet (in stock); also discounted on 2026-11-23 at $8.28 |
+| 9 | Brick House Corona Larga Natural [Box of 25] | $227.00 → **$124.85** | $4.99 | -45% on-site ($227.00 → $124.85, compare_at); -26% vs $6.71/stick at tampasweet (in stock); also discounted on 2026-11-23 at $7.26 |
+| 10 | Liga Privada T52 Corona Doble [Box of 24] | $486.00 → **$315.90** | $13.16 | -35% on-site ($486.00 → $315.90, compare_at); -23% vs $17.16/stick at sunofagun (in stock); also discounted on 2026-11-23 at $18.23 |
+
+## Top 5 picks · $769.06 if you took every one
+
+| # | cigar | was → now | per stick | why |
+|---|---|---|---|---|
+| 1 | AJ Fernandez Dias de Gloria Brazil Corona [Box of 20] | $280.00 → **$154.00** | $7.70 | -45% on-site ($280.00 → $154.00, compare_at); -39% vs $12.60/stick at cigarsdirect (in stock); also discounted on 2026-11-23 at $11.20 |
+| 2 | The Upsetters Original Rude Boy [Box of 20] | $312.80 → **$187.68** | $9.38 | -40% on-site ($312.80 → $187.68, compare_at); -33% vs $14.08/stick at cigarsdirect (in stock); also discounted on 2026-11-23 at $14.86 |
+| 3 | Liga Privada Unico Serie Ratzilla [Box of 10] | $197.50 → **$128.38** | $12.84 | -35% on-site ($197.50 → $128.38, compare_at); -32% vs $18.79/stick at tccigar (in stock); also discounted on 2026-11-23 at $17.78 |
+| 4 | Liga Privada Unico Serie Dirty Rat [Box of 12] | $220.00 → **$143.00** | $11.92 | -35% on-site ($220.00 → $143.00, compare_at); -31% vs $17.33/stick at tccigar (in stock); also discounted on 2026-11-23 at $16.50 |
+| 5 | Liga Privada T52 Flying Pig [Box of 12] | $240.00 → **$156.00** | $13.00 | -35% on-site ($240.00 → $156.00, compare_at); -29% vs $18.33/stick at cigarsdirect (in stock); also discounted on 2026-11-23 at $18.00 |

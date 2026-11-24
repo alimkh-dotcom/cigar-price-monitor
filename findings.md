@@ -3327,3 +3327,128 @@ previous run 2026-11-23T12:03:11+00:00 · 29,912 variants tracked
 ## Newly inflated variants  (2)
 - `cigarsdirect` Aging Room Quattro Nicaragua Maestro Torpedo [1 Cigar] = $18.97/stick — $13.78 → $18.97; now $18.97/stick vs $13.46 for its sibling
 - `cigarsdirect` Aging Room Quattro Nicaragua Maestro Torpedo [Box of 20] = $17.07/stick — $248.18 → $341.50; now $17.07/stick vs $13.46 for its sibling
+
+
+---
+
+# Cigar price monitor — 2026-11-24T00:02:39+00:00
+previous run 2026-11-23T22:02:24+00:00 · 32,931 variants tracked
+
+## ⚑ Standing watch  (50)
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X 20th Father & Son Cigar Single = $55.00/stick — $55.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X 20th Power Of The Dream Cigar Single = $57.50/stick — $57.50
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X 20th Sampler (Limit 1) Cigar Sampler 5ct = $16.00/stick — $79.99
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X 25th Aniversario Perfecto Cigar Single = $200.00/stick — $200.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X 25th Aniversario Tributo Cigar Single = $79.99/stick — $79.99
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Baby Shark 77 Cigar Single = $31.50/stick — $31.50
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Belicoso XXX Cigar Single = $32.00/stick — $32.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Double Corona Cigar Single = $47.00/stick — $47.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Double Robusto Cigar Single = $31.00/stick — $31.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Forbidden Deseos d'Amor Cigar Single = $50.00/stick — $50.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Forbidden El Beso Cigar Single = $49.75/stick — $49.75
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Forbidden Pasion d'Amor Cigar Single = $55.00/stick — $55.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Forbidden X Amor Sensual Cigar Single = $60.00/stick — $60.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Fuente Fuente Cigar Single = $34.00/stick — $34.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Love Affair Cigar Single = $27.25/stick — $27.25
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Magnum O Cigar Single = $38.00/stick — $38.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Oro Oscuro Fuente Fuente Cigar Single = $40.00/stick — $40.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Oro Oscuro SerieX Perfecxion No. 4 Cigar Single = $30.00/stick — $30.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Oscuro Robusto Cigar Single = $33.00/stick — $33.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Oscuro Super Belicoso Cigar Single = $34.00/stick — $34.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X PerfecXion No. 5 Cigar Single = $27.00/stick — $27.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X PerfecXion No. 77 Shark Cigar Single = $39.00/stick — $39.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X PerfecXion X Tin Cigar Box 3ct = $40.00/stick — $119.99
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Perfecxion 888 Cigar Single = $35.00/stick — $35.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Perfecxion No. 4 Cigar Single = $29.00/stick — $29.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Perfecxion X Cigar Single = $43.00/stick — $43.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Petite Lancero Cigar Single = $33.00/stick — $33.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Reserva d'Chateau Cigar Single = $45.00/stick — $45.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Robusto Tin Cigar Box 3ct = $36.66/stick — $109.99
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Robusto Cigar Single = $30.00/stick — $30.00
+- **OpusX** — NEW listing: `parkplaza` Arturo Fuente Opus X Super Belicoso Cigar Single = $35.00/stick — $35.00
+- **OpusX Heaven & Earth** — NEW listing: `parkplaza` Arturo Fuente Opus X Angel's Share PerfecXion X Box Cigar Box 32ct = $33.91/stick — $1,084.99
+- **OpusX Heaven & Earth** — NEW listing: `parkplaza` Arturo Fuente Opus X Angel's Share PerfecXion X Cigar Single = $35.00/stick — $35.00
+- **OpusX Heaven & Earth** — NEW listing: `parkplaza` Scorpion FUMAS Connecticut Churchill Bundle Cigar Bundle 16ct = $2.62/stick — $41.96
+- **OpusX Heaven & Earth** — NEW listing: `parkplaza` Scorpion FUMAS Connecticut Churchill Cigar Single = $3.25/stick — $3.25
+- **OpusX Heaven & Earth** — NEW listing: `parkplaza` Scorpion FUMAS Connecticut Gordo BNDL Cigar Bundle 16ct = $3.00/stick — $47.96
+- **OpusX Heaven & Earth** — NEW listing: `parkplaza` Scorpion FUMAS Connecticut Gordo Cigar Single = $3.75/stick — $3.75
+- **Rare Pink** — NEW listing: `parkplaza` Arturo Fuente Black Pink VS Happy Ending Cigar Single = $29.99/stick — $29.99
+- **Rare Pink** — NEW listing: `parkplaza` Arturo Fuente Black Pink VS Signature Cigar Single = $24.99/stick — $24.99
+- **Rare Pink** — NEW listing: `parkplaza` Arturo Fuente Black Pink VS Work of Art Cigar Single = $24.99/stick — $24.99
+- **Rare Pink** — NEW listing: `parkplaza` Arturo Fuente Rare Pink Happy Ending Cigar Single = $24.99/stick — $24.99
+- **Rare Pink** — NEW listing: `parkplaza` Arturo Fuente Rare Pink Queen of Hearts Cigar Single = $24.99/stick — $24.99
+- **Rare Pink** — NEW listing: `parkplaza` Arturo Fuente Rare Pink Short Story Box Cigar Box 25ct = $16.00/stick — $399.99
+- **Rare Pink** — NEW listing: `parkplaza` Arturo Fuente Rare Pink Short Story Cigar Single = $17.99/stick — $17.99
+- **Rare Pink** — NEW listing: `parkplaza` Arturo Fuente Rare Pink Signature Box Cigar Box 25ct = $20.00/stick — $499.99
+- **Rare Pink** — NEW listing: `parkplaza` Arturo Fuente Rare Pink Signature Cigar Single = $19.99/stick — $19.99
+- **Rare Pink** — NEW listing: `parkplaza` Arturo Fuente Rare Pink Sophisticated Hooker Box Cigar Box 20ct = $35.00/stick — $699.99
+- **Rare Pink** — NEW listing: `parkplaza` Arturo Fuente Rare Pink Sophisticated Hooker Cigar Single = $34.99/stick — $34.99
+- **Rare Pink** — NEW listing: `parkplaza` Arturo Fuente Rare Pink Work of Art Box Cigar Box 25ct = $20.00/stick — $499.99
+- **Rare Pink** — NEW listing: `parkplaza` Arturo Fuente Rare Pink Work of Art Cigar Single = $19.99/stick — $19.99
+
+## New products  (3004)
+- `parkplaza` Arturo Fuente Opus X 25th Aniversario Tributo Box [Cigar Box 25ct] = $72.00/stick — $1,799.99 _(out of stock)_
+- `parkplaza` Davidoff Aniversario Double R Box [Cigar Box 25ct] = $46.80/stick — $1,169.99
+- `parkplaza` Arturo Fuente Opus X Angel's Share PerfecXion X Box [Cigar Box 32ct] = $33.91/stick — $1,084.99
+- `parkplaza` Davidoff Maduro Toro Box [Cigar Box 20ct] = $54.00/stick — $1,079.99 _(out of stock)_
+- `parkplaza` Davidoff Maduro Robusto Box [Cigar Box 20ct] = $50.00/stick — $999.99 _(out of stock)_
+- `parkplaza` Davidoff Grand Cru Toro Box [Cigar Box 25ct] = $32.20/stick — $804.99
+- `parkplaza` Arturo Fuente Opus X Robusto Box [Cigar Box 29ct] = $27.59/stick — $799.99 _(out of stock)_
+- `parkplaza` Davidoff Aniversario No. 3 Tubo Box [Cigar Box 20ct] = $36.90/stick — $737.99 _(out of stock)_
+- `parkplaza` Davidoff Aniversario Special R Box [Cigar Box 25ct] = $28.92/stick — $722.99
+- `parkplaza` Rocky Patel Edge Nicaraguan Habano Toro Box [Cigar Box 100ct] = $7.19/stick — $718.99 _(out of stock)_
+- `parkplaza` Davidoff Signature Toro Box [Cigar Box 25ct] = $28.72/stick — $717.99 _(out of stock)_
+- `parkplaza` Arturo Fuente Rare Pink Sophisticated Hooker Box [Cigar Box 20ct] = $35.00/stick — $699.99
+- `parkplaza` Davidoff Aniversario Special T Box [Cigar Box 20ct] = $34.90/stick — $697.99
+- `parkplaza` Davidoff Grand Cru Robusto Box [Cigar Box 25ct] = $27.88/stick — $696.99
+- `parkplaza` Cohiba Black Supremo Box [Cigar Box 25ct] = $26.80/stick — $669.99
+- `parkplaza` Arturo Fuente OpusX Perfecxion 888 Box [Cigar Box 24ct] = $27.50/stick — $660.00 _(out of stock)_
+- `parkplaza` Davidoff Millennium Robusto Tubo Box [Cigar Box 20ct] = $32.70/stick — $653.99 _(out of stock)_
+- `parkplaza` Perdomo Legacy Father & Son Connecticut Box [Cigar Box 50ct] = $13.00/stick — $649.99 _(out of stock)_
+- `parkplaza` Perdomo Legacy Father & Son Maduro Box [Cigar Box 50ct] = $13.00/stick — $649.99 _(out of stock)_
+- `parkplaza` Padron 1926 No. 40 Maduro Box [Cigar Box 20ct] = $32.00/stick — $640.00
+- `parkplaza` Padron 1926 No. 40 Natural Box [Cigar Box 20ct] = $32.00/stick — $640.00
+- `parkplaza` Davidoff Aniversario No.1 L.E. 2023 Box [Cigar Box 10ct] = $64.00/stick — $639.99
+- `parkplaza` Davidoff Winston Churchill Late Hour Toro Box [Cigar Box 20ct] = $31.30/stick — $625.99 _(out of stock)_
+- `parkplaza` Davidoff Late Hour Churchill Box [Cigar Box 20ct] = $31.20/stick — $623.99 _(out of stock)_
+- `parkplaza` Davidoff Signature 6000 Regular Box [Cigar Box 25ct] = $24.80/stick — $619.99 _(out of stock)_
+- `parkplaza` Davidoff Aniversario Special R Tubo Box [Cigar Box 20ct] = $30.90/stick — $617.99
+- `parkplaza` Arturo Fuente Rare Pink Queen Of Hearts Box [Cigar Box 20ct] = $30.00/stick — $599.99 _(out of stock)_
+- `parkplaza` Arturo Fuente Don Carlos Personal Reserve The Man's 80th Box [Cigar Box 20ct] = $30.00/stick — $599.99 _(out of stock)_
+- `parkplaza` Arturo Fuente Don Carlos Eye of the Shark Box [Cigar Box 20ct] = $30.00/stick — $599.99 _(out of stock)_
+- `parkplaza` Padron 1926 No. 9 Maduro Box [Cigar Box 24ct] = $24.50/stick — $588.00 _(out of stock)_
+- _…2974 more_
+
+## New variants on existing products  (12)
+- `sunofagun` El Galan Campestre Gran Toro [Habano / Single] — $5.99
+- `sunofagun` El Galan Campestre Gran Toro [Connecticut / Single] — $5.99
+- `sunofagun` El Galan Campestre Gran Toro [Maduro / Single] — $5.99
+- `sunofagun` El Galan Campestre Churchill [Habano / Single] — $5.99
+- `sunofagun` El Galan Campestre Churchill [Connecticut / Single] — $5.99
+- `sunofagun` El Galan Campestre Churchill [Maduro / Single] — $5.99
+- `sunofagun` El Galan Campestre Toro [Habano / Single] — $4.99
+- `sunofagun` El Galan Campestre Toro [Connecticut / Single] — $4.99
+- `sunofagun` El Galan Campestre Toro [Maduro / Single] — $4.99
+- `sunofagun` El Galan Campestre Robusto [Habano / Single] — $4.99
+- `sunofagun` El Galan Campestre Robusto [Connecticut / Single] — $4.99
+- `sunofagun` El Galan Campestre Robusto [Maduro / Single] — $4.99
+
+## Cheaper than the same cigar elsewhere  (18) — _unverified, check the vitola_
+- **74% under** `parkplaza` Arturo Fuente Rare Pink Happy Ending [Cigar Single] = $24.99/stick vs $95.00/stick at `cigarsdirect` (Arturo Fuente Rare Pink Happy Ending)
+- **62% under** `parkplaza` Arturo Fuente Rare Pink Work of Art Box [Cigar Box 25ct] = $20.00/stick vs $52.00/stick at `cigarsdirect` (Arturo Fuente Rare Pink Work of Art)
+- **62% under** `parkplaza` Arturo Fuente Rare Pink Signature Box [Cigar Box 25ct] = $20.00/stick vs $52.00/stick at `cigarsdirect` (Arturo Fuente Rare Pink Signature)
+- **61% under** `parkplaza` Arturo Fuente Rare Pink Sophisticated Hooker [Cigar Single] = $34.99/stick vs $90.00/stick at `cigarsdirect` (Arturo Fuente Rare Pink Sophisticated Hooker)
+- **61% under** `parkplaza` Arturo Fuente Rare Pink Sophisticated Hooker Box [Cigar Box 20ct] = $35.00/stick vs $90.00/stick at `cigarsdirect` (Arturo Fuente Rare Pink Sophisticated Hooker)
+- **52% under** `parkplaza` Arturo Fuente Opus X Baby Shark 77 [Cigar Single] = $31.50/stick vs $66.00/stick at `cigarsdirect` (Arturo Fuente OpusX Baby Shark No.77)
+- **50% under** `parkplaza` CLE 25th Anniversary 11/18 [Cigar Single] = $9.00/stick vs $17.86/stick at `cigarsdirect` (CLE 25th Anniversary 11 / 18)
+- **47% under** `parkplaza` Arturo Fuente Hemingway Between the Lines [Cigar Single] = $11.70/stick vs $21.99/stick at `sunofagun` (Arturo Fuente Hemingway Between the Lines)
+- **40% under** `parkplaza` Montecristo Platinum Series Toro Box [Cigar Box 27ct] = $8.15/stick vs $13.66/stick at `cigarsdirect` (Montecristo Platinum Toro)
+- **39% under** `parkplaza` Cohiba Red Dot Churchill [Cigar Single] = $17.99/stick vs $29.49/stick at `cigarsdirect` (Cohiba Red Dot Churchill)
+- **35% under** `parkplaza` Arturo Fuente Flor Fina 8-5-8 Sun Grown Rosado [Cigar Single] = $11.00/stick vs $16.99/stick at `sunofagun` (Arturo Fuente Flor Fina 8-5-8 Rosado Sun Grown)
+- **32% under** `parkplaza` Mi Querida Triqui Traca No. 652 Box [Cigar Box 20ct] = $8.75/stick vs $12.89/stick at `iheart` (Mi Querida Triqui Traca No.652)
+- **31% under** `parkplaza` Arturo Fuente Don Carlos Eye Of The Bull Box [Cigar Box 5ct] = $25.00/stick vs $36.00/stick at `cigarsdirect` (Arturo Fuente Don Carlos Eye of the Bull)
+- **29% under** `parkplaza` Mi Querida Triqui Traca No. 552 Box [Cigar Box 20ct] = $8.50/stick vs $12.01/stick at `iheart` (Mi Querida Triqui Traca No.552)
+- **29% under** `parkplaza` Deadwood Dominicana Pequena Box [Cigar Box 20ct] = $5.45/stick vs $7.69/stick at `sunofagun` (Deadwood Dominicana Pequena)
+- **27% under** `parkplaza` Arturo Fuente Spanish Lonsdale Natural Box [Cigar Box 25ct] = $6.64/stick vs $9.11/stick at `sunofagun` (Arturo Fuente Spanish Lonsdale Maduro)
+- **26% under** `parkplaza` Arturo Fuente Rare Pink Queen of Hearts [Cigar Single] = $24.99/stick vs $33.95/stick at `tccigar` (Arturo Fuente Rare Pink Queen of Hearts)
+- **26% under** `parkplaza` Mi Querida Fino Largo Box [Cigar Box 20ct] = $9.60/stick vs $12.89/stick at `iheart` (Mi Querida Fino Largo)
