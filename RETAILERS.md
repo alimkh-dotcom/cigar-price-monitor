@@ -158,6 +158,20 @@ same brand set, ~36 including God of Fire.
     and every product has one `Default Title` variant with the pack count in the
     PRODUCT title, so `variant_qty()` derives the count and moves it into the
     variant label.
+- **federalcigar.com — evaluated 2026-11-24, NOT added.** WooCommerce (Store API
+  open, robots.txt fine), 173 products / 723 variations, 100% in stock, 32% of it
+  in Ali's lines, ships to NY (only Hawaii and Utah excluded), free shipping over
+  $175, NH tax-free. Rejected on price: **median 1.106x the cheapest tracked rival
+  and cheapest of anyone on only 22%** — the worst baseline measured, against
+  sunofagun 1.062x/32% and tobaccoreserve 1.055x/38%. Its apparent Rare Pink
+  "wins" are all against cigarsdirect, the Fuente outlier; read against Tampa it
+  loses on four of six vitolas. Atabey is dearer than sunofagun on every size with
+  no pack discount at all. No Black Pink, 2 OpusX products. Being WooCommerce it
+  would need a bespoke scraper plus a variation call per product — not worth it.
+  **Worth a MANUAL check for two things only:** Rare Pink Happy Ending 5-pack
+  ($119.75, $23.95/stick, cheapest anywhere) and Sophisticated Hooker box of 20
+  ($691.50, $34.58/stick, best per-stick anywhere). Ali passed on both on
+  2026-11-24, preferring Tampa's Sampler IV.
 - **Bot-protected, do not retry and never work around a challenge:** CigarPage and
   Regency Cigar (Cloudflare managed challenge, covering even /robots.txt), JR
   Cigars (Imperva).

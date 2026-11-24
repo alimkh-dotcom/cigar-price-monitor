@@ -150,6 +150,14 @@ Report ANY movement, at any price, even outside a promo.
 For an untried Rare Pink vitola he would rather buy **singles or a Weekly Burn
 tier than a 5-pack**, so flag single-stick availability when it exists.
 
+**Breadth beats depth, and beats per-stick price.** Decided 2026-11-24: offered a
+Rare Pink Happy Ending 5-pack at Federal Cigar for $119.75 ($23.95/stick, the
+cheapest Happy Ending anywhere and under the $24.50 he had already passed on
+three times), he chose Tampa's Rare Pink Sampler IV at $150.00 instead — six
+different vitolas including the two he has never smoked. **So for a line he is
+still exploring, a sampler covering the range outranks a cheaper 5-pack of one
+vitola. Do not lead with a single-vitola multipack when a range sampler exists.**
+
 ## Where to buy what
 
 Measured 2026-11-19 on a full catalogue pull of all eight Shopify shops.
