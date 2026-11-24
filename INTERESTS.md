@@ -6,6 +6,15 @@ Routine prompt. Keep it current; date every claim.
 
 Last confirmed with Ali: **2026-11-17**.
 
+## Hard constraint: it must ship to New York
+
+**Ali is in NY. A retailer that will not ship there is worth nothing to him, at
+any price.** Check this BEFORE evaluating a shop's catalogue, not after — on
+2026-11-23 parkplaza was added, measured and recommended over two sessions before
+this came up, and it had to be removed. See RETAILERS.md for the published
+exclusions of every tracked shop; none of them exclude NY, which is why this never
+surfaced until a liquor store joined the set.
+
 ## Brands
 
 **Strong — report anything.** OpusX (especially Heaven & Earth), Arturo Fuente
@@ -117,8 +126,9 @@ Report ANY movement, at any price, even outside a promo.
   looked only at singles, so sunofagun's 5-packs were invisible to it.
 
   Verified live 2026-11-24:
-  - **parkplaza — the only sane in-stock source.** Signature **$24.99**, Work of
-    Art **$24.99**, Happy Ending **$29.99**, singles, all IN STOCK. No Black Panther.
+  - **parkplaza — DOES NOT SHIP TO NEW YORK, so it is not a buy at any price.**
+    Removed from the tracked set 2026-11-24. Listed Signature $24.99, Work of Art
+    $24.99, Happy Ending $29.99, all in stock. Kept here only as a price reference.
   - **cigarsdirect — in stock but it is the Fuente outlier.** Work of Art and
     Signature boxes of 25 at $70.00/stick, Happy Ending $120.00 single, **Black
     Panther box of 20 at $2,200 ($110.00/stick)** — the only Black Panther anywhere
@@ -131,8 +141,11 @@ Report ANY movement, at any price, even outside a promo.
     **Cheapest per stick of anyone when it is in stock** — and it WAS in stock on
     2026-11-19 (Work of Art), so it moves.
 
-  So: **report any restock at tccigar or sunofagun** (both undercut parkplaza),
-  any Black Panther outside cigarsdirect, and any parkplaza sell-out.
+  **Net: there is currently no realistic way for Ali to buy Black Pink.** The only
+  shop with it in stock that ships to him is cigarsdirect, at $70-120/stick, which
+  is the Fuente outlier and not a buy. tccigar and sunofagun both ship to NY and
+  both undercut everyone — **a restock at either is the event to report**, along
+  with any Black Panther outside cigarsdirect.
 
 For an untried Rare Pink vitola he would rather buy **singles or a Weekly Burn
 tier than a 5-pack**, so flag single-stick availability when it exists.
@@ -160,24 +173,11 @@ tobaccoreserve lists this line as "Opus X Don Carlos Edicion de Anniversario" -
 everyone else sells it as an Arturo Fuente line, not an Opus X, so that prefix
 looks like their mislabel and is worth confirming before treating it as Opus X.
 
-**Rare Pink and Black Pink -> parkplaza.** Added 2026-11-23 and immediately the
-cheapest Rare Pink singles in or out of the tracked set: Happy Ending **$24.99**
-(iheart $35.00), Queen of Hearts **$24.99** (tccigar $33.95), Sophisticated
-Hooker **$34.99** (sold as a single nowhere else we track). Discount any
-"% under cigarsdirect" on these - that is the known Fuente outlier, not a deal.
-Ali has passed on iheart's Happy Endings 5-pack at $122.50 ($24.50/stick) three
-times; parkplaza sells the same stick singly for about the same money.
-
-**Destino al Siglo singles -> parkplaza** on three of four: Amistad $33.00 (iheart
-$39.25), Amor $39.00 ($44.00), Familias $40.00 ($55.00), Pasion $42.00 (tie).
-
-**parkplaza baseline, measured 2026-11-23** on **620** head-to-head in-stock
-singles - by far the largest sample measured for any shop, so the most reliable:
-median **1.052x** the cheapest tracked rival, cheapest of anyone on **36%**,
-15%+ dearer on 16%. Better than sunofagun (1.062x / 32%). It carries **no Atabey,
-Byron, God of Fire or Meerapfel**, but 33 Davidoff singles in stock (cheapest
-Signature Ambassadrice $13.50 - not the cheapest Davidoff source, jackschwartz
-still is, but good breadth for the one-vitola-at-a-time project).
+**Rare Pink -> tccigar** for singles among shops that ship to him: Short Story
+$18.25, Signature $24.35, Work of Art $25.10, Queen of Hearts $33.95 - cheaper
+than iheart on every vitola (2026-11-19). **Tampa** is cheaper still per stick in
+Mini Boxes of 5 but sells no singles and exposes no stock field. Discount any
+"% under cigarsdirect" on Rare Pink - that is the known Fuente outlier.
 
 ### Correcting the 2026-11-17 "53 unique variants" claim
 

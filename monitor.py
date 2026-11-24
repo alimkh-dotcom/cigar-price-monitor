@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Scrape nine Shopify cigar catalogs, diff against the last run, report what changed.
+"""Scrape eight Shopify cigar catalogs, diff against the last run, report what changed.
 
 Only one file persists between runs: snapshots/state.json.gz — prices/availability/
 counts keyed by variant id, names stripped (~210 KB). Names come from the live pull.
@@ -63,6 +63,10 @@ WATCH = [
 # scotch listings whose product_type matches nothing in NONCIGAR_TYPE. Whitelist
 # instead - keep only the "Cigar ..." types, minus the accessory ones sharing that
 # prefix. Value is (keep, drop) matched against product_type.
+# DORMANT 2026-11-24: parkplaza was removed from sites.json because it does not
+# ship to New York. The entry is kept so re-adding it is a one-line change to
+# sites.json, and the mechanism is generic - any future shop that sells more than
+# cigars and tags them "Cigar ..." needs exactly this.
 CIGAR_ONLY = {
     "parkplaza": (re.compile(r'^cigar', re.I),
                   re.compile(r'cutter|punch|\btools?\b', re.I)),

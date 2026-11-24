@@ -4,9 +4,37 @@ Apply these before calling any finding real. The Routine reads this file on ever
 run, so correcting a retailer is a commit here, not a rewrite of the Routine
 prompt. Date every measurement.
 
-The tracked set: **nine Shopify shops** (iheart, tccigar, mrbundles, jackschwartz,
-gtcigars, cigarsdirect, sunofagun, tobaccoreserve, parkplaza) plus luxurycigarclub,
-Tampa Sweethearts and Tobacconist of Greenwich.
+The tracked set: **eight Shopify shops** (iheart, tccigar, mrbundles, jackschwartz,
+gtcigars, cigarsdirect, sunofagun, tobaccoreserve) plus luxurycigarclub, Tampa
+Sweethearts and Tobacconist of Greenwich.
+
+## Shipping — check this FIRST when evaluating any shop
+
+**Ali is in New York.** A shop that will not ship there is worth nothing to him
+whatever its prices, so confirm it before measuring anything else. Published
+exclusions, read 2026-11-24:
+
+| shop | will not ship to |
+|---|---|
+| iheart | Utah, Hawaii (and P.O. boxes) |
+| tccigar | Alaska, Hawaii, Maine, South Dakota, Utah, Washington, Wisconsin |
+| mrbundles | Hawaii |
+| gtcigars | Utah, Hawaii |
+| Tampa Sweethearts | Hawaii, Puerto Rico, South Dakota, Utah |
+| sunofagun | nothing published; has a "Cigars Shipped to New York City" page |
+| jackschwartz, cigarsdirect, tobaccoreserve | nothing published found |
+
+**None of them exclude New York.** The policy pages are often silent, so silence
+is not confirmation — but no tracked cigar shop is known to refuse NY.
+
+**parkplaza (Park Plaza Liquor) was added 2026-11-23 and removed 2026-11-24
+because it does not ship to New York.** It is a liquor store, which is very likely
+why — alcohol shipping is licensed state by state and NY is restrictive. Nothing
+on its shipping-policy page says so; Ali found out himself. Its catalogue was
+genuinely good (3,016 cigars, 80% in stock, median 1.052x on 620 matches, the only
+in-stock Black Pink at a sane price), so **if it ever ships to NY it is worth
+re-adding** — that is one line back into `sites.json`, since the `CIGAR_ONLY`
+whitelist and `variant_qty()` it needed are still in `monitor.py`, marked dormant.
 
 ## The traps that have produced bad findings
 
