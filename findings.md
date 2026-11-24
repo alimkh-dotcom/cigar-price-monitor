@@ -3785,3 +3785,37 @@ previous run 2026-11-24T01:53:25+00:00 · 35,516 variants tracked
 - `sunofagun` My Father La Antiguedad Robusto [Box of 20] = $7.99/stick — $159.80
 - `sunofagun` My Father La Antiguedad Robusto [5-Pack] = $8.99/stick — $44.95
 - `sunofagun` My Father La Antiguedad Robusto [Single] = $9.99/stick — $9.99
+
+
+---
+
+# Cigar price monitor — 2026-11-24T22:02:48+00:00
+previous run 2026-11-24T12:02:55+00:00 · 35,538 variants tracked
+
+## ⚑ Standing watch  (2)
+- **OpusX Heaven & Earth** — back IN STOCK: `tobaccoreserve` Opus X Heaven & Earth Scorpio Maduro Single cigar = $75.00/stick — $75.00
+- **OpusX Heaven & Earth** — back IN STOCK: `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 54 Single cigar = $77.50/stick — $77.50
+
+## New products  (22)
+- `jackschwartz` Arturo Fuente Rare Pink Signature [Box of 25] = $17.68/stick — $442.00 _(out of stock)_
+- `tobaccoreserve` Highclere Castle Senetjer [Box of 12] = $33.00/stick — $396.00
+- `iheart` My Father Le Bijou 1922 Churchill [Box of 20] = $13.50/stick — $270.00
+- `iheart` My Father Le Bijou 1922 Torpedo Box Pressed [Box of 20] = $13.00/stick — $260.00
+- `iheart` Vegafina Conquistadores Anejados [Box of 10] = $26.00/stick — $260.00 _(out of stock)_
+- `iheart` My Father Le Bijou 1922 Toro [Box of 20] = $12.60/stick — $252.00
+- `iheart` My Father Le Bijou 1922 Grand Robusto [Box of 20] = $12.20/stick — $244.00
+- `jackschwartz` CRA Freedom Sampler Fall 2026 [Default Title] — $205.00
+- `tobaccoreserve` Highclere Castle Senetjer [5-Pack] = $33.00/stick — $165.00 _(out of stock)_
+- `iheart` Vegafina Conquistadores Anejados [5 Pack] = $26.00/stick — $130.00 _(out of stock)_
+- `jackschwartz` Arturo Fuente Rare Pink Signature [Box of 5] = $17.80/stick — $89.00 _(out of stock)_
+- `iheart` My Father Le Bijou 1922 Churchill [5 Pack] = $13.50/stick — $67.50
+- `iheart` My Father Le Bijou 1922 Torpedo Box Pressed [5 Pack] = $13.00/stick — $65.00
+- `iheart` My Father Le Bijou 1922 Toro [5 Pack] = $12.60/stick — $63.00
+- `iheart` My Father Le Bijou 1922 Grand Robusto [5 Pack] = $12.20/stick — $61.00
+- `tobaccoreserve` Highclere Castle Senetjer [Single] = $33.00/stick — $33.00
+- `iheart` Vegafina Conquistadores Anejados [Single] = $26.00/stick — $26.00 _(out of stock)_
+- `jackschwartz` Arturo Fuente Rare Pink Signature [Single] = $18.00/stick — $18.00 _(out of stock)_
+- `iheart` My Father Le Bijou 1922 Churchill [Single] = $13.50/stick — $13.50
+- `iheart` My Father Le Bijou 1922 Torpedo Box Pressed [Single] = $13.00/stick — $13.00
+- `iheart` My Father Le Bijou 1922 Toro [Single] = $12.60/stick — $12.60
+- `iheart` My Father Le Bijou 1922 Grand Robusto [Single] = $12.20/stick — $12.20

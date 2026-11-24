@@ -13,7 +13,7 @@
   "variant": "Box of 20"
  },
  "AJ Fernandez New World Dorado Figurado": {
-  "fair": 12.52,
+  "fair": 12.53,
   "first_seen": "2026-10-22",
   "last_seen": "2026-11-24",
   "price": 26.8,
@@ -52,33 +52,33 @@
   "variant": "Box of 12"
  },
  "Liga Privada T52 Toro": {
-  "fair": 16.55,
+  "fair": 16.57,
   "first_seen": "2026-11-24",
   "last_seen": "2026-11-24",
   "price": 284.7,
   "ps": 11.86,
   "q": 24,
-  "ratio": 0.717,
+  "ratio": 0.716,
   "rival": 16.54,
   "saving": 0.283,
   "site": "sunofagun",
   "variant": "Box of 24"
  },
  "Liga Privada Unico Serie Dirty Rat": {
-  "fair": 18.09,
+  "fair": 18.1,
   "first_seen": "2026-11-23",
   "last_seen": "2026-11-24",
   "price": 143.0,
   "ps": 11.92,
   "q": 12,
-  "ratio": 0.659,
+  "ratio": 0.658,
   "rival": 17.33,
   "saving": 0.312,
   "site": "tccigar",
   "variant": "Box of 12"
  },
  "Liga Privada Unico Serie Ratzilla": {
-  "fair": 19.62,
+  "fair": 19.63,
   "first_seen": "2026-11-23",
   "last_seen": "2026-11-24",
   "price": 128.38,
@@ -169,13 +169,13 @@
   "variant": "Box of 13"
  },
  "The Tabernacle Broadleaf Lancero": {
-  "fair": 14.2,
+  "fair": 14.32,
   "first_seen": "2026-11-23",
   "last_seen": "2026-11-24",
   "price": 250.9,
   "ps": 10.45,
   "q": 24,
-  "ratio": 0.736,
+  "ratio": 0.73,
   "rival": 14.5,
   "saving": 0.279,
   "site": "greenwich",
@@ -195,7 +195,7 @@
   "variant": "Box of 20"
  },
  "Winston Churchill The Late Hour Robusto": {
-  "fair": 24.41,
+  "fair": 24.43,
   "first_seen": "2026-11-23",
   "last_seen": "2026-11-24",
   "price": 88.4,
@@ -236,16 +236,16 @@
   "zero": true
  },
  "greenwich \u00b7 Davidoff Millennium Lancero": {
-  "fair": 56.18,
+  "fair": 55.71,
   "first_seen": "2026-10-23",
   "last_seen": "2026-11-24",
-  "price": 290.0,
+  "price": 29.0,
   "ps": 29.0,
-  "q": 10,
-  "ratio": 0.516,
+  "q": 1,
+  "ratio": 0.521,
   "rival": 55.0,
   "saving": 0.473,
   "site": "iheart",
-  "variant": "Box of 10"
+  "variant": "Single"
  }
 }
