@@ -2,15 +2,19 @@
 """Scrape eight Shopify cigar catalogs, diff against the last run, report what changed.
 
 Only one file persists between runs: snapshots/state.json.gz — prices/availability/
-counts keyed by variant id, names stripped (~210 KB). Names come from the live pull.
+counts keyed by variant id, names stripped (~210 KB), plus the names of watched
+listings only, so a watched item that VANISHES can still be named next run.
+Tampa and Tobacconist of Greenwich are folded in from their own snapshots.
 """
-import json, re, gzip, subprocess, sys, os, datetime, time
+import json, re, gzip, subprocess, sys, os, datetime, time, hashlib, unicodedata
 from collections import defaultdict
 
 HERE  = os.path.dirname(os.path.abspath(__file__))
 SITES = json.load(open(os.path.join(HERE, "sites.json")))
 STATE = os.path.join(HERE, "snapshots", "state.json.gz")
 RIVALS = os.path.join(HERE, "snapshots", "rivals.json.gz")   # cache, gitignored
+TAMPA  = os.path.join(HERE, "snapshots", "tampa.json.gz")
+GREENWICH = os.path.join(HERE, "snapshots", "greenwich.json.gz")
 
 DROP_PCT, BIG_DROP, CHEAP_RATIO, TRAP_RATIO = 0.20, 0.35, 0.70, 1.15
 MAXQTY    = 200     # larger than any real box; beyond this the label is not a count
@@ -28,7 +32,7 @@ SMALL = re.compile(r'papas fritas|coronet|ponies|cigarrito|cigarillo|petit |peti
                    r'aperitif|prelude|prontos|amores|romeos|miniature|purito|chico|shorty|'
                    r'cubanito|junior|demi|\btins? of\b|x.press', re.I)
 NONCIGAR = re.compile(r'ashtray|lighter|cutter|humidor|boveda|hygrometer|magazine|'
-                      r'\bcase\b|wallet|keychain|mug|glass|solution|torch|\bpen\b|'
+                      r'\bcase\b|wallet|keychain|mug|glass|solution|torch|\bpen\b|scissors?|'
                       r'\bhat\b|shirt|book|\bbag\b|match|gift card|watch winder|'
                       # Prometheus/God of Fire sell display pieces whose variant label
                       # says so outright; the brand name alone reads as a cigar hit.
@@ -48,12 +52,17 @@ NONCIGAR_TYPE = re.compile(r'spirit|accessor|lighter|cutter|humidor|ashtray|appa
 # scarce enough that nothing else of it is in stock. That is the case these exist
 # for. First pattern to match wins, so the more specific ones come first.
 WATCH = [
+    # Rare Pink FIRST. "Arturo Fuente Rare Black Pink Sampler" otherwise matches
+    # the Heaven & Earth pattern's "rare black" (meant for Rare Black Diadema)
+    # and gets filed under the wrong watch - which it did, on the one listing
+    # Ali most wanted to see. No genuine Heaven & Earth item says "rare pink" or
+    # "black pink", so taking this first is safe.
+    ("Rare Pink",
+     re.compile(r'rare pink|black pink', re.I)),
     ("OpusX Heaven & Earth",
      re.compile(r'heaven\s*(?:&|and)\s*earth|\bbbmf\b|tauros|el escorpion|'
                 r'rare black|rare purple|purple rain|scorpio|'
                 r'angel.?s share|stairway to heaven|opus ?(?:5|6|11) ', re.I)),
-    ("Rare Pink",
-     re.compile(r'rare pink|black pink', re.I)),
     ("OpusX",
      re.compile(r'opus\s?x|\boxo\b|forbidden x', re.I)),
 ]
@@ -92,6 +101,15 @@ STOP = {"the","of","by","cigar","cigars","and","le","natural","maduro","edicion"
         "single","singles","tin","tins","boxes","bundle","count","each","boat",
         "cabinet","chest","case","sampler","pk"}
 SYN = {"af":"arturo","opus":"opusx","ffox":"opusx","x":"","no":"","number":""}
+# Words naming the HOUSE, not the cigar. Shops disagree about these on the same
+# stick: iheart sells "Rare Pink Vintage 1960's Short Story" where everyone else
+# sells "Arturo Fuente Rare Pink Short Story". Jaccard on the full titles is 0.50
+# against a 0.90 threshold, so the match is missed and the item gets reported as
+# the only source — which happened on 2026-11-20 while tccigar had it in stock
+# $2.39 cheaper than the Burn tier. xr_check retries with these dropped, but only
+# when XR_MINTOK distinctive words survive on BOTH sides, so "OpusX Robusto" can
+# never match "Arturo Fuente Robusto" on the word Robusto.
+HOUSE = frozenset({"arturo", "fuente", "opusx", "vintage", "1960"})
 
 def keytokens(title, keep_nums=True):
     """Distinctive words only. Parenthesised sizes and ring gauges are dropped.
@@ -100,13 +118,16 @@ def keytokens(title, keep_nums=True):
     one cigar from another, and stripping them matched Perfecxion No.5 to No.4.
     They are dropped from variant titles, where every number is a pack count.
     """
-    t = re.sub(r'\(.*?\)', ' ', title.lower())
+    t = unicodedata.normalize("NFKD", title.lower())
+    t = "".join(c for c in t if not unicodedata.combining(c))   # Selección -> Seleccion
+    t = re.sub(r'\(.*?\)', ' ', t)
     t = re.sub(r'[^a-z0-9 ]', ' ', t)
     out = set()
     for w in t.split():
         if w[0].isdigit():
             if not keep_nums or len(w) > 4: continue   # 4-digit+ = a year or a size
             out.add(w); continue
+        w = re.sub(r'(.)\1+', r'\1', w)      # Anniversario -> Aniversario
         w = SYN.get(w, w)
         if w and w not in STOP and len(w) > 1:
             out.add(w)
@@ -165,6 +186,44 @@ def qty(title):
     if m: return int(m.group(1))
     if re.match(r'^five\s*pack', t): return 5
     return None
+
+def load_offline():
+    """Fold the Tampa and Greenwich snapshots in as pseudo-sites.
+
+    Both are crawled by their own scripts into their own files and had never
+    reached report(), so the standing watch was blind to them — the worst possible
+    gap, since Tampa is the cheapest Rare Pink source in the set. It cost a real
+    find: an Arturo Fuente Rare Black Pink Sampler (6 cigars, $135.00) appeared at
+    Tampa in the 2026-11-16 crawl and was gone by 2026-11-22, and nothing fired.
+
+    Tampa publishes no stock field, so catalogue presence IS the stock signal: a
+    row that is here counts as available, and one that disappears is a sell-out.
+    Keys are hashed from name+variant so they stay stable across crawls.
+    """
+    cur, names = {}, {}
+    for site, path, has_avail in (("tampa", TAMPA, False), ("greenwich", GREENWICH, True)):
+        if not os.path.exists(path): continue
+        try:
+            d = json.load(gzip.open(path, "rt"))
+        except Exception as e:
+            print(f"  {site:14} snapshot unreadable: {e}", file=sys.stderr); continue
+        rows = d["rows"] if isinstance(d, dict) else d
+        n = 0
+        for row in rows:
+            try:
+                name, var, price, q = row[0], row[1], float(row[2]), row[3]
+                avail = bool(row[4]) if has_avail else True
+            except (IndexError, TypeError, ValueError):
+                continue
+            if price <= 0:
+                continue
+            h = hashlib.md5(f"{name}{SEP}{var}".encode()).hexdigest()[:12]
+            key = f"{site}:{h}"
+            cur[key]   = [price, 1 if avail else 0, q if isinstance(q, int) else None]
+            names[key] = f"{name}{SEP}{var}"
+            n += 1
+        print(f"  {site:14} {n:6}  (snapshot)", file=sys.stderr)
+    return cur, names
 
 def scrape():
     cur, names, bad = {}, {}, []
@@ -268,14 +327,19 @@ def xr_check(k, cur, names, rows, tok2rows):
     out = None
     for i, shared in cand.items():
         osite, otoks, ocls, ops, ok_ = rows[i]
-        if osite == site or ocls != cls or shared < XR_MINTOK: continue
-        if shared / len(toks | otoks) < XR_MATCH: continue
+        if osite == site or ocls != cls: continue
+        ok = shared >= XR_MINTOK and shared / len(toks | otoks) >= XR_MATCH
+        if not ok:
+            a, b = toks - HOUSE, otoks - HOUSE
+            if len(a) >= XR_MINTOK and len(b) >= XR_MINTOK:
+                ok = len(a & b) / len(a | b) >= XR_MATCH
+        if not ok: continue
         if out is None or ops < out[0]: out = (ops, osite, ok_)
     if out is None: return None
     return out if mine <= out[0] * (1 - XR_GAP) else None
 
 # ---------------------------------------------------------------- diffing
-def report(cur, names, prev, prev_ts, ts):
+def report(cur, names, prev, prev_ts, ts, prev_names=None):
     per  = lambda r: (r[0] / r[2]) if r[2] else None
     prod = lambda k: names[k].split(SEP)[0]
 
@@ -340,7 +404,17 @@ def report(cur, names, prev, prev_ts, ts):
             # never reaches the drops section, and "report ANY movement" means any.
             watch.append((label, f"price cut {1 - price/old[0]:.0%} from ${old[0]:,.2f}",
                           k, price, q))
-    watch.sort(key=lambda x: (x[0], names[x[2]]))
+    # A watched listing that DISAPPEARED. For Tampa that is the only sell-out
+    # signal there is; elsewhere it means delisted. Scoped to watched lines
+    # because ordinary shops drop products constantly.
+    for k, nm in (prev_names or {}).items():
+        if k in cur or NONCIGAR.search(nm): continue
+        label = next((lab for lab, rx in WATCH if rx.search(nm)), None)
+        if label is None: continue
+        was = prev.get(k, [None])[0]
+        watch.append((label, f"GONE from the catalogue (was ${was:,.2f})" if was
+                      else "GONE from the catalogue", k, was or 0, None))
+    watch.sort(key=lambda x: (x[0], names.get(x[2], "")))
 
     # --- B: cross-retailer, only for things that just changed
     rows, tok2rows = build_xindex(cur, names)
@@ -378,8 +452,10 @@ def report(cur, names, prev, prev_ts, ts):
         L.append(f"\n## \u2691 Standing watch  ({len(watch)})")
         for label, why, k, pr, q in watch:
             ps = f" = ${pr/q:,.2f}/stick" if q else ""
+            nm = names.get(k) or (prev_names or {}).get(k, k)
+            suffix = "" if why.startswith("GONE") else f"{ps} \u2014 ${pr:,.2f}"
             L.append(f"- **{label}** \u2014 {why}: `{k.split(':')[0]}` "
-                     f"{names[k].replace(SEP, ' ')}{ps} \u2014 ${pr:,.2f}")
+                     f"{nm.replace(SEP, ' ')}{suffix}")
 
     if drops:
         L.append(f"\n## Price drops ≥{int(DROP_PCT*100)}%  ({len(drops)})")
@@ -424,25 +500,33 @@ def main():
               f"fetch: {', '.join(bad)}. State left untouched; next run will diff normally.")
         return 2
 
-    prev, prev_ts = {}, None
+    # RIVALS stays Shopify-only: promos.py loads Tampa and Greenwich itself and
+    # would double-count them. Write it before folding the snapshots in.
+    with gzip.open(RIVALS, "wt") as f:
+        json.dump({"ts": ts, "cur": cur, "names": names}, f, separators=(",", ":"))
+
+    off_cur, off_names = load_offline()
+    cur.update(off_cur); names.update(off_names)
+
+    prev, prev_ts, prev_names = {}, None, {}
     if os.path.exists(STATE):
         old = json.load(gzip.open(STATE, "rt"))
         prev, prev_ts = old["v"], old["ts"]
+        prev_names = old.get("wn", {})
 
     if prev:
-        text, n = report(cur, names, prev, prev_ts, ts)
+        text, n = report(cur, names, prev, prev_ts, ts, prev_names)
     else:
         text, n = (f"# Cigar price monitor — {ts}\n\nBaseline captured "
                    f"({len(cur):,} variants). Next run will report changes."), 0
     print(text)
 
     os.makedirs(os.path.dirname(STATE), exist_ok=True)
+    # Names of watched listings only, so one that vanishes can still be named.
+    wn = {k: nm for k, nm in names.items()
+          if not NONCIGAR.search(nm) and any(rx.search(nm) for _, rx in WATCH)}
     with gzip.open(STATE, "wt") as f:
-        json.dump({"ts": ts, "v": cur}, f, separators=(",", ":"))
-    # full pull WITH names, for promos.py to reuse instead of re-scraping six
-    # catalogs minutes later. Not committed - it is a cache, not a baseline.
-    with gzip.open(RIVALS, "wt") as f:
-        json.dump({"ts": ts, "cur": cur, "names": names}, f, separators=(",", ":"))
+        json.dump({"ts": ts, "v": cur, "wn": wn}, f, separators=(",", ":"))
     with open(os.path.join(HERE, "findings.md"), "a") as f:
         f.write("\n\n---\n\n" + text + "\n")
     return 0

@@ -3452,3 +3452,311 @@ previous run 2026-11-23T22:02:24+00:00 · 32,931 variants tracked
 - **27% under** `parkplaza` Arturo Fuente Spanish Lonsdale Natural Box [Cigar Box 25ct] = $6.64/stick vs $9.11/stick at `sunofagun` (Arturo Fuente Spanish Lonsdale Maduro)
 - **26% under** `parkplaza` Arturo Fuente Rare Pink Queen of Hearts [Cigar Single] = $24.99/stick vs $33.95/stick at `tccigar` (Arturo Fuente Rare Pink Queen of Hearts)
 - **26% under** `parkplaza` Mi Querida Fino Largo Box [Cigar Box 20ct] = $9.60/stick vs $12.89/stick at `iheart` (Mi Querida Fino Largo)
+
+
+---
+
+# Cigar price monitor — 2026-11-24T01:53:25+00:00
+previous run 2026-11-24T00:02:39+00:00 · 35,513 variants tracked
+
+## ⚑ Standing watch  (237)
+- **OpusX** — NEW listing: `greenwich` Arturo Fuente & Opus X Inspiration 15-Cigar Sampler 15-Cigar Sampler = $32.46/stick — $486.90
+- **OpusX** — NEW listing: `greenwich` Arturo Fuente Don Carlos & Opus X Pure Cojones 11-Cigar Sampler 11-Cigar Sampler = $58.55/stick — $644.00
+- **OpusX** — NEW listing: `greenwich` Arturo Fuente Opus X Bulls vs Sharks 11-Cigar Sampler Pack of 11 = $41.73/stick — $459.00
+- **OpusX** — NEW listing: `greenwich` Arturo Fuente Opus X La Gran Fumada The Impossible Collection 13 Vol. II Box of 13 = $200.00/stick — $2,600.00
+- **OpusX** — NEW listing: `greenwich` Arturo Fuente Opus X Robusto Mega Sampler 12-Cigar Sampler = $31.62/stick — $379.50
+- **OpusX** — NEW listing: `greenwich` Arturo Fuente Opus Xodus Rare 4-Cigar Sampler (2) 4-Cigar Samplers — $500.00
+- **OpusX** — NEW listing: `greenwich` Arturo Fuente Opus Xodus Rare 4-Cigar Sampler (4) 4-Cigar Samplers — $1,000.00
+- **OpusX** — NEW listing: `greenwich` Arturo Fuente Opus Xodus Rare 4-Cigar Sampler 4-Cigar Sampler = $62.50/stick — $250.00
+- **OpusX** — NEW listing: `tampa` Arturo Fuente OpusX 2023 La Gran Fumada Collection Set  — $1,995.00
+- **OpusX** — NEW listing: `greenwich` Don Carlos 90 Años & Rare Opus X 12-Cigar Sampler 12-Cigar Sampler = $40.58/stick — $487.00
+- **OpusX** — NEW listing: `greenwich` Elie Bleu EBC-3 Limited Edition Edition Cigar Scissors Fuente OpusX 25th - Polished Stainless Steel Black/Stainless Steel — $520.00
+- **OpusX** — NEW listing: `tampa` FFOX Forbidden X Sampler IV  — $184.00
+- **OpusX** — NEW listing: `tampa` FFOX OXO Oscuro Sampler X  — $175.00
+- **OpusX** — NEW listing: `greenwich` Fuente & Opus X Raging Maduro 10-Cigar Sampler 10-Cigar Sampler = $32.85/stick — $328.50
+- **OpusX** — NEW listing: `greenwich` Fuente & Opus X Rare 888’s 15-Cigar Sampler 15-Cigar Sampler = $31.33/stick — $470.00
+- **OpusX** — NEW listing: `greenwich` Fuente Don Carlos & Opus X Raging Bull 15-Cigar Sampler 15-Cigar Sampler = $36.33/stick — $545.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X 20th Anniversary Believe 5-Pack = $74.00/stick — $370.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X 20th Anniversary Believe Box of 20 = $74.00/stick — $1,480.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X 20th Anniversary Believe Single = $74.00/stick — $74.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X 20th Anniversary Father  Son 5-Pack = $76.00/stick — $380.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X 20th Anniversary Father  Son Box of 20 = $76.00/stick — $1,520.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X 20th Anniversary Father  Son Single = $76.00/stick — $76.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X 20th Anniversary Gods Whisper 5-Pack = $80.00/stick — $400.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X 20th Anniversary Gods Whisper Box of 20 = $80.00/stick — $1,600.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X 20th Anniversary Gods Whisper Single = $80.00/stick — $80.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X 20th Anniversary Power of the Dream 5-Pack = $77.00/stick — $385.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X 20th Anniversary Power of the Dream Box of 20 = $76.20/stick — $1,524.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X 20th Anniversary Power of the Dream Single = $77.00/stick — $77.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X 25th Anniversary 10-Cigar Sampler Pack of 10 = $79.50/stick — $795.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X 25th Anniversary Perfecto Box of 20 = $120.00/stick — $2,400.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X 25th Anniversary Rare Finds Box of 10 = $240.00/stick — $2,400.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X 25th Anniversary Tributo Box of 25 = $120.00/stick — $3,000.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Belicoso XXX Power Ranger Box of 42 = $30.95/stick — $1,300.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Belicoso XXX Power Ranger Single = $30.95/stick — $30.95
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Double Corona 5-Pack = $46.00/stick — $230.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Double Corona Box of 32 = $45.97/stick — $1,471.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Double Robusto Box of 42 = $40.00/stick — $1,680.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Forbidden X Amor Sensual Box of 20 = $75.00/stick — $1,500.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Forbidden X Deseos d'Amor 10-Pack = $74.00/stick — $740.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Forbidden X Deseos d'Amor Box of 20 = $74.00/stick — $1,480.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Forbidden X Deseos d'Amor Single = $74.00/stick — $74.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Forbidden X El Beso Prohibido Box of 20 = $72.00/stick — $1,440.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Forbidden X El Beso Prohibido Single = $72.00/stick — $72.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Forbidden X El Trece Magistral 13 Box of 13 = $70.00/stick — $910.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Forbidden X El Trece Magistral 13 Box of 26 = $70.00/stick — $1,820.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Forbidden X Pasion d'Amor 10-Pack = $75.00/stick — $750.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Forbidden X Pasion d'Amor Box of 20 = $75.00/stick — $1,500.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Forbidden X Pasion d'Amor Single = $75.00/stick — $75.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Fuente Fuente Box of 32 = $34.00/stick — $1,088.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Love Affair Box of 18 = $36.11/stick — $650.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Magnum O Box of 36 = $40.00/stick — $1,440.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Belicoso XXX 5-Pack = $29.00/stick — $145.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Belicoso XXX Box of 42 = $29.05/stick — $1,220.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Double Robusto Box of 42 = $45.00/stick — $1,890.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Fuente Fuente 5-Pack = $30.00/stick — $150.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Fuente Fuente Box of 32 = $30.00/stick — $960.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Perfecxion #4 5-Pack = $30.00/stick — $150.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Perfecxion #4 Box of 42 = $30.00/stick — $1,260.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Perfecxion X 5-Pack 5-Pack = $43.50/stick — $217.50
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Perfecxion X Tin of 3 Tin of 3 = $43.33/stick — $130.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Perfecxion X 5-Pack = $43.50/stick — $217.50
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Perfecxion X Box of 32 = $40.00/stick — $1,280.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Reserva D'Chateau 5-Pack = $58.00/stick — $290.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Reserva D'Chateau Box of 32 = $50.00/stick — $1,600.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Reserva D’Chateau Tin of 3 Tin of 3 = $58.33/stick — $175.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Robusto Tin of 3 Tin of 3 = $41.67/stick — $125.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Robusto Box of 29 = $42.00/stick — $1,218.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Super Belicoso 5-Pack = $40.51/stick — $202.55
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Super Belicoso Box of 29 = $40.52/stick — $1,175.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Opus22 & Opus 25th Ultimate Bundle 2-Box Set — $3,895.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Perfecxion #2 Box of 29 = $42.00/stick — $1,218.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Perfecxion #4 5-Pack = $32.00/stick — $160.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Perfecxion #4 Box of 42 = $32.00/stick — $1,344.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Perfecxion #5 5-Pack = $45.00/stick — $225.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Perfecxion #5 Box of 42 = $30.95/stick — $1,300.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Perfecxion 888 Box of 24 = $47.50/stick — $1,140.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Perfecxion No 77 Box of 36 = $48.00/stick — $1,728.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Perfecxion X Box of 32 = $38.00/stick — $1,216.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Perfecxion X Tin of 3 = $41.33/stick — $124.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Petit Lancero Box of 32 = $42.50/stick — $1,360.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Pussy Cats Box of 39 = $28.21/stick — $1,100.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Rare Finds XXX Ultimate Bundle Box of 10 & 1-Bottle (750 ML) — $3,000.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Reserva D'Chateau Box of 32 = $55.00/stick — $1,760.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Reserva D'Chateau Tin of 3 = $55.00/stick — $165.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Robusto Box of 29 = $38.02/stick — $1,102.50
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Robusto Single = $38.00/stick — $38.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Robusto Tin of 3 = $38.00/stick — $114.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Society Gold & Bullet Box of 12 = $115.00/stick — $1,380.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Society Box of 20 = $130.00/stick — $2,600.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Society Single = $130.00/stick — $130.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Super Belicoso Box of 29 = $42.59/stick — $1,235.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Templo de Oro #13 Box of 20 = $82.50/stick — $1,650.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Templo de Oro #1 Box of 20 = $80.00/stick — $1,600.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Templo de Oro #3 Box of 20 = $82.50/stick — $1,650.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Templo de Oro #8 Box of 20 = $81.25/stick — $1,625.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X The Lost City 5 Cigar Assortment Box of 5 = $47.00/stick — $235.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X The Lost City Carlito's A Box of 10 = $85.00/stick — $850.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X The Lost City Double Robusto Tubo Box of 8 = $48.75/stick — $390.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X The Lost City Double Robusto Tubo Single = $48.75/stick — $48.75
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X The Lost City Double Robusto Box of 10 = $46.50/stick — $465.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X The Lost City Double Robusto Single = $46.50/stick — $46.50
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X The Lost City Robusto Box of 10 = $42.00/stick — $420.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X The Lost City Robusto Single = $42.00/stick — $42.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X The Lost City Toro Box of 10 = $46.50/stick — $465.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X The Lost City Toro Single = $46.50/stick — $46.50
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X The Opus X Story Box of 4 = $62.25/stick — $249.00
+- **OpusX** — NEW listing: `greenwich` Fuente Fuente Opus X Ultra-Rare Winter 10-Cigar Sampler 10-Cigar Sampler = $43.00/stick — $430.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X & God of Fire Double Robusto 10-Cigar Sampler 10-Cigar Sampler = $33.50/stick — $335.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X & Rare Fuente March 15-Cigar Sampler 15-Cigar Sampler = $31.67/stick — $475.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X 25th & Rosado Collection Sampler 10-Cigar Sampler = $32.55/stick — $325.50
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X 25th & Society Sampler 6-Cigar Sampler = $93.00/stick — $558.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X 25th Anniversary 20-Cigar Mega Sampler 20-Cigar Sampler = $39.75/stick — $795.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X 25th Anniversary Perfecto Volume-II 10-Cigar Sampler 10-Cigar Sampler = $79.50/stick — $795.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Angel’s & Chateau’s 15-Cigar Holiday Sampler 15-Cigar Sampler = $30.27/stick — $454.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Baby Shark 13-Cigar Sampler 13-Cigar Sampler = $34.61/stick — $449.95
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Big B Ultimate Bundle 3-Box Set — $1,340.50
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Collector's Mega 20-Cigar Sampler 20-Cigar Sampler = $38.95/stick — $779.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X December 2025 11-Cigar Sampler 11-Cigar Sampler = $36.82/stick — $405.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Double Corona & Añejo 888 10-Cigar Sampler 10-Cigar Sampler = $29.90/stick — $299.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Dubai & Rare Holiday Collection 16-Cigar Sampler 16-Cigar Sampler = $32.44/stick — $519.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X FFOX July 2025 11-Cigar Sampler 11-Cigar Sampler (w/ Gift) = $54.50/stick — $599.55
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Forbidden X Rare Finds Bourbon Bundle Box and Bottle Combo — $2,661.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Love Affair & Lost City 13-Cigar Sampler 13-Cigar Sampler (w/ Gift) = $33.19/stick — $431.50
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Opus22 & Don Carlos Aniversario Ultimate Bundle 3-Box Set — $2,415.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Opus22 & Lost City Piramide Ultimate Bundle 2-Box Set — $2,165.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Opus7 & Lost City 2-Box Bundle 2-Box Set — $921.50
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Opus8 & Double Chateau Ultimate Bundle 3-Box Set (38-cigars) — $1,165.39
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Oro & Don Carlos 90 11-Cigar Sampler 11-Cigar Sampler = $42.95/stick — $472.50
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Oro & Forbidden Belicoso 10-Cigar Sampler 10-Cigar Sampler = $52.50/stick — $525.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Oro Double Robusto & Perfecxion No. 4 13-Cigar Sampler 13-Cigar Sampler = $30.00/stick — $390.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Oro No. 1 11-Cigar Sampler 11-Cigar Sampler = $46.95/stick — $516.50
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Oro No. 13 11-Cigar Sampler 11-Cigar Sampler = $42.50/stick — $467.50
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Oro No. 3 11-Cigar Sampler 11-Cigar Sampler = $42.95/stick — $472.50
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Oro No. 8 11-Cigar Sampler 11-Cigar Sampler = $51.05/stick — $561.50
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Purple Diadema 56 Ultimate Bundle 3-Box Set (30-Cigars) — $1,774.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Rare Anniversary 11-Cigar Sampler 11-Cigar Sampler = $50.45/stick — $555.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Rare Finds — Titans of Tobacco Collection Box of 10 = $95.00/stick — $950.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Rare Finds — Titans of Tobacco Collection Single = $95.00/stick — $95.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Robusto & Untold Story 12-Cigar Sampler 12-Cigar Sampler = $36.00/stick — $432.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus X Shark Taste of Love & Julius Caeser Et Tu Brute Ultimate Bundle 2-Box Set (40-Cigars) — $2,000.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus XI & God of Fire Ultimate Bundle 3-Box Set — $1,625.00
+- **OpusX** — NEW listing: `greenwich` Fuente Opus XI & Reserva d'Chateau Ultimate Bundle 3-Box Set — $2,995.00
+- **OpusX** — NEW listing: `greenwich` Opus X & Arturo Fuente Family Icons 12-Cigar Sampler 12-Cigar Sampler = $34.52/stick — $414.25
+- **OpusX** — NEW listing: `greenwich` Opus X & Arturo Fuente Work of Art 17-Cigar Sampler 17-Cigar Sampler = $18.91/stick — $321.50
+- **OpusX** — NEW listing: `greenwich` Opus X & Maison Shéron "Spirit of Artisans" Trunk (with 50 cIgars) — $50,000.00
+- **OpusX** — NEW listing: `greenwich` Opus X 20th & Fuente Añejo Sharks 10-Cigar Sampler 10-Cigar Sampler = $34.25/stick — $342.50
+- **OpusX** — NEW listing: `greenwich` Opus X 20th Anniversary & Rare Fuente October Sampler 15-Cigar Sampler = $29.50/stick — $442.50
+- **OpusX** — NEW listing: `greenwich` Opus X Big B & The Dalmore Cigar Malt 2-Box Set + Bottle — $1,105.99
+- **OpusX** — NEW listing: `greenwich` Opus X Carlito’s A & God of Fire Ultimate Bundle 3-Box Set — $1,291.50
+- **OpusX** — NEW listing: `greenwich` Opus X Lost City Carlito's A & 25th Anniversary Ultimate Bundle 3-Box Set (45-cigars) — $1,998.27
+- **OpusX** — NEW listing: `greenwich` Opus XI, Don Carlos Edición de Aniversario & Lost City Ultimate Bundle 3-Box Set — $1,495.00
+- **OpusX** — NEW listing: `greenwich` Opus XXX 10-Year Bourbon Whiskey 3-Bottles (750 ML) — $1,800.00
+- **OpusX** — NEW listing: `greenwich` Opus XXX 10-Year Bourbon Whiskey 6-Bottles (750 ML) — $3,600.00
+- **OpusX** — NEW listing: `greenwich` Opus XXX 10-Year Bourbon Whiskey Single Bottle (750 ML) — $600.00
+- **OpusX** — NEW listing: `greenwich` Opus Xodus 2025 Experience Event Sponsor Package  (SOLD OUT) — $30,000.00
+- **OpusX** — NEW listing: `greenwich` Opus Xodus 2025 Experience Single Head of Table Seat (SOLD OUT) — $3,000.00
+- **OpusX** — NEW listing: `greenwich` Opus Xodus 2025 Experience Single Seat (SOLD OUT) — $1,500.00
+- **OpusX** — NEW listing: `greenwich` Opus Xodus 2025 Experience Single Seat w/ Exclusive Liquor Bottle  (SOLD OUT) — $2,000.00
+- **OpusX** — NEW listing: `greenwich` Opus Xodus 2025 Experience Table of 10 Seats  (SOLD OUT) — $15,000.00
+- **OpusX** — NEW listing: `greenwich` Opus Xodus 2025 Experience Table of 12 Seats  (SOLD OUT) — $18,000.00
+- **OpusX** — NEW listing: `greenwich` Opus Xodus 2025 Experience Table of 15 Seats  (SOLD OUT) — $22,500.00
+- **OpusX** — NEW listing: `greenwich` Opus Xodus 2025 Experience Table of 8 Seats  (SOLD OUT) — $12,000.00
+- **OpusX** — NEW listing: `greenwich` Rare Character Opus Xodus 10-Year Bourbon Whiskey Default Title — $661.00
+- **OpusX** — NEW listing: `greenwich` Rare Don Carlos & Opus X Blue 17-Cigar Sampler 17-Cigar Sampler = $48.79/stick — $829.50
+- **OpusX** — NEW listing: `greenwich` Rare Fuente & Opus X August Sampler 12-Cigar Sampler = $37.08/stick — $445.00
+- **OpusX** — NEW listing: `greenwich` Rare Fuente & Opus X September Sampler 12-Cigar Sampler = $32.92/stick — $395.00
+- **OpusX** — NEW listing: `greenwich` Rare Opus X & Añejo Holiday 14-Cigar Sampler 14-Cigar Sampler = $41.39/stick — $579.50
+- **OpusX** — NEW listing: `greenwich` The Opus X Story & 25th Anniversary Perfecto Bundle 5-Cigar Bundle = $73.80/stick — $369.00
+- **OpusX** — NEW listing: `greenwich` Vintage Rare Opus X & Don Carlos Lancero Collection 9-Cigar Sampler = $255.56/stick — $2,300.00
+- **OpusX Heaven & Earth** — NEW listing: `tampa` FFOX Opus6 Black Set  — $395.00
+- **OpusX Heaven & Earth** — NEW listing: `tampa` FFOX Opus6 Blue Set  — $395.00
+- **OpusX Heaven & Earth** — NEW listing: `tampa` FFOX Opus6 Macassar Set  — $395.00
+- **OpusX Heaven & Earth** — NEW listing: `tampa` FFOX Opus6 Red Set  — $395.00
+- **OpusX Heaven & Earth** — NEW listing: `tampa` FFOX Opus6 Yellow Set  — $395.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Fuente Opus BBMF Maduro & Lost City 11-Cigar Sampler 11-Cigar Sampler = $45.00/stick — $495.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Fuente Opus X Angel’s Share & Don Carlos 90 11-Cigar Sampler 11-Cigar Sampler = $30.68/stick — $337.50
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Fuente Opus X BBMF Maduro & God of Fire 11-Cigar Sampler 11-Cigar Sampler = $48.09/stick — $529.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Fuente Opus X BBMF Natural & Añejo Reserva 12-Cigar Sampler 12-Cigar Sampler = $35.21/stick — $422.50
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Fuente Opus X El Escorpion Maduro & 25th Anniversary Ultimate Bundle 3-Box Set (45-Cigars) — $2,016.25
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Fuente Opus X El Escorpion Natural 11-Cigar Sampler 11-Cigar Sampler = $43.18/stick — $475.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Fuente Opus X Purple Rain Rare 12-Cigar Sampler 12-Cigar Sampler = $43.50/stick — $522.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Fuente Opus X Purple Rain Summer 2026 Ultimate Bundle 3-Box Set — $1,500.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Fuente Opus X Rare Black & Añejo Shark Ultimate Bundle 3-Box Set — $1,775.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Fuente Opus X Rare Black & Casa Fuente Ultimate Bundle 2-Box Set — $1,375.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Fuente Opus X Rare Black Diadema 56 Ultimate Bundle 3-Box Set (30-Cigars) — $1,510.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Fuente Opus X Rare Black Selection Ultimate Bundle 3-Box Set (20-Cigars) — $1,079.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Fuente Opus X Rare Black Torpedo & Perfecxion No. 4 9-Cigar Sampler 9-Cigar Sampler = $61.39/stick — $552.50
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Fuente Opus X Scorpio Maduro & Rare Fuente Ultimate Bundle 3-Box Set — $1,430.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Fuente Opus X Tauros The Bull & Angel’s Share 12-Cigar Sampler 12-Cigar Sampler = $39.71/stick — $476.50
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Fuente Opus X Tauros the Bull Natural & Don Carlos Eye of the Bull Ultimate Bundle 2-Box Set (30-Cigars) — $1,245.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X Blue Buzz & Angel’s Share 7-Cigar Sampler 7-Cigar Sampler = $59.29/stick — $415.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X El Escorpion & Joseph Magnus Cigar Blend 2-Box Set + Bottle — $1,209.99
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X El Escorpion & Untold Story Ultimate Bundle 2-Box Set — $1,425.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X El Escorpion Maduro & Blanton's Gold 2-Box Set + Bottle — $1,169.20
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X El Escorpion Maduro & Never Back Down Ultimate Bundle 2-Box Set (20-Cigars) — $1,265.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X El Escorpion Maduro, Lost City & Don Carlos Ultimate Bundle 3-Box Set — $1,331.50
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X El Escorpion Natural & Never Back Down Ultimate Bundle 2-Box Set (20-Cigars) — $1,265.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X Opus6 & Opus 25th Anniversary Perfecto Bundle 7-Cigar Bundle = $73.57/stick — $515.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X Purple Rain, King T & Casa Cuba Ultimate Bundle 3-Box Set — $1,500.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X Rare Black & Eye of the Bull Ultimate Bundle 3-Box Set (35-Cigars) — $1,560.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X Rare Black & Lost City Ultimate Bundle 3-Box Set — $1,367.50
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X Rare Black Double Corona & KKP Special Reserve Ultimate Bundle 2-Box Set (20-Cigars) — $1,235.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X Rare Black Double Corona & Russell's Reserve Single Barrel 2-Box Set + Bottle — $1,325.49
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X Rare Black Torpedo & Aged Selection Ultimate Bundle 3-Box Set (45-Cigars) — $1,518.94
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X Rare Black Torpedo & Never Back Down Ultimate Bundle 2-Box Set (20-Cigars) — $1,235.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X Rare Black Torpedo & Willett Wheated 8 Year 2-Box Set + Bottle — $1,529.49
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X Scorpio Maduro & Rare Fuente 16-Cigar Sampler 16-Cigar Sampler = $40.00/stick — $640.00
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X Tauros The Bull & Don Carlos Ultimate Bundle 3-Box Set — $1,333.10
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X Tauros The Bull Maduro & Blanton's Single Barrel 2-Box Set + Bottle — $1,155.99
+- **OpusX Heaven & Earth** — NEW listing: `greenwich` Opus X Tauros The Bull Natural & A Midwinter Night's Dram 2-Box Set + Bottle — $1,129.99
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink & Rare Don Carlos 11-Cigar Sampler 11-Cigar Sampler = $34.45/stick — $379.00
+- **Rare Pink** — NEW listing: `tampa` Arturo Fuente Rare Pink Happy Ending Sampler III  — $135.00
+- **Rare Pink** — NEW listing: `tampa` Arturo Fuente Rare Pink Queen of Hearts Mini Box of 5 Cigars  = $22.59/stick — $112.95
+- **Rare Pink** — NEW listing: `tampa` Arturo Fuente Rare Pink Sampler IV  — $150.00
+- **Rare Pink** — NEW listing: `tampa` Arturo Fuente Rare Pink Short Story Mini Box of 5 Cigars  = $12.99/stick — $64.95
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series 5-Cigar Assortment 5-Pack = $30.00/stick — $150.00
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Happy Ending 5-Pack = $30.80/stick — $154.00
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Happy Ending Box of 10 = $33.00/stick — $330.00
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Happy Ending Single = $30.80/stick — $30.80
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Queen of Hearts 5-Pack 5-Pack = $35.00/stick — $175.00
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Queen of Hearts Box of 20 = $35.50/stick — $710.00
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Queen of Hearts Single = $35.00/stick — $35.00
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Short Story 5-Pack 5-Pack = $25.00/stick — $125.00
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Short Story Box of 25 = $23.00/stick — $575.00
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Short Story Single = $23.00/stick — $23.00
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Signature 5-Pack 5-Pack = $29.70/stick — $148.50
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Signature Box of 25 = $26.40/stick — $660.00
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Signature Single = $29.70/stick — $29.70
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Sophisticated Hooker 5-Pack = $50.00/stick — $250.00
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Sophisticated Hooker Box of 20 = $50.00/stick — $1,000.00
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Sophisticated Hooker Single = $50.00/stick — $50.00
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Work of Art 5-Pack 5-Pack = $30.80/stick — $154.00
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Work of Art Box of 25 = $26.40/stick — $660.00
+- **Rare Pink** — NEW listing: `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Work of Art Single = $30.80/stick — $30.80
+- **Rare Pink** — NEW listing: `tampa` Arturo Fuente Rare Pink Work of Art Mini Box of 5 Cigars  = $17.19/stick — $85.95
+- **Rare Pink** — NEW listing: `tampa` Arturo Fuente Rare Pink Work of Art Sampler  — $110.00
+- **Rare Pink** — NEW listing: `greenwich` Rare Pink Sophisticated Hooker & Opus XXX Bourbon Ultimate Bundle Box of 20 & 2-Bottles (750 ML) — $2,200.00
+
+## New products  (4530)
+- `greenwich` Opus X & Maison Shéron "Spirit of Artisans" [Trunk (with 50 cIgars)] — $50,000.00
+- `greenwich` Opus Xodus 2025 Experience [Event Sponsor Package  (SOLD OUT)] — $30,000.00
+- `greenwich` Padron  “A HAMMER & A DREAM” Experience [SOLD OUT - Event Sponsor Package] — $30,000.00
+- `greenwich` The Titans of Tobacco 2026 Experience [Table of 15 Seats] — $26,250.00
+- `greenwich` Opus Xodus 2025 Experience [Table of 15 Seats  (SOLD OUT)] — $22,500.00
+- `greenwich` The Titans of Tobacco 2026 Experience [Table of 12 Seats] — $21,000.00
+- `greenwich` La Flor Dominicana Espejo de Litto [Humidor of 150 Cigars] — $20,000.00
+- `greenwich` Opus Xodus 2025 Experience [Table of 12 Seats  (SOLD OUT)] — $18,000.00
+- `greenwich` The Titans of Tobacco 2026 Experience [Table of 10 Seats] — $17,500.00
+- `greenwich` Opus Xodus 2025 Experience [Table of 10 Seats  (SOLD OUT)] — $15,000.00
+- `greenwich` The Titans of Tobacco 2026 Experience [Table of 8 Seats] — $14,000.00
+- `greenwich` Opus Xodus 2025 Experience [Table of 8 Seats  (SOLD OUT)] — $12,000.00
+- `greenwich` S.T. Dupont Maki-E Le Grand — Samourai [Blue/Yellow Gold] — $11,950.00
+- `greenwich` Padron  “A HAMMER & A DREAM” Experience [SOLD OUT - Table of 15 Seats] — $11,250.00
+- `greenwich` Padron  “A HAMMER & A DREAM” Experience [SOLD OUT - Table of 12 Seats] — $9,000.00
+- `greenwich` S.T. Dupont Maki-E Line 2 — Dragon [Brown Lacquer, Gold Powder, Palladium] — $8,450.00
+- `greenwich` S.T. Dupont Maki-E Line 2 — Fugaku [Maki-E (Gold Powder Lacquerwork)] — $8,450.00
+- `greenwich` S.T. Dupont Maki-E Line 2 — Kinkaku-ji [Maki-E (Gold Powder Lacquerwork)] — $8,450.00
+- `greenwich` S.T. Dupont Maki-E Line 2 — Toryumon [Maki-E (Gold Powder Lacquerwork)] — $8,450.00
+- `greenwich` Davidoff Oro Blanco Special Reserve 111 Years [Box of 10] = $750.00/stick — $7,500.00
+- `greenwich` Padron  “A HAMMER & A DREAM” Experience [SOLD OUT - Table of 10 Seats] — $7,500.00
+- `greenwich` Fuente y Padron Legends [Box of 40] = $178.00/stick — $7,120.00
+- `greenwich` S.T. Dupont Maki-E Line 2 — Ryusui Shunju [Black Lacquer, Gold Powder, Mother of Pearl, Golden Accents] — $6,950.00
+- `greenwich` The Kelner Experience – Private Cigar Dinner [SOLD OUT - Table of 15 Seats] — $6,750.00
+- `greenwich` S.T. Dupont 20,000 Leagues Under the Sea Smoking Kit — Mobilis in Mobile [Deep marine blue gradient lacquer; guilloché engraving with fin, porthole, squid tentacle details, Yellow Gold] — $6,450.00
+- `greenwich` Padron  “A HAMMER & A DREAM” Experience [SOLD OUT - Table of 8 Seats] — $6,000.00
+- `greenwich` ST Dupont Game of Thrones Smoking Kit [Black / Gold] — $5,950.00
+- `greenwich` ST Dupont Le Mans 24H Smoking Kit [Blue] — $5,750.00
+- `greenwich` Davidoff Year of the Snake Flagship Exclusive Limited Edition 2025 [2-Box Set (48-Cigars)] — $5,600.00
+- `greenwich` LFD: From Maverick to Master 2026 Experience [Table of 10 Seats] — $4,950.00
+- _…4500 more_
+
+## New variants on existing products  (6)
+- `sunofagun` Padrón 1926 Series No. 47 [Natural / Box of 24] = $17.66/stick — $423.84
+- `sunofagun` Padrón Family Reserve No. 95 [Natural / Box of 10] = $29.50/stick — $295.00
+- `sunofagun` Padrón Family Reserve No. 95 [Natural / 5-Pack] — $154.95
+- `sunofagun` Padrón 1926 Series No. 47 [Natural / 5-Pack] — $95.95
+- `sunofagun` Padrón Family Reserve No. 95 [Natural / Single] — $33.99
+- `sunofagun` Padrón 1926 Series No. 47 [Natural / Single] — $20.99
+
+## Cheaper than the same cigar elsewhere  (24) — _unverified, check the vitola_
+- **68% under** `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Happy Ending [5-Pack] = $30.80/stick vs $95.00/stick at `cigarsdirect` (Arturo Fuente Rare Pink Happy Ending)
+- **68% under** `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Happy Ending [Single] = $30.80/stick vs $95.00/stick at `cigarsdirect` (Arturo Fuente Rare Pink Happy Ending)
+- **65% under** `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Happy Ending [Box of 10] = $33.00/stick vs $95.00/stick at `cigarsdirect` (Arturo Fuente Rare Pink Happy Ending)
+- **44% under** `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Sophisticated Hooker [5-Pack] = $50.00/stick vs $90.00/stick at `cigarsdirect` (Arturo Fuente Rare Pink Sophisticated Hooker)
+- **44% under** `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Sophisticated Hooker [Box of 20] = $50.00/stick vs $90.00/stick at `cigarsdirect` (Arturo Fuente Rare Pink Sophisticated Hooker)
+- **44% under** `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Sophisticated Hooker [Single] = $50.00/stick vs $90.00/stick at `cigarsdirect` (Arturo Fuente Rare Pink Sophisticated Hooker)
+- **38% under** `tampa` Arturo Fuente Flor Fina 8-5-8 Rosado Sun Grown [Box of 20] = $8.65/stick vs $13.99/stick at `sunofagun` (Arturo Fuente Flor Fina 8-5-8 Rosado Sun Grown)
+- **31% under** `tampa` Arturo Fuente Emperador (Especiales) Natural [Single] = $6.20/stick vs $8.99/stick at `sunofagun` (Arturo Fuente Emperador)
+- **31% under** `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Fuente Fuente [5-Pack] = $30.00/stick vs $43.25/stick at `iheart` (OpusX OXO Oro Oscuro Fuente Fuente)
+- **31% under** `greenwich` Fuente Fuente Opus X OXO Oro Oscuro Fuente Fuente [Box of 32] = $30.00/stick vs $43.25/stick at `iheart` (OpusX OXO Oro Oscuro Fuente Fuente)
+- **30% under** `greenwich` Arturo Fuente Gran Reserva Churchill Maduro [Single] = $8.04/stick vs $11.55/stick at `cigarsdirect` (Arturo Fuente Gran Reserva Churchill Natural)
+- **30% under** `greenwich` Arturo Fuente Gran Reserva Churchill Natural [Single] = $8.04/stick vs $11.55/stick at `cigarsdirect` (Arturo Fuente Gran Reserva Churchill Natural)
+- **30% under** `greenwich` Arturo Fuente Gran Reserva Churchill Seleccion D'Oro [Single] = $8.04/stick vs $11.55/stick at `cigarsdirect` (Arturo Fuente Gran Reserva Churchill Seleccion D'Oro)
+- **30% under** `greenwich` Arturo Fuente Chateau Fuente Queen B Sun Grown [Single] = $8.37/stick vs $11.99/stick at `sunofagun` (Arturo Fuente Chateau Fuente Queen B Sun Grown)
+- **30% under** `tampa` Arturo Fuente Emperador (Especiales) Natural [Box of 30] = $5.40/stick vs $7.69/stick at `sunofagun` (Arturo Fuente Emperador)
+- **29% under** `greenwich` Arturo Fuente Rare Pink Vintage 1960s Series Signature [Box of 25] = $26.40/stick vs $37.00/stick at `iheart` (Rare Pink Vintage 1960's Signature)
+- **28% under** `tampa` Diamond Crown Pyramid No. 7 [Box of 20] = $19.55/stick vs $27.00/stick at `cigarsdirect` (Diamond Crown Natural No.7 Pyramid)
+- **27% under** `greenwich` Arturo Fuente Anejo Reserva #55 [Box of 25] = $17.49/stick vs $23.99/stick at `sunofagun` (Arturo Fuente Añejo Reserva No. 55)
+- **27% under** `greenwich` God of Fire KKP Never Back Down Diadema 54 [Box of 10] = $55.00/stick vs $75.00/stick at `cigarsdirect` (God of Fire KKP Never Back Down Diadema 54)
+- **27% under** `greenwich` Cuesta-Rey Centenario Maduro Robusto #7 [Single] = $8.80/stick vs $11.99/stick at `sunofagun` (Cuesta-Rey Centenario Robusto No. 7 Maduro)
