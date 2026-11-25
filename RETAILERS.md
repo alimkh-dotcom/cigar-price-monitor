@@ -184,6 +184,26 @@ same brand set, ~36 including God of Fire.
   `monitor.CHALLENGE` detects a challenge page so it is reported as a block
   rather than an opaque parse error. **If it fires, the shop is refusing
   automated access: stop and report it. Do not try to answer or defeat it.**
+- **tinderbox.com (Tinder Box, Haverford PA) — evaluated 2026-11-25, NOT added.**
+  Shopify, open products.json, no challenge, ships to NY (only Washington
+  excluded), free shipping over $150. Rejected on mechanics: 1,024 products but
+  only **573 are cigars** — 321 are pipes and pipe tobacco whose product_type
+  ("Pipes", "Pipe Tobacco", "Tin Pipe Tobacco") matches nothing in
+  NONCIGAR_TYPE, so it would need the parkplaza-style CIGAR_ONLY whitelist.
+  **Only 47% in stock**, the worst measured. 13% of the catalogue is in Ali's
+  lines. `qty()` resolves just **5%** of variants — labels are "Individual",
+  "Individual / Toro", "Box (20 Count)" — so it would need bespoke qty logic too.
+  No Davidoff, Atabey, Byron, God of Fire, Destino or Meerapfel. Rare Pink: four
+  products, all out of stock. OpusX: eight products, one in stock.
+  **Worth a MANUAL check for its Haverford-exclusive four-cigar Packs**, which
+  are genuine unique inventory in Ali's preferred format and do sell out: the
+  Black Pink Work of Art Pack ($64.00, in stock 2026-11-25) puts a Black Pink VS
+  Work of Art alongside a Foundation Highclere Castle Toro, an AF Double Chateau
+  Sungrown and an El Titan de Bronze Redemption Robusto — the three companions
+  price at $42.59 in stock elsewhere, making the Black Pink effectively $21.41,
+  the cheapest obtainable anywhere that ships to NY. A Rare Pink Short Story
+  Pack ($55.00, four cigars) exists but is out of stock. If these packs start
+  mattering repeatedly, revisit the integration decision.
 - **Bot-protected, do not retry and never work around a challenge:** CigarPage and
   Regency Cigar (Cloudflare managed challenge, covering even /robots.txt), JR
   Cigars (Imperva).
