@@ -172,6 +172,18 @@ same brand set, ~36 including God of Fire.
   ($119.75, $23.95/stick, cheapest anywhere) and Sophisticated Hooker box of 20
   ($691.50, $34.58/stick, best per-stick anywhere). Ali passed on both on
   2026-11-24, preferring Tampa's Sampler IV.
+- **User agent and pacing — do not revert.** Every script sends `monitor.UA`
+  (`cigar-price-monitor/1.0`). They used to send `Mozilla/5.0`, and on 2026-11-25
+  both promo scripts failed twice against an iheart bot interstitial ("Verifying
+  your connection..."). Claiming to be a browser while firing rapid identical
+  requests is exactly what a bot filter targets, and it was dishonest besides.
+  `promos.collection()` also paged a collection five times back-to-back with no
+  delay while `monitor.py` has always slept 1.5s between pages with the comment
+  "iheart 429s without this"; it now paces the same way, and `lux_products()`
+  sleeps 1s. **Never put anything identifying Ali in the user agent.**
+  `monitor.CHALLENGE` detects a challenge page so it is reported as a block
+  rather than an opaque parse error. **If it fires, the shop is refusing
+  automated access: stop and report it. Do not try to answer or defeat it.**
 - **Bot-protected, do not retry and never work around a challenge:** CigarPage and
   Regency Cigar (Cloudflare managed challenge, covering even /robots.txt), JR
   Cigars (Imperva).

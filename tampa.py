@@ -42,7 +42,7 @@ SKIP = re.compile(r'(accessor|humidor|lighter|cutter|ashtray|apparel|gift-?card)
 def get(path, tries=4):
     url = path if path.startswith("http") else HOST + path
     for a in range(tries):
-        r = subprocess.run(["curl", "-sSL", "-m", "60", "-A", "Mozilla/5.0", url],
+        r = subprocess.run(["curl", "-sSL", "-m", "60", "-A", M.UA, url],
                            capture_output=True)
         if r.returncode == 0 and r.stdout:
             return r.stdout.decode("utf-8", "replace")

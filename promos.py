@@ -14,7 +14,7 @@ produced most of the bad findings during manual work, so singles only ever match
 singles, names are compared in full, and samplers, accessories and small formats
 are excluded outright.
 """
-import json, gzip, os, re, sys, datetime, subprocess
+import json, gzip, os, re, sys, time, datetime, subprocess
 from collections import defaultdict
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import monitor as M
@@ -108,32 +108,45 @@ def norm(s):
 
 # ------------------------------------------------------------------ fetching
 def collection(handle, tries=6):
+    """Page a collection. Paced, because this used to fire five requests
+    back-to-back with no delay while monitor.py sleeps 1.5s between pages with
+    the comment "iheart 429s without this" - and on 2026-11-25 both promo scripts
+    failed twice against an iheart bot interstitial."""
     out = []
     for page in range(1, 6):
         url = f"https://iheartcigars.com/collections/{handle}/products.json?limit=250&page={page}"
         got = None
         for a in range(tries):
-            r = subprocess.run(["curl", "-sS", "-m", "90", "-A", "Mozilla/5.0", url],
+            r = subprocess.run(["curl", "-sS", "-m", "90", "-A", M.UA, url],
                                capture_output=True)
+            body = r.stdout.decode("utf-8", "replace")[:2000]
             if r.returncode == 0:
                 try:
                     got = json.loads(r.stdout).get("products", []); break
-                except Exception: pass
-            __import__("time").sleep(min(2 ** a, 20))
+                except Exception:
+                    if M.CHALLENGE.search(body):
+                        print(f"  {handle} p{page}: bot challenge from iheart, "
+                              f"backing off {min(2 ** a, 20)}s", file=sys.stderr)
+            time.sleep(min(2 ** a, 20))
         if got is None:
-            raise SystemExit(f"ABORT: could not fetch {handle} page {page}")
+            raise SystemExit(
+                f"ABORT: iheart refused {handle} page {page} after {tries} tries. "
+                f"If this is a bot challenge it is a deliberate block - do not try "
+                f"to defeat it; report that the promo could not be read.")
         if not got: break
         out += got
+        time.sleep(1.5)                     # same pacing monitor.py uses
     return out
 
 def lux_products():
     out = []
     for page in range(1, 20):
-        r = subprocess.run(["curl", "-sS", "-m", "90", "-A", "Mozilla/5.0",
+        r = subprocess.run(["curl", "-sS", "-m", "90", "-A", M.UA,
                             f"https://{LUX}/products.json?limit=250&page={page}"],
                            capture_output=True)
         try: ps = json.loads(r.stdout).get("products", [])
         except Exception: break
+        time.sleep(1.0)
         if not ps: break
         out += ps
     return out

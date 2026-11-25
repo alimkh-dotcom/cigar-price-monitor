@@ -16,6 +16,21 @@ RIVALS = os.path.join(HERE, "snapshots", "rivals.json.gz")   # cache, gitignored
 TAMPA  = os.path.join(HERE, "snapshots", "tampa.json.gz")
 GREENWICH = os.path.join(HERE, "snapshots", "greenwich.json.gz")
 
+# Identify honestly. Every script used to send "Mozilla/5.0", and on 2026-11-25
+# iheart began answering that with a bot interstitial ("Verifying your
+# connection...") while serving the same JSON to an honestly-named client. A
+# spoofed browser UA making rapid identical requests is exactly what a bot filter
+# looks for, so claiming to be Chrome was both dishonest and the thing tripping
+# the check. Do NOT put anything identifying the user in here.
+UA = "cigar-price-monitor/1.0"
+# Text that means we were served a challenge page instead of data. Detected so it
+# reports as a challenge rather than an opaque parse failure - and so nobody is
+# tempted to answer it. If this fires, the shop is refusing automated access and
+# the answer is to stop, not to work around it.
+CHALLENGE = re.compile(r'verifying your connection|just a moment|cf-mitigated|'
+                       r'enable javascript and cookies|challenge-platform|'
+                       r'attention required', re.I)
+
 DROP_PCT, BIG_DROP, CHEAP_RATIO, TRAP_RATIO = 0.20, 0.35, 0.70, 1.15
 MAXQTY    = 200     # larger than any real box; beyond this the label is not a count
 XR_GAP    = 0.25    # cross-retailer per-stick gap worth reporting
@@ -147,7 +162,7 @@ def fetch(domain, page, tries=6):
     """(products, ok). ok=False is a failed request, not an empty page."""
     url = f"https://{domain}/products.json?limit=250&page={page}"
     for attempt in range(tries):
-        r = subprocess.run(["curl", "-sS", "-m", "90", "-A", "Mozilla/5.0", url],
+        r = subprocess.run(["curl", "-sS", "-m", "90", "-A", UA, url],
                            capture_output=True)
         if r.returncode == 0:
             try:

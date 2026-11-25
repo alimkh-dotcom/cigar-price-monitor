@@ -41,7 +41,7 @@ QUERY = """query($after: String) { site { products(first: 50, after: $after) {
 
 def curl(args, tries=4):
     for a in range(tries):
-        r = subprocess.run(["curl", "-sS", "-m", "60", "-A", "Mozilla/5.0"] + args,
+        r = subprocess.run(["curl", "-sS", "-m", "60", "-A", M.UA] + args,
                            capture_output=True)
         if r.returncode == 0 and r.stdout:
             return r.stdout.decode("utf-8", "replace")
