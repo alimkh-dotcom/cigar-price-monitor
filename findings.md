@@ -3827,3 +3827,15 @@ previous run 2026-11-24T12:02:55+00:00 · 35,538 variants tracked
 previous run 2026-11-24T22:02:48+00:00 · 35,538 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-11-25T12:02:59+00:00
+previous run 2026-11-25T00:02:36+00:00 · 35,539 variants tracked
+
+## ⚑ Standing watch  (1)
+- **OpusX** — back IN STOCK: `greenwich` Fuente Fuente Opus X The Lost City Piramide Single = $47.00/stick — $47.00
+
+## New products  (1)
+- `greenwich` Elie Bleu Casa Cubana La Havana Cigar Cabinet For 150 Cigars [Multi-Colored Sycamore] — $15,500.00
