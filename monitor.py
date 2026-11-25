@@ -76,7 +76,7 @@ WATCH = [
      re.compile(r'rare pink|black pink', re.I)),
     ("OpusX Heaven & Earth",
      re.compile(r'heaven\s*(?:&|and)\s*earth|\bbbmf\b|tauros|el escorpion|'
-                r'rare black|rare purple|purple rain|scorpio|'
+                r'rare black|rare purple|purple rain|\bscorpio\b|'
                 r'angel.?s share|stairway to heaven|opus ?(?:5|6|11) ', re.I)),
     ("OpusX",
      re.compile(r'opus\s?x|\boxo\b|forbidden x', re.I)),

@@ -1,6 +1,6 @@
 {
  "AJ Fernandez New World Dorado Figurado": {
-  "fair": 12.54,
+  "fair": 12.56,
   "first_seen": "2026-10-22",
   "last_seen": "2026-11-25",
   "price": 26.8,
@@ -11,19 +11,6 @@
   "saving": 0.553,
   "site": "tccigar",
   "variant": "5 Pack"
- },
- "Brick House Teaser": {
-  "fair": 7.79,
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25",
-  "price": 141.75,
-  "ps": 5.06,
-  "q": 28,
-  "ratio": 0.65,
-  "rival": 7.85,
-  "saving": 0.355,
-  "site": "greenwich",
-  "variant": "Box of 28"
  },
  "Lost & Found 22 Minutes to Midnight Connecticut Radiante Robusto": {
   "fair": 21.0,
@@ -93,29 +80,16 @@
   "zero": true
  },
  "greenwich \u00b7 Davidoff Millennium Lancero": {
-  "fair": 55.42,
+  "fair": 55.46,
   "first_seen": "2026-10-23",
   "last_seen": "2026-11-25",
-  "price": 290.0,
+  "price": 29.0,
   "ps": 29.0,
-  "q": 10,
+  "q": 1,
   "ratio": 0.523,
   "rival": 55.0,
   "saving": 0.473,
   "site": "iheart",
-  "variant": "Box of 10"
- },
- "illusione Epernay Tuonela Le Grande": {
-  "fair": 12.86,
-  "first_seen": "2026-11-25",
-  "last_seen": "2026-11-25",
-  "price": 216.0,
-  "ps": 8.64,
-  "q": 25,
-  "ratio": 0.672,
-  "rival": 12.3,
-  "saving": 0.298,
-  "site": "tccigar",
-  "variant": "Box of 25"
+  "variant": "Single"
  }
 }

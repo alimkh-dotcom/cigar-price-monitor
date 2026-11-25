@@ -3839,3 +3839,53 @@ previous run 2026-11-25T00:02:36+00:00 · 35,539 variants tracked
 
 ## New products  (1)
 - `greenwich` Elie Bleu Casa Cubana La Havana Cigar Cabinet For 150 Cigars [Multi-Colored Sycamore] — $15,500.00
+
+
+---
+
+# Cigar price monitor — 2026-11-25T22:02:46+00:00
+previous run 2026-11-25T12:02:59+00:00 · 35,604 variants tracked
+
+## ⚑ Standing watch  (1)
+- **OpusX Heaven & Earth** — back IN STOCK: `gtcigars` Camacho Scorpion Fumas Sun Grown Gordo — $30.99
+
+## New products  (59)
+- `iheart` Confidenciaal Torpedo [Box of 20] = $18.00/stick — $360.00 _(out of stock)_
+- `iheart` Confidenciaal Corto [Box of 20] = $17.50/stick — $350.00 _(out of stock)_
+- `gtcigars` West Tampa Tobacco Company Barbershop [Barber Chair (6.5" X 64)] — $278.99
+- `tobaccoreserve` My Father Le Bijou 1922 Connecticut Toro [Box of 20] = $13.00/stick — $260.00 _(out of stock)_
+- `iheart` Cavalier Geneve Bll Viso Jalapa Torpedo [Box of 20] = $12.89/stick — $257.80 _(out of stock)_
+- `iheart` Cavalier Geneve White Series Diplomate [Box of 20] = $12.80/stick — $256.00 _(out of stock)_
+- `iheart` Cavalier Geneve Bll Viso Jalapa Toro [Box of 20] = $12.60/stick — $252.00 _(out of stock)_
+- `tobaccoreserve` My Father Le Bijou 1922 Connecticut Robusto [Box of 20] = $12.00/stick — $240.00 _(out of stock)_
+- `gtcigars` West Tampa Tobacco Company Barbershop [Clippers (6" X 54)] — $238.99
+- `iheart` Cavalier Geneve Bll Viso Jalapa Petit No.2 [Box of 20] = $11.50/stick — $230.00 _(out of stock)_
+- `iheart` Cavalier Geneve Black Serie II Petit No.2 [Box of 20] = $11.50/stick — $230.00 _(out of stock)_
+- `iheart` Cavalier Geneve White Series Petit No.2 [Box of 20] = $11.50/stick — $230.00 _(out of stock)_
+- `gtcigars` West Tampa Tobacco Company Barbershop [Straight Razor (5" X 52)] — $218.99
+- `iheart` Cavalier Geneve Black Serie II Tempura [Box of 15] = $13.50/stick — $202.50 _(out of stock)_
+- `iheart` Cavalier Geneve White Series Tempura [Box of 15] = $13.50/stick — $202.50 _(out of stock)_
+- `gtcigars` Montecristo Espada Conquistador [Magnum Especial (6" X 60)] — $199.99
+- `gtcigars` Montecristo Espada Conquistador [Quillon (7" X 56)] — $196.99
+- `gtcigars` Montecristo Espada Conquistador [Guard (6" X 50)] — $187.99
+- `iheart` Confidenciaal Fiftysix [Box of 10] = $18.00/stick — $180.00 _(out of stock)_
+- `gtcigars` Montecristo Espada Conquistador [Ricasso (5" X 54)] — $175.99
+- `iheart` Confidenciaal Corona [Box of 20] = $8.75/stick — $175.00 _(out of stock)_
+- `iheart` Confidenciaal Fiftytfour [Box of 10] = $17.00/stick — $170.00 _(out of stock)_
+- `iheart` Confidenciaal Canonazo [Box of 10] = $16.00/stick — $160.00 _(out of stock)_
+- `iheart` Confidenciaal Lancero [Box of 10] = $15.00/stick — $150.00 _(out of stock)_
+- `iheart` Confidenciaal Torpedo [5 Pack] = $18.00/stick — $90.00 _(out of stock)_
+- `iheart` Confidenciaal Fiftysix [5 Pack] = $18.00/stick — $90.00 _(out of stock)_
+- `iheart` Confidenciaal Corto [5 Pack] = $17.50/stick — $87.50 _(out of stock)_
+- `iheart` Confidenciaal Corona [5 Pack] = $17.50/stick — $87.50 _(out of stock)_
+- `iheart` Confidenciaal Fiftytfour [5 Pack] = $17.00/stick — $85.00 _(out of stock)_
+- `iheart` Confidenciaal Canonazo [5 Pack] = $16.00/stick — $80.00 _(out of stock)_
+- _…29 more_
+
+## New variants on existing products  (6)
+- `iheart` Lampert 1675 Edicion Rojo Toro [Box of 10] = $15.00/stick — $150.00 _(out of stock)_
+- `iheart` Lampert 1675 Edicion Rojo Robusto [Box of 10] = $14.00/stick — $140.00 _(out of stock)_
+- `iheart` Lampert 1675 Edicion Morado Robusto [Box of 10] = $14.00/stick — $140.00 _(out of stock)_
+- `iheart` Lampert 1675 Edicion Azul Robusto [Box of 10] = $13.00/stick — $130.00 _(out of stock)_
+- `iheart` Lampert 1675 Edicion Azul Toro [Box of 10] = $12.00/stick — $120.00 _(out of stock)_
+- `iheart` Lampert 1675 Edicion Morado Short Robusto [Box of 10] = $12.00/stick — $120.00 _(out of stock)_
