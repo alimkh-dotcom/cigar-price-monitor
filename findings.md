@@ -3819,3 +3819,11 @@ previous run 2026-11-24T12:02:55+00:00 · 35,538 variants tracked
 - `iheart` My Father Le Bijou 1922 Torpedo Box Pressed [Single] = $13.00/stick — $13.00
 - `iheart` My Father Le Bijou 1922 Toro [Single] = $12.60/stick — $12.60
 - `iheart` My Father Le Bijou 1922 Grand Robusto [Single] = $12.20/stick — $12.20
+
+
+---
+
+# Cigar price monitor — 2026-11-25T00:02:36+00:00
+previous run 2026-11-24T22:02:48+00:00 · 35,538 variants tracked
+
+**No actionable changes.**

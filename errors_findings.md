@@ -609,3 +609,37 @@ rival prices are adjusted for each site's measured markup before comparing
 
 ## Fixed or gone (1)
 - Caldwell Long Live the Queen Queen's Club (live 2026-11-24 → 2026-11-24)
+
+
+---
+
+# Pricing errors (iheart, greenwich) — 2026-11-25
+9 live · 2 new · 12 fixed since last run
+rival prices are adjusted for each site's measured markup before comparing
+
+## New (2)
+- unusually cheap — Brick House Teaser [Box of 28] **$5.06/stick**, **36% under** the cheapest in stock among the retailers we track ($7.85 at greenwich)
+- unusually cheap — illusione Epernay Tuonela Le Grande [Box of 25] **$8.64/stick**, **30% under** the cheapest in stock among the retailers we track ($12.30 at tccigar)
+
+## Still live (7)
+- **$0 listing** — greenwich · Arturo Fuente Destino al Siglo de Familias [Box of 13] is in stock at $0.00. A broken price, not a deal: expect an order to be cancelled or re-priced · live since 2026-10-23
+- **$0 listing** — greenwich · Arturo Fuente Destino al Siglo de Pasion [Box of 13] is in stock at $0.00. A broken price, not a deal: expect an order to be cancelled or re-priced · live since 2026-10-23
+- **likely error** — AJ Fernandez New World Dorado Figurado [5 Pack] **$5.36/stick**, **55% under** the cheapest in stock among the retailers we track ($12.00 at tccigar) · live since 2026-10-22
+- **likely error** — Lost & Found 22 Minutes to Midnight Connecticut Radiante Robusto [Single] **$10.50/stick**, **50% under** the cheapest in stock among the retailers we track ($21.00 at cigarsdirect) · live since 2026-11-19
+- **likely error** ★ — greenwich · Davidoff Millennium Lancero [Box of 10] **$29.00/stick**, **47% under** the cheapest in stock among the retailers we track ($55.00 at iheart) · live since 2026-10-23
+- unusually cheap — Lost & Found 22 Minutes to Midnight Habano de Oro Robusto [Box 20] **$12.94/stick**, **32% under** the cheapest in stock among the retailers we track ($18.90 at cigarsdirect) · live since 2026-11-19
+- unusually cheap — Lost & Found 22 Minutes to Midnight Criollo Classico Corona Extra [Box 20] **$12.00/stick**, **26% under** the cheapest in stock among the retailers we track ($16.20 at cigarsdirect) · live since 2026-11-19
+
+## Fixed or gone (12)
+- AJ Fernandez Dias de Gloria Brazil Corona (live 2026-11-23 → 2026-11-24)
+- EGM Media Coronas (live 2026-11-23 → 2026-11-24)
+- Liga Privada T52 Flying Pig (live 2026-11-23 → 2026-11-24)
+- Liga Privada T52 Toro (live 2026-11-24 → 2026-11-24)
+- Liga Privada Unico Serie Dirty Rat (live 2026-11-23 → 2026-11-24)
+- Liga Privada Unico Serie Ratzilla (live 2026-11-23 → 2026-11-24)
+- OpusX Forbidden X El Beso Prohibido (live 2026-11-24 → 2026-11-24)
+- Sobremesa Brulee Double Corona (live 2026-11-23 → 2026-11-24)
+- Sobremesa Brulee Toro (live 2026-11-23 → 2026-11-24)
+- The Tabernacle Broadleaf Lancero (live 2026-11-23 → 2026-11-24)
+- The Upsetters Original Rude Boy (live 2026-11-23 → 2026-11-24)
+- Winston Churchill The Late Hour Robusto (live 2026-11-23 → 2026-11-24)
