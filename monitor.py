@@ -42,8 +42,11 @@ SEP = "␟"
 # Small formats sold inside a premium line are NOT the parent cigar. Matching a
 # Coronet tin against a Belicoso box produced a string of bogus 60%+ "discounts"
 # during manual analysis; never cross-match anything here.
+# NOTE: 'short story' is deliberately NOT here. The Hemingway Short Story is
+# 4 x 49 - a short figurado, a full cigar - and Rare Pink Short Story is one of
+# the Rare Pink vitolas. Listing it as SMALL hid 38 listings from the rival set.
 SMALL = re.compile(r'papas fritas|coronet|ponies|cigarrito|cigarillo|petit |petite|'
-                   r'puritos|senoritas|half corona|short story|\bminis?\b|breve|'
+                   r'puritos|senoritas|half corona|\bminis?\b|breve|'
                    r'aperitif|prelude|prontos|amores|romeos|miniature|purito|chico|shorty|'
                    r'cubanito|junior|demi|\btins? of\b|x.press', re.I)
 NONCIGAR = re.compile(r'ashtray|lighter|cutter|humidor|boveda|hygrometer|magazine|'
