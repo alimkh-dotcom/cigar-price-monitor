@@ -4052,3 +4052,35 @@ previous run 2026-11-26T12:02:49+00:00 · 35,653 variants tracked
 
 ## ⚑ Standing watch  (1)
 - **OpusX** — price cut 0% from $1,280.00: `sunofagun` Fuente Fuente OpusX Society Gold & Bullet (Pre-Order) Box of 12 = $106.66/stick — $1,279.92
+
+
+---
+
+# Cigar price monitor — 2026-11-26T22:02:32+00:00
+previous run 2026-11-26T19:31:24+00:00 · 35,676 variants tracked
+
+## New variants on existing products  (24)
+- `sunofagun` God of Fire KKP Never Back Down Diadema 54 [Box of 10] = $54.89/stick — $548.90 _(out of stock)_
+- `sunofagun` God of Fire KKP Never Back Down Diadema 56 [Box of 10] = $52.39/stick — $523.90 _(out of stock)_
+- `sunofagun` God of Fire KKP Special Reserve Diadema 56 [Box of 10] = $52.39/stick — $523.90 _(out of stock)_
+- `sunofagun` God of Fire KKP Special Reserve Diadema 54 [Box of 10] = $52.39/stick — $523.90 _(out of stock)_
+- `sunofagun` God of Fire KKP Never Back Down Gran Toro 56 [Box of 10] = $51.86/stick — $518.60
+- `sunofagun` God of Fire KKP Never Back Down Piramide 58 [Box of 10] = $51.86/stick — $518.60 _(out of stock)_
+- `sunofagun` God of Fire KKP Never Back Down Toro Extra 54 [Box of 10] = $51.86/stick — $518.60
+- `sunofagun` God of Fire KKP Special Reserve Gran Toro 56 [Box of 10] = $51.86/stick — $518.60
+- `sunofagun` God of Fire KKP Special Reserve Piramide 58 [Box of 10] = $51.86/stick — $518.60
+- `sunofagun` God of Fire KKP Special Reserve Toro Extra 54 [Box of 10] = $51.86/stick — $518.60
+- `sunofagun` God of Fire KKP Never Back Down Diadema 60 [Box of 10] = $49.39/stick — $493.90
+- `sunofagun` God of Fire KKP Special Reserve Diadema 60 [Box of 10] = $49.39/stick — $493.90 _(out of stock)_
+- `sunofagun` God of Fire KKP Never Back Down Diadema 54 [5-Pack] = $58.79/stick — $293.95
+- `sunofagun` God of Fire KKP Special Reserve Diadema 54 [5-Pack] = $57.59/stick — $287.95 _(out of stock)_
+- `sunofagun` God of Fire KKP Never Back Down Diadema 56 [5-Pack] = $56.59/stick — $282.95
+- `sunofagun` God of Fire KKP Special Reserve Diadema 56 [5-Pack] = $56.59/stick — $282.95 _(out of stock)_
+- `sunofagun` God of Fire KKP Never Back Down Gran Toro 56 [5-Pack] = $53.99/stick — $269.95
+- `sunofagun` God of Fire KKP Never Back Down Piramide 58 [5-Pack] = $53.99/stick — $269.95 _(out of stock)_
+- `sunofagun` God of Fire KKP Never Back Down Toro Extra 54 [5-Pack] = $53.99/stick — $269.95
+- `sunofagun` God of Fire KKP Special Reserve Gran Toro 56 [5-Pack] = $53.99/stick — $269.95
+- `sunofagun` God of Fire KKP Special Reserve Piramide 58 [5-Pack] = $53.99/stick — $269.95
+- `sunofagun` God of Fire KKP Special Reserve Toro Extra 54 [5-Pack] = $53.99/stick — $269.95
+- `sunofagun` God of Fire KKP Never Back Down Diadema 60 [5-Pack] = $53.19/stick — $265.95
+- `sunofagun` God of Fire KKP Special Reserve Diadema 60 [5-Pack] = $53.19/stick — $265.95 _(out of stock)_
