@@ -4043,3 +4043,12 @@ previous run 2026-11-26T00:02:50+00:00 · 35,655 variants tracked
 - `sunofagun` God of Fire Serie B Robusto Gordo 54 [5-Pack] = $28.20/stick — $140.99
 - `sunofagun` God of Fire Serie B Robusto [5-Pack] = $27.40/stick — $136.99
 - _…1 more_
+
+
+---
+
+# Cigar price monitor — 2026-11-26T19:31:24+00:00
+previous run 2026-11-26T12:02:49+00:00 · 35,653 variants tracked
+
+## ⚑ Standing watch  (1)
+- **OpusX** — price cut 0% from $1,280.00: `sunofagun` Fuente Fuente OpusX Society Gold & Bullet (Pre-Order) Box of 12 = $106.66/stick — $1,279.92
