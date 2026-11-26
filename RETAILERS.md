@@ -226,3 +226,31 @@ OpusX display pieces that carry a cigar brand. **The word boundary on
 tccigar tags almost nothing, so its accessories rely entirely on the name regex.
 If a whisky, an ashtray or an empty humidor reaches a report, say so — a filter has
 a gap — and do not present it as a cigar deal.
+
+## Sale prices that are NOT in the feed (checkout-applied)
+
+Learned 2026-11-26, after it produced a wrong answer.
+
+**cigarsdirect's Black Friday 25% is applied at checkout, not on the product
+feed.** `/products/<handle>.js` returns `price == compare_at_price` all through
+the sale: Don Carlos No.4 single reads $11.55, and $8.66 is only what you pay.
+So every per-stick figure the matcher produces for cigarsdirect during a
+site-wide sale is 33% too high, and a comparison run straight off the snapshot
+will wrongly hand the win to another shop. Apply the multiplier yourself before
+ranking, and say which prices are shelf and which are after-code.
+
+**tobaccoreserve stacks nothing.** `BLACKFRIDAY26` is 20% but excludes Opus;
+Opus takes `OPUS10` at 10%. Apply the better single code per line, never both.
+Whether `BLACKFRIDAY26` covers God of Fire KKP is unconfirmed - do not quote a
+KKP price as final.
+
+**sunofagun's `compare_at_price` is mostly permanent MSRP anchoring, not a
+sale.** Its real Black Friday set is `/collections/black-friday` (499 products;
+20 in Ali's lines, all Arturo Fuente boxes of 24-30). The Davidoff tins and
+4-packs showing -15/-20% site-wide are not part of it and sit there year-round.
+Read the collection, not the whole catalogue, when asked "what's on sale".
+
+**foxcigar moves fast.** The God of Fire Macassar Sampler was in stock at
+$134.50 at midday and `is_in_stock=false` by evening the same day. Re-check
+stock immediately before recommending anything there. Its shipping policy to NY
+is still unverified - no policy page found.
