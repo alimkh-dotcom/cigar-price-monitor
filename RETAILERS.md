@@ -254,3 +254,17 @@ Read the collection, not the whole catalogue, when asked "what's on sale".
 $134.50 at midday and `is_in_stock=false` by evening the same day. Re-check
 stock immediately before recommending anything there. Its shipping policy to NY
 is still unverified - no policy page found.
+
+### cigarsdirect Black Friday 2026: God of Fire is excluded
+
+Confirmed by Ali at checkout 2026-11-26. The banner said only "Exclusions
+apply", and the feed carries no sale price at all, so there was nothing to read
+the exclusion off of. **God of Fire / Prometheus takes no discount at
+cigarsdirect**, so its God of Fire shelf prices are final and the shop loses the
+line to sunofagun's 30%.
+
+General rule this establishes: when a shop's sale is checkout-applied AND its
+banner says "exclusions apply" without listing them, an allocated or
+distributor-controlled brand (God of Fire/Prometheus, Opus X Lost City, Heaven
+& Earth) is the likeliest exclusion. Quote those at shelf price and name the
+risk, rather than assuming the site-wide percentage.
