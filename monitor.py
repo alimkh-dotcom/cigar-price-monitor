@@ -429,6 +429,45 @@ def report(cur, names, prev, prev_ts, ts, prev_names=None):
         was = prev.get(k, [None])[0]
         watch.append((label, f"GONE from the catalogue (was ${was:,.2f})" if was
                       else "GONE from the catalogue", k, was or 0, None))
+    # A shop that re-keys its catalogue (renames products, merges them into variant
+    # groups, fixes a spelling) gives every item a new id, so the same cigar reads
+    # as GONE plus NEW listing. tobaccoreserve did exactly that on 2026-11-26 and
+    # produced 72 watch lines with nothing actually gone, burying two real price
+    # cuts. Pair them back on folded tokens + unit class and report the one thing
+    # that changed. Pair against the whole catalogue, not just the available half:
+    # a replacement that is merely out of stock still means the item is listed,
+    # and calling that GONE is what made BBMF look delisted when it was not.
+    def sig(k, nm, q):
+        return (k.split(":")[0], frozenset(keytokens(nm.replace(SEP, " "))) - HOUSE,
+                unitclass(q) if q else None)
+    newsig = {}
+    for k in cur:
+        if k in prev: continue
+        nm = names.get(k)
+        if not nm or NONCIGAR.search(nm): continue
+        newsig.setdefault(sig(k, nm, cur[k][2]), []).append(k)
+    drop_i, drop_k, relisted = set(), set(), []
+    for i, w in enumerate(watch):
+        if not w[1].startswith("GONE"): continue
+        label, _, k, was, _ = w
+        nm = (prev_names or {}).get(k, "")
+        s_ = sig(k, nm, prev.get(k, [None, None, None])[2])
+        if not (s_[1] and len(s_[1]) >= XR_MINTOK and newsig.get(s_)): continue
+        nk = newsig[s_].pop(0)
+        if not newsig[s_]: newsig.pop(s_)
+        now, av, _q = cur[nk]
+        drop_i.add(i); drop_k.add(nk)
+        if abs(now - was) < 0.005:
+            why = "relisted under a new id, same price"
+        else:
+            why = (f"relisted, price {'cut' if now < was else 'up'} "
+                   f"{abs(1 - now / was):.0%} from ${was:,.2f}")
+        if not av: why += " (out of stock)"
+        relisted.append((label, why, nk, now, _q))
+    if drop_i or drop_k:
+        watch = [w for i, w in enumerate(watch)
+                 if i not in drop_i and not (w[1] == "NEW listing" and w[2] in drop_k)]
+        watch += relisted
     watch.sort(key=lambda x: (x[0], names.get(x[2], "")))
 
     # --- B: cross-retailer, only for things that just changed
