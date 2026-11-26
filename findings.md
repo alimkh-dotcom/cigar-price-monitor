@@ -3889,3 +3889,12 @@ previous run 2026-11-25T12:02:59+00:00 · 35,604 variants tracked
 - `iheart` Lampert 1675 Edicion Azul Robusto [Box of 10] = $13.00/stick — $130.00 _(out of stock)_
 - `iheart` Lampert 1675 Edicion Azul Toro [Box of 10] = $12.00/stick — $120.00 _(out of stock)_
 - `iheart` Lampert 1675 Edicion Morado Short Robusto [Box of 10] = $12.00/stick — $120.00 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-11-26T00:02:50+00:00
+previous run 2026-11-25T22:02:46+00:00 · 35,604 variants tracked
+
+## ⚑ Standing watch  (1)
+- **OpusX** — back IN STOCK: `tobaccoreserve` Opus X Opus 22 Sampler – Limited Edition Default Title — $1,700.00
