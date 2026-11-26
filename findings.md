@@ -3898,3 +3898,148 @@ previous run 2026-11-25T22:02:46+00:00 · 35,604 variants tracked
 
 ## ⚑ Standing watch  (1)
 - **OpusX** — back IN STOCK: `tobaccoreserve` Opus X Opus 22 Sampler – Limited Edition Default Title — $1,700.00
+
+
+---
+
+# Cigar price monitor — 2026-11-26T12:02:49+00:00
+previous run 2026-11-26T00:02:50+00:00 · 35,655 variants tracked
+
+## ⚑ Standing watch  (71)
+- **OpusX** — GONE from the catalogue (was $43.00): `tobaccoreserve` Opus X Don Carlos Edicion de Anniversario Robusto Single cigar
+- **OpusX** — GONE from the catalogue (was $204.25): `tobaccoreserve` Opus X Don Carlos Edicion de Anniversario Robusto 5-Pack — Save 5%
+- **OpusX** — GONE from the catalogue (was $387.00): `tobaccoreserve` Opus X Don Carlos Edicion de Anniversario Robusto Box of 10 — Save 10%
+- **OpusX** — GONE from the catalogue (was $44.00): `tobaccoreserve` Opus X Don Carlos Edicion de Anniversario Double Robusto Single cigar
+- **OpusX** — GONE from the catalogue (was $209.00): `tobaccoreserve` Opus X Don Carlos Edicion de Anniversario Double Robusto 5-Pack — Save 5%
+- **OpusX** — GONE from the catalogue (was $396.00): `tobaccoreserve` Opus X Don Carlos Edicion de Anniversario Double Robusto Box of 10 — Save 10%
+- **OpusX** — GONE from the catalogue (was $44.00): `tobaccoreserve` Opus X Don Carlos Edicion de Anniversario Toro Single cigar
+- **OpusX** — GONE from the catalogue (was $209.00): `tobaccoreserve` Opus X Don Carlos Edicion de Anniversario Toro 5-Pack — Save 5%
+- **OpusX** — GONE from the catalogue (was $396.00): `tobaccoreserve` Opus X Don Carlos Edicion de Anniversario Toro Box of 10 — Save 10%
+- **OpusX** — back IN STOCK: `tobaccoreserve` Fuente Fuente Opus X The Lost City Double Robusto / 5-Pack — $232.50
+- **OpusX** — back IN STOCK: `tobaccoreserve` Fuente Fuente Opus X The Lost City Double Robusto / Box of 10 = $46.50/stick — $465.00
+- **OpusX** — price cut 1% from $47.00: `tobaccoreserve` Fuente Fuente Opus X The Lost City Double Robusto / Single — $46.50
+- **OpusX** — back IN STOCK: `tobaccoreserve` Fuente Fuente Opus X The Lost City Piramide / 5-Pack — $235.00
+- **OpusX** — back IN STOCK: `tobaccoreserve` Fuente Fuente Opus X The Lost City Piramide / Box of 10 = $47.00/stick — $470.00
+- **OpusX** — back IN STOCK: `tobaccoreserve` Fuente Fuente Opus X The Lost City Piramide / Single — $47.00
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Don Carlos Edición de Aniversario Double Robusto / Single — $44.00
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Don Carlos Edición de Aniversario Robusto / 5-Pack — $212.50
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Don Carlos Edición de Aniversario Robusto / Box of 10 = $42.50/stick — $425.00
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Don Carlos Edición de Aniversario Robusto / Single — $42.50
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Don Carlos Edición de Aniversario Toro / 5-Pack — $217.50
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Don Carlos Edición de Aniversario Toro / Box of 10 = $43.50/stick — $435.00
+- **OpusX** — NEW listing: `tobaccoreserve` Opus X Don Carlos Edición de Aniversario Toro / Single — $43.50
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $85.00): `tobaccoreserve` Opus X Tauros The Bull Natural – Limited Edition 2024 – Aged 2 Years Default
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $80.00): `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Rare Black Double Corona Single cigar
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $450.00): `tobaccoreserve` Opus X Heaven & Earth Opus 6 Sampler — 2024 / February 2025 Edition Opus 6 Sampler
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $450.00): `tobaccoreserve` Opus X Heaven & Earth Series Opus 6 Sampler — November 2024 Edition Opus 6 Sampler
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $90.00): `tobaccoreserve` Opus X Heaven & Earth BBMF Natural Single
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $450.00): `tobaccoreserve` Opus X Heaven & Earth BBMF Natural 5 Pack
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $875.00): `tobaccoreserve` Opus X Heaven & Earth BBMF Natural Box
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $90.00): `tobaccoreserve` Opus X Heaven & Earth BBMF Maduro Single
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $437.50): `tobaccoreserve` Opus X Heaven & Earth BBMF Maduro 5 Pack
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $875.00): `tobaccoreserve` Opus X Heaven & Earth BBMF Maduro Box
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $450.00): `tobaccoreserve` Opus X Heaven & Earth Rare Black Cigar Selection (6) 6-Cigar Selection
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $80.00): `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 56 Single cigar
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $750.00): `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 56 Box of 10
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $356.25): `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 56 5-Pack — Save 5%
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $80.00): `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 56 Single
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $375.00): `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 56 5-Pack
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $750.00): `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 56 Box of 10
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $80.00): `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 60 Single cigar
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $750.00): `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 60 Box of 10
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $80.00): `tobaccoreserve` PRE ORDER - Opus X Heaven & Earth Rare Black Diadema 60 Single cigar
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $750.00): `tobaccoreserve` PRE ORDER - Opus X Heaven & Earth Rare Black Diadema 60 Box of 10
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $77.50): `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 54 Single cigar
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $750.00): `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 54 Box of 10
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $80.00): `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 54 Single cigar
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $750.00): `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 54 Box of 10
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $77.50): `tobaccoreserve` Opus X Heaven & Earth Rare Black Torpedo Single cigar
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $775.00): `tobaccoreserve` Opus X Heaven & Earth Rare Black Torpedo Box of 10
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $80.00): `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Purple Rain Torpedo Single cigar
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $750.00): `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Purple Rain Torpedo Box of 10
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $80.00): `tobaccoreserve` Opus X Heaven & Earth El Escorpion Maduro Single cigar
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $775.00): `tobaccoreserve` Opus X Heaven & Earth El Escorpion Maduro Box of 10
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $80.00): `tobaccoreserve` Opus X Heaven & Earth El Escorpion Natural Single cigar
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $775.00): `tobaccoreserve` Opus X Heaven & Earth El Escorpion Natural Box of 10
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $80.00): `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull Maduro Single cigar
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $750.00): `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull Maduro Box of 10
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $80.00): `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull Natural Single cigar
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $750.00): `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull Natural Box of 10
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth El Escorpion Maduro / Box of 10 = $77.50/stick — $775.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth El Escorpion Maduro / Single — $77.50
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth El Escorpion Natural / Single — $77.50
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Opus 6 Blue / June Release — Fuente Story — $395.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Opus 6 Yellow / February 2025 — $450.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 54 / Single — $75.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 56 / Single — $75.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 60 — Pre-order, ships Dec 5 / Single — $75.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Rare Black Double Corona — Pre-order, ships Dec 5 / Single — $75.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Rare Black Torpedo / Single — $75.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Rare Purple & Purple Rain Rare Purple Diadema 54 / Single — $75.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull Natural / Single — $75.00
+
+## New products  (129)
+- `tobaccoreserve` Opus X Heaven & Earth BBMF [Natural / Box] — $799.50 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth BBMF [Maduro / Box] — $799.50 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth El Escorpion [Natural / Box of 10] = $77.50/stick — $775.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth El Escorpion [Maduro / Box of 10] = $77.50/stick — $775.00
+- `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull [Natural / Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull [Maduro / Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth Rare Purple & Purple Rain [Rare Purple Diadema 54 / Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth Rare Purple & Purple Rain [Rare Purple Diadema 56 / Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth Rare Purple & Purple Rain [Rare Purple Diadema 60 / Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth Rare Purple & Purple Rain [Purple Rain Torpedo / Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth Rare Black [Torpedo / Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth Rare Black [Diadema 54 / Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth Rare Black [Diadema 60 — Pre-order, ships Dec 5 / Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth Rare Black [Diadema 56 / Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` God of Fire KKP Special Reserve [Diadema 54 / Box of 10] = $55.00/stick — $550.00
+- `tobaccoreserve` God of Fire KKP Never Back Down [Diadema 56 / Box of 10] = $52.50/stick — $525.00
+- `tobaccoreserve` God of Fire KKP Never Back Down [Toro Extra 54 / Box of 10] = $49.50/stick — $495.00
+- `tobaccoreserve` God of Fire KKP Never Back Down [Piramide 58 / Box of 10] = $49.50/stick — $495.00
+- `tobaccoreserve` God of Fire KKP Never Back Down [Gran Toro 56 / Box of 10] = $49.50/stick — $495.00
+- `tobaccoreserve` God of Fire KKP Never Back Down [Diadema 60 / Box of 10] = $49.50/stick — $495.00
+- `tobaccoreserve` God of Fire KKP Special Reserve [Piramide 58 / Box of 10] = $49.50/stick — $495.00
+- `tobaccoreserve` God of Fire KKP Special Reserve [Gran Toro 56 / Box of 10] = $49.50/stick — $495.00
+- `tobaccoreserve` God of Fire KKP Special Reserve [Diadema 60 / Box of 10] = $49.50/stick — $495.00
+- `tobaccoreserve` God of Fire KKP Special Reserve [Toro Extra 54 / Box of 10] = $49.50/stick — $495.00
+- `tobaccoreserve` Opus X Heaven & Earth Opus 6 [Red / November 2024] — $450.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth Opus 6 [Yellow / February 2025] — $450.00
+- `tobaccoreserve` Opus X Heaven & Earth Rare Black [Rare Black 6-Cigar Selection / 6-Cigar Selection] — $450.00 _(out of stock)_
+- `tobaccoreserve` Opus X Don Carlos Edición de Aniversario [Toro / Box of 10] = $43.50/stick — $435.00
+- `tobaccoreserve` Opus X Heaven & Earth Opus 6 [Red / November 2024 — Aged 2 Years] — $425.00 _(out of stock)_
+- `tobaccoreserve` Opus X Don Carlos Edición de Aniversario [Robusto / Box of 10] = $42.50/stick — $425.00
+- _…99 more_
+
+## New variants on existing products  (31)
+- `sunofagun` Arturo Fuente Don Carlos Edicion de Aniversario Toro [Box of 10] = $36.00/stick — $359.99
+- `sunofagun` Arturo Fuente Don Carlos Edicion de Aniversario Double Robusto [Box of 10] = $36.00/stick — $359.99
+- `sunofagun` Arturo Fuente Don Carlos Edicion de Aniversario Robusto [Box of 10] = $36.00/stick — $359.99
+- `sunofagun` God of Fire by Carlito Double Corona [Box of 10] = $31.90/stick — $318.99
+- `sunofagun` God of Fire Serie Aniversario 54 [Box of 10] = $30.00/stick — $299.99
+- `sunofagun` Arturo Fuente Don Carlos Edicion de Aniversario Double Robusto Tubo [Box of 8] = $36.00/stick — $287.99
+- `sunofagun` God of Fire by Carlito Churchill [Box of 10] = $28.60/stick — $285.99 _(out of stock)_
+- `sunofagun` Arturo Fuente Don Carlos Edicion de Aniversario Double Robusto [5-Pack] = $42.80/stick — $213.99
+- `sunofagun` Arturo Fuente Don Carlos Edicion de Aniversario Double Robusto Tubo [5-Pack] = $41.00/stick — $204.99
+- `sunofagun` Arturo Fuente Don Carlos Edicion de Aniversario Toro [5-Pack] = $40.00/stick — $199.99
+- `sunofagun` Arturo Fuente Don Carlos Edicion de Aniversario Robusto [5-Pack] = $39.20/stick — $195.99
+- `sunofagun` God of Fire by Carlito Double Corona [5-Pack] = $37.20/stick — $185.99
+- `sunofagun` God of Fire Serie Aniversario 54 [5-Pack] = $34.60/stick — $172.99
+- `sunofagun` God of Fire by Carlito Piramide [5-Pack] = $34.60/stick — $172.99
+- `sunofagun` God of Fire by Carlito Churchill [5-Pack] = $33.60/stick — $167.99
+- `sunofagun` God of Fire by Carlito Double Robusto Tubo [5-Pack] = $31.80/stick — $158.99
+- `sunofagun` God of Fire Serie B Double Robusto Tubo [5-Pack] = $31.00/stick — $154.99
+- `sunofagun` God of Fire Serie B Diademas 56 [5-Pack] = $31.00/stick — $154.99 _(out of stock)_
+- `sunofagun` God of Fire by Carlito Diademas 56 [5-Pack] = $31.00/stick — $154.99
+- `sunofagun` God of Fire Serie Aniversario 56 [5-Pack] = $30.00/stick — $149.99
+- `sunofagun` God of Fire Serie B Gran Toro 56 [5-Pack] = $30.00/stick — $149.99
+- `sunofagun` God of Fire Serie Aniversario 60 [5-Pack] = $29.20/stick — $145.99 _(out of stock)_
+- `sunofagun` God of Fire by Don Carlos Robusto Tubo [5-Pack] = $29.20/stick — $145.99
+- `sunofagun` God of Fire by Don Carlos Toro [5-Pack] = $29.20/stick — $145.99
+- `sunofagun` God of Fire by Don Carlos Robusto Gordo 54 [5-Pack] = $29.20/stick — $145.99
+- `sunofagun` God of Fire Serie B Robusto Tubo [5-Pack] = $29.20/stick — $145.99
+- `sunofagun` God of Fire Serie B Double Robusto [5-Pack] = $29.20/stick — $145.99
+- `sunofagun` God of Fire by Carlito Double Robusto [5-Pack] = $29.20/stick — $145.99
+- `sunofagun` God of Fire Serie B Robusto Gordo 54 [5-Pack] = $28.20/stick — $140.99
+- `sunofagun` God of Fire Serie B Robusto [5-Pack] = $27.40/stick — $136.99
+- _…1 more_
