@@ -4096,3 +4096,93 @@ previous run 2026-11-26T22:02:32+00:00 · 35,677 variants tracked
 
 ## New products  (1)
 - `mrbundles` EGM NINFA CERAMIC JAR (50CT) [Default Title] — $3,000.00
+
+
+---
+
+# Cigar price monitor — 2026-11-27T12:02:53+00:00
+previous run 2026-11-27T00:02:37+00:00 · 35,677 variants tracked
+
+## ⚑ Standing watch  (49)
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $399.75): `tobaccoreserve` Opus X Heaven & Earth BBMF Natural / 5-Pack
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $79.95): `tobaccoreserve` Opus X Heaven & Earth BBMF Maduro / Single
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $399.75): `tobaccoreserve` Opus X Heaven & Earth BBMF Maduro / 5-Pack
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $799.50): `tobaccoreserve` Opus X Heaven & Earth BBMF Maduro / Box
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $77.50): `tobaccoreserve` Opus X Heaven & Earth El Escorpion Natural / Single
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $77.50): `tobaccoreserve` Opus X Heaven & Earth El Escorpion Maduro / Single
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $75.00): `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull Natural / Single
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $75.00): `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull Maduro / Single
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $85.00): `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull Natural / Single — Aged 2024
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $395.00): `tobaccoreserve` Opus X Heaven & Earth Opus 6 Blue / June Release — Fuente Story
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $395.00): `tobaccoreserve` Opus X Heaven & Earth Opus 6 Black / June 2023 — Fuente Story
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $450.00): `tobaccoreserve` Opus X Heaven & Earth Opus 6 Red / November 2024
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $450.00): `tobaccoreserve` Opus X Heaven & Earth Opus 6 Yellow / February 2025
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $425.00): `tobaccoreserve` Opus X Heaven & Earth Opus 6 Red / November 2024 — Aged 2 Years
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $75.00): `tobaccoreserve` Opus X Heaven & Earth Rare Purple & Purple Rain Rare Purple Diadema 54 / Single
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $750.00): `tobaccoreserve` Opus X Heaven & Earth Rare Purple & Purple Rain Rare Purple Diadema 54 / Box of 10
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $75.00): `tobaccoreserve` Opus X Heaven & Earth Rare Purple & Purple Rain Rare Purple Diadema 56 / Single
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $375.00): `tobaccoreserve` Opus X Heaven & Earth Rare Purple & Purple Rain Rare Purple Diadema 56 / 5-Pack
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $750.00): `tobaccoreserve` Opus X Heaven & Earth Rare Purple & Purple Rain Rare Purple Diadema 56 / Box of 10
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $75.00): `tobaccoreserve` Opus X Heaven & Earth Rare Purple & Purple Rain Rare Purple Diadema 60 / Single
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $750.00): `tobaccoreserve` Opus X Heaven & Earth Rare Purple & Purple Rain Rare Purple Diadema 60 / Box of 10
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $75.00): `tobaccoreserve` Opus X Heaven & Earth Rare Purple & Purple Rain Purple Rain Torpedo / Single
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $750.00): `tobaccoreserve` Opus X Heaven & Earth Rare Purple & Purple Rain Purple Rain Torpedo / Box of 10
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $75.00): `tobaccoreserve` Opus X Heaven & Earth Rare Black Torpedo / Single
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $75.00): `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 54 / Single
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $75.00): `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 60 — Pre-order, ships Dec 5 / Single
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $750.00): `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 60 — Pre-order, ships Dec 5 / Box of 10
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $75.00): `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 56 / Single
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $375.00): `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 56 / 5-Pack
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $75.00): `tobaccoreserve` Opus X Heaven & Earth Rare Black Double Corona — Pre-order, ships Dec 5 / Single
+- **OpusX Heaven & Earth** — GONE from the catalogue (was $450.00): `tobaccoreserve` Opus X Heaven & Earth Rare Black Rare Black 6-Cigar Selection / 6-Cigar Selection
+- **OpusX Heaven & Earth** — relisted under a new id, same price (out of stock): `tobaccoreserve` Opus X Heaven & Earth BBMF Maduro Box — $799.50
+- **OpusX Heaven & Earth** — relisted, price up 900% from $79.95 (out of stock): `tobaccoreserve` Opus X Heaven & Earth BBMF Natural Box — $799.50
+- **OpusX Heaven & Earth** — relisted under a new id, same price: `tobaccoreserve` Opus X Heaven & Earth El Escorpion Maduro Box of 10 = $77.50/stick — $775.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth El Escorpion Maduro Single cigar = $77.50/stick — $77.50
+- **OpusX Heaven & Earth** — relisted under a new id, same price (out of stock): `tobaccoreserve` Opus X Heaven & Earth El Escorpion Natural Box of 10 = $77.50/stick — $775.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth El Escorpion Natural Single cigar = $77.50/stick — $77.50
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Opus 6 Sampler — 2024 / February 2025 Edition Opus 6 Sampler — $450.00
+- **OpusX Heaven & Earth** — relisted under a new id, same price (out of stock): `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 54 Box of 10 = $75.00/stick — $750.00
+- **OpusX Heaven & Earth** — relisted under a new id, same price: `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 56 Box of 10 = $75.00/stick — $750.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 56 Single cigar = $75.00/stick — $75.00
+- **OpusX Heaven & Earth** — relisted under a new id, same price (out of stock): `tobaccoreserve` Opus X Heaven & Earth Rare Black Torpedo Box of 10 = $75.00/stick — $750.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Rare Black Torpedo Single cigar = $75.00/stick — $75.00
+- **OpusX Heaven & Earth** — relisted under a new id, same price (out of stock): `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull Maduro Box of 10 = $75.00/stick — $750.00
+- **OpusX Heaven & Earth** — relisted under a new id, same price (out of stock): `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull Natural Box of 10 = $75.00/stick — $750.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull Natural Single cigar = $75.00/stick — $75.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` PRE ORDER - Opus X Heaven & Earth Rare Black Diadema 60 Single cigar = $75.00/stick — $75.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 54 Single cigar = $75.00/stick — $75.00
+- **OpusX Heaven & Earth** — NEW listing: `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Rare Black Double Corona Single cigar = $75.00/stick — $75.00
+
+## New products  (37)
+- `tobaccoreserve` Opus X Heaven & Earth BBMF Natural [Box] — $799.50 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth BBMF Maduro [Box] — $799.50 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth El Escorpion Maduro [Box of 10] = $77.50/stick — $775.00
+- `tobaccoreserve` Opus X Heaven & Earth El Escorpion Natural [Box of 10] = $77.50/stick — $775.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull Natural [Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull Maduro [Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 56 [Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 60 [Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Purple Rain Torpedo [Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 54 [Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 56 [Box of 10] = $75.00/stick — $750.00
+- `tobaccoreserve` PRE ORDER - Opus X Heaven & Earth Rare Black Diadema 60 [Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 54 [Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth Rare Black Torpedo [Box of 10] = $75.00/stick — $750.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth Opus 6 Sampler — 2024 / February 2025 Edition [Opus 6 Sampler] — $450.00
+- `tobaccoreserve` Opus X Heaven & Earth Series Opus 6 Sampler — November 2024 Edition [Opus 6 Sampler] — $450.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth Rare Black Cigar Selection (6) [6-Cigar Selection] = $75.00/stick — $450.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth BBMF Natural [5 Pack] = $79.95/stick — $399.75 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth BBMF Maduro [5 Pack] = $79.95/stick — $399.75 _(out of stock)_
+- `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 56 [5-Pack] = $75.00/stick — $375.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 56 [5-Pack] = $75.00/stick — $375.00 _(out of stock)_
+- `tobaccoreserve` Opus X Tauros The Bull Natural – Limited Edition 2024 – Aged 2 Years [Default] — $85.00 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth BBMF Natural [Single] = $79.95/stick — $79.95 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth BBMF Maduro [Single] = $79.95/stick — $79.95 _(out of stock)_
+- `tobaccoreserve` Opus X Heaven & Earth El Escorpion Maduro [Single cigar] = $77.50/stick — $77.50
+- `tobaccoreserve` Opus X Heaven & Earth El Escorpion Natural [Single cigar] = $77.50/stick — $77.50
+- `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull Natural [Single cigar] = $75.00/stick — $75.00
+- `tobaccoreserve` Opus X Heaven & Earth Tauros The Bull Maduro [Single cigar] = $75.00/stick — $75.00 _(out of stock)_
+- `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 56 [Single] = $75.00/stick — $75.00 _(out of stock)_
+- `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 60 [Single cigar] = $75.00/stick — $75.00 _(out of stock)_
+- _…7 more_
