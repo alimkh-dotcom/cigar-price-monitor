@@ -4084,3 +4084,15 @@ previous run 2026-11-26T19:31:24+00:00 · 35,676 variants tracked
 - `sunofagun` God of Fire KKP Special Reserve Toro Extra 54 [5-Pack] = $53.99/stick — $269.95
 - `sunofagun` God of Fire KKP Never Back Down Diadema 60 [5-Pack] = $53.19/stick — $265.95
 - `sunofagun` God of Fire KKP Special Reserve Diadema 60 [5-Pack] = $53.19/stick — $265.95 _(out of stock)_
+
+
+---
+
+# Cigar price monitor — 2026-11-27T00:02:37+00:00
+previous run 2026-11-26T22:02:32+00:00 · 35,677 variants tracked
+
+## ⚑ Standing watch  (1)
+- **OpusX Heaven & Earth** — back IN STOCK: `tobaccoreserve` Opus X Heaven & Earth Rare Black Diadema 56 / Box of 10 = $75.00/stick — $750.00
+
+## New products  (1)
+- `mrbundles` EGM NINFA CERAMIC JAR (50CT) [Default Title] — $3,000.00
