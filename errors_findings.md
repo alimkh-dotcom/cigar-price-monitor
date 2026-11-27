@@ -663,3 +663,50 @@ rival prices are adjusted for each site's measured markup before comparing
 ## Fixed or gone (2)
 - Brick House Teaser (live 2026-11-25 → 2026-11-25)
 - illusione Epernay Tuonela Le Grande (live 2026-11-25 → 2026-11-25)
+
+
+---
+
+# Pricing errors (iheart, greenwich) — 2026-11-27
+36 live · 29 new · 0 fixed since last run
+rival prices are adjusted for each site's measured markup before comparing
+
+## New (29)
+- **likely error** — Rocky Patel Tavicusa Sixty [Box of 20] **$6.05/stick**, **61% under** the cheapest in stock among the retailers we track ($15.66 at cigarsdirect)
+- **likely error** — Rocky Patel Hamlet 2020 Robusto [Box of 20] **$5.55/stick**, **59% under** the cheapest in stock among the retailers we track ($13.59 at cigarsdirect)
+- **likely error** — Rocky Patel Tavicusa Robusto [5 Pack] **$6.20/stick**, **54% under** the cheapest in stock among the retailers we track ($13.59 at cigarsdirect)
+- **likely error** — Jaime Garcia Reserva Especial Toro Gordo [Box of 20] **$5.45/stick**, **54% under** the cheapest in stock among the retailers we track ($11.79 at sunofagun)
+- **likely error** ★ — Anejo Reserva No. 48 [5 Pack] **$11.60/stick**, **47% under** the cheapest in stock among the retailers we track ($21.99 at sunofagun)
+- **likely error** — Kintsugi Corona Gorda [Box 24] **$4.17/stick**, **44% under** the cheapest in stock among the retailers we track ($7.49 at cigarsdirect)
+- **likely error** — AJ Fernandez Dias de Gloria Brazil Toro [5 Pack] **$6.00/stick**, **41% under** the cheapest in stock among the retailers we track ($10.20 at tccigar)
+- **likely error** — AJ Fernandez Dias de Gloria Brazil Robusto [Box of 20] **$6.00/stick**, **39% under** the cheapest in stock among the retailers we track ($9.90 at tccigar)
+- unusually cheap ★ — Liga Privada Unico Serie L40 [5 Pack] **$12.00/stick**, **37% under** the cheapest in stock among the retailers we track ($19.00 at tccigar)
+- unusually cheap — Colorado Claro Special R [5 Pack] **$18.00/stick**, **40% under** the cheapest in stock among the retailers we track ($30.00 at greenwich)
+- unusually cheap ★ — Liga Privada Unico Serie UF-13 [Box of 12] **$12.83/stick**, **32% under** the cheapest in stock among the retailers we track ($18.75 at tccigar)
+- unusually cheap ★ — Liga Privada T52 Belicoso [Box of 24] **$11.54/stick**, **35% under** the cheapest in stock among the retailers we track ($17.66 at sunofagun)
+- unusually cheap — Lampert 1675 Edicion Morado Robusto [Box of 20] **$8.70/stick**, **37% under** the cheapest in stock among the retailers we track ($13.72 at jackschwartz)
+- unusually cheap ★ — Liga Privada No.9 Belicoso [5 Pack] **$11.60/stick**, **34% under** the cheapest in stock among the retailers we track ($17.66 at sunofagun)
+- unusually cheap ★ — Liga Privada Unico Serie Dirty Rat [5 Pack] **$12.00/stick**, **31% under** the cheapest in stock among the retailers we track ($17.33 at tccigar)
+- unusually cheap ★ — Meerapfel Meir Robusto [5 Pack] **$31.60/stick**, **34% under** the cheapest in stock among the retailers we track ($48.00 at greenwich)
+- unusually cheap — Brick House Toro Maduro [Box of 25] **$4.92/stick**, **32% under** the cheapest in stock among the retailers we track ($7.26 at tampasweet)
+- unusually cheap — Brick House Corona Larga Natural [5 Pack] **$4.60/stick**, **31% under** the cheapest in stock among the retailers we track ($6.71 at tampasweet)
+- unusually cheap — Avo XO Intermezzo [Box of 20] **$7.95/stick**, **33% under** the cheapest in stock among the retailers we track ($11.79 at sunofagun)
+- unusually cheap ★ — Davidoff Signature 1000 [5 Pack] **$9.20/stick**, **32% under** the cheapest in stock among the retailers we track ($13.43 at sunofagun)
+- unusually cheap — illusione OneOff Black Robusto [Box of 10] **$9.60/stick**, **39% under** the cheapest in stock among the retailers we track ($15.65 at luxurycigar)
+- unusually cheap ★ — Liga Privada H99 Toro [5 Pack] **$11.80/stick**, **28% under** the cheapest in stock among the retailers we track ($16.41 at tccigar)
+- unusually cheap ★ — Liga Privada No.9 Robusto [Box of 24] **$11.21/stick**, **28% under** the cheapest in stock among the retailers we track ($15.54 at tccigar)
+- unusually cheap — EGM Maduro Rios [Box of 10] **$21.00/stick**, **30% under** the cheapest in stock among the retailers we track ($30.00 at cigarsdirect)
+- unusually cheap — Millennium Blend Robusto [Box of 25] **$21.48/stick**, **30% under** the cheapest in stock among the retailers we track ($30.70 at cigarsdirect)
+- unusually cheap — EGM Media Coronas [5 Pack] **$11.60/stick**, **30% under** the cheapest in stock among the retailers we track ($16.49 at cigarsdirect)
+- unusually cheap ★ — Liga Privada Unico Serie Feral Flying Pig [Box of 10] **$16.00/stick**, **29% under** the cheapest in stock among the retailers we track ($22.50 at greenwich)
+- unusually cheap — Escurio Gran Perfecto [5 Pack] **$14.80/stick**, **27% under** the cheapest in stock among the retailers we track ($20.16 at sunofagun)
+- unusually cheap — Alma del Cielo Celeste Robusto [5 Pack] **$15.00/stick**, **26% under** the cheapest in stock among the retailers we track ($20.19 at sunofagun)
+
+## Still live (7)
+- **$0 listing** — greenwich · Arturo Fuente Destino al Siglo de Familias [Box of 13] is in stock at $0.00. A broken price, not a deal: expect an order to be cancelled or re-priced · live since 2026-10-23
+- **$0 listing** — greenwich · Arturo Fuente Destino al Siglo de Pasion [Box of 13] is in stock at $0.00. A broken price, not a deal: expect an order to be cancelled or re-priced · live since 2026-10-23
+- **likely error** — AJ Fernandez New World Dorado Figurado [5 Pack] **$5.36/stick**, **55% under** the cheapest in stock among the retailers we track ($12.00 at tccigar) · live since 2026-10-22
+- **likely error** — Lost & Found 22 Minutes to Midnight Connecticut Radiante Robusto [Single] **$10.50/stick**, **50% under** the cheapest in stock among the retailers we track ($21.00 at cigarsdirect) · live since 2026-11-19
+- **likely error** ★ — greenwich · Davidoff Millennium Lancero [Single] **$29.00/stick**, **47% under** the cheapest in stock among the retailers we track ($55.00 at iheart) · live since 2026-10-23
+- unusually cheap — Lost & Found 22 Minutes to Midnight Habano de Oro Robusto [Box 20] **$12.94/stick**, **32% under** the cheapest in stock among the retailers we track ($18.90 at cigarsdirect) · live since 2026-11-19
+- unusually cheap — Lost & Found 22 Minutes to Midnight Criollo Classico Corona Extra [Box 20] **$12.00/stick**, **26% under** the cheapest in stock among the retailers we track ($16.20 at cigarsdirect) · live since 2026-11-19

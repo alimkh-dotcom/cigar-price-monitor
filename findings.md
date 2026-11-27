@@ -4186,3 +4186,121 @@ previous run 2026-11-27T00:02:37+00:00 · 35,677 variants tracked
 - `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 56 [Single] = $75.00/stick — $75.00 _(out of stock)_
 - `tobaccoreserve` PRE-ORDER — Opus X Heaven & Earth Carlito's X Rare Purple Diadema 60 [Single cigar] = $75.00/stick — $75.00 _(out of stock)_
 - _…7 more_
+
+
+---
+
+# Cigar price monitor — 2026-11-27T22:02:32+00:00
+previous run 2026-11-27T12:02:53+00:00 · 35,943 variants tracked
+
+## ⚑ Standing watch  (10)
+- **OpusX** — NEW listing: `iheart` Arturo Fuente OpusX Perfecxion 888 + Plasencia Alma del Cielo Amanecer Hexagono (Black Friday Combo) 10 Cigars = $26.00/stick — $260.00
+- **OpusX** — price cut 25% from $320.00: `iheart` OpusX 20th Anniversary Believe 5 Pack = $48.00/stick — $240.00
+- **OpusX** — price cut 22% from $1,625.00: `iheart` OpusX Arena D'Amor Box of 20 = $63.40/stick — $1,268.00
+- **OpusX** — price cut 25% from $150.00: `iheart` OpusX Belicoso XXX 5 Pack = $22.60/stick — $113.00
+- **OpusX** — price cut 28% from $365.00: `iheart` OpusX Forbidden X Amor Sensual 5 Pack = $52.60/stick — $263.00
+- **OpusX** — price cut 25% from $1,350.00: `iheart` OpusX Forbidden X Pasion D'amor Box of 20 = $50.65/stick — $1,013.00
+- **OpusX** — price cut 25% from $1,185.00: `iheart` OpusX Perfecxion 888 Box of 24 = $37.04/stick — $889.00
+- **OpusX** — price cut 28% from $145.00: `iheart` OpusX Robusto Tin Box of 3 = $34.67/stick — $104.00
+- **OpusX** — price cut 22% from $395.00: `iheart` OpusX Sol D'Amor 5 Pack = $61.60/stick — $308.00
+- **Rare Pink** — price cut 28% from $195.00: `iheart` Rare Pink Vintage 1960's Queen of Hearts Box of 5 = $28.00/stick — $140.00
+
+## Price drops ≥20%  (123)
+- **50%** **BIG** `iheart` Rocky Patel Tavicusa Sixty [Box of 20] = $6.05/stick — $242.95 → **$121.00**
+- **50%** **BIG** `iheart` AJ Fernandez Dias de Gloria Brazil Toro [5 Pack] = $6.00/stick — $60.00 → **$30.00**
+- **50%** **BIG** `iheart` Jaime Garcia Reserva Especial Toro Gordo [Box of 20] = $5.45/stick — $218.00 → **$109.00**
+- **50%** **BIG** `iheart` Rocky Patel Hamlet 2020 Robusto [Box of 20] = $5.55/stick — $221.00 → **$111.00**
+- **50%** **BIG** `iheart` Rocky Patel Tavicusa Robusto [5 Pack] = $6.20/stick — $61.50 → **$31.00**
+- **45%** **BIG** `iheart` AJ Fernandez Dias de Gloria Brazil Robusto [Box of 20] = $6.00/stick — $217.50 → **$120.00**
+- **44%** **BIG** `iheart` Larutan Dirt Torpedo [5 Pack] = $5.00/stick — $45.00 → **$25.00**
+- **40%** **BIG** `iheart` Timeless Classics Assortment (2014 Release) [Box of 3] = $19.67/stick — $99.00 → **$59.00**
+- **40%** **BIG** `iheart` Zino Platinum Scepter Chubby Tubos [5 Pack] = $13.00/stick — $109.00 → **$65.00**
+- **40%** **BIG** `iheart` illusione Epernay Le Taureau [Box of 5] = $8.60/stick — $72.00 → **$43.00**
+- **40%** **BIG** `iheart` Davidoff Signature 1000 [5 Pack] = $9.20/stick — $77.00 → **$46.00**
+- **40%** **BIG** `iheart` illusione OneOff Black Robusto [Box of 10] = $9.60/stick — $160.00 → **$96.00**
+- **40%** **BIG** `iheart` Millennium Blend Lonsdale - Discontinued [5 Pack] = $33.00/stick — $275.00 → **$165.00**
+- **40%** **BIG** `iheart` Puro d'Oro Deliciosos - Discontinued [5 Pack] = $33.00/stick — $275.00 → **$165.00**
+- **40%** **BIG** `iheart` Davidoff Short Pleasures Assortment (2014 Release) - Discontinued [Box of 4] = $18.75/stick — $125.00 → **$75.00**
+- **40%** **BIG** `iheart` Special C (Without Coffin) - Discontinued [Bundle of 3] = $15.00/stick — $75.00 → **$45.00**
+- **40%** **BIG** `iheart` Davidoff Art Edition 2014 Forms of Freedom 1 [5 Pack] = $54.00/stick — $450.00 → **$270.00**
+- **40%** **BIG** `iheart` White Edition LE 2012 - Discontinued [5 Pack] = $42.00/stick — $350.00 → **$210.00**
+- **40%** **BIG** `iheart` Royal Salomones Original 2013 Release - Discontinued [5 Pack] = $102.00/stick — $850.00 → **$510.00**
+- **40%** **BIG** `iheart` Colorado Claro Special R [5 Pack] = $18.00/stick — $150.00 → **$90.00**
+- **40%** **BIG** `iheart` Cosecha 146 San Luis Toro - Discontinued [5 Pack] = $12.00/stick — $100.00 → **$60.00**
+- **40%** **BIG** `iheart` Year of the Monkey (LE 2016) - Discontinued [5 Pack] = $48.00/stick — $400.00 → **$240.00**
+- **38%** **BIG** `iheart` Grand Cru Toro [5 Pack] = $20.00/stick — $161.00 → **$100.00**
+- **38%** **BIG** `iheart` Gatekeeper Corona [5 Pack] = $5.20/stick — $41.60 → **$26.00**
+- **37%** **BIG** `iheart` Eastern Standard The Cypress Room [5 Pack] = $8.80/stick — $70.00 → **$44.00**
+- **37%** **BIG** `iheart` Brick House Corona Larga Natural [5 Pack] = $4.60/stick — $36.32 → **$23.00**
+- **35%** **BIG** `iheart` Plasencia Year of the Ox (LE 2021) [Box 8] = $39.00/stick — $483.60 → **$312.00**
+- **35%** **BIG** `iheart` Yamasa Robusto [Box of 12] = $14.33/stick — $265.20 → **$172.00**
+- **35%** **BIG** `iheart` Plasencia Triunfal [5 Pack] = $39.00/stick — $300.00 → **$195.00**
+- **35%** `iheart` LE 2008 Tesoro - Discontinued [5 Pack] = $35.80/stick — $275.00 → **$179.00**
+- **35%** `iheart` Cojonu 2006 [5 Pack] = $9.80/stick — $75.00 → **$49.00**
+- **34%** `iheart` Plasencia Alma del Campo Sendero Toro Gordo [5 Pack] = $12.80/stick — $96.71 → **$64.00**
+- **34%** `iheart` Confidenciaal Fiftytwo [5 Pack] = $9.40/stick — $70.92 → **$47.00**
+- **33%** `iheart` Alma Fuerte Generacion V Salomon [Box of 10] = $16.70/stick — $251.10 → **$167.00**
+- **33%** `iheart` Confidenciaal Churchill [Bundle of 25] = $10.56/stick — $396.00 → **$264.00**
+- **33%** `iheart` Liga Privada Unico Serie L40 [5 Pack] = $12.00/stick — $90.00 → **$60.00**
+- **33%** `iheart` Liga Undercrown Sun Grown Corona Doble - Discontinued [Box of 12] = $7.50/stick — $135.00 → **$90.00**
+- **33%** `iheart` Gatekeeper Gordo [Box 24] = $7.29/stick — $262.50 → **$175.00**
+- **33%** `iheart` El Septimo Culinary Arts Collection Italy Toscana [5 Pack] = $10.80/stick — $81.00 → **$54.00**
+- **33%** `iheart` Alma del Cielo Celeste Robusto [5 Pack] = $15.00/stick — $112.50 → **$75.00**
+
+## New products  (267)
+- `iheart` Ashton ESG 23 Year Salute [Box of 25] = $30.00/stick — $750.00
+- `iheart` Ashton ESG 21 Year Salute [Box of 25] = $28.00/stick — $700.00
+- `iheart` James J Fox Seleccion No.7 [Box of 20] = $33.00/stick — $660.00 _(out of stock)_
+- `iheart` Viking Valhalla Valkyriene Epicure [Box of 25] = $24.00/stick — $600.00 _(out of stock)_
+- `iheart` James J Fox Seleccion No.4 [Box of 20] = $25.75/stick — $515.00 _(out of stock)_
+- `iheart` Ashton VSG Virgin Sun Grown Eclipse (Tube) [Box of 24] = $20.00/stick — $480.00
+- `iheart` Ashton VSG Virgin Sun Grown Spellbound [Box of 24] = $19.85/stick — $476.40
+- `iheart` Diamond Crown Maximus Double Corona No.1 [Box of 20] = $23.15/stick — $463.00
+- `iheart` Diamond Crown Maximus Double Belicoso No.10 [Box of 20] = $22.65/stick — $453.00
+- `iheart` Viking Norseman Toro [Box of 25] = $18.00/stick — $450.00 _(out of stock)_
+- `iheart` Viking Valhalla Heidrun Torpito [Box of 25] = $18.00/stick — $450.00 _(out of stock)_
+- `iheart` Ashton VSG Virgin Sun Grown Torpedo [Box of 24] = $18.75/stick — $450.00
+- `iheart` Diamond Crown Maximus Pyramid No.3 [Box of 20] = $22.05/stick — $441.00 _(out of stock)_
+- `iheart` Viking Valhalla Ragnarok Gordo I [Box of 25] = $17.00/stick — $425.00 _(out of stock)_
+- `iheart` Viking Norseman Robusto [Box of 25] = $17.00/stick — $425.00 _(out of stock)_
+- `iheart` Viking Nordic Warrior Toro [Box of 25] = $17.00/stick — $425.00 _(out of stock)_
+- `iheart` Viking Toro Maduro [Box of 25] = $17.00/stick — $425.00 _(out of stock)_
+- `iheart` Viking Robusto Maduro [Box of 25] = $16.00/stick — $400.00
+- `iheart` Davidoff Nicaragua Toro + Plasencia Alma Fuerte Generacion V Salomon (Black Friday Box Combo) [22 Cigars] = $17.68/stick — $389.00
+- `iheart` Julius Caeser Churchill [Box of 20] = $19.00/stick — $380.00
+- `iheart` Diamond Crown Maximus Toro No.4 [Box of 20] = $18.50/stick — $370.00
+- `iheart` Oliva Master Blends 3 Churchill [Box of 20] = $18.33/stick — $366.60 _(out of stock)_
+- `iheart` Diamond Crown Figurado No.6 [Box of 15] = $24.25/stick — $363.75 _(out of stock)_
+- `iheart` Davidoff Escurio Robusto + Plasencia Alma del Cielo Boreal Toro (Black Friday Box Combo) [22 Cigars] = $15.45/stick — $340.00
+- `iheart` Diamond Crown Robusto No.1 [Box of 15] = $22.50/stick — $337.50 _(out of stock)_
+- `iheart` Diamond Crown Maximus Pyramid No.7 [Box of 15] = $22.00/stick — $330.00 _(out of stock)_
+- `iheart` Julius Caeser Toro [Box of 20] = $16.00/stick — $320.00 _(out of stock)_
+- `iheart` Macanudo Inspirado Year Of The Dragon 2024 [Box of 10] = $32.00/stick — $320.00
+- `iheart` Diamond Crown Robusto No.2 [Box of 15] = $20.95/stick — $314.25 _(out of stock)_
+- `iheart` Oliva Serie V Double Toro [Box of 24] = $12.52/stick — $300.52 _(out of stock)_
+- _…237 more_
+
+## Cheap restocks  (1)
+- `iheart` Confidenciaal Corona [Box of 20] = $8.75/stick — back at $175.00 (50% of its next tier)
+
+## Cheaper than the same cigar elsewhere  (23) — _unverified, check the vitola_
+- **54% under** `iheart` AJ Fernandez Dias de Gloria Brazil Robusto [Box of 20] = $6.00/stick vs $13.05/stick at `cigarsdirect` (AJ Fernandez Dias de Gloria Brazil Robusto)
+- **54% under** `iheart` Jaime Garcia Reserva Especial Toro Gordo [Box of 20] = $5.45/stick vs $11.79/stick at `sunofagun` (Jaime Garcia Reserva Especial Toro Gordo)
+- **52% under** `iheart` AJ Fernandez Dias de Gloria Brazil Toro [5 Pack] = $6.00/stick vs $12.59/stick at `sunofagun` (AJ Fernandez Días de Gloria Brazil Toro)
+- **47% under** `iheart` Anejo Reserva No. 48 [5 Pack] = $11.60/stick vs $21.99/stick at `sunofagun` (Arturo Fuente Añejo Reserva No. 48)
+- **45% under** `iheart` Anejo Reserva No. 46 [Box of 25] = $10.48/stick vs $18.99/stick at `sunofagun` (Arturo Fuente Añejo Reserva No. 46)
+- **37% under** `iheart` Liga Privada Unico Serie L40 [5 Pack] = $12.00/stick vs $19.00/stick at `tccigar` (Liga Privada Unico Serie L40)
+- **37% under** `iheart` Lampert 1675 Edicion Morado Robusto [Box of 20] = $8.70/stick vs $13.72/stick at `jackschwartz` (Lampert 1675 Morado Robusto)
+- **35% under** `iheart` OpusX 20th Anniversary Believe [5 Pack] = $48.00/stick vs $74.00/stick at `greenwich` (Fuente Fuente Opus X 20th Anniversary Believe)
+- **35% under** `iheart` Liga Privada T52 Belicoso [Box of 24] = $11.54/stick vs $17.66/stick at `sunofagun` (Liga Privada T52 Belicoso)
+- **34% under** `iheart` Liga Privada No.9 Belicoso [5 Pack] = $11.60/stick vs $17.66/stick at `sunofagun` (Liga Privada No. 9 Belicoso)
+- **34% under** `iheart` Meerapfel Meir Robusto [5 Pack] = $31.60/stick vs $48.00/stick at `greenwich` (Meerapfel Meir Robusto)
+- **33% under** `iheart` Avo XO Intermezzo [Box of 20] = $7.95/stick vs $11.79/stick at `sunofagun` (AVO XO Intermezzo)
+- **32% under** `iheart` OpusX Forbidden X Pasion D'amor [Box of 20] = $50.65/stick vs $75.00/stick at `greenwich` (Fuente Fuente Opus X Forbidden X Pasion d'Amor)
+- **32% under** `iheart` Brick House Toro Maduro [Box of 25] = $4.92/stick vs $7.26/stick at `tampa` (Brick House Toro Maduro)
+- **32% under** `iheart` Liga Privada Unico Serie UF-13 [Box of 12] = $12.83/stick vs $18.75/stick at `tccigar` (Liga Privada Unico Serie UF-13)
+- **31% under** `iheart` Davidoff Signature 1000 [5 Pack] = $9.20/stick vs $13.43/stick at `sunofagun` (Davidoff Signature 1000)
+- **31% under** `iheart` Brick House Corona Larga Natural [5 Pack] = $4.60/stick vs $6.71/stick at `tampa` (Brick House Corona Larga Natural)
+- **31% under** `iheart` Liga Privada Unico Serie Dirty Rat [5 Pack] = $12.00/stick vs $17.33/stick at `tccigar` (Liga Privada Unico Serie Dirty Rat)
+- **30% under** `iheart` OpusX Forbidden X Amor Sensual [5 Pack] = $52.60/stick vs $75.00/stick at `greenwich` (Fuente Fuente Opus X Forbidden X Amor Sensual)
+- **30% under** `iheart` EGM Media Coronas [5 Pack] = $11.60/stick vs $16.50/stick at `mrbundles` (EGM Media Coronas)
