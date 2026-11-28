@@ -4304,3 +4304,11 @@ previous run 2026-11-27T12:02:53+00:00 · 35,943 variants tracked
 - **31% under** `iheart` Liga Privada Unico Serie Dirty Rat [5 Pack] = $12.00/stick vs $17.33/stick at `tccigar` (Liga Privada Unico Serie Dirty Rat)
 - **30% under** `iheart` OpusX Forbidden X Amor Sensual [5 Pack] = $52.60/stick vs $75.00/stick at `greenwich` (Fuente Fuente Opus X Forbidden X Amor Sensual)
 - **30% under** `iheart` EGM Media Coronas [5 Pack] = $11.60/stick vs $16.50/stick at `mrbundles` (EGM Media Coronas)
+
+
+---
+
+# Cigar price monitor — 2026-11-28T00:02:37+00:00
+previous run 2026-11-27T22:02:32+00:00 · 35,943 variants tracked
+
+**No actionable changes.**
