@@ -4312,3 +4312,12 @@ previous run 2026-11-27T12:02:53+00:00 · 35,943 variants tracked
 previous run 2026-11-27T22:02:32+00:00 · 35,943 variants tracked
 
 **No actionable changes.**
+
+
+---
+
+# Cigar price monitor — 2026-11-28T12:02:28+00:00
+previous run 2026-11-28T00:02:37+00:00 · 35,944 variants tracked
+
+## ⚑ Standing watch  (1)
+- **OpusX Heaven & Earth** — back IN STOCK: `greenwich` Fuente Opus X Rare Black Diadema 54 Ultimate Bundle 3-Box Set (28-Cigars) — $1,948.00

@@ -52,13 +52,13 @@
   "variant": "5 Pack"
  },
  "Anejo Reserva No. 48": {
-  "fair": 22.25,
+  "fair": 22.0,
   "first_seen": "2026-11-27",
   "last_seen": "2026-11-28",
   "price": 58.0,
   "ps": 11.6,
   "q": 5,
-  "ratio": 0.521,
+  "ratio": 0.527,
   "rival": 21.99,
   "saving": 0.472,
   "site": "sunofagun",
@@ -104,7 +104,7 @@
   "variant": "Box of 25"
  },
  "Colorado Claro Special R": {
-  "fair": 29.65,
+  "fair": 29.63,
   "first_seen": "2026-11-27",
   "last_seen": "2026-11-28",
   "price": 90.0,
@@ -273,13 +273,13 @@
   "variant": "5 Pack"
  },
  "Liga Privada Unico Serie Feral Flying Pig": {
-  "fair": 22.24,
+  "fair": 22.23,
   "first_seen": "2026-11-27",
   "last_seen": "2026-11-28",
   "price": 160.0,
   "ps": 16.0,
   "q": 10,
-  "ratio": 0.719,
+  "ratio": 0.72,
   "rival": 22.5,
   "saving": 0.289,
   "site": "greenwich",
@@ -351,7 +351,7 @@
   "variant": "Box 20"
  },
  "Meerapfel Meir Robusto": {
-  "fair": 47.44,
+  "fair": 47.41,
   "first_seen": "2026-11-27",
   "last_seen": "2026-11-28",
   "price": 158.0,
@@ -444,7 +444,7 @@
   "zero": true
  },
  "greenwich \u00b7 Davidoff Millennium Lancero": {
-  "fair": 55.64,
+  "fair": 55.68,
   "first_seen": "2026-10-23",
   "last_seen": "2026-11-28",
   "price": 29.0,
